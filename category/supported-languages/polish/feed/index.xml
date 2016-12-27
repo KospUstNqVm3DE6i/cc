@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Polish &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="https://cheap-and-cheerful.store/category/supported-languages/polish/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cheap-and-cheerful.store/</link>
+	<atom:link href="http://cheap-and-cheerful.store/category/supported-languages/polish/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
+	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Polish &#8211; Cheap &amp; Cheerful</title>
-	<link>https://cheap-and-cheerful.store/</link>
+	<link>http://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Arma 2: Combined Operations</title>
-		<link>https://cheap-and-cheerful.store/arma-2-combined-operations/</link>
-		<comments>https://cheap-and-cheerful.store/arma-2-combined-operations/#respond</comments>
+		<link>http://cheap-and-cheerful.store/arma-2-combined-operations/</link>
+		<comments>http://cheap-and-cheerful.store/arma-2-combined-operations/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -49,15 +49,15 @@
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/arma-2-combined-operations</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/arma-2-combined-operations</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/arma-2-combined-operations/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/arma-2-combined-operations/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>BioShock Infinite</title>
-		<link>https://cheap-and-cheerful.store/bioshock-infinite/</link>
-		<comments>https://cheap-and-cheerful.store/bioshock-infinite/#respond</comments>
+		<link>http://cheap-and-cheerful.store/bioshock-infinite/</link>
+		<comments>http://cheap-and-cheerful.store/bioshock-infinite/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -77,15 +77,15 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/bioshock-infinite</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/bioshock-infinite</guid>
 		<description><![CDATA[Indebted to the wrong people, with his life on the line, veteran of the U.S. Cavalry and now hired gun, Booker DeWitt has only one opportunity to wipe his slate clean. He must rescue Elizabeth, a mysterious girl imprisoned since childhood and locked up in the flying city of Columbia. Forced to trust one another, [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/bioshock-infinite/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/bioshock-infinite/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Beyond Divinity</title>
-		<link>https://cheap-and-cheerful.store/beyond-divinity/</link>
-		<comments>https://cheap-and-cheerful.store/beyond-divinity/#respond</comments>
+		<link>http://cheap-and-cheerful.store/beyond-divinity/</link>
+		<comments>http://cheap-and-cheerful.store/beyond-divinity/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
@@ -96,15 +96,15 @@
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/beyond-divinity</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/beyond-divinity</guid>
 		<description><![CDATA[Beyond Divinity is the follow-up to the award-winning Divine Divinity. Soul-forged with a Death Knight, your fate is to spend the rest of eternity bonded to this creature of evil, unless you can undo his curse&#8230;prepare for your greatest adventure! This new re-mastered version offers support for Windows 7 and higher resolutions. Key Features: An [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/beyond-divinity/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/beyond-divinity/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>GRID Autosport</title>
-		<link>https://cheap-and-cheerful.store/grid-autosport/</link>
-		<comments>https://cheap-and-cheerful.store/grid-autosport/#respond</comments>
+		<link>http://cheap-and-cheerful.store/grid-autosport/</link>
+		<comments>http://cheap-and-cheerful.store/grid-autosport/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
@@ -127,15 +127,15 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/grid-autosport</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/grid-autosport</guid>
 		<description><![CDATA[Ficha por un equipo y plántales cara a tus rivales en un nuevo y fascinante reto automovilístico. Junto a tu compañero de filas, debes superar a rivales directos y cumplir los objetivos de los patrocinadores en vertiginosas carreras donde cada adelantamiento vale su peso en oro. Especialízate en la disciplina que más te apasione o [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/grid-autosport/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/grid-autosport/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Left 4 Dead 2</title>
-		<link>https://cheap-and-cheerful.store/left-4-dead-2/</link>
-		<comments>https://cheap-and-cheerful.store/left-4-dead-2/#respond</comments>
+		<link>http://cheap-and-cheerful.store/left-4-dead-2/</link>
+		<comments>http://cheap-and-cheerful.store/left-4-dead-2/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -171,15 +171,15 @@
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/left-4-dead-2</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/left-4-dead-2</guid>
 		<description><![CDATA[Ambientado en el apocalipsis zombi, Left 4 Dead 2 (L4D2) es la secuela largamente esperada del galardonado Left 4 Dead, el juego co-op número 1 de 2008. Este FPS cooperativo de acción y horror os llevará a ti y a tus amigos por las ciudades, pantanos y cementerios del Sur Profundo, desde Savannah hasta Nueva [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/left-4-dead-2/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/left-4-dead-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Mass Effect 2</title>
-		<link>https://cheap-and-cheerful.store/mass-effect-2/</link>
-		<comments>https://cheap-and-cheerful.store/mass-effect-2/#respond</comments>
+		<link>http://cheap-and-cheerful.store/mass-effect-2/</link>
+		<comments>http://cheap-and-cheerful.store/mass-effect-2/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Czech]]></category>
@@ -194,15 +194,15 @@
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/mass-effect-2</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/mass-effect-2</guid>
 		<description><![CDATA[¡De los creadores de Star Wars®: Knights of the Old Republic™, Dragon Age: Origins™, y Mass Effect™ llega la segunda y oscura entrega de la emocionante trilogía Mass Effect!Dos años después de que el Comandante Shepard lograse repeler a los invasores Reapers empeñados en destruir toda vida orgánica, emerge un nuevo y misterioso enemigo. En [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/mass-effect-2/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/mass-effect-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Sniper Elite 3</title>
-		<link>https://cheap-and-cheerful.store/sniper-elite-3/</link>
-		<comments>https://cheap-and-cheerful.store/sniper-elite-3/#respond</comments>
+		<link>http://cheap-and-cheerful.store/sniper-elite-3/</link>
+		<comments>http://cheap-and-cheerful.store/sniper-elite-3/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -225,15 +225,15 @@
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/sniper-elite-3</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/sniper-elite-3</guid>
 		<description><![CDATA[Observa. Planifica. Ejecuta. ADÁPTATE. Sniper Elite 3, el nuevo capítulo de esta galardonada franquicia, invita a los jugadores a adentrarse en el exótico e implacable escenario del conflicto que tuvo lugar en África del Norte durante la Segunda Guerra Mundial, para enfrentarse a un nuevo y letal enemigo. El infame escuadrón de los Afrika Korps [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/sniper-elite-3/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/sniper-elite-3/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Empire: Total War Collection</title>
-		<link>https://cheap-and-cheerful.store/empire-total-war-collection/</link>
-		<comments>https://cheap-and-cheerful.store/empire-total-war-collection/#respond</comments>
+		<link>http://cheap-and-cheerful.store/empire-total-war-collection/</link>
+		<comments>http://cheap-and-cheerful.store/empire-total-war-collection/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Czech]]></category>
@@ -253,15 +253,15 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/empire-total-war-collection</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/empire-total-war-collection</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/empire-total-war-collection/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/empire-total-war-collection/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Street Fighter V</title>
-		<link>https://cheap-and-cheerful.store/street-fighter-v/</link>
-		<comments>https://cheap-and-cheerful.store/street-fighter-v/#respond</comments>
+		<link>http://cheap-and-cheerful.store/street-fighter-v/</link>
+		<comments>http://cheap-and-cheerful.store/street-fighter-v/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -284,15 +284,15 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/street-fighter-v</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/street-fighter-v</guid>
 		<description><![CDATA[¡La legendaria franquicia de lucha regresa con STREET FIGHTER® V! Disfruta de unos gráficos espectaculares y detalles sin precedentes en la siguiente generación de guerreros mundiales, mientras participas en batallas accesibles y emocionantes que ofrecen diversión de lucha sin fin tanto para principiantes como veteranos. Desafía a tus amigos en línea o compite por la [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/street-fighter-v/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/street-fighter-v/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>DRAGON BALL XENOVERSE</title>
-		<link>https://cheap-and-cheerful.store/dragon-ball-xenoverse/</link>
-		<comments>https://cheap-and-cheerful.store/dragon-ball-xenoverse/#respond</comments>
+		<link>http://cheap-and-cheerful.store/dragon-ball-xenoverse/</link>
+		<comments>http://cheap-and-cheerful.store/dragon-ball-xenoverse/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -314,15 +314,15 @@
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/dragon-ball-xenoverse</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/dragon-ball-xenoverse</guid>
 		<description><![CDATA[Recién actualizado ¡Los cromos de Steam para Dragon Ball Xenoverse ya están disponibles! Juega al juego y consigue uno de los 6 increíbles cromos coleccionables. Consigue toda la colección y canjéala para desbloquear fondos, emoticonos e insignias para Steam. Acerca del juego ¡Renacen los combates más fieros de Son Goku y sus amigos! ¡POR PRIMERA [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/dragon-ball-xenoverse/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/dragon-ball-xenoverse/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Nightmares from the Deep 3: Davy Jones</title>
-		<link>https://cheap-and-cheerful.store/nightmares-from-the-deep-3-davy-jones/</link>
-		<comments>https://cheap-and-cheerful.store/nightmares-from-the-deep-3-davy-jones/#respond</comments>
+		<link>http://cheap-and-cheerful.store/nightmares-from-the-deep-3-davy-jones/</link>
+		<comments>http://cheap-and-cheerful.store/nightmares-from-the-deep-3-davy-jones/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
@@ -344,15 +344,15 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/nightmares-from-the-deep-3-davy-jones</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/nightmares-from-the-deep-3-davy-jones</guid>
 		<description><![CDATA[Pesadillas profundas 3: Davy Jones &#8211; ¡Prepárate para el capítulo final de la épica trilogía de piratas! Una serie de misteriosas notas diesen a Sara las pruebas que necesita para demostrar al mundo la existencia de la histórica figura de Davy Jones y organiza una conferencia de prensa para publicar lo que ha descubierto; que [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/nightmares-from-the-deep-3-davy-jones/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/nightmares-from-the-deep-3-davy-jones/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Deponia</title>
-		<link>https://cheap-and-cheerful.store/deponia/</link>
-		<comments>https://cheap-and-cheerful.store/deponia/#respond</comments>
+		<link>http://cheap-and-cheerful.store/deponia/</link>
+		<comments>http://cheap-and-cheerful.store/deponia/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
@@ -374,9 +374,9 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/deponia</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/deponia</guid>
 		<description><![CDATA[The Deponia series on Steam: http://store.steampowered.com/app/220740/ http://store.steampowered.com/app/241910/ http://store.steampowered.com/app/421050/ Buy Deponia 1-3: http://store.steampowered.com/app/292910/ Acerca del juego En Deponia, el mundo ha degenerado en un inmenso vertedero de basura, en el que el malhumorado Rufus a duras penas se gana su lamentable existencia. Él es parte de la clase social más baja, condenado a vivir su vida [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/deponia/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/deponia/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

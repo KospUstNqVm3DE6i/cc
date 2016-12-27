@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Simulation &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="https://cheap-and-cheerful.store/category/genres/simulation/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cheap-and-cheerful.store/</link>
+	<atom:link href="http://cheap-and-cheerful.store/category/genres/simulation/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,325 +19,294 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
+	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Simulation &#8211; Cheap &amp; Cheerful</title>
-	<link>https://cheap-and-cheerful.store/</link>
+	<link>http://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Cities: Skylines</title>
-		<link>https://cheap-and-cheerful.store/cities-skylines/</link>
-		<comments>https://cheap-and-cheerful.store/cities-skylines/#respond</comments>
+		<title>Arma 2</title>
+		<link>http://cheap-and-cheerful.store/arma-2/</link>
+		<comments>http://cheap-and-cheerful.store/arma-2/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
 		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/arma-2</guid>
+		<description><![CDATA[Cimentado sobre 10 años de constante desarrollo del motor, ARMA II ofrece el entorno de combate más realista del mundo. Imita fielmente la balística y desviación del disparo del mundo real, la penetración en función del material, tiene un ciclo real de día y noche, viento dinámico, meteorología y efectos ambientales. La simulación de un [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/arma-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Football Manager 2016</title>
+		<link>http://cheap-and-cheerful.store/football-manager-2016/</link>
+		<comments>http://cheap-and-cheerful.store/football-manager-2016/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
 		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/cities-skylines</guid>
-		<description><![CDATA[Cities: Skylines Natural Disaster &#8211; Now available! Click on the image to find more information about Cities: Skylines &#8211; Natural Disasters! Digital Deluxe Edition The Deluxe Edition: Included in the Deluxe Edition are 5 In-game historical monuments from around the world, the games original soundtrack as well as a digital art book. Five in-game items [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/cities-skylines/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/football-manager-2016</guid>
+		<description><![CDATA[Football Manager es el juego de simulación de gestión de fútbol más realista, profundo e inmersivo del mercado; lo más parecido a dirigir un equipo en el mundo real. Podrás controlar a equipos de más de 50 países de todo el mundo. Decidirás quién juega y quién se queda en el banquillo, te encargarás de [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/football-manager-2016/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Sims 3 Plus Pets</title>
-		<link>https://cheap-and-cheerful.store/the-sims-3-plus-pets/</link>
-		<comments>https://cheap-and-cheerful.store/the-sims-3-plus-pets/#respond</comments>
+		<title>Tropico 5 &#8211; The Big Cheese</title>
+		<link>http://cheap-and-cheerful.store/tropico-5-the-big-cheese/</link>
+		<comments>http://cheap-and-cheerful.store/tropico-5-the-big-cheese/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
+				<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-sims-3-plus-pets</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/tropico-5-the-big-cheese</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/the-sims-3-plus-pets/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/tropico-5-the-big-cheese/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Cities XXL</title>
-		<link>https://cheap-and-cheerful.store/cities-xxl/</link>
-		<comments>https://cheap-and-cheerful.store/cities-xxl/#respond</comments>
+		<title>1849</title>
+		<link>http://cheap-and-cheerful.store/1849/</link>
+		<comments>http://cheap-and-cheerful.store/1849/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/cities-xxl</guid>
-		<description><![CDATA[Oferta especial Descuento por fidelidad a jugadores de Cities XL Esta oferta no tiene fecha límite y pueden acceder a él quienes tengan Cities XL*, Cities XL 2011, Cities XL 2012 o Cities XL Platinum. Si has comprado uno de los juegos de Cities XL en Steam: Inicia sesión en la cuenta de Steam en [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/cities-xxl/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Construction Machines Simulator 2016</title>
-		<link>https://cheap-and-cheerful.store/construction-machines-simulator-2016/</link>
-		<comments>https://cheap-and-cheerful.store/construction-machines-simulator-2016/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/construction-machines-simulator-2016</guid>
-		<description><![CDATA[¡Si te gusta destruir y construir cosas, este es tu juego! Conviértete en el jefe de una compañía de construcción y demuele casas antiguas, aplana el suelo, rellena cimientos con cemento y crea nueva arquitectura. Siéntate al volante de numerosas máquinas de construcción diferentes: potentes camiones, despiadadas excavadoras, enormes grúas y más. Consigue contratos y [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/construction-machines-simulator-2016/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Star Wars Collection</title>
-		<link>https://cheap-and-cheerful.store/star-wars-collection/</link>
-		<comments>https://cheap-and-cheerful.store/star-wars-collection/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/star-wars-collection</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/star-wars-collection/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Depth Hunter 2: Deep Dive</title>
-		<link>https://cheap-and-cheerful.store/depth-hunter-2-deep-dive/</link>
-		<comments>https://cheap-and-cheerful.store/depth-hunter-2-deep-dive/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/depth-hunter-2-deep-dive</guid>
-		<description><![CDATA[Depth Hunter 2 ofrece 25 misiones emocionantes en 3 lugares enormes alrededor del mundo. Los jugadores cazarán distintos tipos de peces y se enfrentarán con dificultades a la hora de pescar con lanza que te dejarán sin aliento, es un método de pesca antiguo. Los jugadores tendrán también que encontrar tesoros y tendrán la posibilidad [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/depth-hunter-2-deep-dive/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Jagged Alliance &#8211; Back in Action</title>
-		<link>https://cheap-and-cheerful.store/jagged-alliance-back-in-action/</link>
-		<comments>https://cheap-and-cheerful.store/jagged-alliance-back-in-action/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/jagged-alliance-back-in-action</guid>
-		<description><![CDATA[Jagged Alliance Back in Action es un remake moderno del último título de la admirada serie de juegos de estrategia por turnos con temática de mercenarios, Jagged Alliance. Diseñado desde cero para ofrecer una moderna experiencia de juego, Back in Action muestra una apariencia y una interfaz 3D isométricas actualizadas, modelos de personajes muy detallados [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/jagged-alliance-back-in-action/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/1849</guid>
+		<description><![CDATA[The year is 1849, and gold has just been discovered in California. You decide to head out west, to seek fame and wealth in the approaching Gold Rush. Will you strike gold and become an overnight mining magnate? Or will you build your fortune bit by bit by supplying 49ers with pickaxes and blue jeans? [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/1849/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Jagged Alliance: Crossfire</title>
-		<link>https://cheap-and-cheerful.store/jagged-alliance-crossfire/</link>
-		<comments>https://cheap-and-cheerful.store/jagged-alliance-crossfire/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/jagged-alliance-crossfire</guid>
-		<description><![CDATA[¡Buen trabajo, soldado! La isla de Arulco ha sido liberada; sin embargo, hay otros países bajo la sombra de la guerra que el resto del mundo ignora. Khanpaa, una nación pacífica y tranquila, está en manos de un grupo de mercenarios a sueldo&#8230; pero las Naciones Unidas miran para otro lado. El embajador de la [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/jagged-alliance-crossfire/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Victory: The Age of Racing</title>
-		<link>https://cheap-and-cheerful.store/victory-the-age-of-racing/</link>
-		<comments>https://cheap-and-cheerful.store/victory-the-age-of-racing/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/victory-the-age-of-racing</guid>
-		<description><![CDATA[Victory: The Age of Racing is a unique online racing game with spectacular car handling and user generated cars inspired by the different ages of racing. Victory offers a thrilling racing experience through multiplayer events, competitions and an addictive team career. Victory: The Age of Racing is now FREE! We’d like you to join the [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/victory-the-age-of-racing/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>AX:EL &#8211; Air XenoDawn</title>
-		<link>https://cheap-and-cheerful.store/axel-air-xenodawn/</link>
-		<comments>https://cheap-and-cheerful.store/axel-air-xenodawn/#respond</comments>
+		<title>Miscreated</title>
+		<link>http://cheap-and-cheerful.store/miscreated/</link>
+		<comments>http://cheap-and-cheerful.store/miscreated/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[MMO]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/axel-air-xenodawn</guid>
-		<description><![CDATA[Build your own aircraft and prepare to fight Combining the very best of sci-fi and aerial dogfighting gameplay, AX:EL delivers a totally new gaming experience. Create your very own shape-shifting vehicle and dominate both the sky and the ocean. Build your own bespoke aircraft, from mainframe to wings. Dominate the skies then watch your aircraft [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/axel-air-xenodawn/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/miscreated</guid>
+		<description><![CDATA[This is an early ALPHA release of MISCREATED. The current feature set is limited, but will be increased as development continues. You will experience issues during gameplay &#8211; incomplete features, bugs, game crashes, performance issues, and even complete character wipes. Nobody knows what started the Final War — it was over too fast, fought with [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/miscreated/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Pixel Puzzles: UndeadZ</title>
-		<link>https://cheap-and-cheerful.store/pixel-puzzles-undeadz/</link>
-		<comments>https://cheap-and-cheerful.store/pixel-puzzles-undeadz/#respond</comments>
+		<title>Pixel Piracy</title>
+		<link>http://cheap-and-cheerful.store/pixel-piracy/</link>
+		<comments>http://cheap-and-cheerful.store/pixel-piracy/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/pixel-piracy</guid>
+		<description><![CDATA[Live the life of a pirate captain! Recruit a crew of salty buccaneers, outfit and customize your ship, and then set sail on the open seas in search of treasure and infamy. Using a combination of aggression, diversion, and trade, will you become the next Legendary Pirate King and the most feared pirate crew in [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/pixel-piracy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kingdom Wars</title>
+		<link>http://cheap-and-cheerful.store/kingdom-wars/</link>
+		<comments>http://cheap-and-cheerful.store/kingdom-wars/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Free to Play]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[MMO]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/kingdom-wars</guid>
+		<description><![CDATA[Kingdom Wars is a free to play 3D MMORTS with real-time siege combat, without the pay to win element so common in the genre. Having evolved from Dawn of Fantasy: Kingdom Wars this strategy game offers lively online world, where players gather resources, construct majestic towns, and impregnable strongholds, direct citizens, complete quests in the [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/kingdom-wars/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Tower</title>
+		<link>http://cheap-and-cheerful.store/the-tower/</link>
+		<comments>http://cheap-and-cheerful.store/the-tower/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/the-tower</guid>
+		<description><![CDATA[The Tower returns, re-envisioned and remastered for 2015! Experience an authentic and emotional survival horror tale, of what remains of a man once his humanity has been stripped away. Powered by a brand new Next Generation engine, explore and feel The Tower&#8217;s terrifying corridors as Elliot, a man imprisoned within England&#8217;s most feared hold during [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-tower/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Professional Farmer 2014</title>
+		<link>http://cheap-and-cheerful.store/professional-farmer-2014/</link>
+		<comments>http://cheap-and-cheerful.store/professional-farmer-2014/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Swedish]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/professional-farmer-2014</guid>
+		<description><![CDATA[Edición de coleccionista Contenido adicional incluido en Professional Farmer 2014, edición de coleccionista: Farming Giant: Como en las series de gigantes, el jugador recibirá una simulación comercial de primera clase, diseñada con infinidad de detalles. El jugador construirá granjas y mantendrá y mejorará sus propiedades. Agricultural Simulator: Historical Farming: El juego te lleva a los [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/professional-farmer-2014/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cahors Sunset</title>
+		<link>http://cheap-and-cheerful.store/cahors-sunset/</link>
+		<comments>http://cheap-and-cheerful.store/cahors-sunset/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/cahors-sunset</guid>
+		<description><![CDATA[Cahors has always been your life; you never had any interest in leaving. The small French town is the landscape of all your memories: the sweet and the bitter. Cahors Sunset is a light-RPG in which you control the decisions of an old French man. In this game your goal is try to keep the [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/cahors-sunset/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>X-note</title>
+		<link>http://cheap-and-cheerful.store/x-note/</link>
+		<comments>http://cheap-and-cheerful.store/x-note/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/pixel-puzzles-undeadz</guid>
-		<description><![CDATA[Pixel Puzzles: UndeadZ is a traditional style jigsaw puzzle game with top down shooter gameplay thrown in to ruin your day and peaceful puzzling experience. Dead things want to eat you whilst you puzzle. You&#8217;ll have to keep the dead dudez at bay with a mixture of mines, barricades, bullets and nades. You&#8217;ll need to [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/pixel-puzzles-undeadz/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/x-note</guid>
+		<description><![CDATA[X-note is a blend between Visual Novel and Dating Sim. Follow the story of Essi as she pursues the truth of her mother&#8217;s death. The game occurs over 30 days, of which you can train Essi&#8217;s psychic abilities, explore the school, collect notes, and make choices to determine her fate. There are a total of [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/x-note/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>theHunter: Primal</title>
-		<link>https://cheap-and-cheerful.store/thehunter-primal/</link>
-		<comments>https://cheap-and-cheerful.store/thehunter-primal/#respond</comments>
+		<title>Terraform</title>
+		<link>http://cheap-and-cheerful.store/terraform/</link>
+		<comments>http://cheap-and-cheerful.store/terraform/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/thehunter-primal</guid>
-		<description><![CDATA[Caza &#8211; Explora &#8211; Sobrevive ¡Bienvenido Pionero! Adéntrate en un enorme mundo ambientado en el Cretácico (24 km² / 9.3 mi²) donde el entorno pondrá tus habilidades de supervivencia al límite. Este es el planeta Primal Eden. Ayúdanos a reclamar, someter y erradicar la naturaleza salvaje de este mundo y así plantar la semilla de [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/thehunter-primal/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/terraform</guid>
+		<description><![CDATA[Terraform is a relaxing turn based puzzle game set in the future. Alter over 200 planets to allow settlements and forests to survive. Planets are made of hexagonal tiles that can be altered using many different tools and weather conditions. Use rain weather to fill a dried out lake with water, hot weather to prevent [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/terraform/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

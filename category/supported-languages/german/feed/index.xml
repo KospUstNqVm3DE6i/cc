@@ -9,8 +9,8 @@
 
 <channel>
 	<title>German &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="https://cheap-and-cheerful.store/category/supported-languages/german/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cheap-and-cheerful.store/</link>
+	<atom:link href="http://cheap-and-cheerful.store/category/supported-languages/german/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,245 +19,243 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
+	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>German &#8211; Cheap &amp; Cheerful</title>
-	<link>https://cheap-and-cheerful.store/</link>
+	<link>http://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Counter-Strike</title>
-		<link>https://cheap-and-cheerful.store/counter-strike/</link>
-		<comments>https://cheap-and-cheerful.store/counter-strike/#respond</comments>
+		<title>Grand Theft Auto V</title>
+		<link>http://cheap-and-cheerful.store/grand-theft-auto-v/</link>
+		<comments>http://cheap-and-cheerful.store/grand-theft-auto-v/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/grand-theft-auto-v</guid>
+		<description><![CDATA[Cuando un joven estafador callejero, un ladrón de bancos retirado y un psicópata aterrador se ven involucrados con lo peor y más desquiciado del mundo criminal, del gobierno de los EE. UU. y de la industria del espectáculo, tendrán que llevar a cabo una serie de peligrosos golpes para sobrevivir en una ciudad implacable en [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/grand-theft-auto-v/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Aliens: Colonial Marines</title>
+		<link>http://cheap-and-cheerful.store/aliens-colonial-marines/</link>
+		<comments>http://cheap-and-cheerful.store/aliens-colonial-marines/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/aliens-colonial-marines</guid>
+		<description><![CDATA[Tú y tus amigos contra los asesinos más letales de la galaxia. Otro glorioso día en el Cuerpo. ¡En pie, soldado! Bienvenido a Aliens™: Colonial Marines. Creado por Gearbox, los desarolladores aclamados por la crítica y preferidos por los fans, y creadores de Borderlands y Brothers In Arms. Tú y tus amigos seréis el equipo [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/aliens-colonial-marines/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Call of Duty: World at War</title>
+		<link>http://cheap-and-cheerful.store/call-of-duty-world-at-war/</link>
+		<comments>http://cheap-and-cheerful.store/call-of-duty-world-at-war/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/counter-strike</guid>
-		<description><![CDATA[Disfruta del juego de acción en línea número 1 en el mundo. Sum&#233;rgete en el fragor de la guerra antiterrorista más realista con este archiconocido juego por equipos. Alíate con tus compañeros para superar las misiones estrat&#233;gicas, asalta las bases enemigas, rescata a los rehenes, y recuerda que tu personaje contribuye al &#233;xito del equipo, [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/counter-strike/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/call-of-duty-world-at-war</guid>
+		<description><![CDATA[Call of Duty ha vuelto, redefiniendo la guerra como nunca la habías experimentado. Tomando como base el motor de Call of Duty 4®: Modern Warfare, Call of Duty: World at War sumerge a los jugadores en la experiencia de combate más descarnada y caótica de la Segunda Guerra Mundial hasta la fecha. Los jugadores tendrán [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/call-of-duty-world-at-war/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Need For Speed: Hot Pursuit</title>
-		<link>https://cheap-and-cheerful.store/need-for-speed-hot-pursuit/</link>
-		<comments>https://cheap-and-cheerful.store/need-for-speed-hot-pursuit/#respond</comments>
+		<title>Escape Dead Island</title>
+		<link>http://cheap-and-cheerful.store/escape-dead-island/</link>
+		<comments>http://cheap-and-cheerful.store/escape-dead-island/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/escape-dead-island</guid>
+		<description><![CDATA[Escape Dead Island es un juego de supervivencia y misterio que se desarrolla en la enigmática isla de Narapela después del brote zombi del juego original de Dead Island. En este título, descubrirás los orígenes del virus zombi a través de los ojos del aspirante a periodista Cliff Calo. Cliff Calo, hijo del magnate de [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/escape-dead-island/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dragon Age: Origins</title>
+		<link>http://cheap-and-cheerful.store/dragon-age-origins/</link>
+		<comments>http://cheap-and-cheerful.store/dragon-age-origins/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Czech]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/need-for-speed-hot-pursuit</guid>
-		<description><![CDATA[Need for Speed Hot Pursuit te sumerge en un nuevo universo abierto al volante de los coches más rápidos y bonitos del mundo. Desarrollado por Criterion, el galardonado estudio responsable de la saga Burnout, Hot Pursuit redefinirá los juegos de carreras para toda una nueva generación. Experimenta velocidades de vértigo, embestidas y persecuciones mientras te [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/need-for-speed-hot-pursuit/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/dragon-age-origins</guid>
+		<description><![CDATA[Pre-Compra Dragon Age: Origins y recibe lo siguiente: Item Exclusivo para Steam   El Juramento Vil La condesa Luciana de Antiva vivió prácticamente como una prisionera en el castillo de su marido hasta que una esclava elfa le ofreció la posibilidad de escapar. La esclava vinculó mágicamente una pequeña cantidad de sangre de la condesa a [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/dragon-age-origins/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Borderlands 2 Season Pass</title>
-		<link>https://cheap-and-cheerful.store/borderlands-2-season-pass/</link>
-		<comments>https://cheap-and-cheerful.store/borderlands-2-season-pass/#respond</comments>
+		<title>Fallout: New Vegas Ultimate Edition</title>
+		<link>http://cheap-and-cheerful.store/fallout-new-vegas-ultimate-edition/</link>
+		<comments>http://cheap-and-cheerful.store/fallout-new-vegas-ultimate-edition/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/borderlands-2-season-pass</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/borderlands-2-season-pass/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/fallout-new-vegas-ultimate-edition</guid>
+		<description><![CDATA[¡Bienvenido de vuelta a New Vegas! Con la introducción de la Ultimate Edition, Bethesda Softworks te ofrece una oportunidad de doble o nada para conseguir el lote completo de diversión en New Vegas. Por primera vez en un solo pack, puedes tener todo el contenido de Fallout: New Vegas incluyendo el lote completo del aclamado [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/fallout-new-vegas-ultimate-edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Company of Heroes Complete Pack</title>
-		<link>https://cheap-and-cheerful.store/company-of-heroes-complete-pack/</link>
-		<comments>https://cheap-and-cheerful.store/company-of-heroes-complete-pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/company-of-heroes-complete-pack</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/company-of-heroes-complete-pack/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dishonored &#8211; Game of the Year Edition</title>
-		<link>https://cheap-and-cheerful.store/dishonored-game-of-the-year-edition/</link>
-		<comments>https://cheap-and-cheerful.store/dishonored-game-of-the-year-edition/#respond</comments>
+		<title>Guacamelee! Gold Edition</title>
+		<link>http://cheap-and-cheerful.store/guacamelee-gold-edition/</link>
+		<comments>http://cheap-and-cheerful.store/guacamelee-gold-edition/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/dishonored-game-of-the-year-edition</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/dishonored-game-of-the-year-edition/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/guacamelee-gold-edition</guid>
+		<description><![CDATA[Steam Workshop Acerca del juego Guacamelee! Gold Edition Es un juego de plataformas de acción de estilo Metroid-vania establecido en un mundo mágico de inspiración mexicana. Guacamelee!, desarrollado sobre el estilo clásico de juegos de mundo abierto de Metroid-vania, cuenta con adiciones tales como un fuerte componente de combate cuerpo a cuerpo, una nueva mecánica [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/guacamelee-gold-edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Evolve</title>
-		<link>https://cheap-and-cheerful.store/evolve/</link>
-		<comments>https://cheap-and-cheerful.store/evolve/#respond</comments>
+		<title>Left 4 Dead</title>
+		<link>http://cheap-and-cheerful.store/left-4-dead/</link>
+		<comments>http://cheap-and-cheerful.store/left-4-dead/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
 		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/evolve</guid>
-		<description><![CDATA[Evolve ha sido galardonado con más de 60 premios, ¡y ahora puedes jugar gratis con Evolve fase 2! En un mundo sin ley donde el hombre se enfrenta a la naturaleza a diario, ¿serás el cazador o la presa? Turtle Rock presenta Evolve fase 2, un juego de disparos multijugador gratuito de próxima generación que [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/evolve/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>GRID 2</title>
-		<link>https://cheap-and-cheerful.store/grid-2/</link>
-		<comments>https://cheap-and-cheerful.store/grid-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/grid-2</guid>
-		<description><![CDATA[Steam Big Picture Acerca del juego Ponte a los mandos, pisa a fondo y persigue la fama en GRID 2, la nueva entrega de Race Driver: GRID, el juego que ganó un premio BAFTA y vendió millones de copias. Sumérgete en agresivas carreras rueda con rueda contra una IA avanzada y vive a fondo la [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/grid-2/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/left-4-dead</guid>
+		<description><![CDATA[Steam Big Picture Acerca del juego De la mano de Valve®, creadores de Counter-Strike®, Half-Life® y otros muchos juegos, llega Left 4 Dead™, una nueva aventura para PC y Xbox 360 que te meterá en la piel de uno de los cuatro &#34;supervivientes&#34; que libran una pugna de proporciones épicas contra hordas de zombis y [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/left-4-dead/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Insurgency</title>
-		<link>https://cheap-and-cheerful.store/insurgency/</link>
-		<comments>https://cheap-and-cheerful.store/insurgency/#respond</comments>
+		<title>Magicka: Peculiar Gadgets Item Pack</title>
+		<link>http://cheap-and-cheerful.store/magicka-peculiar-gadgets-item-pack/</link>
+		<comments>http://cheap-and-cheerful.store/magicka-peculiar-gadgets-item-pack/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Ukrainian]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/insurgency</guid>
-		<description><![CDATA[Sumérgete en una experiencia de combate en espacios cerrados en la que el éxito de tu equipo dependerá de su capacidad para asaltar puntos estratégicos o destruir arsenales, entre otros objetivos. Toma las calles en este título multijugador y cooperativo basado en el motor Source. Sucesor del galardonado mod del Half-Life 2 del mismo nombre, [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/insurgency/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Magicka</title>
-		<link>https://cheap-and-cheerful.store/magicka/</link>
-		<comments>https://cheap-and-cheerful.store/magicka/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
@@ -265,103 +263,101 @@
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/magicka</guid>
-		<description><![CDATA[Steam Big Picture Acerca del juego Magicka es una sátira de acción y aventuras ambientada en un rico mundo de fantasía que se inspira en la mitología nórdica. El jugador asume el papel de un mago de una orden sagrada con la misión de detener a un malvado hechicero que ha sumido al mundo en [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/magicka/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/magicka-peculiar-gadgets-item-pack</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-peculiar-gadgets-item-pack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>METAL GEAR RISING: REVENGEANCE</title>
-		<link>https://cheap-and-cheerful.store/metal-gear-rising-revengeance/</link>
-		<comments>https://cheap-and-cheerful.store/metal-gear-rising-revengeance/#respond</comments>
+		<title>PAYDAY 2: Dragan Character Pack</title>
+		<link>http://cheap-and-cheerful.store/payday-2-dragan-character-pack/</link>
+		<comments>http://cheap-and-cheerful.store/payday-2-dragan-character-pack/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/metal-gear-rising-revengeance</guid>
-		<description><![CDATA[Developed by Kojima Productions and PlatinumGames, METAL GEAR RISING: REVENGEANCE takes the renowned METAL GEAR franchise into exciting new territory with an all-new action experience. The game seamlessly melds pure action and epic story-telling that surrounds Raiden – a child soldier transformed into a half-human, half-cyborg ninja who uses his High Frequency katana blade to [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/metal-gear-rising-revengeance/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/payday-2-dragan-character-pack</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/payday-2-dragan-character-pack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Street Fighter X Tekken</title>
-		<link>https://cheap-and-cheerful.store/street-fighter-x-tekken/</link>
-		<comments>https://cheap-and-cheerful.store/street-fighter-x-tekken/#respond</comments>
+		<title>Risen 2: Dark Waters</title>
+		<link>http://cheap-and-cheerful.store/risen-2-dark-waters/</link>
+		<comments>http://cheap-and-cheerful.store/risen-2-dark-waters/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/risen-2-dark-waters</guid>
+		<description><![CDATA[Varios años después del final de Risen, los furiosos titanes han devastado el mundo y empujado a la humanidad al borde de la desaparición. Más tarde, criaturas monstruosas han surgido de las profundidades marinas y sus ataques han paralizado totalmente la navegación. El héroe, ahora miembro de la Inquisición, es enviado para encontrar el modo [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/risen-2-dark-waters/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Space Engineers</title>
+		<link>http://cheap-and-cheerful.store/space-engineers/</link>
+		<comments>http://cheap-and-cheerful.store/space-engineers/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/street-fighter-x-tekken</guid>
-		<description><![CDATA[Will You Cross the Line? The long awaited dream match-up between the two titans of fighting is here! Street Fighter® X Tekken® is the ultimate tag team fighting game, featuring one of the most expansive rosters of iconic fighters in fighting game history. The critically acclaimed Street Fighter® IV game engine has been refined with [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/street-fighter-x-tekken/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Serious Sam Complete Pack</title>
-		<link>https://cheap-and-cheerful.store/serious-sam-complete-pack/</link>
-		<comments>https://cheap-and-cheerful.store/serious-sam-complete-pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Swedish]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/serious-sam-complete-pack</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/serious-sam-complete-pack/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/space-engineers</guid>
+		<description><![CDATA[Space Engineers is a sandbox game about engineering, construction, exploration and survival in space and on planets. Players build space ships, space stations, planetary outposts of various sizes and uses (civil and military), pilot ships and travel through space to explore planets and gather resources to survive. Featuring both creative and survival modes, there is [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/space-engineers/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

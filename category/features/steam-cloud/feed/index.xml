@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Steam Cloud &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="https://cheap-and-cheerful.store/category/features/steam-cloud/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cheap-and-cheerful.store/</link>
+	<atom:link href="http://cheap-and-cheerful.store/category/features/steam-cloud/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,91 +19,127 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
+	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Steam Cloud &#8211; Cheap &amp; Cheerful</title>
-	<link>https://cheap-and-cheerful.store/</link>
+	<link>http://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>0RBITALIS</title>
-		<link>https://cheap-and-cheerful.store/0rbitalis/</link>
-		<comments>https://cheap-and-cheerful.store/0rbitalis/#respond</comments>
+		<title>Counter-Strike: Source</title>
+		<link>http://cheap-and-cheerful.store/counter-strike-source/</link>
+		<comments>http://cheap-and-cheerful.store/counter-strike-source/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Thai]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/counter-strike-source</guid>
+		<description><![CDATA[LA NUEVA ENTREGA DEL JUEGO DE ACCIÓN EN LÍNEA NÚMERO 1 EN TODO EL MUNDO Counter-Strike: Source combina la intensidad de las partidas por equipos, que le valió varios premios al título original, con la avanzada tecnología de Source&#8482;. Con sus vanguardistas gráficos, nuevos sonidos y un mayor dinamismo, Counter-Strike: Source no puede faltar en [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/counter-strike-source/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Borderlands: The Pre-Sequel</title>
+		<link>http://cheap-and-cheerful.store/borderlands-the-pre-sequel/</link>
+		<comments>http://cheap-and-cheerful.store/borderlands-the-pre-sequel/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/0rbitalis</guid>
-		<description><![CDATA[0RBITALIS es un simulador de lanzamiento de satélites con un estilo de puzles retro. Lanza tu satélite a órbita y enfréntate a la fuerza dominante que formó todo el universo: la gravedad. Estos lanzamientos no serán cosa fácil: hay todo tipo de estrellas, planetas, cometas, púlsares y muchas cosas más que debes evitar. Por no [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/0rbitalis/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/borderlands-the-pre-sequel</guid>
+		<description><![CDATA[¡SUMÉRGETE EN EL UNIVERSO DE BORDERLANDS Y PREPÁRATE PARA DISPARAR Y SAQUEAR EN UNA NUEVA AVENTURA QUE TE TRANSPORTARÁ A LA LUNA DE PANDORA EN BORDERLANDS: THE PRE-SEQUEL! Descubre la historia que hay tras Jack el Guapo, el villano de Borderlands 2, y su ascenso al poder. Situada entre el Borderlands original y Borderlands 2, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/borderlands-the-pre-sequel/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Company of Heroes Complete Pack</title>
-		<link>https://cheap-and-cheerful.store/company-of-heroes-complete-pack/</link>
-		<comments>https://cheap-and-cheerful.store/company-of-heroes-complete-pack/#respond</comments>
+		<title>Darksiders II</title>
+		<link>http://cheap-and-cheerful.store/darksiders-ii/</link>
+		<comments>http://cheap-and-cheerful.store/darksiders-ii/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/company-of-heroes-complete-pack</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/company-of-heroes-complete-pack/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/darksiders-ii</guid>
+		<description><![CDATA[Crucible Mode Darksiders II presenta un modo de supervivencia en la arena llamado El Crisol, que permite a los jugadores seguir mejorando su personaje incluso después de haber terminado el juego principal y que ofrece el desafío definitivo. Características principales: Tras completar cinco de las 100 oleadas exclusivas del modo, los jugadores tendrán la opción [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/darksiders-ii/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>DOOM 3</title>
-		<link>https://cheap-and-cheerful.store/doom-3/</link>
-		<comments>https://cheap-and-cheerful.store/doom-3/#respond</comments>
+		<title>QUAKE</title>
+		<link>http://cheap-and-cheerful.store/quake/</link>
+		<comments>http://cheap-and-cheerful.store/quake/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/doom-3</guid>
-		<description><![CDATA[Una masiva invasión demoníaca ha tomado por sorpresa las instalaciones de investigación de la Union Aerospace Corporation (UAC) en Marte, dejando sólo caos y destrucción a su paso. Como uno de los pocos supervivientes, deberás abrirte paso hasta el Infierno y regresar a la vez que luchas contra hordas de malvados monstruos. El camino es [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/doom-3/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/quake</guid>
+		<description><![CDATA[Arrasa a través de 32 niveles para un jugador y 6 niveles de partida a muerte llenos de terror, sonidos e iluminación sumergente. Ármate contra el caníbal Ogre, el malvado Vore y el indestructible Shambler usando clavos letales, feroces rayos y abominables lanzacohetes y lanzagranadas.]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/quake/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>GRID 2</title>
-		<link>https://cheap-and-cheerful.store/grid-2/</link>
-		<comments>https://cheap-and-cheerful.store/grid-2/#respond</comments>
+		<title>Grid 2 Reloaded Edition</title>
+		<link>http://cheap-and-cheerful.store/grid-2-reloaded-edition/</link>
+		<comments>http://cheap-and-cheerful.store/grid-2-reloaded-edition/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
+				<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
@@ -122,155 +158,50 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/grid-2</guid>
-		<description><![CDATA[Steam Big Picture Acerca del juego Ponte a los mandos, pisa a fondo y persigue la fama en GRID 2, la nueva entrega de Race Driver: GRID, el juego que ganó un premio BAFTA y vendió millones de copias. Sumérgete en agresivas carreras rueda con rueda contra una IA avanzada y vive a fondo la [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/grid-2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>LEGO The Lord of the Rings</title>
-		<link>https://cheap-and-cheerful.store/lego-the-lord-of-the-rings/</link>
-		<comments>https://cheap-and-cheerful.store/lego-the-lord-of-the-rings/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/lego-the-lord-of-the-rings</guid>
-		<description><![CDATA[Based on The Lord of the Rings motion picture trilogy, LEGO® The Lord of the Rings follows the original story-lines of The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, and The Lord of the Rings: The Return of the King, taking players through the epic [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/lego-the-lord-of-the-rings/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Sacred 3</title>
-		<link>https://cheap-and-cheerful.store/sacred-3/</link>
-		<comments>https://cheap-and-cheerful.store/sacred-3/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/sacred-3</guid>
-		<description><![CDATA[Sacred 3 es un Hack ‘n’ Slash arcade para hasta 4 jugadores ambientado en la guerra de Arcadia. Elegid un héroe legendario y luchad juntos contra las hordas del mal. Os enfrentaréis a grimmocs, brutos, legiones de mercenarios y hechiceros no muertos. Desarrollad las habilidades del personaje y uníos para usar poderosos atributos y tácticas [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/sacred-3/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Torchlight</title>
-		<link>https://cheap-and-cheerful.store/torchlight/</link>
-		<comments>https://cheap-and-cheerful.store/torchlight/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/torchlight</guid>
-		<description><![CDATA[He aquí Torchlight, una novedosa franquicia RPG de acción creada por Runic Games. Torchlight está siendo desarrollado en Seattle por un veterano equipo compuesto por los diseñadores y líderes de proyectos como Diablo, Diablo II, Mythos, y Fate. Nuestro equipo ha pasado muchos años perfeccionando y evolucionando esta mecánica de juego única. La aventura transcurre [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/torchlight/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Metro: Last Light Season Pass</title>
-		<link>https://cheap-and-cheerful.store/metro-last-light-season-pass/</link>
-		<comments>https://cheap-and-cheerful.store/metro-last-light-season-pass/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/metro-last-light-season-pass</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/grid-2-reloaded-edition</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/metro-last-light-season-pass/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/grid-2-reloaded-edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Goodbye Deponia</title>
-		<link>https://cheap-and-cheerful.store/goodbye-deponia/</link>
-		<comments>https://cheap-and-cheerful.store/goodbye-deponia/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/goodbye-deponia</guid>
-		<description><![CDATA[The Deponia series on Steam: http://store.steampowered.com/app/214340/ http://store.steampowered.com/app/220740/ http://store.steampowered.com/app/421050/ Buy Deponia 1-3: http://store.steampowered.com/app/292910/ Acerca del juego Más caos, más destrucción y más Rufus. No uno, ni dos, sino tres Rufuses causarán toda clase de desastres en la tan esperada y divertida aventura gráfica Goodbye Deponia! Los habitantes de Organon planean la destrucción de Deponia, la encantadora [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/goodbye-deponia/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>DRAGON BALL XENOVERSE</title>
-		<link>https://cheap-and-cheerful.store/dragon-ball-xenoverse/</link>
-		<comments>https://cheap-and-cheerful.store/dragon-ball-xenoverse/#respond</comments>
+		<title>METAL GEAR RISING: REVENGEANCE</title>
+		<link>http://cheap-and-cheerful.store/metal-gear-rising-revengeance/</link>
+		<comments>http://cheap-and-cheerful.store/metal-gear-rising-revengeance/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/metal-gear-rising-revengeance</guid>
+		<description><![CDATA[Developed by Kojima Productions and PlatinumGames, METAL GEAR RISING: REVENGEANCE takes the renowned METAL GEAR franchise into exciting new territory with an all-new action experience. The game seamlessly melds pure action and epic story-telling that surrounds Raiden – a child soldier transformed into a half-human, half-cyborg ninja who uses his High Frequency katana blade to [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/metal-gear-rising-revengeance/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sniper Elite V2</title>
+		<link>http://cheap-and-cheerful.store/sniper-elite-v2/</link>
+		<comments>http://cheap-and-cheerful.store/sniper-elite-v2/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
@@ -279,24 +210,57 @@
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/dragon-ball-xenoverse</guid>
-		<description><![CDATA[Recién actualizado ¡Los cromos de Steam para Dragon Ball Xenoverse ya están disponibles! Juega al juego y consigue uno de los 6 increíbles cromos coleccionables. Consigue toda la colección y canjéala para desbloquear fondos, emoticonos e insignias para Steam. Acerca del juego ¡Renacen los combates más fieros de Son Goku y sus amigos! ¡POR PRIMERA [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/dragon-ball-xenoverse/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/sniper-elite-v2</guid>
+		<description><![CDATA[En los oscuros días del final de la Segunda Guerra Mundial entre las ruinas de Berlín, una bala puede cambiar el curso de la historia&#8230; Sniper Elite V2 es la esperada secuela del aclamadísimo Sniper Elite, ofreciendo a los jugadores la experiencia de francotirador más auténtica ambientada en la Segunda Guerra Mundial. Eres el francotirador [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/sniper-elite-v2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Dead Effect</title>
-		<link>https://cheap-and-cheerful.store/dead-effect/</link>
-		<comments>https://cheap-and-cheerful.store/dead-effect/#respond</comments>
+		<title>Tropico 5</title>
+		<link>http://cheap-and-cheerful.store/tropico-5/</link>
+		<comments>http://cheap-and-cheerful.store/tropico-5/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Czech]]></category>
+				<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/tropico-5</guid>
+		<description><![CDATA[Vuelve a la remota isla nación de Trópico en la nueva entrega de la famosa y aclamada saga de &#34;simulación de una dictadura&#34;. Expande el reinado de tu dinastía desde el periodo colonial hasta más allá del siglo XXI y enfréntate a nuevos retos, incluidos mecanismos comerciales avanzados, investigación científica y tecnológica y exploración. Las [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/tropico-5/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Grey Goo</title>
+		<link>http://cheap-and-cheerful.store/grey-goo/</link>
+		<comments>http://cheap-and-cheerful.store/grey-goo/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
@@ -305,40 +269,91 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/dead-effect</guid>
-		<description><![CDATA[Fight for your life in the INDIE SCI-FI FPS game fit for both casual and hard-core gamers with a passion for hunting down hordes of zombies. Prepare yourselves for the incoming nightmare! The ESS Meridian starship is travelling through space with a new FTL technology, heading towards its destination &#8211; Tau Ceti f, the first [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/dead-effect/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/grey-goo</guid>
+		<description><![CDATA[COMBATE EL CAOS. O APROVECHA SU PODER. Siglos después de que la Humanidad abandonara la Tierra por primera vez, todas las formas de vida en la Vía Láctea han evolucionado hacia una tranquilidad interior. Pero se ha producido una mutación. Un organismo misterioso se dirige hacia la superficie de un planeta solitario, con abundantes recursos, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/grey-goo/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Kholat</title>
-		<link>https://cheap-and-cheerful.store/kholat/</link>
-		<comments>https://cheap-and-cheerful.store/kholat/#respond</comments>
+		<title>Worms Revolution</title>
+		<link>http://cheap-and-cheerful.store/worms-revolution/</link>
+		<comments>http://cheap-and-cheerful.store/worms-revolution/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
+				<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/kholat</guid>
-		<description><![CDATA[Narrado por uno de los actores británicos más populares, Sean Bean, Kholat es un juego de aventuras y exploración con elementos de terror, inspirado por los hechos reales conocidos como el Incidente del paso Dyatlov – la misteriosa muerte de nueve excursionistas rusos, que ha dado lugar a incontables hipótesis sin confirmar. El jugador se [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/kholat/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/worms-revolution</guid>
+		<description><![CDATA[Worms™ Revolution, el último grito en juegos de estrategia por turnos que llega para tu PC, con nuevas y excitantes características y unos maravillosos gráficos 3D manteniendo la misma jugabilidad en 2D tan aclamada por los fans. Elige jugar al extenso modo para un solo jugador que incluye campañas y misiones rompecabezas, o lánzate al [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/worms-revolution/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mayhem Triple</title>
+		<link>http://cheap-and-cheerful.store/mayhem-triple/</link>
+		<comments>http://cheap-and-cheerful.store/mayhem-triple/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/mayhem-triple</guid>
+		<description><![CDATA[Mayhem Triple is a hyper-violent, tasteless tale of evolution gone wrong and the dangers of time travel. You are Mig Carter, a man with style to spare and the perfect opportunity to show everyone how great you are: the bunny apocalypse. Use smooth acrobatics and a vast armory of creative guns to help traverse countless [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/mayhem-triple/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Europa Universalis IV: El Dorado</title>
+		<link>http://cheap-and-cheerful.store/europa-universalis-iv-el-dorado/</link>
+		<comments>http://cheap-and-cheerful.store/europa-universalis-iv-el-dorado/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/europa-universalis-iv-el-dorado</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/europa-universalis-iv-el-dorado/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

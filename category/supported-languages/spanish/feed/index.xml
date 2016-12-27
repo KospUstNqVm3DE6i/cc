@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Spanish &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="https://cheap-and-cheerful.store/category/supported-languages/spanish/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cheap-and-cheerful.store/</link>
+	<atom:link href="http://cheap-and-cheerful.store/category/supported-languages/spanish/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,69 +19,51 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
+	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Spanish &#8211; Cheap &amp; Cheerful</title>
-	<link>https://cheap-and-cheerful.store/</link>
+	<link>http://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Arma 2: Combined Operations</title>
-		<link>https://cheap-and-cheerful.store/arma-2-combined-operations/</link>
-		<comments>https://cheap-and-cheerful.store/arma-2-combined-operations/#respond</comments>
+		<title>Counter-Strike: Source</title>
+		<link>http://cheap-and-cheerful.store/counter-strike-source/</link>
+		<comments>http://cheap-and-cheerful.store/counter-strike-source/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Thai]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/arma-2-combined-operations</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/arma-2-combined-operations/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/counter-strike-source</guid>
+		<description><![CDATA[LA NUEVA ENTREGA DEL JUEGO DE ACCIÓN EN LÍNEA NÚMERO 1 EN TODO EL MUNDO Counter-Strike: Source combina la intensidad de las partidas por equipos, que le valió varios premios al título original, con la avanzada tecnología de Source&#8482;. Con sus vanguardistas gráficos, nuevos sonidos y un mayor dinamismo, Counter-Strike: Source no puede faltar en [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/counter-strike-source/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Grand Theft Auto: Vice City</title>
-		<link>https://cheap-and-cheerful.store/grand-theft-auto-vice-city/</link>
-		<comments>https://cheap-and-cheerful.store/grand-theft-auto-vice-city/#respond</comments>
+		<title>The Bureau: XCOM Declassified</title>
+		<link>http://cheap-and-cheerful.store/the-bureau-xcom-declassified/</link>
+		<comments>http://cheap-and-cheerful.store/the-bureau-xcom-declassified/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/grand-theft-auto-vice-city</guid>
-		<description><![CDATA[Bienvenido a los años 80. De la década de las grandes melenas, excesos y trajes de color pastel, regresa Grand Theft Auto, esta vez con la historia del ascenso de un hombre a lo más alto del mundo criminal. Vice City es una enorme extensión urbana que abarca desde la playa hasta los pantanos y [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/grand-theft-auto-vice-city/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Borderlands 2</title>
-		<link>https://cheap-and-cheerful.store/borderlands-2/</link>
-		<comments>https://cheap-and-cheerful.store/borderlands-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
@@ -89,26 +71,73 @@
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/borderlands-2</guid>
-		<description><![CDATA[Una nueva era de disparos y saqueos está a punto de comenzar. Juega como uno de los cuatro nuevos buscadores de la Cámara y enfréntate a legiones de nuevas criaturas, psicópatas y al villano que las controla, Jack el Guapo. Haz nuevos amigos, equípalos con un cillón de armas y pelea a su lado en [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/borderlands-2/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/the-bureau-xcom-declassified</guid>
+		<description><![CDATA[Corre el año 1962 y la Guerra Fría tiene a la nación llena de temor. Una unidad secreta del gobierno llamada The Bureau investiga una serie de ataques misteriosos hechos por un enemigo más poderoso que el comunismo. Como el agente Carter podrás dar órdenes, jalar el gatillo y guiar a tu equipo en un [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-bureau-xcom-declassified/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Company of Heroes: Tales of Valor</title>
-		<link>https://cheap-and-cheerful.store/company-of-heroes-tales-of-valor/</link>
-		<comments>https://cheap-and-cheerful.store/company-of-heroes-tales-of-valor/#respond</comments>
+		<title>Borderlands: Game of the Year</title>
+		<link>http://cheap-and-cheerful.store/borderlands-game-of-the-year/</link>
+		<comments>http://cheap-and-cheerful.store/borderlands-game-of-the-year/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/borderlands-game-of-the-year</guid>
+		<description><![CDATA[Перезарядитесь и встретьтесь с самим Безумием Приготовьтесь к безудержному безумству! Сыграйте за одного из четырех веселых наемников и уничтожайте любого, кто встанет на вашем пути! Неотпускающий экшен, постоянные битвы, невероятно большой арсенал оружия, элементы ролевых игр и кооперативный режим на четырех игроков делает Borderlands перевернет ваше представление о настоящих шутерах с ног на голову. Вам [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/borderlands-game-of-the-year/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Crysis</title>
+		<link>http://cheap-and-cheerful.store/crysis/</link>
+		<comments>http://cheap-and-cheerful.store/crysis/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/crysis</guid>
+		<description><![CDATA[Multiplayer NOTE: GameSpy has ended hosted multiplayer services for this game. As of June 2014, our friends at GameSpy have ended all hosted game services, which will affect the online multiplayer aspect of this game. Because of technical challenges and concerns, EA does not have a solution to keep these services up and running at [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/crysis/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DOOM 3</title>
+		<link>http://cheap-and-cheerful.store/doom-3/</link>
+		<comments>http://cheap-and-cheerful.store/doom-3/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
@@ -116,216 +145,189 @@
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/company-of-heroes-tales-of-valor</guid>
-		<description><![CDATA[Company of Heroes®: Tales of Valor™ es la expansión de la cotizada franquicia de estrategia en tiempo real Company of Heroes®ganadora del premio Game of the Year. Con nuevas campañas para completar, unidades para comandar y campos de batalla para conquistar Company of Heroes®: Tales of Valor™ ofrece nuevas mecánicas de juego y 3 aventuras [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/company-of-heroes-tales-of-valor/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/doom-3</guid>
+		<description><![CDATA[Una masiva invasión demoníaca ha tomado por sorpresa las instalaciones de investigación de la Union Aerospace Corporation (UAC) en Marte, dejando sólo caos y destrucción a su paso. Como uno de los pocos supervivientes, deberás abrirte paso hasta el Infierno y regresar a la vez que luchas contra hordas de malvados monstruos. El camino es [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/doom-3/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>DmC: Devil May Cry</title>
-		<link>https://cheap-and-cheerful.store/dmc-devil-may-cry/</link>
-		<comments>https://cheap-and-cheerful.store/dmc-devil-may-cry/#respond</comments>
+		<title>Fallout 3</title>
+		<link>http://cheap-and-cheerful.store/fallout-3/</link>
+		<comments>http://cheap-and-cheerful.store/fallout-3/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/fallout-3</guid>
+		<description><![CDATA[Los ingenieros de Vault-Tec han trabajado sin descanso en una reproducción interactiva de la vida en el Yermo para que la disfrutes desde la comodidad de tu refugio. Incluye un mundo en constante expansión, combates únicos, efectos visuales cargados de realismo, miles de decisiones para tomar y un increíble reparto de personajes dinámicos. Cada minuto [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/fallout-3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GRID™</title>
+		<link>http://cheap-and-cheerful.store/grid%e2%84%a2/</link>
+		<comments>http://cheap-and-cheerful.store/grid%e2%84%a2/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/grid%e2%84%a2</guid>
+		<description><![CDATA[Descubre un asombroso mundo de deportes automovilísticos que cobran vida; desde participar en carreras de Muscle Cars por las peculiares calles de San Francisco y competir en las legendarias 24 Horas de Le Mans a hacer drifting por los muelles de Yokohama. Ponte detrás del volante de emocionantes coches de carreras en las competiciones más [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/grid%e2%84%a2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Knights and Merchants</title>
+		<link>http://cheap-and-cheerful.store/knights-and-merchants/</link>
+		<comments>http://cheap-and-cheerful.store/knights-and-merchants/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/knights-and-merchants</guid>
+		<description><![CDATA[KNIGHTS and MERCHANTS recreates the era of the Middle Ages. Apart from the purely fictitious geography of our world, all game elements and scenes are based on the Anglo-Saxon period, 1200 A.D. And we haven&#8217;t used imaginary elements like fabled creatures, either. The player takes on the role of an ordinary captain in the Palace [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/knights-and-merchants/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Magicka: Aspiring Musician Robes</title>
+		<link>http://cheap-and-cheerful.store/magicka-aspiring-musician-robes/</link>
+		<comments>http://cheap-and-cheerful.store/magicka-aspiring-musician-robes/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/magicka-aspiring-musician-robes</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-aspiring-musician-robes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PAYDAY 2</title>
+		<link>http://cheap-and-cheerful.store/payday-2/</link>
+		<comments>http://cheap-and-cheerful.store/payday-2/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/dmc-devil-may-cry</guid>
-		<description><![CDATA[Steam Big Picture Acerca del juego In this retelling of Dante&#8217;s origin story which is set against a contemporary backdrop, DmC Devil May Cry™ retains the stylish action, fluid combat and self-assured protagonist that have defined the iconic series but inject a more brutal and visceral edge. The Dante of DmC is a young man [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/dmc-devil-may-cry/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Fallout 4</title>
-		<link>https://cheap-and-cheerful.store/fallout-4/</link>
-		<comments>https://cheap-and-cheerful.store/fallout-4/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/fallout-4</guid>
-		<description><![CDATA[DESCRIPCIÓN: Bethesda Game Studios, el galardonado creador de Fallout 3 y The Elder Scrolls V: Skyrim, os da la bienvenida al mundo de Fallout 4, su juego más ambicioso hasta la fecha y la siguiente generación de mundos abiertos. Eres el único superviviente del Refugio 111 en un mundo destruido por la guerra nuclear. Cada [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/fallout-4/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>GRID 2 &#8211; Drift Pack</title>
-		<link>https://cheap-and-cheerful.store/grid-2-drift-pack/</link>
-		<comments>https://cheap-and-cheerful.store/grid-2-drift-pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/grid-2-drift-pack</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/grid-2-drift-pack/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/payday-2</guid>
+		<description><![CDATA[PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew &#8211; Dallas, Hoxton, Wolf and Chains &#8211; as they descend on Washington DC for an epic crime spree. The new CRIMENET network offers a huge range of dynamic contracts, and players are free to [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/payday-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Just Cause</title>
-		<link>https://cheap-and-cheerful.store/just-cause/</link>
-		<comments>https://cheap-and-cheerful.store/just-cause/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/just-cause</guid>
-		<description><![CDATA[¡Ya disponible! Acerca del juego ¡Es tu mundo y tú dictas las reglas! En Just Cause, eres un oficial de operaciones latino y un especialista en cambios de régimen apoyado por un departamento gubernamental estadounidense de alto secreto que trata de derrocar al corrupto gobierno de San Esperito. Se sospecha que este estado sudamericano está [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/just-cause/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Magicka: Wizards of the Square Tablet</title>
-		<link>https://cheap-and-cheerful.store/magicka-wizards-of-the-square-tablet/</link>
-		<comments>https://cheap-and-cheerful.store/magicka-wizards-of-the-square-tablet/#respond</comments>
+		<title>Resident Evil 6 Complete</title>
+		<link>http://cheap-and-cheerful.store/resident-evil-6-complete/</link>
+		<comments>http://cheap-and-cheerful.store/resident-evil-6-complete/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/magicka-wizards-of-the-square-tablet</guid>
-		<description><![CDATA[Exclusively for the PC version your wizard will get all in-game robes and staffs unlocked from the start in this enhanced square edition. Remove the grinding time and get right to the action with your choice of gear! All of these goodies will be unlocked on every other platform you choose to play on The [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/magicka-wizards-of-the-square-tablet/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Might and Magic Heroes VI Gold</title>
-		<link>https://cheap-and-cheerful.store/might-and-magic-heroes-vi-gold/</link>
-		<comments>https://cheap-and-cheerful.store/might-and-magic-heroes-vi-gold/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
 		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/might-and-magic-heroes-vi-gold</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/might-and-magic-heroes-vi-gold/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Prototype 2</title>
-		<link>https://cheap-and-cheerful.store/prototype-2/</link>
-		<comments>https://cheap-and-cheerful.store/prototype-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/prototype-2</guid>
-		<description><![CDATA[Bienvenido a New York Zero. Prototype® 2, la secuela del juego de acción de mundo abierto de Radical Entertainment que fue todo un éxito de ventas en 2009, Prototype, retoma la inimitable carnicería que instauró el original para continuar ofreciendo la experiencia de convertirse en el arma metamórfica definitiva. Eres el sargento James Heller. Has [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/prototype-2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Sleeping Dogs: Definitive Edition</title>
-		<link>https://cheap-and-cheerful.store/sleeping-dogs-definitive-edition/</link>
-		<comments>https://cheap-and-cheerful.store/sleeping-dogs-definitive-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/sleeping-dogs-definitive-edition</guid>
-		<description><![CDATA[La Definitive Edition del juego de acción que ha conseguido varios premios y excelentes críticas, rediseñado y remasterizado para la nueva generación. Se incluyen los 24 contenidos descargables anteriores, entre ellos el episodio adicional El año de la serpiente y Pesadilla en North Point, de temática de terror. Además se han añadido numerosas mejores visuales, [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/sleeping-dogs-definitive-edition/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/resident-evil-6-complete</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/resident-evil-6-complete/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sniper Ghost Warrior Gold Edition</title>
+		<link>http://cheap-and-cheerful.store/sniper-ghost-warrior-gold-edition/</link>
+		<comments>http://cheap-and-cheerful.store/sniper-ghost-warrior-gold-edition/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/sniper-ghost-warrior-gold-edition</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/sniper-ghost-warrior-gold-edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

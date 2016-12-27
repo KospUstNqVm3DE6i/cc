@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Steam Leaderboards &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="https://cheap-and-cheerful.store/category/features/steam-leaderboards/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cheap-and-cheerful.store/</link>
+	<atom:link href="http://cheap-and-cheerful.store/category/features/steam-leaderboards/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,61 +19,123 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
+	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Steam Leaderboards &#8211; Cheap &amp; Cheerful</title>
-	<link>https://cheap-and-cheerful.store/</link>
+	<link>http://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Dead Rising 3 Apocalypse Edition</title>
-		<link>https://cheap-and-cheerful.store/dead-rising-3-apocalypse-edition/</link>
-		<comments>https://cheap-and-cheerful.store/dead-rising-3-apocalypse-edition/#respond</comments>
+		<title>Darksiders II</title>
+		<link>http://cheap-and-cheerful.store/darksiders-ii/</link>
+		<comments>http://cheap-and-cheerful.store/darksiders-ii/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/darksiders-ii</guid>
+		<description><![CDATA[Crucible Mode Darksiders II presenta un modo de supervivencia en la arena llamado El Crisol, que permite a los jugadores seguir mejorando su personaje incluso después de haber terminado el juego principal y que ofrece el desafío definitivo. Características principales: Tras completar cinco de las 100 oleadas exclusivas del modo, los jugadores tendrán la opción [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/darksiders-ii/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GRID 2 &#8211; Drift Pack</title>
+		<link>http://cheap-and-cheerful.store/grid-2-drift-pack/</link>
+		<comments>http://cheap-and-cheerful.store/grid-2-drift-pack/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/dead-rising-3-apocalypse-edition</guid>
-		<description><![CDATA[Steam Big Picture Free Upgrade to Apocalypse Edition! Dead Rising 3 Apocalypse Edition now includes the ultimate open-world zombie game along with all four of the “Untold Stories of Los Perdidos” episodic downloadable add-on packs. Welcome to the Apocalypse, where your zombie slaying thrills await. Acerca del juego La edición Apocalipsis de Dead Rising 3 [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/dead-rising-3-apocalypse-edition/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/grid-2-drift-pack</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/grid-2-drift-pack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Guacamelee! Gold Edition</title>
-		<link>https://cheap-and-cheerful.store/guacamelee-gold-edition/</link>
-		<comments>https://cheap-and-cheerful.store/guacamelee-gold-edition/#respond</comments>
+		<title>Magicka: Mega Villain Robes</title>
+		<link>http://cheap-and-cheerful.store/magicka-mega-villain-robes/</link>
+		<comments>http://cheap-and-cheerful.store/magicka-mega-villain-robes/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/magicka-mega-villain-robes</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-mega-villain-robes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Serious Sam 3: BFE</title>
+		<link>http://cheap-and-cheerful.store/serious-sam-3-bfe/</link>
+		<comments>http://cheap-and-cheerful.store/serious-sam-3-bfe/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Bulgarian]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
@@ -82,157 +144,28 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/guacamelee-gold-edition</guid>
-		<description><![CDATA[Steam Workshop Acerca del juego Guacamelee! Gold Edition Es un juego de plataformas de acción de estilo Metroid-vania establecido en un mundo mágico de inspiración mexicana. Guacamelee!, desarrollado sobre el estilo clásico de juegos de mundo abierto de Metroid-vania, cuenta con adiciones tales como un fuerte componente de combate cuerpo a cuerpo, una nueva mecánica [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/guacamelee-gold-edition/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/serious-sam-3-bfe</guid>
+		<description><![CDATA[Serious Sam 3: BFE es el glorioso regreso a la edad de oro de los shooters en primera persona donde los hombres eran hombres, la cobertura era para novatos y pulsar el gatillo hacía que las cosas hicieran bum. Como precuela del título independiente original, Serious Sam: The First Encounter, Serious Sam 3 transcurre durante [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/serious-sam-3-bfe/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Magicka: The Other Side of the Coin</title>
-		<link>https://cheap-and-cheerful.store/magicka-the-other-side-of-the-coin/</link>
-		<comments>https://cheap-and-cheerful.store/magicka-the-other-side-of-the-coin/#respond</comments>
+		<title>Grey Goo</title>
+		<link>http://cheap-and-cheerful.store/grey-goo/</link>
+		<comments>http://cheap-and-cheerful.store/grey-goo/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/magicka-the-other-side-of-the-coin</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/magicka-the-other-side-of-the-coin/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Sniper Elite V2</title>
-		<link>https://cheap-and-cheerful.store/sniper-elite-v2/</link>
-		<comments>https://cheap-and-cheerful.store/sniper-elite-v2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
+				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/sniper-elite-v2</guid>
-		<description><![CDATA[En los oscuros días del final de la Segunda Guerra Mundial entre las ruinas de Berlín, una bala puede cambiar el curso de la historia&#8230; Sniper Elite V2 es la esperada secuela del aclamadísimo Sniper Elite, ofreciendo a los jugadores la experiencia de francotirador más auténtica ambientada en la Segunda Guerra Mundial. Eres el francotirador [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/sniper-elite-v2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Renegade Ops</title>
-		<link>https://cheap-and-cheerful.store/renegade-ops/</link>
-		<comments>https://cheap-and-cheerful.store/renegade-ops/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/renegade-ops</guid>
-		<description><![CDATA[Steam Exclusive Offer Ponte al volante del muscle car de Half-Life 2 y suelta a las hormigas león para ayudar a los Renegade Ops a luchar contra sus enemigos. Acerca del juego La destrucción nunca había sido tan alucinante.En Renegade Ops deberás derrotar a Inferno, un megalómano que intenta dominar el mundo. Destruye enemigos a [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/renegade-ops/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Orcs Must Die! 2</title>
-		<link>https://cheap-and-cheerful.store/orcs-must-die-2/</link>
-		<comments>https://cheap-and-cheerful.store/orcs-must-die-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/orcs-must-die-2</guid>
-		<description><![CDATA[Los has lanzado, quemado y rebanado a miles. ¡Ahora los orcos deben morir incluso más que antes! Busca un amigo y acabad con ingentes cantidades de orcos en la secuela del Juego de Estrategia del Año de AIAS creado por Robot Entertainment. Regresa a la lucha como un poderoso Mago Guerrero o como una astuta [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/orcs-must-die-2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Slender: The Arrival</title>
-		<link>https://cheap-and-cheerful.store/slender-the-arrival/</link>
-		<comments>https://cheap-and-cheerful.store/slender-the-arrival/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[VR Support]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/slender-the-arrival</guid>
-		<description><![CDATA[You&#8217;re on your own. No one to come for you. No one to help you. No one to hear you scream. Slender: The Arrival is the official videogame adaption of Slender Man, developed in collaboration with Eric &#34;Victor Surge&#34; Knudson, creator of the paranormal phenomenon that has been terrifying the curious-minded around the world since [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/slender-the-arrival/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Nuclear Dawn</title>
-		<link>https://cheap-and-cheerful.store/nuclear-dawn/</link>
-		<comments>https://cheap-and-cheerful.store/nuclear-dawn/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
@@ -242,50 +175,81 @@
 		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/nuclear-dawn</guid>
-		<description><![CDATA[Nuclear Dawn es el primer juego en ofrecer una experiencia completa FPS y RTS sin perjudicar a ninguna de las dos partes. Juega como un soldado en un paisaje post apocalíptico, modelado en base a ciudades modernas, y afronta la lucha con tus enemigos como infantería armada, de asalto o de sigilo, utilizando diversas armas [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/nuclear-dawn/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/grey-goo</guid>
+		<description><![CDATA[COMBATE EL CAOS. O APROVECHA SU PODER. Siglos después de que la Humanidad abandonara la Tierra por primera vez, todas las formas de vida en la Vía Láctea han evolucionado hacia una tranquilidad interior. Pero se ha producido una mutación. Un organismo misterioso se dirige hacia la superficie de un planeta solitario, con abundantes recursos, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/grey-goo/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Dawn of War Franchise Pack</title>
-		<link>https://cheap-and-cheerful.store/dawn-of-war-franchise-pack/</link>
-		<comments>https://cheap-and-cheerful.store/dawn-of-war-franchise-pack/#respond</comments>
+		<title>Life of Pixel</title>
+		<link>http://cheap-and-cheerful.store/life-of-pixel/</link>
+		<comments>http://cheap-and-cheerful.store/life-of-pixel/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/life-of-pixel</guid>
+		<description><![CDATA[Life of Pixel &#8211; 13 Game Machines in 1 Epic Adventure Game! Journey across the expertly-recreated worlds of more than a dozen vintage gaming systems, from Commodore 64 to Gameboy to Snes! Life of Pixel takes you on a historical tour-de-force across the rich landscape of 8-bit and 16-bit gaming. Chock-full of tricks &#38; traps, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/life-of-pixel/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Goat Simulator</title>
+		<link>http://cheap-and-cheerful.store/goat-simulator/</link>
+		<comments>http://cheap-and-cheerful.store/goat-simulator/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/dawn-of-war-franchise-pack</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/dawn-of-war-franchise-pack/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/goat-simulator</guid>
+		<description><![CDATA[Goat Simulator es lo último en tecnología de simulación de cabras y trae PARA TI el simulador caprino de próxima generación. Ya no tienes que fantasear con ser una cabra, ¡tus sueños por fin se han hecho realidad! WASD para escribir la historia. En cuanto a mecánica de juego, Goat Simulator va de causar tanta [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/goat-simulator/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Long Dark</title>
-		<link>https://cheap-and-cheerful.store/the-long-dark/</link>
-		<comments>https://cheap-and-cheerful.store/the-long-dark/#respond</comments>
+		<title>Muffin Knight</title>
+		<link>http://cheap-and-cheerful.store/muffin-knight/</link>
+		<comments>http://cheap-and-cheerful.store/muffin-knight/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Early Access]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
@@ -293,78 +257,133 @@
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-long-dark</guid>
-		<description><![CDATA[*** THE LONG DARK ES UN JUEGO CON ACCESO ANTICIPADO. ESTAMOS MEJORANDO CONSTANTEMENTE EL MUNDO ABIERTO, QUE AÚN NO ESTÁ TERMINADO. AL COMPRAR ESTA VERSIÓN AYUDARÁS AL DESARROLLO DEL JUEGO. PARA MÁS INFORMACIÓN, CONSULTA LOS DETALLES DEL ACCESO ANTICIPADO QUE ENCONTRARÁS MÁS ARRIBA. *** ¿En qué consiste The Long Dark? The Long Dark ofrece una experiencia de [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/the-long-dark/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/muffin-knight</guid>
+		<description><![CDATA[NEW GAME UPDATE – ALL THANKS TO YOUR GREAT FEEDBACK!!! Controller It’s now easier to configure your controller inputs (both in main menu and during gameplay) Added Controller presets for Xbox, Logitech and generic controllers Graphics You can now choose the graphics quality High also includes AntiAliasing If you ever have trouble and want to [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/muffin-knight/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Red Solstice</title>
-		<link>https://cheap-and-cheerful.store/the-red-solstice/</link>
-		<comments>https://cheap-and-cheerful.store/the-red-solstice/#respond</comments>
+		<title>Runestone Keeper</title>
+		<link>http://cheap-and-cheerful.store/runestone-keeper/</link>
+		<comments>http://cheap-and-cheerful.store/runestone-keeper/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
+				<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-red-solstice</guid>
-		<description><![CDATA[If you think you have what it takes to survive the onslaught, go forth, Space Marine! The Red Solstice is a tactical, squad-based survival game set in the distant future on Mars, playable in single-player or with up to 8 players in cooperative online multiplayer. Roam freely over huge maps, complete randomized objectives and deal [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/the-red-solstice/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/runestone-keeper</guid>
+		<description><![CDATA[Runestone Keeper is a challenging roguelike to roguelite dungeon crawler that blends classic role playing elements and turn-based combat strategy. Dive into the dungeon roguelite-ness and begin your very own epic adventure! Grab your rucksack, sharpen those dusty swords, step into the dark chamber and fight for glory! [Features] Randomly Generated Dungeon Elements – Almost [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/runestone-keeper/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Dead Horde</title>
-		<link>https://cheap-and-cheerful.store/dead-horde/</link>
-		<comments>https://cheap-and-cheerful.store/dead-horde/#respond</comments>
+		<title>Skullgirls</title>
+		<link>http://cheap-and-cheerful.store/skullgirls/</link>
+		<comments>http://cheap-and-cheerful.store/skullgirls/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/skullgirls</guid>
+		<description><![CDATA[Skullgirls es un juego de lucha en 2D con un ritmo frenético en el que el jugador controla a feroces guerreras en un mundo extraordinario de ambiente “deco oscuro”. Los novedosos sistemas del juego pondrán a prueba la destreza de los expertos en juegos de lucha y también harán las delicias de los novatos. Skullgirls [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/skullgirls/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Halo: Spartan Assault</title>
+		<link>http://cheap-and-cheerful.store/halo-spartan-assault/</link>
+		<comments>http://cheap-and-cheerful.store/halo-spartan-assault/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/dead-horde</guid>
-		<description><![CDATA[Como superviviente del virus mutante, junto a un compañero o por tu cuenta, deberás abrirte camino a través de los niveles de la ciudad, descubriendo nuevos desafíos y nuevos mutantes que destruir en cada nueva área. Con una gran variedad de armas a tu disposición, juntos deberéis acabar con la horda de mutantes carnívoros. El [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/dead-horde/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/halo-spartan-assault</guid>
+		<description><![CDATA[Halo: Spartan Assault lleva la emoción de Halo a Steam por primera vez. Enfréntate al Covenant en 30 misiones llenas de acción mientras exploras los orígenes del programa Spartan Ops presentado en Halo 4. Consigue logros de Steam, completa misiones y enfréntate a tus amigos para conseguir la mejor puntuación en los marcadores. ¡Spartan, es [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/halo-spartan-assault/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>HOARD</title>
+		<link>http://cheap-and-cheerful.store/hoard/</link>
+		<comments>http://cheap-and-cheerful.store/hoard/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/hoard</guid>
+		<description><![CDATA[TÚ ERES EL DRAGÓN: ¡Aterroriza pueblos! ¡Quema castillos! ¡Recoge oro y gemas! ¡Secuestra a las princesas! ¡Asa a los caballeros molestos! ¡Defiéndete de los ladrones! ¡Derriba gigantes! ¡Acumula tesoros! ¡Compite o coopera con otros dragones en épicas batallas multijugador! El objetivo es simple, pero desafiante: ¡acumula el mayor montón de oro posible!Cada acción que realices [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/hoard/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

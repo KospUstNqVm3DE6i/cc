@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Finnish &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="https://cheap-and-cheerful.store/category/supported-languages/finnish/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cheap-and-cheerful.store/</link>
+	<atom:link href="http://cheap-and-cheerful.store/category/supported-languages/finnish/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
+	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Finnish &#8211; Cheap &amp; Cheerful</title>
-	<link>https://cheap-and-cheerful.store/</link>
+	<link>http://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Half-Life Complete</title>
-		<link>https://cheap-and-cheerful.store/half-life-complete/</link>
-		<comments>https://cheap-and-cheerful.store/half-life-complete/#respond</comments>
+		<link>http://cheap-and-cheerful.store/half-life-complete/</link>
+		<comments>http://cheap-and-cheerful.store/half-life-complete/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -62,15 +62,15 @@
 		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/half-life-complete</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/half-life-complete</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/half-life-complete/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/half-life-complete/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Bridge</title>
-		<link>https://cheap-and-cheerful.store/the-bridge/</link>
-		<comments>https://cheap-and-cheerful.store/the-bridge/#respond</comments>
+		<link>http://cheap-and-cheerful.store/the-bridge/</link>
+		<comments>http://cheap-and-cheerful.store/the-bridge/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Arabic]]></category>
@@ -106,15 +106,15 @@
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-bridge</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/the-bridge</guid>
 		<description><![CDATA[The Bridge es un juego de lógica y puzles en dos dimensiones que obliga al jugador a reevaluar sus ideas preconcebidas sobre la física y la perspectiva. Es una mezcla entre Isaac Newton y M. C. Escher. Manipula la gravedad para convertir el techo en el suelo mientras te aventuras en arquitecturas imposibles. Explora mundos [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/the-bridge/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-bridge/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Lux Delux</title>
-		<link>https://cheap-and-cheerful.store/lux-delux/</link>
-		<comments>https://cheap-and-cheerful.store/lux-delux/#respond</comments>
+		<link>http://cheap-and-cheerful.store/lux-delux/</link>
+		<comments>http://cheap-and-cheerful.store/lux-delux/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Cross-Platform Multiplayer]]></category>
@@ -145,15 +145,15 @@
 		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/lux-delux</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/lux-delux</guid>
 		<description><![CDATA[Lux Delux es un frenético juego de estrategia por turnos sobre riesgo, dominación mundial y mucho más. Lux presenta muchas opciones de modificación y dispone de 900 mapas, distintos generadores de mapas aleatorios, un modo de peligro biológico, un SDK de IA y una liga multijugador en línea. ¡Conquista el mundo en 10 minutos! Multijugador [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/lux-delux/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/lux-delux/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Left 4 Dead 2</title>
-		<link>https://cheap-and-cheerful.store/left-4-dead-2/</link>
-		<comments>https://cheap-and-cheerful.store/left-4-dead-2/#respond</comments>
+		<link>http://cheap-and-cheerful.store/left-4-dead-2/</link>
+		<comments>http://cheap-and-cheerful.store/left-4-dead-2/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -189,15 +189,15 @@
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/left-4-dead-2</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/left-4-dead-2</guid>
 		<description><![CDATA[Ambientado en el apocalipsis zombi, Left 4 Dead 2 (L4D2) es la secuela largamente esperada del galardonado Left 4 Dead, el juego co-op número 1 de 2008. Este FPS cooperativo de acción y horror os llevará a ti y a tus amigos por las ciudades, pantanos y cementerios del Sur Profundo, desde Savannah hasta Nueva [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/left-4-dead-2/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/left-4-dead-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>ShootMania Storm</title>
-		<link>https://cheap-and-cheerful.store/shootmania-storm/</link>
-		<comments>https://cheap-and-cheerful.store/shootmania-storm/#respond</comments>
+		<link>http://cheap-and-cheerful.store/shootmania-storm/</link>
+		<comments>http://cheap-and-cheerful.store/shootmania-storm/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -226,15 +226,15 @@
 		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/shootmania-storm</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/shootmania-storm</guid>
 		<description><![CDATA[Jump in the most creative PC shooter! There is a lot to customize or create: skins, taunt horns, maps, textures, replays, game modes and much more. Leave your rocketgun aside for a while and bring your ideas to the game. Acerca del juego ShootMania the FPS “Powered By Players” ShootMania Storm is revolutionizing the multiplayer [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/shootmania-storm/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/shootmania-storm/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Broadside</title>
-		<link>https://cheap-and-cheerful.store/broadside/</link>
-		<comments>https://cheap-and-cheerful.store/broadside/#respond</comments>
+		<link>http://cheap-and-cheerful.store/broadside/</link>
+		<comments>http://cheap-and-cheerful.store/broadside/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -267,15 +267,15 @@
 		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/broadside</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/broadside</guid>
 		<description><![CDATA[Broadside is a pirate action adventure game focused on infamy and destruction. Players take on the role of a pirate taking part in tactical ship-to-ship battles and boarding actions. While preying on trade routes, fighting rival pirates and harassing the Royal Navy, the excitement of fast-paced sailing and sinking ships is rewarded with Infamy points. [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/broadside/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/broadside/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Left 4 Dead</title>
-		<link>https://cheap-and-cheerful.store/left-4-dead/</link>
-		<comments>https://cheap-and-cheerful.store/left-4-dead/#respond</comments>
+		<link>http://cheap-and-cheerful.store/left-4-dead/</link>
+		<comments>http://cheap-and-cheerful.store/left-4-dead/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -309,15 +309,15 @@
 		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/left-4-dead</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/left-4-dead</guid>
 		<description><![CDATA[Steam Big Picture Acerca del juego De la mano de Valve®, creadores de Counter-Strike®, Half-Life® y otros muchos juegos, llega Left 4 Dead™, una nueva aventura para PC y Xbox 360 que te meterá en la piel de uno de los cuatro &#34;supervivientes&#34; que libran una pugna de proporciones épicas contra hordas de zombis y [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/left-4-dead/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/left-4-dead/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>EDGE</title>
-		<link>https://cheap-and-cheerful.store/edge/</link>
-		<comments>https://cheap-and-cheerful.store/edge/#respond</comments>
+		<link>http://cheap-and-cheerful.store/edge/</link>
+		<comments>http://cheap-and-cheerful.store/edge/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -339,15 +339,15 @@
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/edge</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/edge</guid>
 		<description><![CDATA[¡EDGE, el galardonado plataformas de estilo retro ha sido ampliado! Descarga el DLC gratuito EDGE Extended, el cual contiene más de 40 niveles completamente nuevos, música adicional y nuevas carreras contra el famoso Dark Cube! En EDGE los jugadores toman el control directo del cubo y se abren paso rodando por las docenas de niveles [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/edge/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/edge/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Dangerous</title>
-		<link>https://cheap-and-cheerful.store/dangerous/</link>
-		<comments>https://cheap-and-cheerful.store/dangerous/#respond</comments>
+		<link>http://cheap-and-cheerful.store/dangerous/</link>
+		<comments>http://cheap-and-cheerful.store/dangerous/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -386,15 +386,15 @@
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/dangerous</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/dangerous</guid>
 		<description><![CDATA[Dangerous is an epic 3D open and living world space sandbox combat RPG with an immersive and riveting story. You have been awoken from cryo sleep a century later, and must discover the truth. Are you the feared war criminal who will destroy all life or the savior of the universe? Gather your wingmen and [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/dangerous/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/dangerous/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Portal 2</title>
-		<link>https://cheap-and-cheerful.store/portal-2/</link>
-		<comments>https://cheap-and-cheerful.store/portal-2/#respond</comments>
+		<link>http://cheap-and-cheerful.store/portal-2/</link>
+		<comments>http://cheap-and-cheerful.store/portal-2/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -433,15 +433,15 @@
 		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/portal-2</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/portal-2</guid>
 		<description><![CDATA[Portal 2 continúa con esa fórmula ganadora consistente en una innovadora mecánica de juego, historia y música que condujeron al Portal original a ganar más de 70 galardones y lo convirtieron en un nuevo mito de la industria. En el modo de un jugador de Portal 2 conoceremos a un nuevo elenco de personajes, gran [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/portal-2/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/portal-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Unmechanical</title>
-		<link>https://cheap-and-cheerful.store/unmechanical/</link>
-		<comments>https://cheap-and-cheerful.store/unmechanical/#respond</comments>
+		<link>http://cheap-and-cheerful.store/unmechanical/</link>
+		<comments>http://cheap-and-cheerful.store/unmechanical/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
@@ -465,15 +465,15 @@
 		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/unmechanical</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/unmechanical</guid>
 		<description><![CDATA[Unmechanical es una aventura de puzles que combina ingeniosos rompecabezas con una atmósfera fascinante que te atrapará conforme vayas explorando. Ambientado en un mundo fantástico de carne, roca y acero, en tu viaje hacia la libertad deberás resolver una gran variedad de retos mentales y, aunque puedan parecer sencillos al principio, los desafíos se irán [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/unmechanical/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/unmechanical/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Sometimes: Success Requires Sacrifice</title>
-		<link>https://cheap-and-cheerful.store/sometimes-success-requires-sacrifice/</link>
-		<comments>https://cheap-and-cheerful.store/sometimes-success-requires-sacrifice/#respond</comments>
+		<link>http://cheap-and-cheerful.store/sometimes-success-requires-sacrifice/</link>
+		<comments>http://cheap-and-cheerful.store/sometimes-success-requires-sacrifice/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -512,9 +512,9 @@
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/sometimes-success-requires-sacrifice</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/sometimes-success-requires-sacrifice</guid>
 		<description><![CDATA[Sometimes: Success Requires Sacrifice, the title says it all! You get thrown into a dark room, with no light to be found anywhere! Are you willing to end your life to light the way for the next generation to proceed further? Play it today and find out! Sometimes features a classic mode, as well as [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/sometimes-success-requires-sacrifice/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/sometimes-success-requires-sacrifice/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

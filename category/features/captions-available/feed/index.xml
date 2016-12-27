@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Captions available &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="https://cheap-and-cheerful.store/category/features/captions-available/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cheap-and-cheerful.store/</link>
+	<atom:link href="http://cheap-and-cheerful.store/category/features/captions-available/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,231 +19,16 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
+	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Captions available &#8211; Cheap &amp; Cheerful</title>
-	<link>https://cheap-and-cheerful.store/</link>
+	<link>http://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Arma 2</title>
-		<link>https://cheap-and-cheerful.store/arma-2/</link>
-		<comments>https://cheap-and-cheerful.store/arma-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/arma-2</guid>
-		<description><![CDATA[Cimentado sobre 10 años de constante desarrollo del motor, ARMA II ofrece el entorno de combate más realista del mundo. Imita fielmente la balística y desviación del disparo del mundo real, la penetración en función del material, tiene un ciclo real de día y noche, viento dinámico, meteorología y efectos ambientales. La simulación de un [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/arma-2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Portal 2</title>
-		<link>https://cheap-and-cheerful.store/portal-2/</link>
-		<comments>https://cheap-and-cheerful.store/portal-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/portal-2</guid>
-		<description><![CDATA[Portal 2 continúa con esa fórmula ganadora consistente en una innovadora mecánica de juego, historia y música que condujeron al Portal original a ganar más de 70 galardones y lo convirtieron en un nuevo mito de la industria. En el modo de un jugador de Portal 2 conoceremos a un nuevo elenco de personajes, gran [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/portal-2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Kraven Manor</title>
-		<link>https://cheap-and-cheerful.store/kraven-manor/</link>
-		<comments>https://cheap-and-cheerful.store/kraven-manor/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Ukrainian]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/kraven-manor</guid>
-		<description><![CDATA[The Journey of a Student Game Beginning as students, our team quickly realized that the Let&#8217;s Play horror community was taking great interest in Kraven Manor. We decided to venture out, create Demon Wagon Studios, and self-publish so that we may share our game with the world. Thanks for letting us scare you for two [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/kraven-manor/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Yargis &#8211; Space Melee</title>
-		<link>https://cheap-and-cheerful.store/yargis-space-melee/</link>
-		<comments>https://cheap-and-cheerful.store/yargis-space-melee/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/yargis-space-melee</guid>
-		<description><![CDATA[Yargis is a fast paced, top down spaceship shooter. Customize your ship to join a battle online or offline. Yargis is focused on team based, close combat action. The game has a variety of battle and co-op game modes and a powerful editor make Yargis a great game! CONTROLS: Hold down W for Thrust, use [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/yargis-space-melee/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Bedlam</title>
-		<link>https://cheap-and-cheerful.store/bedlam/</link>
-		<comments>https://cheap-and-cheerful.store/bedlam/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/bedlam</guid>
-		<description><![CDATA[BEDLAM &#8211; THE GENRE JUMPING SHOOTER Bedlam is a unique FPS game based on a novel of the same name by cult Scottish author Christopher Brookmyre. Pitched as a shooter for those who survived online gaming in the 80s and 90s, Bedlam takes a look through an iconic time in online gaming and serves up [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/bedlam/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>X3: Terran Conflict</title>
-		<link>https://cheap-and-cheerful.store/x3-terran-conflict/</link>
-		<comments>https://cheap-and-cheerful.store/x3-terran-conflict/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/x3-terran-conflict</guid>
-		<description><![CDATA[Es el año 2938. El muy esperado encuentro entre Universo X y la Tierra mantiene sentimientos tanto de alegría como de tristeza en la gente. ¡A pesar del floreciente comercio, el choque entre las diversas razas, culturas y formas de vidas crea nuevas tensiones, desconfianza y abiertos conflictos que deben ser superados! Vive el expectacular [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/x3-terran-conflict/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Arma 2: Combined Operations</title>
-		<link>https://cheap-and-cheerful.store/arma-2-combined-operations/</link>
-		<comments>https://cheap-and-cheerful.store/arma-2-combined-operations/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/arma-2-combined-operations</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/arma-2-combined-operations/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Portal</title>
-		<link>https://cheap-and-cheerful.store/portal/</link>
-		<comments>https://cheap-and-cheerful.store/portal/#respond</comments>
+		<title>Half-Life Complete</title>
+		<link>http://cheap-and-cheerful.store/half-life-complete/</link>
+		<comments>http://cheap-and-cheerful.store/half-life-complete/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -255,11 +40,11 @@
 		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Norwegian]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
@@ -268,93 +53,123 @@
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Thai]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/portal</guid>
-		<description><![CDATA[Portal&#8482; es la nueva aventura para un solo jugador de Valve. Ambientado en los misteriosos laboratorios de Aperture Science, Portal ha sido calificado como uno de los juegos más innovadores de los últimos tiempos y ofrece incontables horas de rompecabezas nunca vistos. El juego está diseñado para cambiar radicalmente el modo en que los jugadores [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/portal/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Take on Helicopters Bundle</title>
-		<link>https://cheap-and-cheerful.store/take-on-helicopters-bundle/</link>
-		<comments>https://cheap-and-cheerful.store/take-on-helicopters-bundle/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/take-on-helicopters-bundle</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/half-life-complete</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/take-on-helicopters-bundle/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/half-life-complete/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Vortex Attack</title>
-		<link>https://cheap-and-cheerful.store/vortex-attack/</link>
-		<comments>https://cheap-and-cheerful.store/vortex-attack/#respond</comments>
+		<title>Home is Where One Starts&#8230;</title>
+		<link>http://cheap-and-cheerful.store/home-is-where-one-starts/</link>
+		<comments>http://cheap-and-cheerful.store/home-is-where-one-starts/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
+				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/vortex-attack</guid>
-		<description><![CDATA[Vortex Attack Un juego fácil de jugar, difícil de conquistar. Vortex Attack es un adictivo juego shmup frenético con torneos. Vortex Attack cuenta con gran cantidad de efectos visuales, un innovador sistema de vórtices una enorme variedad de naves mejorables y multijugador hasta 3 jugadores en pantalla este juego le da un giro de tuerca [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/vortex-attack/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/home-is-where-one-starts</guid>
+		<description><![CDATA[“I remember when I was a little girl, waiting at the end of my driveway. I had already missed the school bus, but I stood there anyway… envying the birds.” Home is Where One Starts&#8230; is a short, first-person exploration game in the same vein as Dear Esther or Gone Home. It’s an experience where [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/home-is-where-one-starts/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>SanctuaryRPG: Black Edition</title>
-		<link>https://cheap-and-cheerful.store/sanctuaryrpg-black-edition/</link>
-		<comments>https://cheap-and-cheerful.store/sanctuaryrpg-black-edition/#respond</comments>
+		<title>Miner Wars 2081</title>
+		<link>http://cheap-and-cheerful.store/miner-wars-2081/</link>
+		<comments>http://cheap-and-cheerful.store/miner-wars-2081/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/sanctuaryrpg-black-edition</guid>
-		<description><![CDATA[As the world&#8217;s first fully-ASCII game to grace the Steam platform, SanctuaryRPG: Black Edition is a humorous and strategic turn-based dungeon crawling adventure. Drawing heavy inspiration from both Roguelikes and Japanese RPGs, the game was meticulously designed to offer a truly compelling role-playing experience complete with a robust action-rpg inspired combat system. Black Edition builds [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/sanctuaryrpg-black-edition/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/miner-wars-2081</guid>
+		<description><![CDATA[Steam Greenlight Soundtrack Included With Purchase! Songs will be placed in your Miner Wars 2081 folder in the Steam Directory: &#8230;\Steam\SteamApps\Common\MinerWars\Soundtrack Acerca del juego Miner Wars 2081 is a 6DOF action-survival space-shooter simulation-game set in the year 2081, 10 years after the destruction of all planetary objects in the Solar System. You operate an advanced [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/miner-wars-2081/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Charnel House Trilogy</title>
-		<link>https://cheap-and-cheerful.store/the-charnel-house-trilogy/</link>
-		<comments>https://cheap-and-cheerful.store/the-charnel-house-trilogy/#respond</comments>
+		<title>Moebius: Empire Rising</title>
+		<link>http://cheap-and-cheerful.store/moebius-empire-rising/</link>
+		<comments>http://cheap-and-cheerful.store/moebius-empire-rising/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/moebius-empire-rising</guid>
+		<description><![CDATA[This thrilling new adventure game from master storyteller Jane Jensen (Gabriel Knight, Gray Matter) and Phoenix Online Studios (Cognition, The Silver Lining) introduces Malachi Rector, an expert in antiquities whose photographic memory and eye for detail transform people and clues into interactive puzzles. When a secretive government agency enlists him to determine whether a murdered [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/moebius-empire-rising/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Original War</title>
+		<link>http://cheap-and-cheerful.store/original-war/</link>
+		<comments>http://cheap-and-cheerful.store/original-war/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/original-war</guid>
+		<description><![CDATA[An American geological expedition, under a UN mandate, assesses the natural resources in a distant part of Siberia, deep in the trackless steppes of Eastern Russia. But instead of oil, they discover a deposit of a hitherto unknown mineral. American scientists working for Department of Defense find out that this mineral is in fact identical [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/original-war/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dominique Pamplemousse</title>
+		<link>http://cheap-and-cheerful.store/dominique-pamplemousse/</link>
+		<comments>http://cheap-and-cheerful.store/dominique-pamplemousse/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
@@ -362,13 +177,190 @@
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/dominique-pamplemousse</guid>
+		<description><![CDATA[Dominique Pamplemousse in “It’s All Over Once The Fat Lady Sings!” is a unique and offbeat stop motion animated detective adventure game about gender and the economy. Also, all the characters frequently burst into song.]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/dominique-pamplemousse/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Left 4 Dead 2</title>
+		<link>http://cheap-and-cheerful.store/left-4-dead-2/</link>
+		<comments>http://cheap-and-cheerful.store/left-4-dead-2/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/left-4-dead-2</guid>
+		<description><![CDATA[Ambientado en el apocalipsis zombi, Left 4 Dead 2 (L4D2) es la secuela largamente esperada del galardonado Left 4 Dead, el juego co-op número 1 de 2008. Este FPS cooperativo de acción y horror os llevará a ti y a tus amigos por las ciudades, pantanos y cementerios del Sur Profundo, desde Savannah hasta Nueva [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/left-4-dead-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Take On Helicopters</title>
+		<link>http://cheap-and-cheerful.store/take-on-helicopters/</link>
+		<comments>http://cheap-and-cheerful.store/take-on-helicopters/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/take-on-helicopters</guid>
+		<description><![CDATA[Te presentamos el nuevo juego de helicópteros del desarrollador independiente Bohemia Interactive, creador de la premiada saga de simulación militar ArmA 2. Cimentado sobre más de 10 años de experiencia en el desarrollo de simuladores de máxima calidad, Take On Helicopters sumerge a los jugadores en ricos y bonitos paisajes y ofrece un modelo de [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/take-on-helicopters/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Escape Goat</title>
+		<link>http://cheap-and-cheerful.store/escape-goat/</link>
+		<comments>http://cheap-and-cheerful.store/escape-goat/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/escape-goat</guid>
+		<description><![CDATA[Escape Goat is a puzzle platformer where you take control of a goat, who has been imprisoned for witchcraft, and overcome traps and obstacles to escape the Prison of Agnus. Fear not, for with your supreme agility, sturdy horns, and the help of a magic mouse friend, you can turn the tables on foes and [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/escape-goat/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sudeki</title>
+		<link>http://cheap-and-cheerful.store/sudeki/</link>
+		<comments>http://cheap-and-cheerful.store/sudeki/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/sudeki</guid>
+		<description><![CDATA[Sudeki, un mundo desgarrado en la luz, la sombra y la oscuridad. Destrozada por el engaño y la traición, la tierra clama por una paz que sólo cuatro héroes unidos pueden traer. Más allá de los muros protectores del Castillo de Illumina se extienden kilómetros de bucólica campiña, el que antaño era un tranquilo paraje [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/sudeki/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Outlast</title>
+		<link>http://cheap-and-cheerful.store/outlast/</link>
+		<comments>http://cheap-and-cheerful.store/outlast/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-charnel-house-trilogy</guid>
-		<description><![CDATA[A train&#8217;s whistle sounds in the dead of night. Snow falls on deserted tracks. Somewhere, in the city, a woman prepares to leave on a journey that will change her life. Somewhere, in the country, a man drives to his final destination. Witness The Charnel House Trilogy, the chronicle of one fateful night aboard a [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/the-charnel-house-trilogy/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/outlast</guid>
+		<description><![CDATA[Hell is an experiment you can&#8217;t survive in Outlast, a first-person survival horror game developed by veterans of some of the biggest game franchises in history. As investigative journalist Miles Upshur, explore Mount Massive Asylum and try to survive long enough to discover its terrible secret&#8230; if you dare. Synopsis: In the remote mountains of [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/outlast/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Banner Saga</title>
+		<link>http://cheap-and-cheerful.store/the-banner-saga/</link>
+		<comments>http://cheap-and-cheerful.store/the-banner-saga/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/the-banner-saga</guid>
+		<description><![CDATA[Live through an epic role-playing Viking saga where your strategic choices directly affect your personal journey. Make allies as you travel with your caravan across this stunning yet harsh landscape. Carefully choose those who will help fight a new threat that jeopardizes an entire civilization. Every decision you make in travel, conversation and combat has [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-banner-saga/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

@@ -6,8 +6,8 @@
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url('https://cheap-and-cheerful.store/wp-content/themes/custombootstrap/fonts/fontawesome-webfont.eot?v=4.6.1');
-  src: url('https://cheap-and-cheerful.store/wp-content/themes/custombootstrap/fonts/fontawesome-webfont.eot#iefix&v=4.6.1') format('embedded-opentype'), url('https://cheap-and-cheerful.store/wp-content/themes/custombootstrap/fonts/fontawesome-webfont.woff2?v=4.6.1') format('woff2'), url('https://cheap-and-cheerful.store/wp-content/themes/custombootstrap/fonts/fontawesome-webfont.woff?v=4.6.1') format('woff'), url('https://cheap-and-cheerful.store/wp-content/themes/custombootstrap/fonts/fontawesome-webfont.ttf?v=4.6.1') format('truetype'), url('https://cheap-and-cheerful.store/wp-content/themes/custombootstrap/fonts/fontawesome-webfont.svg?v=4.6.1#fontawesomeregular') format('svg');
+  src: url('http://cheap-and-cheerful.store/wp-content/themes/custombootstrap/fonts/fontawesome-webfont.eot?v=4.6.1');
+  src: url('http://cheap-and-cheerful.store/wp-content/themes/custombootstrap/fonts/fontawesome-webfont.eot#iefix&v=4.6.1') format('embedded-opentype'), url('http://cheap-and-cheerful.store/wp-content/themes/custombootstrap/fonts/fontawesome-webfont.woff2?v=4.6.1') format('woff2'), url('http://cheap-and-cheerful.store/wp-content/themes/custombootstrap/fonts/fontawesome-webfont.woff?v=4.6.1') format('woff'), url('http://cheap-and-cheerful.store/wp-content/themes/custombootstrap/fonts/fontawesome-webfont.ttf?v=4.6.1') format('truetype'), url('http://cheap-and-cheerful.store/wp-content/themes/custombootstrap/fonts/fontawesome-webfont.svg?v=4.6.1#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }

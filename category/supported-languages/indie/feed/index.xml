@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Indie &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="https://cheap-and-cheerful.store/category/supported-languages/indie/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cheap-and-cheerful.store/</link>
+	<atom:link href="http://cheap-and-cheerful.store/category/supported-languages/indie/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
+	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Indie &#8211; Cheap &amp; Cheerful</title>
-	<link>https://cheap-and-cheerful.store/</link>
+	<link>http://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Banished</title>
-		<link>https://cheap-and-cheerful.store/banished/</link>
-		<comments>https://cheap-and-cheerful.store/banished/#respond</comments>
+		<link>http://cheap-and-cheerful.store/banished/</link>
+		<comments>http://cheap-and-cheerful.store/banished/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
@@ -38,15 +38,15 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/banished</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/banished</guid>
 		<description><![CDATA[In this city-building strategy game, you control a group of exiled travelers who decide to restart their lives in a new land. They have only the clothes on their backs and a cart filled with supplies from their homeland. The townspeople of Banished are your primary resource. They are born, grow older, work, have children [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/banished/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/banished/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Prison Architect</title>
-		<link>https://cheap-and-cheerful.store/prison-architect/</link>
-		<comments>https://cheap-and-cheerful.store/prison-architect/#respond</comments>
+		<link>http://cheap-and-cheerful.store/prison-architect/</link>
+		<comments>http://cheap-and-cheerful.store/prison-architect/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Early Access]]></category>
@@ -58,15 +58,15 @@
 		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/prison-architect</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/prison-architect</guid>
 		<description><![CDATA[Crea y gestiona una prisión de máxima seguridad. El reloj se pone en marcha desde el mismo momento que los rayos de sol alumbran los muros de la cárcel de buena mañana. Primero, tendrás que construir un bloque de celdas provisionales para mantener a raya a los futuros reclusos de tu prisión de máxima seguridad. [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/prison-architect/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/prison-architect/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Cosmos is MINE!</title>
-		<link>https://cheap-and-cheerful.store/the-cosmos-is-mine/</link>
-		<comments>https://cheap-and-cheerful.store/the-cosmos-is-mine/#respond</comments>
+		<link>http://cheap-and-cheerful.store/the-cosmos-is-mine/</link>
+		<comments>http://cheap-and-cheerful.store/the-cosmos-is-mine/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Early Access]]></category>
@@ -75,15 +75,15 @@
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-cosmos-is-mine</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/the-cosmos-is-mine</guid>
 		<description><![CDATA[Welcome Ambitious Space Prospector! First off, thanks for checking out The Cosmos Is MINE! Set in an alternate 1950s universe, The Cosmos is MINE! is a multiplayer RTS where you control a galactic prospecting team in an interstellar resource war against other greedy space miners. With an engrossing two-method system to victory and amusing tongue-in-cheek [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/the-cosmos-is-mine/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-cosmos-is-mine/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Republique</title>
-		<link>https://cheap-and-cheerful.store/republique/</link>
-		<comments>https://cheap-and-cheerful.store/republique/#respond</comments>
+		<link>http://cheap-and-cheerful.store/republique/</link>
+		<comments>http://cheap-and-cheerful.store/republique/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -102,15 +102,15 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/republique</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/republique</guid>
 		<description><![CDATA[¡Por fin ya está aquí République: Episodio 5: Terminus! En Camouflaj estamos todos ansiosos por lanzar finalmente el quinto y último capítulo de République. A todos los que han esperado la conclusión de la serie, les agradecemos profundamente su paciencia y apoyo. El equipo de Camouflaj se ha volcado enteramente en este épico episodio final, [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/republique/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/republique/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>InnerCube</title>
-		<link>https://cheap-and-cheerful.store/innercube/</link>
-		<comments>https://cheap-and-cheerful.store/innercube/#respond</comments>
+		<link>http://cheap-and-cheerful.store/innercube/</link>
+		<comments>http://cheap-and-cheerful.store/innercube/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Casual]]></category>
@@ -120,15 +120,15 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/innercube</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/innercube</guid>
 		<description><![CDATA[Think, Roll, Match, Survive! InnerCube is an action-puzzle game, where you control a multi-colored cube using the keyboard to navigate around a grid. Capture colored tiles by rolling the identical color on the cube on top of a tile. Choose from two different modes: a challenging Puzzle Mode where every move counts or a fast [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/innercube/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/innercube/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Dear Esther</title>
-		<link>https://cheap-and-cheerful.store/dear-esther/</link>
-		<comments>https://cheap-and-cheerful.store/dear-esther/#respond</comments>
+		<link>http://cheap-and-cheerful.store/dear-esther/</link>
+		<comments>http://cheap-and-cheerful.store/dear-esther/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
@@ -139,15 +139,15 @@
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/dear-esther</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/dear-esther</guid>
 		<description><![CDATA[“A deserted island…a lost man…memories of a fatal crash…a book written by a dying explorer.” Two years in the making, the highly anticipated Indie remake of the cult mod Dear Esther arrives on PC. Dear Esther immerses you in a stunningly realised world, a remote and desolate island somewhere in the outer Hebrides. As you [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/dear-esther/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/dear-esther/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Breezeblox</title>
-		<link>https://cheap-and-cheerful.store/breezeblox/</link>
-		<comments>https://cheap-and-cheerful.store/breezeblox/#respond</comments>
+		<link>http://cheap-and-cheerful.store/breezeblox/</link>
+		<comments>http://cheap-and-cheerful.store/breezeblox/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Casual]]></category>
@@ -159,15 +159,15 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/breezeblox</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/breezeblox</guid>
 		<description><![CDATA[Breezeblox is an addictive puzzle game where the objective is to reach the end cube without moving off the platform. Special cubes throughout the puzzles will trigger different actions on the platform to aid you with progressing. With 150 challenging puzzles to complete, your brain will be plenty busy.]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/breezeblox/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/breezeblox/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Night of the Rabbit</title>
-		<link>https://cheap-and-cheerful.store/the-night-of-the-rabbit/</link>
-		<comments>https://cheap-and-cheerful.store/the-night-of-the-rabbit/#respond</comments>
+		<link>http://cheap-and-cheerful.store/the-night-of-the-rabbit/</link>
+		<comments>http://cheap-and-cheerful.store/the-night-of-the-rabbit/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
@@ -186,15 +186,15 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-night-of-the-rabbit</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/the-night-of-the-rabbit</guid>
 		<description><![CDATA[Sumérgete en una historia de magia y fantasía donde todo es posible y donde nada es lo que parece: únete al joven Jerry y persigue a un peculiar conejo blanco hasta el maravilloso reino de Mousewood, una tierra llena de misterio donde las criaturas más extrañas saben hablar. Es en este lugar donde el sueño [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/the-night-of-the-rabbit/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-night-of-the-rabbit/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>FOTONICA</title>
-		<link>https://cheap-and-cheerful.store/fotonica/</link>
-		<comments>https://cheap-and-cheerful.store/fotonica/#respond</comments>
+		<link>http://cheap-and-cheerful.store/fotonica/</link>
+		<comments>http://cheap-and-cheerful.store/fotonica/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -217,15 +217,15 @@
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/fotonica</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/fotonica</guid>
 		<description><![CDATA[FOTONICA es un juego de carreras, saltos, velocidad y descubrimiento en primera persona. Mantén apretado cualquier botón para correr, suelta para saltar, y mantenlo apretado mientras estás en el aire para aterrizar velozmente. El objetivo es atravesar los ambientes del juego con perfecta destreza, en el tiempo que se da para explorarlo. El escenario es [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/fotonica/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/fotonica/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>SpeedRunners</title>
-		<link>https://cheap-and-cheerful.store/speedrunners/</link>
-		<comments>https://cheap-and-cheerful.store/speedrunners/#respond</comments>
+		<link>http://cheap-and-cheerful.store/speedrunners/</link>
+		<comments>http://cheap-and-cheerful.store/speedrunners/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -256,15 +256,15 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/speedrunners</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/speedrunners</guid>
 		<description><![CDATA[En una ciudad llena de superhéroe, llegar a los crímenes se convierte en una competición para cada uno. Afortunamente hay suficientes cohetes, bombas, ganchos, pinchos, y otras mejoras tiradas por los alrededores &#8212; para hacer la competición divertida y rápida. Bienvenido a SpeedRunners. Speedrunners es un competitivo plataformas de 4 jugadores con ganchos, poderes, y [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/speedrunners/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/speedrunners/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Year Walk</title>
-		<link>https://cheap-and-cheerful.store/year-walk/</link>
-		<comments>https://cheap-and-cheerful.store/year-walk/#respond</comments>
+		<link>http://cheap-and-cheerful.store/year-walk/</link>
+		<comments>http://cheap-and-cheerful.store/year-walk/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
@@ -273,15 +273,15 @@
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/year-walk</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/year-walk</guid>
 		<description><![CDATA[In the old days man tried to catch a glimpse of the future in the strangest of ways. Experience the ancient Swedish phenomena of year walking through a different kind of first person adventure that blurs the line between two and three dimensions, as well as reality and the supernatural. Venture out into the dark [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/year-walk/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/year-walk/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Bus Driver</title>
-		<link>https://cheap-and-cheerful.store/bus-driver/</link>
-		<comments>https://cheap-and-cheerful.store/bus-driver/#respond</comments>
+		<link>http://cheap-and-cheerful.store/bus-driver/</link>
+		<comments>http://cheap-and-cheerful.store/bus-driver/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Dutch]]></category>
@@ -295,9 +295,9 @@
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/bus-driver</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/bus-driver</guid>
 		<description><![CDATA[In Bus Driver, your job is to transport passengers around an attractive and realistic city. You must drive to a timetable on a planned route, whilst obeying traffic rules, and taking care not to upset or injure your passengers. This makes Bus Driver unlike any other driving game &#8211; the experience of driving a bus [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/bus-driver/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/bus-driver/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

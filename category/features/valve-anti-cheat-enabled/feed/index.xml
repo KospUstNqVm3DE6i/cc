@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Valve Anti-Cheat enabled &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="https://cheap-and-cheerful.store/category/features/valve-anti-cheat-enabled/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cheap-and-cheerful.store/</link>
+	<atom:link href="http://cheap-and-cheerful.store/category/features/valve-anti-cheat-enabled/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
+	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Valve Anti-Cheat enabled &#8211; Cheap &amp; Cheerful</title>
-	<link>https://cheap-and-cheerful.store/</link>
+	<link>http://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Dead Island Riptide</title>
-		<link>https://cheap-and-cheerful.store/dead-island-riptide/</link>
-		<comments>https://cheap-and-cheerful.store/dead-island-riptide/#respond</comments>
+		<link>http://cheap-and-cheerful.store/dead-island-riptide/</link>
+		<comments>http://cheap-and-cheerful.store/dead-island-riptide/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -48,15 +48,15 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/dead-island-riptide</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/dead-island-riptide</guid>
 		<description><![CDATA[They thought they had escaped Banoi, but can&#8217;t wake up from this nightmare. Thrown back into the midst of the Zombie outbreak, the fight for survival continues! Dead Island Riptide takes players to the island of Palanai on the Banoi archipelago, infested with bloodthirsty Zombies and only a few remaining Survivors still fighting for their [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/dead-island-riptide/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/dead-island-riptide/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Magicka: Vietnam</title>
-		<link>https://cheap-and-cheerful.store/magicka-vietnam/</link>
-		<comments>https://cheap-and-cheerful.store/magicka-vietnam/#respond</comments>
+		<link>http://cheap-and-cheerful.store/magicka-vietnam/</link>
+		<comments>http://cheap-and-cheerful.store/magicka-vietnam/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -75,15 +75,15 @@
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/magicka-vietnam</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/magicka-vietnam</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/magicka-vietnam/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-vietnam/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Loadout</title>
-		<link>https://cheap-and-cheerful.store/loadout/</link>
-		<comments>https://cheap-and-cheerful.store/loadout/#respond</comments>
+		<link>http://cheap-and-cheerful.store/loadout/</link>
+		<comments>http://cheap-and-cheerful.store/loadout/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -108,15 +108,15 @@
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/loadout</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/loadout</guid>
 		<description><![CDATA[¡Oh, sí, Loadout es un shooter multijugador nuevo y extravagante en donde lo primero y lo último son las armas! Crea un increíble arsenal de una enorme variedad (miles de millones de combinaciones) totalmente personalizado, totalmente único y totalmente letal. Nuestro robusto sistema modular de fabricación de armas permite que los jugadores creen sus propias [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/loadout/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/loadout/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Out of Reach</title>
-		<link>https://cheap-and-cheerful.store/out-of-reach/</link>
-		<comments>https://cheap-and-cheerful.store/out-of-reach/#respond</comments>
+		<link>http://cheap-and-cheerful.store/out-of-reach/</link>
+		<comments>http://cheap-and-cheerful.store/out-of-reach/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -130,15 +130,15 @@
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/out-of-reach</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/out-of-reach</guid>
 		<description><![CDATA[Upcoming updates Current Top 5 biggest add-ons requested by players that will come along with the next patches: Island claiming! Old stronghold When you really want to settle down and a big base is not enough, you may want to claim the island as yours. Look for abandoned fortifications and use it&#8217;s masts to stick [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/out-of-reach/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/out-of-reach/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Dead Island: Game of the Year Edition</title>
-		<link>https://cheap-and-cheerful.store/dead-island-game-of-the-year-edition/</link>
-		<comments>https://cheap-and-cheerful.store/dead-island-game-of-the-year-edition/#respond</comments>
+		<link>http://cheap-and-cheerful.store/dead-island-game-of-the-year-edition/</link>
+		<comments>http://cheap-and-cheerful.store/dead-island-game-of-the-year-edition/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -162,15 +162,15 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/dead-island-game-of-the-year-edition</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/dead-island-game-of-the-year-edition</guid>
 		<description><![CDATA[Ужас. Насилие. Безумие. Бедлам. Праздничные каникулы превратились в нечто ужасное. Тропический остров наполняется хаосом после загадочного появления толп зомби. Единственный шанс выжить — это бороться насмерть, чтобы найти выход с этого острова, где вы просто-напросто отрезаны от всего остального мира. Dead Island сочетает в себе экшен с видом от первого лица с особенным вниманием к [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/dead-island-game-of-the-year-edition/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/dead-island-game-of-the-year-edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Red Orchestra: Ostfront 41-45</title>
-		<link>https://cheap-and-cheerful.store/red-orchestra-ostfront-41-45/</link>
-		<comments>https://cheap-and-cheerful.store/red-orchestra-ostfront-41-45/#respond</comments>
+		<link>http://cheap-and-cheerful.store/red-orchestra-ostfront-41-45/</link>
+		<comments>http://cheap-and-cheerful.store/red-orchestra-ostfront-41-45/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -181,15 +181,15 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/red-orchestra-ostfront-41-45</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/red-orchestra-ostfront-41-45</guid>
 		<description><![CDATA[Lucha en el campo de batalla que cambió el mundo para siempre. Lucha junto a tus compatriotas en algunos de los entornos más inhóspitos del Frente Oriental en Red Orchestra: Ostfront 41-45. Red Orchestra te sitúa en el combate multijugador en primera persona sobre la Segunda Guerra Mundial más realista hasta la fecha en PC y permite [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/red-orchestra-ostfront-41-45/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/red-orchestra-ostfront-41-45/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Nuclear Dawn</title>
-		<link>https://cheap-and-cheerful.store/nuclear-dawn/</link>
-		<comments>https://cheap-and-cheerful.store/nuclear-dawn/#respond</comments>
+		<link>http://cheap-and-cheerful.store/nuclear-dawn/</link>
+		<comments>http://cheap-and-cheerful.store/nuclear-dawn/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -210,15 +210,15 @@
 		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/nuclear-dawn</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/nuclear-dawn</guid>
 		<description><![CDATA[Nuclear Dawn es el primer juego en ofrecer una experiencia completa FPS y RTS sin perjudicar a ninguna de las dos partes. Juega como un soldado en un paisaje post apocalíptico, modelado en base a ciudades modernas, y afronta la lucha con tus enemigos como infantería armada, de asalto o de sigilo, utilizando diversas armas [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/nuclear-dawn/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/nuclear-dawn/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Natural Selection 2</title>
-		<link>https://cheap-and-cheerful.store/natural-selection-2/</link>
-		<comments>https://cheap-and-cheerful.store/natural-selection-2/#respond</comments>
+		<link>http://cheap-and-cheerful.store/natural-selection-2/</link>
+		<comments>http://cheap-and-cheerful.store/natural-selection-2/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -237,15 +237,15 @@
 		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/natural-selection-2</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/natural-selection-2</guid>
 		<description><![CDATA[Natural Selection 2 pits alien against human in an action-packed struggle for survival. Wield devastating weaponry as a Frontiersman marine, or become the xenomorph as a deadly Kharaa lifeform. Strategy Meets Shooter Natural Selection 2 is a First Person Shooter and Real Time Stategy game rolled into one! Each team, alien and human, has a [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/natural-selection-2/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/natural-selection-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Evolve</title>
-		<link>https://cheap-and-cheerful.store/evolve/</link>
-		<comments>https://cheap-and-cheerful.store/evolve/#respond</comments>
+		<link>http://cheap-and-cheerful.store/evolve/</link>
+		<comments>http://cheap-and-cheerful.store/evolve/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -266,15 +266,15 @@
 		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/evolve</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/evolve</guid>
 		<description><![CDATA[Evolve ha sido galardonado con más de 60 premios, ¡y ahora puedes jugar gratis con Evolve fase 2! En un mundo sin ley donde el hombre se enfrenta a la naturaleza a diario, ¿serás el cazador o la presa? Turtle Rock presenta Evolve fase 2, un juego de disparos multijugador gratuito de próxima generación que [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/evolve/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/evolve/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Resident Evil 6 Complete</title>
-		<link>https://cheap-and-cheerful.store/resident-evil-6-complete/</link>
-		<comments>https://cheap-and-cheerful.store/resident-evil-6-complete/#respond</comments>
+		<link>http://cheap-and-cheerful.store/resident-evil-6-complete/</link>
+		<comments>http://cheap-and-cheerful.store/resident-evil-6-complete/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -300,15 +300,15 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/resident-evil-6-complete</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/resident-evil-6-complete</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/resident-evil-6-complete/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/resident-evil-6-complete/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Monday Night Combat</title>
-		<link>https://cheap-and-cheerful.store/monday-night-combat/</link>
-		<comments>https://cheap-and-cheerful.store/monday-night-combat/#respond</comments>
+		<link>http://cheap-and-cheerful.store/monday-night-combat/</link>
+		<comments>http://cheap-and-cheerful.store/monday-night-combat/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -332,15 +332,15 @@
 		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/monday-night-combat</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/monday-night-combat</guid>
 		<description><![CDATA[Monday Night Combat es un shooter en tercera persona basado en clases… ¡y el deporte letal más popular del futuro! Es una mezcla de fiero combate, movimientos finales y desafíos y recompensas estilo espectáculo que genera una experiencia de acción como ninguna otra. ¿Por qué luchar por el “honor” o el “deber” cuando puedes luchar [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/monday-night-combat/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/monday-night-combat/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Nosgoth</title>
-		<link>https://cheap-and-cheerful.store/nosgoth/</link>
-		<comments>https://cheap-and-cheerful.store/nosgoth/#respond</comments>
+		<link>http://cheap-and-cheerful.store/nosgoth/</link>
+		<comments>http://cheap-and-cheerful.store/nosgoth/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -357,9 +357,9 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/nosgoth</guid>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/nosgoth</guid>
 		<description><![CDATA[Hundreds of years of conflict and hatred, each race pitted against the other. This is the war for Nosgoth, a war for supremacy and for survival. Join the war between Vampires and Humans using each race’s unique fighting style to conquer and crush the opposition. Arm yourself for the hunt with an arsenal of devastating [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/nosgoth/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/nosgoth/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

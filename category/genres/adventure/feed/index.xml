@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Adventure &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="https://cheap-and-cheerful.store/category/genres/adventure/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cheap-and-cheerful.store/</link>
+	<atom:link href="http://cheap-and-cheerful.store/category/genres/adventure/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,303 +19,137 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
+	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Adventure &#8211; Cheap &amp; Cheerful</title>
-	<link>https://cheap-and-cheerful.store/</link>
+	<link>http://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Grand Theft Auto V</title>
-		<link>https://cheap-and-cheerful.store/grand-theft-auto-v/</link>
-		<comments>https://cheap-and-cheerful.store/grand-theft-auto-v/#respond</comments>
+		<title>Hocus Pocus</title>
+		<link>http://cheap-and-cheerful.store/hocus-pocus/</link>
+		<comments>http://cheap-and-cheerful.store/hocus-pocus/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/grand-theft-auto-v</guid>
-		<description><![CDATA[Cuando un joven estafador callejero, un ladrón de bancos retirado y un psicópata aterrador se ven involucrados con lo peor y más desquiciado del mundo criminal, del gobierno de los EE. UU. y de la industria del espectáculo, tendrán que llevar a cabo una serie de peligrosos golpes para sobrevivir en una ciudad implacable en [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/grand-theft-auto-v/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dishonored &#8211; Game of the Year Edition</title>
-		<link>https://cheap-and-cheerful.store/dishonored-game-of-the-year-edition/</link>
-		<comments>https://cheap-and-cheerful.store/dishonored-game-of-the-year-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/dishonored-game-of-the-year-edition</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/dishonored-game-of-the-year-edition/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/hocus-pocus</guid>
+		<description><![CDATA[This mission will take Hocus to 16 unique realms, each filled with unique dangers and enemies. Few have survived Terexin&#8217;s final test. For many it&#8217;s a one-way trip. Along the way Hocus will encounter dragons, imps, ghosts and 30 more unique creatures, demons and enemies. Survive, and Hocus becomes a full-fledged, card carrying Wizard. The [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/hocus-pocus/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>METAL GEAR SOLID V: GROUND ZEROES</title>
-		<link>https://cheap-and-cheerful.store/metal-gear-solid-v-ground-zeroes/</link>
-		<comments>https://cheap-and-cheerful.store/metal-gear-solid-v-ground-zeroes/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/metal-gear-solid-v-ground-zeroes</guid>
-		<description><![CDATA[Con Metal Gear Solid V: Ground Zeroes, Kojima Productions presenta una nueva obra maestra de la saga Metal Gear Solid. Metal Gear Solid V: Ground Zeroes es la primera parte de Metal Gear Solid V Experience y el prólogo de la segunda parte, más grande, que saldrá a la venta más tarde: Metal Gear Solid [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/metal-gear-solid-v-ground-zeroes/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Forest</title>
-		<link>https://cheap-and-cheerful.store/the-forest/</link>
-		<comments>https://cheap-and-cheerful.store/the-forest/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-forest</guid>
-		<description><![CDATA[As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first person survival horror simulator. Key alpha features Enter a living, breathing world, where every tree and plant can be chopped down. Below [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/the-forest/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Better Late Than DEAD</title>
-		<link>https://cheap-and-cheerful.store/better-late-than-dead/</link>
-		<comments>https://cheap-and-cheerful.store/better-late-than-dead/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Thai]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/better-late-than-dead</guid>
-		<description><![CDATA[FORESEEABLE END? Explore an open sandbox environment which, depending on your intention, could have or could not have a foreseeable end. But as you investigate further, you may notice some suspicious activity including animals that would not normally be found in an area like this and some inconsistencies that lead to more questions. It is [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/better-late-than-dead/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Cat Lady</title>
-		<link>https://cheap-and-cheerful.store/the-cat-lady/</link>
-		<comments>https://cheap-and-cheerful.store/the-cat-lady/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-cat-lady</guid>
-		<description><![CDATA[The Cat Lady follows Susan Ashworth, a lonely 40-year old on the verge of suicide. She has no family, no friends and no hope for a better future. One day she discovers that five strangers will come along and change everything&#8230; By author Remigiusz Michalski (Harvester Games) this suspenseful psychological horror game features stylized artwork, [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/the-cat-lady/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>L.A. Noire</title>
-		<link>https://cheap-and-cheerful.store/l-a-noire/</link>
-		<comments>https://cheap-and-cheerful.store/l-a-noire/#respond</comments>
+		<title>Pulse</title>
+		<link>http://cheap-and-cheerful.store/pulse/</link>
+		<comments>http://cheap-and-cheerful.store/pulse/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/l-a-noire</guid>
-		<description><![CDATA[En pleno apogeo de la Edad Dorada de Hollywood durante la posguerra, Cole Phelps es un detective del Departamento de Policía de Los Ángeles sumergido en una ciudad que se ahoga en su propio éxito. La corrupción es rampante, el tráfico de drogas está en auge y la tasa de homicidios se sitúa en máximos [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/l-a-noire/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Beyond Space</title>
-		<link>https://cheap-and-cheerful.store/beyond-space/</link>
-		<comments>https://cheap-and-cheerful.store/beyond-space/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/beyond-space</guid>
-		<description><![CDATA[UNA IMPRESIONANTE AVENTURA ESPACIAL Beyond Space es un vanguardista juego espacial de disparos en 3D que sumerge al jugador en oscuras tramas al estilo de las mejores óperas espaciales. Numerosos sistemas planetarios, nebulosas y campos de asteroides por explorar. Gráficos en 3D ricos en detalles, paisajes espaciales fascinantes y hermosos, efectos especiales espectaculares, renderizado perfecto [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/beyond-space/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Fearless Fantasy</title>
-		<link>https://cheap-and-cheerful.store/fearless-fantasy/</link>
-		<comments>https://cheap-and-cheerful.store/fearless-fantasy/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/fearless-fantasy</guid>
-		<description><![CDATA[As Leon, the world’s most dangerous bounty hunter, you embark on a mission to slay the world’s weirdest creatures, and save a girl from an awful marriage. Fearless Fantasy is probably the weirdest RPG you’ll play this year. It’s a turn-based game that deeply involves players during every turn. You use gestures (with the mouse) [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/fearless-fantasy/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/pulse</guid>
+		<description><![CDATA[Journey as Eva, a young girl who lost her sight at an early age, and has since developed the unique capability to &#34;see&#34; the world around her through sound. Using this ability, and with help from the spirits of the forest, explore the forbidden paths once walked by your ancestors and discover the truth. Step [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/pulse/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Survivalist</title>
-		<link>https://cheap-and-cheerful.store/survivalist/</link>
-		<comments>https://cheap-and-cheerful.store/survivalist/#respond</comments>
+		<title>Megabyte Punch</title>
+		<link>http://cheap-and-cheerful.store/megabyte-punch/</link>
+		<comments>http://cheap-and-cheerful.store/megabyte-punch/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/survivalist</guid>
-		<description><![CDATA[Ha pasado un año desde la destrucción de la civilización y el egoísta bróker Joe Wheeler emerge de su búnker en busca de comida. Este es un RPG abierto donde tienes la libertad de jugar como quieras &#8211; pero tus elecciones tienen consecuencias. Tu objetivo es encontrar a otros supervivientes, ganarte su respeto y crear [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/survivalist/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Ball</title>
-		<link>https://cheap-and-cheerful.store/the-ball/</link>
-		<comments>https://cheap-and-cheerful.store/the-ball/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-ball</guid>
-		<description><![CDATA[New Mini Campaign Released Now we also have a brand-new mini campaign for you &#8211; the winners of a map-making contest for The Ball. This new campaign can be played completely standalone, from the Survival Mode menu and will give you an extra 2 hours of content for free! Playable Character for Killing Floor Everyone [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/the-ball/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/megabyte-punch</guid>
+		<description><![CDATA[Megabyte Punch is a fighting/beat ‘em up game in which you build your own fighter! As you travel through different environments, you battle other creatures to get their parts. Parts have their own powers and bonuses, like gun arms for a shoot ability or powerful hips for a devastating pelvic thrust attack. Then, using the [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/megabyte-punch/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Foul Play</title>
-		<link>https://cheap-and-cheerful.store/foul-play/</link>
-		<comments>https://cheap-and-cheerful.store/foul-play/#respond</comments>
+		<title>AR-K</title>
+		<link>http://cheap-and-cheerful.store/ar-k/</link>
+		<comments>http://cheap-and-cheerful.store/ar-k/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/ar-k</guid>
+		<description><![CDATA[AR-K es una aventura gráfica de corte clásico con diálogos de humor ácido y un gran misterio por resolver. IMPORTANTE! Este pack incluye los episodios 1 y 2 de AR-K: AR-K: Lo Que La Esfera Se Llevó AR-K: La Chica Que Nunca Estuvo Allí El episodio 3 ya está disponible en Steam: AR-K: La Gran [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/ar-k/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Egyptian Prophecy: The Fate of Ramses</title>
+		<link>http://cheap-and-cheerful.store/the-egyptian-prophecy-the-fate-of-ramses/</link>
+		<comments>http://cheap-and-cheerful.store/the-egyptian-prophecy-the-fate-of-ramses/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/the-egyptian-prophecy-the-fate-of-ramses</guid>
+		<description><![CDATA[Plunge into ancient Egypt and follow Maya, a young magician, who has been ordered by Pharaoh to investigate the strange accidents that have recently occurred at the great obelisk’s worksite. Find out what is standing in the way of your sovereign’s mission. Evade curses and spells, and allow your people to construct one of the [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-egyptian-prophecy-the-fate-of-ramses/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>NekoChan Hero &#8211; Collection</title>
+		<link>http://cheap-and-cheerful.store/nekochan-hero-collection/</link>
+		<comments>http://cheap-and-cheerful.store/nekochan-hero-collection/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/nekochan-hero-collection</guid>
+		<description><![CDATA[NekoChan Hero Collection is a compilation of 3 indie games: NekoChan Hero &#8211; ninja world 2, NekoChan Hero &#8211; ninja world 1, Neko Land. You can customize the controls of each game by clicking on the yellow button on each game in the game selection screen. NekoChan Hero &#8211; ninja world 2 Neko Planet is [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/nekochan-hero-collection/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Violett Remastered</title>
+		<link>http://cheap-and-cheerful.store/violett-remastered/</link>
+		<comments>http://cheap-and-cheerful.store/violett-remastered/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
@@ -323,17 +157,130 @@
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/foul-play</guid>
-		<description><![CDATA[Play as the daemon-hunter Baron Dashforth in a side-scrolling co-op brawler set entirely on the grand spectacle of a theatre stage that rewards performance over pummeling. Perform shattering takedowns and reversals! Electrify the audience with devastating linked attacks as you have a friend join as sidekick Scampwick and use every stage-trick you know to bring [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/foul-play/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/violett-remastered</guid>
+		<description><![CDATA[Oferta especial Buy Violett on Steam and get the fantastic Soundtrack from the game for free. A set of catchy tunes will accompany you wherever you want! Acerca del juego Regalo especial para los usuarios de Steam: al comprar Violett recibirás gratis la fantástica banda sonora del juego para que te acompañe a donde tú [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/violett-remastered/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Explodemon</title>
+		<link>http://cheap-and-cheerful.store/explodemon/</link>
+		<comments>http://cheap-and-cheerful.store/explodemon/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/explodemon</guid>
+		<description><![CDATA[Explodemon combines the retro style of 16-bit platform games and Japanese action titles with the upgradable skills, hidden collectables and clever puzzles from more modern titles. Players use Explodemon&#8217;s self-destructive nature to combat enemies and fly through the air, all the while solving a huge variety of physics-based puzzles. With twelve huge levels, full keyboard [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/explodemon/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Yury</title>
+		<link>http://cheap-and-cheerful.store/yury/</link>
+		<comments>http://cheap-and-cheerful.store/yury/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/yury</guid>
+		<description><![CDATA[Yury is a deliberately retro platform/arcade action game that combines old-school graphics, classic mechanics and challenging gameplay with a sense of sci-fi survival horror atmosphere. Accompanied by original EDM/chiptune soundtrack, player will control a cosmonaut on a distant and dangerous planet, helping him to avoid intricate traps and get rid of sinister monsters. In-air dodging, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/yury/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Abyss Odyssey</title>
+		<link>http://cheap-and-cheerful.store/abyss-odyssey/</link>
+		<comments>http://cheap-and-cheerful.store/abyss-odyssey/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/abyss-odyssey</guid>
+		<description><![CDATA[El desarrollador indie chileno ACE Team nos trae un juego de acción y aventura de desplazamiento lateral, modernista con un complejo motor de lucha de niveles generados procesalmente que destina a sus tres guerreros a luchar toda la eternidad. Conoce a la osada Katrien, el torturado espectro Monje Fantasma y la etérea Pincoya. Haz combos, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/abyss-odyssey/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dark Scavenger</title>
+		<link>http://cheap-and-cheerful.store/dark-scavenger/</link>
+		<comments>http://cheap-and-cheerful.store/dark-scavenger/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/dark-scavenger</guid>
+		<description><![CDATA[Dark Scavenger is a bizarre point-and-click RPG adventure with a focus on exploration, gaining loot, and meaningful choices. Filling the role of a powerful space traveler, you find yourself stranded on a mysterious planet in the company of three eccentric, yet resourceful aliens. As you desperately seek a way to repair your ship, a massive [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/dark-scavenger/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PARTICLE MACE</title>
+		<link>http://cheap-and-cheerful.store/particle-mace/</link>
+		<comments>http://cheap-and-cheerful.store/particle-mace/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/particle-mace</guid>
+		<description><![CDATA[PARTICLE MACE is a game inspired by Geometry Wars, Asteroids, Amplitude and many others. Unlike in traditional twin stick shooters, in Particle Mace, you destroy your enemies by swinging giant boulders at your enemies. It takes a deep understanding of your own weight, thrust, and inertia in order to be a master Particle Mace gladiator, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/particle-mace/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

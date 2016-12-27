@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Single-player &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="https://cheap-and-cheerful.store/category/features/single-player/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cheap-and-cheerful.store/</link>
+	<atom:link href="http://cheap-and-cheerful.store/category/features/single-player/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,295 +19,311 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
+	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Single-player &#8211; Cheap &amp; Cheerful</title>
-	<link>https://cheap-and-cheerful.store/</link>
+	<link>http://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>UFO: Afterlight</title>
-		<link>https://cheap-and-cheerful.store/ufo-afterlight/</link>
-		<comments>https://cheap-and-cheerful.store/ufo-afterlight/#respond</comments>
+		<title>CortexGear:AngryDroids</title>
+		<link>http://cheap-and-cheerful.store/cortexgearangrydroids/</link>
+		<comments>http://cheap-and-cheerful.store/cortexgearangrydroids/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Czech]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/ufo-afterlight</guid>
-		<description><![CDATA[The story is situated on Mars. It starts where UFO: Aftermath left off and runs simultaneously with UFO: Aftershock. While the Laputans on Earth are fighting Wargots and Starghosts and finding out what caused the destruction of their home planet, a small colony on Mars is trying to survive and flourish. The player will gain [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/ufo-afterlight/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/cortexgearangrydroids</guid>
+		<description><![CDATA[CortexGear:AngryDroids: IN CORTEXGEAR: ANGRYDROIDS, YOU PLAY AS: an alien(main character) hacker who take control of a CortexGear(A robot with an implanted brain) to destroy the other AngryDroids. The alien is one of the last survivors from a Cortex war(A war based on hacking the opponent) against the AngryDroids. The alien is also from a new [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/cortexgearangrydroids/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Dark Raid</title>
-		<link>https://cheap-and-cheerful.store/dark-raid/</link>
-		<comments>https://cheap-and-cheerful.store/dark-raid/#respond</comments>
+		<title>Grand Theft Auto Collection</title>
+		<link>http://cheap-and-cheerful.store/grand-theft-auto-collection/</link>
+		<comments>http://cheap-and-cheerful.store/grand-theft-auto-collection/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/dark-raid</guid>
-		<description><![CDATA[About the GameSaving the world from an alien invasion is in your hands. Dark Raid is a FPS Action game developed by an independent developer studio &#8216;Vector Games&#8217;. Dark Raid is a new concept of mixing good old-school FPS game styles and new generation graphics and game-play. With the next-gen graphics and scenario, Dark Raid [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/dark-raid/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Two Worlds II: Velvet Edition</title>
-		<link>https://cheap-and-cheerful.store/two-worlds-ii-velvet-edition/</link>
-		<comments>https://cheap-and-cheerful.store/two-worlds-ii-velvet-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/two-worlds-ii-velvet-edition</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/two-worlds-ii-velvet-edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Binary Domain</title>
-		<link>https://cheap-and-cheerful.store/binary-domain/</link>
-		<comments>https://cheap-and-cheerful.store/binary-domain/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/binary-domain</guid>
-		<description><![CDATA[LA ERA DE LAS MÁQUINAS HA COMENZADO en este shooter basado en escuadras, inmersivo y atmosférico, en el que deberás recuperar el control de un Tokio futurista de una emergente amenaza robótica. Situada en el año 2080, la historia comienza cuando Dan Marshall y su equipo son enviados para controlar a la comunidad robótica a [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/binary-domain/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Skullgirls</title>
-		<link>https://cheap-and-cheerful.store/skullgirls/</link>
-		<comments>https://cheap-and-cheerful.store/skullgirls/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/skullgirls</guid>
-		<description><![CDATA[Skullgirls es un juego de lucha en 2D con un ritmo frenético en el que el jugador controla a feroces guerreras en un mundo extraordinario de ambiente “deco oscuro”. Los novedosos sistemas del juego pondrán a prueba la destreza de los expertos en juegos de lucha y también harán las delicias de los novatos. Skullgirls [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/skullgirls/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Tetrobot and Co.</title>
-		<link>https://cheap-and-cheerful.store/tetrobot-and-co/</link>
-		<comments>https://cheap-and-cheerful.store/tetrobot-and-co/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/tetrobot-and-co</guid>
-		<description><![CDATA[Tetrobot es el robot más famoso y robusto de la Tierra. Pero, como no existe la perfección, yo, Maya, he construido a Psychobot, su hermanito microscópico. Ayúdame a guiar a Psy por entre los circuitos y engranajes de Tetrobot: absorbiendo y escupiendo los bloques de material, podremos reparar lo que nos propongamos. Descubre cómo funcionan [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/tetrobot-and-co/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Diehard Dungeon</title>
-		<link>https://cheap-and-cheerful.store/diehard-dungeon/</link>
-		<comments>https://cheap-and-cheerful.store/diehard-dungeon/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/diehard-dungeon</guid>
-		<description><![CDATA[Combining its own unique take on the real-time roguelike genre, with a nostalgic 16-bit look and feel, Diehard Dungeon is a game that feels both familiar and quite different at the same time. Followed by a trusty, treasure collecting companion chest, you must make your way through the dungeons many randomly-generated rooms and levels. Armed [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/diehard-dungeon/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Platformines</title>
-		<link>https://cheap-and-cheerful.store/platformines/</link>
-		<comments>https://cheap-and-cheerful.store/platformines/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/platformines</guid>
-		<description><![CDATA[Platformines es un juego de plataformas 2D único repleto de elementos de exploración, RPG y disparos, ambientado en un mundo subterráneo de 16 bits. Para reconstruir una nave espacial, te sumergirás en una aventura en la que descubrirás los misterios que esconde un gigantesco complejo de minas. Enemigos letales, trampas y tesoros son una pequeña [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/platformines/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Real Warfare 1242</title>
-		<link>https://cheap-and-cheerful.store/real-warfare-1242/</link>
-		<comments>https://cheap-and-cheerful.store/real-warfare-1242/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/real-warfare-1242</guid>
-		<description><![CDATA[La Rusia del siglo XIII era un estado enorme, mucho mayor que cualquier otro país europeo. Aún estando dividida por conflictos internos se mantenía firme ante las amenazas externas, hasta que un día la vil horda mongola atacó. Apareció de repente y atravesó el país como si de una flecha ardiente se tratara. Los nativos [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/real-warfare-1242/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/grand-theft-auto-collection</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/grand-theft-auto-collection/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Miner Wars 2081</title>
-		<link>https://cheap-and-cheerful.store/miner-wars-2081/</link>
-		<comments>https://cheap-and-cheerful.store/miner-wars-2081/#respond</comments>
+		<title>BioShock Infinite</title>
+		<link>http://cheap-and-cheerful.store/bioshock-infinite/</link>
+		<comments>http://cheap-and-cheerful.store/bioshock-infinite/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/miner-wars-2081</guid>
-		<description><![CDATA[Steam Greenlight Soundtrack Included With Purchase! Songs will be placed in your Miner Wars 2081 folder in the Steam Directory: &#8230;\Steam\SteamApps\Common\MinerWars\Soundtrack Acerca del juego Miner Wars 2081 is a 6DOF action-survival space-shooter simulation-game set in the year 2081, 10 years after the destruction of all planetary objects in the Solar System. You operate an advanced [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/miner-wars-2081/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/bioshock-infinite</guid>
+		<description><![CDATA[Indebted to the wrong people, with his life on the line, veteran of the U.S. Cavalry and now hired gun, Booker DeWitt has only one opportunity to wipe his slate clean. He must rescue Elizabeth, a mysterious girl imprisoned since childhood and locked up in the flying city of Columbia. Forced to trust one another, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/bioshock-infinite/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Post Mortem</title>
-		<link>https://cheap-and-cheerful.store/post-mortem/</link>
-		<comments>https://cheap-and-cheerful.store/post-mortem/#respond</comments>
+		<title>Cities: Skylines</title>
+		<link>http://cheap-and-cheerful.store/cities-skylines/</link>
+		<comments>http://cheap-and-cheerful.store/cities-skylines/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/cities-skylines</guid>
+		<description><![CDATA[Cities: Skylines Natural Disaster &#8211; Now available! Click on the image to find more information about Cities: Skylines &#8211; Natural Disasters! Digital Deluxe Edition The Deluxe Edition: Included in the Deluxe Edition are 5 In-game historical monuments from around the world, the games original soundtrack as well as a digital art book. Five in-game items [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/cities-skylines/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dead Rising 3 Apocalypse Edition</title>
+		<link>http://cheap-and-cheerful.store/dead-rising-3-apocalypse-edition/</link>
+		<comments>http://cheap-and-cheerful.store/dead-rising-3-apocalypse-edition/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/dead-rising-3-apocalypse-edition</guid>
+		<description><![CDATA[Steam Big Picture Free Upgrade to Apocalypse Edition! Dead Rising 3 Apocalypse Edition now includes the ultimate open-world zombie game along with all four of the “Untold Stories of Los Perdidos” episodic downloadable add-on packs. Welcome to the Apocalypse, where your zombie slaying thrills await. Acerca del juego La edición Apocalipsis de Dead Rising 3 [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/dead-rising-3-apocalypse-edition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Doom 3: BFG Edition</title>
+		<link>http://cheap-and-cheerful.store/doom-3-bfg-edition/</link>
+		<comments>http://cheap-and-cheerful.store/doom-3-bfg-edition/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/post-mortem</guid>
-		<description><![CDATA[¡ADÉNTRATE EN UN THRILLER PURO EN EL QUE NADA ES LO QUE PARECE! Tras volver a las tranquilas calles de París en busca de una vida de pintor, Gus Macpherson no pudo escapar de su verdadero arte… El anteriormente detective de Nueva York se encuentra a sí mismo patrullando una vez más, contratado por una [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/post-mortem/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/doom-3-bfg-edition</guid>
+		<description><![CDATA[DOOM 3 BFG Edition es la colección definitiva de los juegos que definieron los shooters en primera persona, entre los que se encuentran DOOM, DOOM II, DOOM 3 y DOOM 3: Resurrection of Evil y The Lost Mission. Características Principales: Un clásico remasterizado: Desarrollado por id Software, el equipo original responsable del patrimonio de dicha [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/doom-3-bfg-edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>DogFighter</title>
-		<link>https://cheap-and-cheerful.store/dogfighter/</link>
-		<comments>https://cheap-and-cheerful.store/dogfighter/#respond</comments>
+		<title>Fallout Tactics: Brotherhood of Steel</title>
+		<link>http://cheap-and-cheerful.store/fallout-tactics-brotherhood-of-steel/</link>
+		<comments>http://cheap-and-cheerful.store/fallout-tactics-brotherhood-of-steel/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/fallout-tactics-brotherhood-of-steel</guid>
+		<description><![CDATA[¡El combate táctico entre pelotones le da un nuevo soplo de aire fresco al universo de Fallout®! Eres basura desdichada. Has nacido del polvo, pero nosotros te forjaremos en acero. Aprenderás a doblarte, o si no, te romperás. En estos tiempos oscuros que corren, la Hermandad &#8211; tu Hermandad &#8211; es todo lo que hay [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/fallout-tactics-brotherhood-of-steel/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GRID Autosport</title>
+		<link>http://cheap-and-cheerful.store/grid-autosport/</link>
+		<comments>http://cheap-and-cheerful.store/grid-autosport/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/grid-autosport</guid>
+		<description><![CDATA[Ficha por un equipo y plántales cara a tus rivales en un nuevo y fascinante reto automovilístico. Junto a tu compañero de filas, debes superar a rivales directos y cumplir los objetivos de los patrocinadores en vertiginosas carreras donde cada adelantamiento vale su peso en oro. Especialízate en la disciplina que más te apasione o [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/grid-autosport/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Just Cause</title>
+		<link>http://cheap-and-cheerful.store/just-cause/</link>
+		<comments>http://cheap-and-cheerful.store/just-cause/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/just-cause</guid>
+		<description><![CDATA[¡Ya disponible! Acerca del juego ¡Es tu mundo y tú dictas las reglas! En Just Cause, eres un oficial de operaciones latino y un especialista en cambios de régimen apoyado por un departamento gubernamental estadounidense de alto secreto que trata de derrocar al corrupto gobierno de San Esperito. Se sospecha que este estado sudamericano está [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/just-cause/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Magicka: Wizards of the Square Tablet</title>
+		<link>http://cheap-and-cheerful.store/magicka-wizards-of-the-square-tablet/</link>
+		<comments>http://cheap-and-cheerful.store/magicka-wizards-of-the-square-tablet/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/magicka-wizards-of-the-square-tablet</guid>
+		<description><![CDATA[Exclusively for the PC version your wizard will get all in-game robes and staffs unlocked from the start in this enhanced square edition. Remove the grinding time and get right to the action with your choice of gear! All of these goodies will be unlocked on every other platform you choose to play on The [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-wizards-of-the-square-tablet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Magicka: Final Frontier</title>
+		<link>http://cheap-and-cheerful.store/magicka-final-frontier/</link>
+		<comments>http://cheap-and-cheerful.store/magicka-final-frontier/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false">https://cheap-and-cheerful.store/dogfighter</guid>
-		<description><![CDATA[DogFighter es un arcade de combate aéreo de acción frenética y mecánica de juego estilo arena. Los jugadores pueden competir con un máximo de 7 oponentes en 4 modos multijugador, o luchar en solitario en 7 modos para un jugador, utilizando biplanos mejorados con más de 20 armas ofensivas y defensivas&#8230; &#8230; y esto sólo [&#8230;]]]></description>
-		<wfw:commentRss>https://cheap-and-cheerful.store/dogfighter/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/magicka-final-frontier</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-final-frontier/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Murdered: Soul Suspect</title>
+		<link>http://cheap-and-cheerful.store/murdered-soul-suspect/</link>
+		<comments>http://cheap-and-cheerful.store/murdered-soul-suspect/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">http://cheap-and-cheerful.store/murdered-soul-suspect</guid>
+		<description><![CDATA[EL ASESINATO MÁS DIFÍCIL DE RESOLVER ES EL TUYO PROPIO. Ronan O&#8217;Connor, un detective con un pasado turbio, se ve envuelto en un robo violento en el que un asesino cruel e implacable pondrá fin a su vida de forma prematura. Ronan descubre con horror que se encuentra en el más allá. Para poder escapar [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/murdered-soul-suspect/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
