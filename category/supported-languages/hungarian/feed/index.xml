@@ -12,7 +12,7 @@
 	<atom:link href="/category/supported-languages/hungarian/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Fri, 16 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,48 +26,36 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Farming Simulator 15</title>
-		<link>/Farming%20Simulator%2015/</link>
-		<comments>/Farming%20Simulator%2015/#respond</comments>
+		<title>Might and Magic Heroes VI: Complete Edition</title>
+		<link>/Might%20and%20Magic%20Heroes%20VI%3A%20Complete%20Edition/</link>
+		<comments>/Might%20and%20Magic%20Heroes%20VI%3A%20Complete%20Edition/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Dutch]]></category>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Strategy]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Farming Simulator 17 &#8211; Now Available Acerca del juego ¡Bienvenido a la nueva generación de Farming Simulator! Gracias a un motor de gráficos y físicas completamente nuevo, Farming Simulator 15 ofrece un mundo abierto inmenso, lleno de detalles y efectos visuales que transportan a la saga Farming Simulator a una nueva era. Gestiona tu propia [&#8230;]]]></description>
-		<wfw:commentRss>/Farming%20Simulator%2015/feed/</wfw:commentRss>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>/Might%20and%20Magic%20Heroes%20VI%3A%20Complete%20Edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Witcher 2: Assassins of Kings Enhanced Edition</title>
-		<link>/The%20Witcher%202%3A%20Assassins%20of%20Kings%20Enhanced%20Edition/</link>
-		<comments>/The%20Witcher%202%3A%20Assassins%20of%20Kings%20Enhanced%20Edition/#respond</comments>
+		<title>Helicopter 2015: Natural Disasters</title>
+		<link>/Helicopter%202015%3A%20Natural%20Disasters/</link>
+		<comments>/Helicopter%202015%3A%20Natural%20Disasters/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Czech]]></category>
@@ -76,10 +64,34 @@
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¡Conviértete en un auténtico héroe! Este emocionante simulador de vuelo te permitirá convertirte en piloto y salvar vidas. Empezarás a jugar directamente en la cabina de un helicóptero de emergencia; puedes completar más de 40 desafiantes misiones que incluyen múltiples objetivos y un área nueva. ¡Hora de despegar! 5 nuevos helicópteros con diferentes especialidades Más [&#8230;]]]></description>
+		<wfw:commentRss>/Helicopter%202015%3A%20Natural%20Disasters/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Scourge: Outbreak</title>
+		<link>/Scourge%3A%20Outbreak/</link>
+		<comments>/Scourge%3A%20Outbreak/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
@@ -87,64 +99,31 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[El jugador se pone en la piel de Geralt de Rivia, un cazador de monstruos profesional, un brujo. Inmerso en los conflictos políticos que afectan a toda Temeria, Geralt ayudó a sofocar la rebelión de la Orden de la Rosa Ardiente. Poco después, salvó la vida del rey Foltest cuando el monarca fue atacado por [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Witcher%202%3A%20Assassins%20of%20Kings%20Enhanced%20Edition/feed/</wfw:commentRss>
+		<description><![CDATA[El año es el 2026 y el mundo está dominado desde las sombras por la Corporación Nogari, una empresa ambiciosa creadora de la nueva tecnología de combustible &#34;Ambrosía&#34;. Desconocido para la población del mundo, la Ambrosía es un producto sacado de la investigación sobre un misterioso fragmento de meteorito en posesión de Nogari; algo por [&#8230;]]]></description>
+		<wfw:commentRss>/Scourge%3A%20Outbreak/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Survivalist</title>
-		<link>/Survivalist/</link>
-		<comments>/Survivalist/#respond</comments>
+		<title>Octodad: Dadliest Catch</title>
+		<link>/Octodad%3A%20Dadliest%20Catch/</link>
+		<comments>/Octodad%3A%20Dadliest%20Catch/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Ha pasado un año desde la destrucción de la civilización y el egoísta bróker Joe Wheeler emerge de su búnker en busca de comida. Este es un RPG abierto donde tienes la libertad de jugar como quieras &#8211; pero tus elecciones tienen consecuencias. Tu objetivo es encontrar a otros supervivientes, ganarte su respeto y crear [&#8230;]]]></description>
-		<wfw:commentRss>/Survivalist/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Ephemerid: A Musical Adventure</title>
-		<link>/Ephemerid%3A%20A%20Musical%20Adventure/</link>
-		<comments>/Ephemerid%3A%20A%20Musical%20Adventure/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
 		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
@@ -153,21 +132,97 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[2015 IGF Winner: Excellence in Audio Ephemerid is a rock fairy tale about a paper mayfly. Lean back, relax and enjoy it as a whole, as you would a favorite album. Ephemerid is part rhythm game, part point-and-click adventure, and part rock opera. KEY FEATURES Ephemerid’s beating heart is its original soundtrack, rock guitar with [&#8230;]]]></description>
-		<wfw:commentRss>/Ephemerid%3A%20A%20Musical%20Adventure/feed/</wfw:commentRss>
+		<description><![CDATA[Octodad: Dadliest Catch es la destrucción, el engaño y la paternidad. El jugador controla Octodad, un pulpo apuesto enmascarado como un ser humano, a medida que avanza la vida sobre todos los días. La existencia de Octodad es una lucha constante, ya que debe dominar las tareas cotidianas con sus tentáculos sin hueso difícil de [&#8230;]]]></description>
+		<wfw:commentRss>/Octodad%3A%20Dadliest%20Catch/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Agricultural Simulator 2012: Deluxe Edition</title>
-		<link>/Agricultural%20Simulator%202012%3A%20Deluxe%20Edition/</link>
-		<comments>/Agricultural%20Simulator%202012%3A%20Deluxe%20Edition/#respond</comments>
+		<title>The I of the Dragon</title>
+		<link>/The%20I%20of%20the%20Dragon/</link>
+		<comments>/The%20I%20of%20the%20Dragon/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[THE DRAGON&#8217;S LEGACY The world of Nimoa is as beautiful as the morning dew, but only at first glance. Under the surface of hills and fertile valleys lurks an old and eternal evil. Living as a mould, stretching threads through an infected area like deadly toadstools. The center of this &#34;being?&#34; deep in the under [&#8230;]]]></description>
+		<wfw:commentRss>/The%20I%20of%20the%20Dragon/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Scania Truck Driving Simulator</title>
+		<link>/Scania%20Truck%20Driving%20Simulator/</link>
+		<comments>/Scania%20Truck%20Driving%20Simulator/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Bulgarian]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Ukrainian]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Get behind the wheel of one of the most iconic trucks on the road with this highly detailed Scania R-series truck simulation by SCS Software, developers of Euro Truck Simulator 2. Prove your truck skills &#8211; Put your driving skills to the ultimate test with 10 individual truck maneuvering challenges that serve as a practical [&#8230;]]]></description>
+		<wfw:commentRss>/Scania%20Truck%20Driving%20Simulator/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Might and Magic Heroes VI Gold</title>
+		<link>/Might%20and%20Magic%20Heroes%20VI%20Gold/</link>
+		<comments>/Might%20and%20Magic%20Heroes%20VI%20Gold/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>/Might%20and%20Magic%20Heroes%20VI%20Gold/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Construction Machines Simulator 2016</title>
+		<link>/Construction%20Machines%20Simulator%202016/</link>
+		<comments>/Construction%20Machines%20Simulator%202016/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Czech]]></category>
@@ -176,29 +231,27 @@
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[An idyllic grange surrounded by invitingly untouched mountain panoramas and unworked ﬁelds are awaiting all agriculture fans in the Agricultural Simulator 2012. At their very own farm hobby-farmers undertake the daily tasks of an agriculturist: The producing of food, sustainable resources and the delivery of energy materials. Fields have to be worked and farm animals [&#8230;]]]></description>
-		<wfw:commentRss>/Agricultural%20Simulator%202012%3A%20Deluxe%20Edition/feed/</wfw:commentRss>
+		<description><![CDATA[¡Si te gusta destruir y construir cosas, este es tu juego! Conviértete en el jefe de una compañía de construcción y demuele casas antiguas, aplana el suelo, rellena cimientos con cemento y crea nueva arquitectura. Siéntate al volante de numerosas máquinas de construcción diferentes: potentes camiones, despiadadas excavadoras, enormes grúas y más. Consigue contratos y [&#8230;]]]></description>
+		<wfw:commentRss>/Construction%20Machines%20Simulator%202016/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Rochard: Hard Times</title>
-		<link>/Rochard%3A%20Hard%20Times/</link>
-		<comments>/Rochard%3A%20Hard%20Times/#respond</comments>
+		<title>Unmechanical</title>
+		<link>/Unmechanical/</link>
+		<comments>/Unmechanical/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
+				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[Danish]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Hungarian]]></category>
@@ -207,146 +260,51 @@
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Turkish]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Rochard%3A%20Hard%20Times/feed/</wfw:commentRss>
+		<description><![CDATA[Unmechanical es una aventura de puzles que combina ingeniosos rompecabezas con una atmósfera fascinante que te atrapará conforme vayas explorando. Ambientado en un mundo fantástico de carne, roca y acero, en tu viaje hacia la libertad deberás resolver una gran variedad de retos mentales y, aunque puedan parecer sencillos al principio, los desafíos se irán [&#8230;]]]></description>
+		<wfw:commentRss>/Unmechanical/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Orange Box</title>
-		<link>/The%20Orange%20Box/</link>
-		<comments>/The%20Orange%20Box/#respond</comments>
+		<title>Lemma</title>
+		<link>/Lemma/</link>
+		<comments>/Lemma/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[Free to Play]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Includes Source SDK]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+		<category><![CDATA[VR Support]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/The%20Orange%20Box/feed/</wfw:commentRss>
+		<description><![CDATA[Immersive first-person parkour in a surreal, physics-driven voxel world. Lemma enables creative building through movement. Spawn structures just by moving through space. Extend platforms, smash through walls, and build new ones, all through parkour moves. Non-linear story &#8211; four possible endings Oculus Rift support (currently limited to SDK v0.6.0.1-beta) Time trial mode Built-in level editor [&#8230;]]]></description>
+		<wfw:commentRss>/Lemma/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Farm Expert 2016</title>
-		<link>/Farm%20Expert%202016/</link>
-		<comments>/Farm%20Expert%202016/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Farm Expert 2016 traslada al jugador al campo y le otorga el control total de una granja desde la comodidad de su casa. La administración de una granja, el cultivo de campos, la plantación de cosechas y la ganadería, así como la compra y venta de tus propios productos o nuevo equipamiento son solo algunos [&#8230;]]]></description>
-		<wfw:commentRss>/Farm%20Expert%202016/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>UFO: Afterlight</title>
-		<link>/UFO%3A%20Afterlight/</link>
-		<comments>/UFO%3A%20Afterlight/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[The story is situated on Mars. It starts where UFO: Aftermath left off and runs simultaneously with UFO: Aftershock. While the Laputans on Earth are fighting Wargots and Starghosts and finding out what caused the destruction of their home planet, a small colony on Mars is trying to survive and flourish. The player will gain [&#8230;]]]></description>
-		<wfw:commentRss>/UFO%3A%20Afterlight/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>NecroVision</title>
-		<link>/NecroVision/</link>
-		<comments>/NecroVision/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[La Guerra es el Infierno NecroVision es un shooter en primera persona que lleva a los jugadores a los frenéticos campos de batalla de la Primera Guerra Mundial y a un oscuro submundo de vampiros, demonios y magia negra. En su búsqueda de aventuras, el joven americano Simon Bukner se une al Ejército Inglés en [&#8230;]]]></description>
-		<wfw:commentRss>/NecroVision/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Train Fever</title>
-		<link>/Train%20Fever/</link>
-		<comments>/Train%20Fever/#respond</comments>
+		<title>Rescue Team</title>
+		<link>/Rescue%20Team/</link>
+		<comments>/Rescue%20Team/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Casual]]></category>
@@ -355,63 +313,69 @@
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
 		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
 		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Ukrainian]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Train Fever is a railroad-focused business simulation game. In other words, it&#8217;s a modern-day Transport Tycoon with procedural content and a sophisticated city simulation. &#34;It’s the year 1850, and there are great times ahead! Establish a transport company and be its manager. Build infrastructure such as railways and stations, purchase transportation vehicles and manage lines. [&#8230;]]]></description>
-		<wfw:commentRss>/Train%20Fever/feed/</wfw:commentRss>
+		<description><![CDATA[Control the rescue workers who rebuild three islands in the wake of devastating weather! Remove debris to free trapped workers in Rescue Team! Repair damaged restaurants, houses, and sawmills to produce necessary resources. Race against the clock to collect gems, put out fires, and save stranded swimmers! Rescue Team is fun, gripping, and unlike any [&#8230;]]]></description>
+		<wfw:commentRss>/Rescue%20Team/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>UnEpic</title>
-		<link>/UnEpic/</link>
-		<comments>/UnEpic/#respond</comments>
+		<title>American Truck Simulator</title>
+		<link>/American%20Truck%20Simulator/</link>
+		<comments>/American%20Truck%20Simulator/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
+				<category><![CDATA[Bulgarian]]></category>
 		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
 		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[VR Support]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Daniel was just an average guy. He was a great videogame player, a big fan of sci-fi movies, and a novice RPG player. In the midst of an RPG, he was teleported to a castle. At first, Daniel believed that he was having a massive hallucination. Eager to keep playing within the RPG to create [&#8230;]]]></description>
-		<wfw:commentRss>/UnEpic/feed/</wfw:commentRss>
+		<description><![CDATA[Recién actualizado We&#8217;ve rescaled the whole map from 1:35 to 1:20. Enjoy! Acerca del juego Experience legendary American trucks and deliver various cargoes across sunny California, sandy Nevada, and the Grand Canyon State of Arizona. American Truck Simulator takes you on a journey through the breathtaking landscapes and widely recognized landmarks around the States. Game [&#8230;]]]></description>
+		<wfw:commentRss>/American%20Truck%20Simulator/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

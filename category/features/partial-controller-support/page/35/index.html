@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="/xmlrpc.php">
+	<title>Partial Controller Support &#8211; Page 35 &#8211; Cheap &amp; Cheerful</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Cheap &amp; Cheerful &raquo; Feed" href="/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cheap &amp; Cheerful &raquo; Comments Feed" href="/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cheap &amp; Cheerful &raquo; Partial Controller Support Category Feed" href="/category/features/partial-controller-support/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/:\/\/plati_resell.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wgs-css'  href='/wp-content/plugins/wp-google-search/wgs.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='social_likes_style_flat-css'  href='/wp-content/plugins/wp-social-likes/css/social-likes_flat.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ultrabootstrap-bootstrap-css'  href='/wp-content/themes/custombootstrap/css/bootstrap.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ultrabootstrap-fontawesome-css'  href='/wp-content/themes/custombootstrap/css/font-awesome.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ultrabootstrap-googlefonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A400%2C300%2C700&#038;ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ultrabootstrap-style-css'  href='/wp-content/themes/custombootstrap/style.css?ver=4.7' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-social-likes/js/social-likes.min.js?ver=4.7'></script>
+<link rel='https://api.w.org/' href='/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7" />
+<link rel="icon" href="/wp-content/uploads/2016/12/icon.png" sizes="32x32" />
+<link rel="icon" href="/wp-content/uploads/2016/12/icon.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="/wp-content/uploads/2016/12/icon.png" />
+<meta name="msapplication-TileImage" content="http://://plati_resell.ru/wp-content/uploads/2016/12/icon.png" />
+</head>
+
+
+<body class="archive paged category category-partial-controller-support category-38 paged-35 category-paged-35 hfeed">
+
+<header>	
+<section class="logo-menu">
+	<nav class="navbar navbar-default navbar-fixed-top">
+		<div class="container">
+					<!-- Brand and toggle get grouped for better mobile display -->
+				    <div class="navbar-header">
+				      	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					        <span class="sr-only">Toggle navigation</span>
+					        <span class="icon-bar"></span>
+					        <span class="icon-bar"></span>
+					        <span class="icon-bar"></span>
+				      	</button>
+				      	<div class="logo-tag">
+				      		
+				      			<a href="/">				      			<h1 class="site-title" style="color:#000000">Cheap &amp; Cheerful</h1>
+				      			<h2 class="site-description" style="color:#000000">Tienda de juegos</h2></a>                     
+      						
+      					</div>
+				    </div>
+
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+													<form  class="navbar-form navbar-right" role="search">
+								<ul class="nav pull-right">
+									<div class="main-search">
+										<button class="btn btn-search" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+										  <i class="fa fa-search"></i>
+										</button>
+										<div class="search-box collapse" id="collapseExample">
+											<div class="well search-well">
+																									<div class="wgs_wrapper"><div class="gcse-searchbox-only" data-resultsurl="http://://plati_resell.ru/search_gcse/"></div></div>																							</div>
+										</div>
+									</div>
+								</ul>
+							</form>
+						  							
+						<div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav navbar-nav navbar-right"><li id="menu-item-2836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2836"><a title="FAQ" href="/faq/">FAQ</a></li>
+</ul></div>				    </div> <!-- /.end of collaspe navbar-collaspe -->
+	</div> <!-- /.end of container -->
+	</nav>
+</section> <!-- /.end of section -->
+</header>
+<div class="spacer post-list">
+    <div class="container">
+        <div class="row">
+        <div  class="col-md-9">
+        
+        
+                <h4>Category: Partial Controller Support</h4>        <div class="row">
+                        
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Slinki/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/354930/header.jpg" title="Slinki" alt="Slinki" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Slinki/" rel="bookmark">Slinki</a></h3>
+
+    
+
+        <p>Slinki is a hard-as-nails 2.5D action-platformer where your own prosthetic arm is the ultimate multipurpose weapon: Use it as a bladed boomerang to control the population of mutated critters, pull levers towards you to get through puzzles and zip-line across grappling surfaces. Furthermore, instead of having your weapon return to you, why not return to [&hellip;]</p>
+        
+        <a href="/Slinki/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Paganitzu/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/358230/header.jpg" title="Paganitzu" alt="Paganitzu" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Paganitzu/" rel="bookmark">Paganitzu</a></h3>
+
+    
+
+        <p>This is a genuine adventure &#8211; not just a series of levels to conquer. You can follow different routes to achieve the winning goal. In fact, you can finish Paganitzu and still have missed many of the game&#8217;s intriguing situations or animated sequences, which carry you through the entire pyramid to a dramatic conclusion. Part [&hellip;]</p>
+        
+        <a href="/Paganitzu/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Teddy%20Terror/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/366060/header.jpg" title="Teddy Terror" alt="Teddy Terror" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Teddy%20Terror/" rel="bookmark">Teddy Terror</a></h3>
+
+    
+
+        <p>Teddy Terror is a 2D horror survival with a challenging passive-aggressive gameplay where using your environment is crucial for survival In Teddy Terror you take on the role of a little boy with his Teddybear who wakes up in a nightmare. With your surroundings as your weapons your goal is to Survive the nightmarish world [&hellip;]</p>
+        
+        <a href="/Teddy%20Terror/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Wanderlust%3A%20Rebirth/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/211580/header.jpg" title="Wanderlust: Rebirth" alt="Wanderlust: Rebirth" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Wanderlust%3A%20Rebirth/" rel="bookmark">Wanderlust: Rebirth</a></h3>
+
+    
+
+        <p>Wanderlust: Rebirth es un RPG de acción cooperativo online para cuatro jugadores, ambientado en un mundo de fantasía originalmente diseñado, Valandria. Los héroes son convocados a Westhaven Arena para probar su valía como héroes de antigua leyenda. Sin embargo, las cosas no son tan transparentes como parecían al principio, cuando nuestros héroes son inadvertidamente embarcados [&hellip;]</p>
+        
+        <a href="/Wanderlust%3A%20Rebirth/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Demons%20with%20Shotguns/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/370940/header.jpg" title="Demons with Shotguns" alt="Demons with Shotguns" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Demons%20with%20Shotguns/" rel="bookmark">Demons with Shotguns</a></h3>
+
+    
+
+        <p>Couch Fragger Shooter Action for 2-4 Local Players Frantic local multiplayer, twitch style arena shooting action! Multiple playable characters. Play as the faithless Preacher, the desperate Demon, the Heavenless Angel, the Antichrist Deceiver, the peace keeping Nun or even Death himself. Choose from multiple game modes, including free-for-all and team based modes. Battle it out [&hellip;]</p>
+        
+        <a href="/Demons%20with%20Shotguns/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Betrayer/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/243120/header.jpg" title="Betrayer" alt="Betrayer" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Betrayer/" rel="bookmark">Betrayer</a></h3>
+
+    
+
+        <p>Betrayer is a first person action adventure game that takes you to the New World at the turn of the 17th century. The year is 1604. You sailed from England expecting to join a struggling colony on the coast of Virginia. Instead, you find only ghosts and mysteries. What catastrophe blighted the land and drained [&hellip;]</p>
+        
+        <a href="/Betrayer/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/FortressCraft%20Evolved%21/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/254200/header.jpg" title="FortressCraft Evolved!" alt="FortressCraft Evolved!" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/FortressCraft%20Evolved%21/" rel="bookmark">FortressCraft Evolved!</a></h3>
+
+    
+
+        <p>&quot;In a world where early access and indie usually means abandoned, unfinished garbage, this game&#8217;s post launch development is outpacing many AAA titles and companies.&quot; &quot;This really isn&#8217;t the same game that I originally purchased anymore. With all the changes that have been made over that duration the game is so much more fun now [&hellip;]</p>
+        
+        <a href="/FortressCraft%20Evolved%21/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Jet%20Gunner/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/314250/header.jpg" title="Jet Gunner" alt="Jet Gunner" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Jet%20Gunner/" rel="bookmark">Jet Gunner</a></h3>
+
+    
+
+        <p>Jet Gunner is a 2D platform action indie game that&#8217;s full of Nestalgia. Full of action, gunfights, bosses and explosions so if you&#8217;re into the whole 8-Bit vibe you should love this. From the sound, to the graphics to the flicker, this should pay tribute to those classic hard as nails, run &#8216;n&#8217; gun games. [&hellip;]</p>
+        
+        <a href="/Jet%20Gunner/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Warframe/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/230410/header.jpg" title="Warframe" alt="Warframe" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Warframe/" rel="bookmark">Warframe</a></h3>
+
+    
+
+        <p>Recién actualizado NUEVA AVENTURA CINEMÁTICA &amp; NUEVA JUGABILIDAD El Imperio Grineer se hace más fuerte a medida que un amigo se convierte en enemigo. ¿Qué secretos mantiene el Imperio Grineer? Sin poder, sin preparación y forzado fuera de tu comodidad, debes encontrar en ti mismo la manera de derrotar a nuevos enemigos para salvarte. Ten [&hellip;]</p>
+        
+        <a href="/Warframe/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Incoming%20Forces/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/283390/header.jpg" title="Incoming Forces" alt="Incoming Forces" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Incoming%20Forces/" rel="bookmark">Incoming Forces</a></h3>
+
+    
+
+        <p>Prepare for one of the most action packed-shooters in PC gaming history! Every level is full of enemies and targets for you to destroy! In the first game you will battle alien forces intent on wiping out the Human civilization. As a soldier you will use various vehicles and defend vital bases on Earth against [&hellip;]</p>
+        
+        <a href="/Incoming%20Forces/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Intrusion%202/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/214970/header.jpg" title="Intrusion 2" alt="Intrusion 2" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Intrusion%202/" rel="bookmark">Intrusion 2</a></h3>
+
+    
+
+        <p>Steam Big Picture Acerca del juego Intrusion 2 is an action platformer set in a sci-fi environment on a reserve planet occupied by a hostile military corporation conducting forbidden weapon research. Intrusion 2 is inspired by classic 16bit era sidescrollers and focuses on classic fast-paced action combined with modern physics and animation. Key features: 9 [&hellip;]</p>
+        
+        <a href="/Intrusion%202/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/GIGANTIC%20ARMY/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/278930/header.jpg" title="GIGANTIC ARMY" alt="GIGANTIC ARMY" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/GIGANTIC%20ARMY/" rel="bookmark">GIGANTIC ARMY</a></h3>
+
+    
+
+        <p>Side-scrolling mech-shooting bad-assery is BACK! GIGANTIC ARMY is a heartfelt homage to 16-bit era mech shooters such as Cybernator / Assault Suits Valken, Metal Warriors, and Front Mission: Gun Hazard, developed by the studio behind the acclaimed shooter SATAZIUS. It is the 21st century and Earth is at war with the Ramulons – an alien [&hellip;]</p>
+        
+        <a href="/GIGANTIC%20ARMY/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+            
+
+                </div>
+        <div class="page-nav">
+	<nav class="navigation pagination" role="navigation">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><a class="prev page-numbers" href="/category/features/partial-controller-support/page/34/">←</a>
+<a class='page-numbers' href='/category/features/partial-controller-support/'>1</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='/category/features/partial-controller-support/page/33/'>33</a>
+<a class='page-numbers' href='/category/features/partial-controller-support/page/34/'>34</a>
+<span class='page-numbers current'>35</span>
+<a class='page-numbers' href='/category/features/partial-controller-support/page/36/'>36</a>
+<a class='page-numbers' href='/category/features/partial-controller-support/page/37/'>37</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='/category/features/partial-controller-support/page/47/'>47</a>
+<a class="next page-numbers" href="/category/features/partial-controller-support/page/36/">→</a></div>
+	</nav></div>
+        </div>
+    <div class="col-md-3">
+<div id="secondary" class="widget-area" role="complementary">
+	13324	<script>
+		var prices = {
+'key_wmz': 1.95,
+'key_wmr': 120.18,
+'key_wme': 1.87,
+'key_wmu': 51.28,
+'key_py1': 123.65,
+}	</script>
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h3 class="panel-title">Comprar cd key</h3>
+		</div>
+		<div class="panel-body">
+	  		<form id=f1 name=f1 method="POST" action="http://www.oplata.info/asp/curr_select.asp">
+				<h3 class="margin-10 text-primary text-center">
+					<span id="key_price">1</span> <span id="key_currency">$</span>
+				</h3>
+				<input type="hidden" value="1935671" name="id_goods">
+				<input type="hidden" value="526283 " name="id_agent">
+				<input type="hidden" value="http://www.plati.ru/asp/buy.asp?id_d=1935671" name="fail_page">
+				<div class="form-group">
+					<label for="key_change_currency" class="control-label">Pagar con:</label>
+					<select id="key_change_currency" onchange="currency_change(event);" class="form-control" name="type_curr" size="1">
+														<option value="WMZ"> Webmoney (USD)</option>
+															<option value="WMR"> Webmoney (RUR)</option>
+															<option value="WME"> Webmoney (EUR)</option>
+															<option value="WMU"> Webmoney (UAH)</option>
+															<option value="PY1">Tarjeta bancaria (USD)</option>
+												</select>
+		 		</div>
+	   			<p class="text-center">
+		 			<button class="btn btn-primary btn-lg" type="submit">Comprar <span class="glyphicon glyphicon-shopping-cart"></span></button>
+	   			</p>
+	   			<p class="text-center no-margin">
+					Deje por favor la regeneración positiva después de la compra
+	   			</p>
+	  		</form>
+		</div>
+	</div>
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h3 class="panel-title">Social de alimentación</h3>
+		</div>
+		<div class="panel-body text-center">
+			<div class="social-likes social-likes_vertical" data-title="GIGANTIC ARMY" data-url="http://://plati_resell.ru/GIGANTIC%20ARMY/" data-counters="yes"><div class="vkontakte" title="Share link on VK">VK</div><div class="facebook" title="Share link on Facebook">Facebook</div><div class="twitter" title="Share link on Twitter">Twitter</div><div class="plusone" title="Share link on Google+">Google+</div></div><form style="display: none;" class="sociallikes-livejournal-form"></form>		</div>
+	</div>
+		</div><!-- #secondary -->
+    </div>
+    </div>
+
+</div>
+</div>
+
+		<!-- Tab to top scrolling -->
+					<div class="scroll-top-wrapper"> <span class="scroll-top-inner">
+				<i class="fa fa-2x fa-angle-up"></i>
+				</span>
+			</div>
+				<footers>
+		<div class="container footers">
+        <div class="row">
+                                                        </div>
+    </div>
+		</footers>
+		<footer>
+		<div class="container">
+
+				   
+			        <div class="pull-left">
+				            <ul class="list-inline social">
+	                                                    	</ul>
+					</div>
+				 
+				
+			    <div class="pull-right">
+					<a href="/sitemap.html">sitemap</a>
+			        2016
+			      </div>
+			    </div>
+
+		</footer>
+
+	
+		
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"018372472755624537576:rqi4gz3j4rm"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/wp-google-search/assets/js/google_cse_v2.js?ver=1'></script>
+<script type='text/javascript' src='/wp-content/themes/custombootstrap/js/bootstrap.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/wp-content/themes/custombootstrap/js/script.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/wp-content/themes/custombootstrap/js/app.js?ver=0.1'></script>
+<script type='text/javascript' src='/wp-includes/js/wp-embed.min.js?ver=4.7'></script>
+	</body>
+</html>

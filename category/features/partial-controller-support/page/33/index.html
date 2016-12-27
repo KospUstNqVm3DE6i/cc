@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="/xmlrpc.php">
+	<title>Partial Controller Support &#8211; Page 33 &#8211; Cheap &amp; Cheerful</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Cheap &amp; Cheerful &raquo; Feed" href="/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cheap &amp; Cheerful &raquo; Comments Feed" href="/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cheap &amp; Cheerful &raquo; Partial Controller Support Category Feed" href="/category/features/partial-controller-support/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/:\/\/plati_resell.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wgs-css'  href='/wp-content/plugins/wp-google-search/wgs.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='social_likes_style_flat-css'  href='/wp-content/plugins/wp-social-likes/css/social-likes_flat.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ultrabootstrap-bootstrap-css'  href='/wp-content/themes/custombootstrap/css/bootstrap.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ultrabootstrap-fontawesome-css'  href='/wp-content/themes/custombootstrap/css/font-awesome.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ultrabootstrap-googlefonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A400%2C300%2C700&#038;ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ultrabootstrap-style-css'  href='/wp-content/themes/custombootstrap/style.css?ver=4.7' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-social-likes/js/social-likes.min.js?ver=4.7'></script>
+<link rel='https://api.w.org/' href='/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7" />
+<link rel="icon" href="/wp-content/uploads/2016/12/icon.png" sizes="32x32" />
+<link rel="icon" href="/wp-content/uploads/2016/12/icon.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="/wp-content/uploads/2016/12/icon.png" />
+<meta name="msapplication-TileImage" content="http://://plati_resell.ru/wp-content/uploads/2016/12/icon.png" />
+</head>
+
+
+<body class="archive paged category category-partial-controller-support category-38 paged-33 category-paged-33 hfeed">
+
+<header>	
+<section class="logo-menu">
+	<nav class="navbar navbar-default navbar-fixed-top">
+		<div class="container">
+					<!-- Brand and toggle get grouped for better mobile display -->
+				    <div class="navbar-header">
+				      	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					        <span class="sr-only">Toggle navigation</span>
+					        <span class="icon-bar"></span>
+					        <span class="icon-bar"></span>
+					        <span class="icon-bar"></span>
+				      	</button>
+				      	<div class="logo-tag">
+				      		
+				      			<a href="/">				      			<h1 class="site-title" style="color:#000000">Cheap &amp; Cheerful</h1>
+				      			<h2 class="site-description" style="color:#000000">Tienda de juegos</h2></a>                     
+      						
+      					</div>
+				    </div>
+
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+													<form  class="navbar-form navbar-right" role="search">
+								<ul class="nav pull-right">
+									<div class="main-search">
+										<button class="btn btn-search" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+										  <i class="fa fa-search"></i>
+										</button>
+										<div class="search-box collapse" id="collapseExample">
+											<div class="well search-well">
+																									<div class="wgs_wrapper"><div class="gcse-searchbox-only" data-resultsurl="http://://plati_resell.ru/search_gcse/"></div></div>																							</div>
+										</div>
+									</div>
+								</ul>
+							</form>
+						  							
+						<div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav navbar-nav navbar-right"><li id="menu-item-2836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2836"><a title="FAQ" href="/faq/">FAQ</a></li>
+</ul></div>				    </div> <!-- /.end of collaspe navbar-collaspe -->
+	</div> <!-- /.end of container -->
+	</nav>
+</section> <!-- /.end of section -->
+</header>
+<div class="spacer post-list">
+    <div class="container">
+        <div class="row">
+        <div  class="col-md-9">
+        
+        
+                <h4>Category: Partial Controller Support</h4>        <div class="row">
+                        
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Tower%20of%20Guns/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/266110/header.jpg" title="Tower of Guns" alt="Tower of Guns" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Tower%20of%20Guns/" rel="bookmark">Tower of Guns</a></h3>
+
+    
+
+        <p>Tower of Guns is a fast paced first-person-shooter for the twitch gamer&#8230; with a few randomized elements to keep it fresh with each playthrough. It&#8217;s a short burst &quot;Lunch Break FPS&quot;&#8230; not unlike Binding of Isaac mixed with Doom 2. Tower of Guns was made by a guy named Joe (with his brother Mike composing [&hellip;]</p>
+        
+        <a href="/Tower%20of%20Guns/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Street%20Arena/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/347820/header.jpg" title="Street Arena" alt="Street Arena" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Street%20Arena/" rel="bookmark">Street Arena</a></h3>
+
+    
+
+        <p>Dales una paliza a tus amigos en este temperamental, dinámico juego de acción/de tiros/pilla-pilla en modo multi-player! Sé atento porque la policía te desafiará y puede hasta atropellarte mientras persigue a otro jugador. Recibe mucho aplomo y momentos felices a través de numerosas armas, armas de coche, los power-up, y muchas situaciones divertidas e inesperadas. [&hellip;]</p>
+        
+        <a href="/Street%20Arena/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/DARK/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/225360/header.jpg" title="DARK" alt="DARK" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/DARK/" rel="bookmark">DARK</a></h3>
+
+    
+
+        <p>DARK is a unique stealth-action game with RPG elements in which you take on the role of the ultimate hunter: a vampire. Ambush your enemies from the shadows, roam the darkness and use powerful vampire skills to dispatch your opponents. The intricate story of DARK will take you into the midst of a world of [&hellip;]</p>
+        
+        <a href="/DARK/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Darksiders%20II/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/50650/header.jpg" title="Darksiders II" alt="Darksiders II" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Darksiders%20II/" rel="bookmark">Darksiders II</a></h3>
+
+    
+
+        <p>Crucible Mode Darksiders II presenta un modo de supervivencia en la arena llamado El Crisol, que permite a los jugadores seguir mejorando su personaje incluso después de haber terminado el juego principal y que ofrece el desafío definitivo. Características principales: Tras completar cinco de las 100 oleadas exclusivas del modo, los jugadores tendrán la opción [&hellip;]</p>
+        
+        <a href="/Darksiders%20II/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Fallout%3A%20New%20Vegas%20Ultimate%20Edition/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/2028016/header.jpg" title="Fallout: New Vegas Ultimate Edition" alt="Fallout: New Vegas Ultimate Edition" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Fallout%3A%20New%20Vegas%20Ultimate%20Edition/" rel="bookmark">Fallout: New Vegas Ultimate Edition</a></h3>
+
+    
+
+        <p>¡Bienvenido de vuelta a New Vegas! Con la introducción de la Ultimate Edition, Bethesda Softworks te ofrece una oportunidad de doble o nada para conseguir el lote completo de diversión en New Vegas. Por primera vez en un solo pack, puedes tener todo el contenido de Fallout: New Vegas incluyendo el lote completo del aclamado [&hellip;]</p>
+        
+        <a href="/Fallout%3A%20New%20Vegas%20Ultimate%20Edition/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Magicka%3A%20Aspiring%20Musician%20Robes/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/73096/header.jpg" title="Magicka: Aspiring Musician Robes" alt="Magicka: Aspiring Musician Robes" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Magicka%3A%20Aspiring%20Musician%20Robes/" rel="bookmark">Magicka: Aspiring Musician Robes</a></h3>
+
+    
+
+                
+        <a href="/Magicka%3A%20Aspiring%20Musician%20Robes/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Portal/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/400/header.jpg" title="Portal" alt="Portal" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Portal/" rel="bookmark">Portal</a></h3>
+
+    
+
+        <p>Portal&trade; es la nueva aventura para un solo jugador de Valve. Ambientado en los misteriosos laboratorios de Aperture Science, Portal ha sido calificado como uno de los juegos más innovadores de los últimos tiempos y ofrece incontables horas de rompecabezas nunca vistos. El juego está diseñado para cambiar radicalmente el modo en que los jugadores [&hellip;]</p>
+        
+        <a href="/Portal/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Tomb%20Raider%3A%20Legend/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/7000/header.jpg" title="Tomb Raider: Legend" alt="Tomb Raider: Legend" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Tomb%20Raider%3A%20Legend/" rel="bookmark">Tomb Raider: Legend</a></h3>
+
+    
+
+        <p>¡La aventurera más atractiva e intrépida del mundo hace su regreso triunfal en Lara Croft Tomb Raider: Legend! Acompaña a Lara en esta aventura de descubrimiento mientras viaja a lugares remotos y exóticos por todo el mundo en la búsqueda de uno de los más increíbles artefactos de la historia que convocará a ciertos personajes [&hellip;]</p>
+        
+        <a href="/Tomb%20Raider%3A%20Legend/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Aquadelic%20GT/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/321450/header.jpg" title="Aquadelic GT" alt="Aquadelic GT" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Aquadelic%20GT/" rel="bookmark">Aquadelic GT</a></h3>
+
+    
+
+        <p>Aquadelic GT is a boat racing game in the style of a kart racer – easy to learn, but challenging to master. Enjoy piloting boats with stunning physics. Whilst one is stable in every situation another can be hard to control at speed. There are multiple paint-jobs for each boat, so you can choose one [&hellip;]</p>
+        
+        <a href="/Aquadelic%20GT/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Shelter/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/244710/header.jpg" title="Shelter" alt="Shelter" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Shelter/" rel="bookmark">Shelter</a></h3>
+
+    
+
+        <p>Experience the wild as a mother badger sheltering her cubs from harm. On their journey they get stalked by a bird of prey, encounter perils of the night, river rapids crossings, big forest fires and the looming threat of death by starvation. Food is to be found, but is there enough for everyone? You will [&hellip;]</p>
+        
+        <a href="/Shelter/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Shadow%20Puppeteer/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/316480/header.jpg" title="Shadow Puppeteer" alt="Shadow Puppeteer" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Shadow%20Puppeteer/" rel="bookmark">Shadow Puppeteer</a></h3>
+
+    
+
+        <p>Invite a friend to explore the strange, yet beautiful world of darkness and light in Shadow Puppeteer, an award-winning, local co-op adventure. Assume the roles of a boy and his shadow, separated from one another by the evil shadow puppeteer. Work together to manipulate light, solving puzzles that bring you closer to finding this villain [&hellip;]</p>
+        
+        <a href="/Shadow%20Puppeteer/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Loren%20The%20Amazon%20Princess/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/257970/header.jpg" title="Loren The Amazon Princess" alt="Loren The Amazon Princess" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Loren%20The%20Amazon%20Princess/" rel="bookmark">Loren The Amazon Princess</a></h3>
+
+    
+
+        <p>Loren The Amazon Princess is a fantasy epic combining intricate turn-based battles with a heroic tale of overcoming evil &#8212; with a twist! In this tale, you play as a loyal servant of the hero rather than the hero herself. Travel by Princess Loren&#8217;s side as she searches for her lost mother, the Queen of [&hellip;]</p>
+        
+        <a href="/Loren%20The%20Amazon%20Princess/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+            
+
+                </div>
+        <div class="page-nav">
+	<nav class="navigation pagination" role="navigation">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><a class="prev page-numbers" href="/category/features/partial-controller-support/page/32/">←</a>
+<a class='page-numbers' href='/category/features/partial-controller-support/'>1</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='/category/features/partial-controller-support/page/31/'>31</a>
+<a class='page-numbers' href='/category/features/partial-controller-support/page/32/'>32</a>
+<span class='page-numbers current'>33</span>
+<a class='page-numbers' href='/category/features/partial-controller-support/page/34/'>34</a>
+<a class='page-numbers' href='/category/features/partial-controller-support/page/35/'>35</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='/category/features/partial-controller-support/page/47/'>47</a>
+<a class="next page-numbers" href="/category/features/partial-controller-support/page/34/">→</a></div>
+	</nav></div>
+        </div>
+    <div class="col-md-3">
+<div id="secondary" class="widget-area" role="complementary">
+	9742	<script>
+		var prices = {
+'key_wmz': 1.99,
+'key_wmr': 122.66,
+'key_wme': 1.9,
+'key_wmu': 68.02,
+'key_py1': 126.19,
+}	</script>
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h3 class="panel-title">Comprar cd key</h3>
+		</div>
+		<div class="panel-body">
+	  		<form id=f1 name=f1 method="POST" action="http://www.oplata.info/asp/curr_select.asp">
+				<h3 class="margin-10 text-primary text-center">
+					<span id="key_price">1</span> <span id="key_currency">$</span>
+				</h3>
+				<input type="hidden" value="1939334" name="id_goods">
+				<input type="hidden" value="526283 " name="id_agent">
+				<input type="hidden" value="http://www.plati.ru/asp/buy.asp?id_d=1939334" name="fail_page">
+				<div class="form-group">
+					<label for="key_change_currency" class="control-label">Pagar con:</label>
+					<select id="key_change_currency" onchange="currency_change(event);" class="form-control" name="type_curr" size="1">
+														<option value="WMZ"> Webmoney (USD)</option>
+															<option value="WMR"> Webmoney (RUR)</option>
+															<option value="WME"> Webmoney (EUR)</option>
+															<option value="WMU"> Webmoney (UAH)</option>
+															<option value="PY1">Tarjeta bancaria (USD)</option>
+												</select>
+		 		</div>
+	   			<p class="text-center">
+		 			<button class="btn btn-primary btn-lg" type="submit">Comprar <span class="glyphicon glyphicon-shopping-cart"></span></button>
+	   			</p>
+	   			<p class="text-center no-margin">
+					Deje por favor la regeneración positiva después de la compra
+	   			</p>
+	  		</form>
+		</div>
+	</div>
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h3 class="panel-title">Social de alimentación</h3>
+		</div>
+		<div class="panel-body text-center">
+			<div class="social-likes social-likes_vertical" data-title="Loren The Amazon Princess" data-url="http://://plati_resell.ru/Loren%20The%20Amazon%20Princess/" data-counters="yes"><div class="vkontakte" title="Share link on VK">VK</div><div class="facebook" title="Share link on Facebook">Facebook</div><div class="twitter" title="Share link on Twitter">Twitter</div><div class="plusone" title="Share link on Google+">Google+</div></div><form style="display: none;" class="sociallikes-livejournal-form"></form>		</div>
+	</div>
+		</div><!-- #secondary -->
+    </div>
+    </div>
+
+</div>
+</div>
+
+		<!-- Tab to top scrolling -->
+					<div class="scroll-top-wrapper"> <span class="scroll-top-inner">
+				<i class="fa fa-2x fa-angle-up"></i>
+				</span>
+			</div>
+				<footers>
+		<div class="container footers">
+        <div class="row">
+                                                        </div>
+    </div>
+		</footers>
+		<footer>
+		<div class="container">
+
+				   
+			        <div class="pull-left">
+				            <ul class="list-inline social">
+	                                                    	</ul>
+					</div>
+				 
+				
+			    <div class="pull-right">
+					<a href="/sitemap.html">sitemap</a>
+			        2016
+			      </div>
+			    </div>
+
+		</footer>
+
+	
+		
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"018372472755624537576:rqi4gz3j4rm"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/wp-google-search/assets/js/google_cse_v2.js?ver=1'></script>
+<script type='text/javascript' src='/wp-content/themes/custombootstrap/js/bootstrap.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/wp-content/themes/custombootstrap/js/script.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/wp-content/themes/custombootstrap/js/app.js?ver=0.1'></script>
+<script type='text/javascript' src='/wp-includes/js/wp-embed.min.js?ver=4.7'></script>
+	</body>
+</html>

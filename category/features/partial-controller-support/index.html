@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="/xmlrpc.php">
+	<title>Partial Controller Support &#8211; Cheap &amp; Cheerful</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Cheap &amp; Cheerful &raquo; Feed" href="/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cheap &amp; Cheerful &raquo; Comments Feed" href="/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cheap &amp; Cheerful &raquo; Partial Controller Support Category Feed" href="/category/features/partial-controller-support/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/:\/\/plati_resell.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wgs-css'  href='/wp-content/plugins/wp-google-search/wgs.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='social_likes_style_flat-css'  href='/wp-content/plugins/wp-social-likes/css/social-likes_flat.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ultrabootstrap-bootstrap-css'  href='/wp-content/themes/custombootstrap/css/bootstrap.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ultrabootstrap-fontawesome-css'  href='/wp-content/themes/custombootstrap/css/font-awesome.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ultrabootstrap-googlefonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A400%2C300%2C700&#038;ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ultrabootstrap-style-css'  href='/wp-content/themes/custombootstrap/style.css?ver=4.7' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-social-likes/js/social-likes.min.js?ver=4.7'></script>
+<link rel='https://api.w.org/' href='/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7" />
+<link rel="icon" href="/wp-content/uploads/2016/12/icon.png" sizes="32x32" />
+<link rel="icon" href="/wp-content/uploads/2016/12/icon.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="/wp-content/uploads/2016/12/icon.png" />
+<meta name="msapplication-TileImage" content="http://://plati_resell.ru/wp-content/uploads/2016/12/icon.png" />
+</head>
+
+
+<body class="archive category category-partial-controller-support category-38 hfeed">
+
+<header>	
+<section class="logo-menu">
+	<nav class="navbar navbar-default navbar-fixed-top">
+		<div class="container">
+					<!-- Brand and toggle get grouped for better mobile display -->
+				    <div class="navbar-header">
+				      	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					        <span class="sr-only">Toggle navigation</span>
+					        <span class="icon-bar"></span>
+					        <span class="icon-bar"></span>
+					        <span class="icon-bar"></span>
+				      	</button>
+				      	<div class="logo-tag">
+				      		
+				      			<a href="/">				      			<h1 class="site-title" style="color:#000000">Cheap &amp; Cheerful</h1>
+				      			<h2 class="site-description" style="color:#000000">Tienda de juegos</h2></a>                     
+      						
+      					</div>
+				    </div>
+
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+													<form  class="navbar-form navbar-right" role="search">
+								<ul class="nav pull-right">
+									<div class="main-search">
+										<button class="btn btn-search" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+										  <i class="fa fa-search"></i>
+										</button>
+										<div class="search-box collapse" id="collapseExample">
+											<div class="well search-well">
+																									<div class="wgs_wrapper"><div class="gcse-searchbox-only" data-resultsurl="http://://plati_resell.ru/search_gcse/"></div></div>																							</div>
+										</div>
+									</div>
+								</ul>
+							</form>
+						  							
+						<div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav navbar-nav navbar-right"><li id="menu-item-2836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2836"><a title="FAQ" href="/faq/">FAQ</a></li>
+</ul></div>				    </div> <!-- /.end of collaspe navbar-collaspe -->
+	</div> <!-- /.end of container -->
+	</nav>
+</section> <!-- /.end of section -->
+</header>
+<div class="spacer post-list">
+    <div class="container">
+        <div class="row">
+        <div  class="col-md-9">
+        
+        
+                <h4>Category: Partial Controller Support</h4>        <div class="row">
+                        
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/DARK%20SOULS%E2%84%A2%3A%20Prepare%20To%20Die%E2%84%A2%20Edition/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/211420/header.jpg" title="DARK SOULS™: Prepare To Die™ Edition" alt="DARK SOULS™: Prepare To Die™ Edition" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/DARK%20SOULS%E2%84%A2%3A%20Prepare%20To%20Die%E2%84%A2%20Edition/" rel="bookmark">DARK SOULS™: Prepare To Die™ Edition</a></h3>
+
+    
+
+        <p>Nuevo contenido para PC Dark Souls™: Prepare to Die™ Edition incluirá un capítulo inédito del mundo de Lordran. El jugador, enviado al pasado, descubrirá la historia que tuvo lugar cuando el caballero oscuro Artorias aún vivía. Jefes nuevos: como el dragón negro, el guardián del santuario y Artorias del Abismo. Arena PVP y sistema de [&hellip;]</p>
+        
+        <a href="/DARK%20SOULS%E2%84%A2%3A%20Prepare%20To%20Die%E2%84%A2%20Edition/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Darksiders%20Franchise%20Pack/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/subs/18777/header_586x192.jpg" title="Darksiders Franchise Pack" alt="Darksiders Franchise Pack" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Darksiders%20Franchise%20Pack/" rel="bookmark">Darksiders Franchise Pack</a></h3>
+
+    
+
+                
+        <a href="/Darksiders%20Franchise%20Pack/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Farming%20Simulator%202013%20Titanium%20Edition/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/220260/header.jpg" title="Farming Simulator 2013 Titanium Edition" alt="Farming Simulator 2013 Titanium Edition" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Farming%20Simulator%202013%20Titanium%20Edition/" rel="bookmark">Farming Simulator 2013 Titanium Edition</a></h3>
+
+    
+
+        <p>¡Bienvenido al mayor simulador agrícola jamás creado! Farming Simulator 2013® Titanium te invita al desafiante mundo del granjero moderno: ganadería (vacas, pollos y ovejas), cosechas, ventas… Tú decides cómo gestionar y mejorar tu propia granja en un mundo abierto enorme, que incluye por primera vez escenarios de América. ¡A lo largo de tu progreso, controlarás [&hellip;]</p>
+        
+        <a href="/Farming%20Simulator%202013%20Titanium%20Edition/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Magicka%3A%20Mega%20Villain%20Robes/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/73095/header.jpg" title="Magicka: Mega Villain Robes" alt="Magicka: Mega Villain Robes" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Magicka%3A%20Mega%20Villain%20Robes/" rel="bookmark">Magicka: Mega Villain Robes</a></h3>
+
+    
+
+                
+        <a href="/Magicka%3A%20Mega%20Villain%20Robes/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Street%20Fighter%20X%20Tekken/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/209120/header.jpg" title="Street Fighter X Tekken" alt="Street Fighter X Tekken" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Street%20Fighter%20X%20Tekken/" rel="bookmark">Street Fighter X Tekken</a></h3>
+
+    
+
+        <p>Will You Cross the Line? The long awaited dream match-up between the two titans of fighting is here! Street Fighter® X Tekken® is the ultimate tag team fighting game, featuring one of the most expansive rosters of iconic fighters in fighting game history. The critically acclaimed Street Fighter® IV game engine has been refined with [&hellip;]</p>
+        
+        <a href="/Street%20Fighter%20X%20Tekken/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Tomb%20Raider%3A%20Anniversary/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/8000/header.jpg" title="Tomb Raider: Anniversary" alt="Tomb Raider: Anniversary" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Tomb%20Raider%3A%20Anniversary/" rel="bookmark">Tomb Raider: Anniversary</a></h3>
+
+    
+
+        <p>Tomb Raider: Anniversary regresa al instante donde la aventura original de Lara Croft, en su búsqueda del legendario artefacto Scion, definió el género en tercera persona. Usando un mejorado motor de Tomb Raider: Legend, los gráficos, la tecnología y la física llevan la aventura de Lara y la búsqueda de un místico artefacto únicamente conocido [&hellip;]</p>
+        
+        <a href="/Tomb%20Raider%3A%20Anniversary/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/MiniDrivers/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/385490/header.jpg" title="MiniDrivers" alt="MiniDrivers" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/MiniDrivers/" rel="bookmark">MiniDrivers</a></h3>
+
+    
+
+        <p>¡Las carreras más locas llegan a tus manos con MiniDrivers! La serie de animación que ha cautivado a millones de personas en todo el mundo tiene un nuevo protagonista: ¡Tú! Crea tus propias historias o cambia las reglas en las carreras y conviértete en Campeón del Mundo. ¡ES HORA DE CORRER! Si algo caracteriza los [&hellip;]</p>
+        
+        <a href="/MiniDrivers/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Breezeblox/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/370080/header.jpg" title="Breezeblox" alt="Breezeblox" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Breezeblox/" rel="bookmark">Breezeblox</a></h3>
+
+    
+
+        <p>Breezeblox is an addictive puzzle game where the objective is to reach the end cube without moving off the platform. Special cubes throughout the puzzles will trigger different actions on the platform to aid you with progressing. With 150 challenging puzzles to complete, your brain will be plenty busy.</p>
+        
+        <a href="/Breezeblox/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Star%20Wars%20Collection/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/subs/66986/header_586x192.jpg" title="Star Wars Collection" alt="Star Wars Collection" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Star%20Wars%20Collection/" rel="bookmark">Star Wars Collection</a></h3>
+
+    
+
+                
+        <a href="/Star%20Wars%20Collection/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Into%20The%20War/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/346370/header.jpg" title="Into The War" alt="Into The War" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Into%20The%20War/" rel="bookmark">Into The War</a></h3>
+
+    
+
+        <p>Into The War is a Parkour FPS which is still in Development. It is made by Small Town Studios and has a long road of work ahead of it. Please hop into the discussion and suggest any features you would like to see in this game.</p>
+        
+        <a href="/Into%20The%20War/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Bunch%20of%20Heroes/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/111400/header.jpg" title="Bunch of Heroes" alt="Bunch of Heroes" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Bunch%20of%20Heroes/" rel="bookmark">Bunch of Heroes</a></h3>
+
+    
+
+        <p>The Bunch es el equipo más impresionante de soldados de élite del mundo jamás reunido. ¿Qué los unió? Bueno, obviamente ¡la Tierra está siendo atacada! Una invasión extraterrestre amenaza a toda la humanidad, sin importar género, color o nacionalidad. ¡Y estos horrendos alienígenas tienen un Ejército Zombi a su disposición! Controla a la Agente Liu, [&hellip;]</p>
+        
+        <a href="/Bunch%20of%20Heroes/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Dungeonland/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/218130/header.jpg" title="Dungeonland" alt="Dungeonland" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Dungeonland/" rel="bookmark">Dungeonland</a></h3>
+
+    
+
+        <p>Dungeonland es un hack and slash que transporta a los jugadores a un mortal parque de atracciones medieval. Jugando como el El Pícaro, El Guerrero o El Mago, los héroes tendrán que trabajar juntos como un equipo para derrotar al diabólico supervisor de este “Reino Trágico”: El Dungeon Maestro. Los más diabólicos incluso pueden meterse [&hellip;]</p>
+        
+        <a href="/Dungeonland/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+            
+
+                </div>
+        <div class="page-nav">
+	<nav class="navigation pagination" role="navigation">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><span class='page-numbers current'>1</span>
+<a class='page-numbers' href='/category/features/partial-controller-support/page/2/'>2</a>
+<a class='page-numbers' href='/category/features/partial-controller-support/page/3/'>3</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='/category/features/partial-controller-support/page/47/'>47</a>
+<a class="next page-numbers" href="/category/features/partial-controller-support/page/2/">→</a></div>
+	</nav></div>
+        </div>
+    <div class="col-md-3">
+<div id="secondary" class="widget-area" role="complementary">
+	10011	<script>
+		var prices = {
+'key_wmz': 0.76,
+'key_wmr': 42,
+'key_wme': 0.72,
+'key_wmu': 22.93,
+'key_py1': 43.21,
+}	</script>
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h3 class="panel-title">Comprar cd key</h3>
+		</div>
+		<div class="panel-body">
+	  		<form id=f1 name=f1 method="POST" action="http://www.oplata.info/asp/curr_select.asp">
+				<h3 class="margin-10 text-primary text-center">
+					<span id="key_price">1</span> <span id="key_currency">$</span>
+				</h3>
+				<input type="hidden" value="1545798" name="id_goods">
+				<input type="hidden" value="526283 " name="id_agent">
+				<input type="hidden" value="http://www.plati.ru/asp/buy.asp?id_d=1545798" name="fail_page">
+				<div class="form-group">
+					<label for="key_change_currency" class="control-label">Pagar con:</label>
+					<select id="key_change_currency" onchange="currency_change(event);" class="form-control" name="type_curr" size="1">
+														<option value="WMZ"> Webmoney (USD)</option>
+															<option value="WMR"> Webmoney (RUR)</option>
+															<option value="WME"> Webmoney (EUR)</option>
+															<option value="WMU"> Webmoney (UAH)</option>
+															<option value="PY1">Tarjeta bancaria (USD)</option>
+												</select>
+		 		</div>
+	   			<p class="text-center">
+		 			<button class="btn btn-primary btn-lg" type="submit">Comprar <span class="glyphicon glyphicon-shopping-cart"></span></button>
+	   			</p>
+	   			<p class="text-center no-margin">
+					Deje por favor la regeneración positiva después de la compra
+	   			</p>
+	  		</form>
+		</div>
+	</div>
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h3 class="panel-title">Social de alimentación</h3>
+		</div>
+		<div class="panel-body text-center">
+			<div class="social-likes social-likes_vertical" data-title="Dungeonland" data-url="http://://plati_resell.ru/Dungeonland/" data-counters="yes"><div class="vkontakte" title="Share link on VK">VK</div><div class="facebook" title="Share link on Facebook">Facebook</div><div class="twitter" title="Share link on Twitter">Twitter</div><div class="plusone" title="Share link on Google+">Google+</div></div><form style="display: none;" class="sociallikes-livejournal-form"></form>		</div>
+	</div>
+		</div><!-- #secondary -->
+    </div>
+    </div>
+
+</div>
+</div>
+
+		<!-- Tab to top scrolling -->
+					<div class="scroll-top-wrapper"> <span class="scroll-top-inner">
+				<i class="fa fa-2x fa-angle-up"></i>
+				</span>
+			</div>
+				<footers>
+		<div class="container footers">
+        <div class="row">
+                                                        </div>
+    </div>
+		</footers>
+		<footer>
+		<div class="container">
+
+				   
+			        <div class="pull-left">
+				            <ul class="list-inline social">
+	                                                    	</ul>
+					</div>
+				 
+				
+			    <div class="pull-right">
+					<a href="/sitemap.html">sitemap</a>
+			        2016
+			      </div>
+			    </div>
+
+		</footer>
+
+	
+		
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"018372472755624537576:rqi4gz3j4rm"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/wp-google-search/assets/js/google_cse_v2.js?ver=1'></script>
+<script type='text/javascript' src='/wp-content/themes/custombootstrap/js/bootstrap.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/wp-content/themes/custombootstrap/js/script.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/wp-content/themes/custombootstrap/js/app.js?ver=0.1'></script>
+<script type='text/javascript' src='/wp-includes/js/wp-embed.min.js?ver=4.7'></script>
+	</body>
+</html>

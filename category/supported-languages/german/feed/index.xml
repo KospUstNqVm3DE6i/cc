@@ -12,7 +12,7 @@
 	<atom:link href="/category/supported-languages/german/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Fri, 16 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,271 +26,115 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Arma 2: Combined Operations</title>
-		<link>/Arma%202%3A%20Combined%20Operations/</link>
-		<comments>/Arma%202%3A%20Combined%20Operations/#respond</comments>
+		<title>Grand Theft Auto V</title>
+		<link>/Grand%20Theft%20Auto%20V/</link>
+		<comments>/Grand%20Theft%20Auto%20V/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Cuando un joven estafador callejero, un ladrón de bancos retirado y un psicópata aterrador se ven involucrados con lo peor y más desquiciado del mundo criminal, del gobierno de los EE. UU. y de la industria del espectáculo, tendrán que llevar a cabo una serie de peligrosos golpes para sobrevivir en una ciudad implacable en [&#8230;]]]></description>
+		<wfw:commentRss>/Grand%20Theft%20Auto%20V/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Aliens: Colonial Marines</title>
+		<link>/Aliens%3A%20Colonial%20Marines/</link>
+		<comments>/Aliens%3A%20Colonial%20Marines/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Arma%202%3A%20Combined%20Operations/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Grand Theft Auto IV: Complete Edition</title>
-		<link>/Grand%20Theft%20Auto%20IV%3A%20Complete%20Edition/</link>
-		<comments>/Grand%20Theft%20Auto%20IV%3A%20Complete%20Edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Coming Soon &#8211; Grand Theft Auto V Grand Theft Auto IV y los episodios – The Lost and Damned y The Ballad of Gay Tony. GTA IV: Complete Edition Incluye: Grand Theft Auto IV and the episodes – The Lost and Damned &#38; The Ballad of Gay Tony. Acerca del juego Este título independiente incluye [&#8230;]]]></description>
-		<wfw:commentRss>/Grand%20Theft%20Auto%20IV%3A%20Complete%20Edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>BioShock Infinite: Clash in the Clouds</title>
-		<link>/BioShock%20Infinite%3A%20Clash%20in%20the%20Clouds/</link>
-		<comments>/BioShock%20Infinite%3A%20Clash%20in%20the%20Clouds/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Tú y tus amigos contra los asesinos más letales de la galaxia. Otro glorioso día en el Cuerpo. ¡En pie, soldado! Bienvenido a Aliens™: Colonial Marines. Creado por Gearbox, los desarolladores aclamados por la crítica y preferidos por los fans, y creadores de Borderlands y Brothers In Arms. Tú y tus amigos seréis el equipo [&#8230;]]]></description>
+		<wfw:commentRss>/Aliens%3A%20Colonial%20Marines/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Call of Duty: World at War</title>
+		<link>/Call%20of%20Duty%3A%20World%20at%20War/</link>
+		<comments>/Call%20of%20Duty%3A%20World%20at%20War/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Call of Duty ha vuelto, redefiniendo la guerra como nunca la habías experimentado. Tomando como base el motor de Call of Duty 4®: Modern Warfare, Call of Duty: World at War sumerge a los jugadores en la experiencia de combate más descarnada y caótica de la Segunda Guerra Mundial hasta la fecha. Los jugadores tendrán [&#8230;]]]></description>
+		<wfw:commentRss>/Call%20of%20Duty%3A%20World%20at%20War/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Escape Dead Island</title>
+		<link>/Escape%20Dead%20Island/</link>
+		<comments>/Escape%20Dead%20Island/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/BioShock%20Infinite%3A%20Clash%20in%20the%20Clouds/feed/</wfw:commentRss>
+		<description><![CDATA[Escape Dead Island es un juego de supervivencia y misterio que se desarrolla en la enigmática isla de Narapela después del brote zombi del juego original de Dead Island. En este título, descubrirás los orígenes del virus zombi a través de los ojos del aspirante a periodista Cliff Calo. Cliff Calo, hijo del magnate de [&#8230;]]]></description>
+		<wfw:commentRss>/Escape%20Dead%20Island/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>DiRT 3 Complete Edition</title>
-		<link>/DiRT%203%20Complete%20Edition/</link>
-		<comments>/DiRT%203%20Complete%20Edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Consigue la Edición Completa de DiRT 3, la edición de competición off-road de DiRT 3 definitiva ampliada ahora con contenido adicional y mejorada mediante la integración de Steamworks, que dispone de logros, marcadores y partidas guardadas en Steam Cloud. En DiRT 3 Edición Completa, pilotarás coches míticos que abarcan 50 años de carreras en tres [&#8230;]]]></description>
-		<wfw:commentRss>/DiRT%203%20Complete%20Edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dead Space™ 2</title>
-		<link>/Dead%20Space%E2%84%A2%202/</link>
-		<comments>/Dead%20Space%E2%84%A2%202/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[En Dead Space™ 2, te vuelves a poner en la piel de Isaac Clarke, el ingeniero de sistemas de Dead Space, tras despertarse tres años después de los horribles sucesos ocurridos en la USG Ishimura. La Ishimura era una nave minera de categoría Destructor de Planetas asediada por los grotescos cadáveres vivientes de su tripulación, [&#8230;]]]></description>
-		<wfw:commentRss>/Dead%20Space%E2%84%A2%202/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Enclave</title>
-		<link>/Enclave/</link>
-		<comments>/Enclave/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Experience incredibly atmospheric and intense medieval combat action! Go ahead and enter a new world, the award-winning world of ENCLAVE! The people of Light and Darkness are divided by a bottomless rift that split the earth many millennia ago. The lands of light are an Enclave of truth and order surrounded by the twisted and [&#8230;]]]></description>
-		<wfw:commentRss>/Enclave/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Farming Simulator 15</title>
-		<link>/Farming%20Simulator%2015/</link>
-		<comments>/Farming%20Simulator%2015/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Farming Simulator 17 &#8211; Now Available Acerca del juego ¡Bienvenido a la nueva generación de Farming Simulator! Gracias a un motor de gráficos y físicas completamente nuevo, Farming Simulator 15 ofrece un mundo abierto inmenso, lleno de detalles y efectos visuales que transportan a la saga Farming Simulator a una nueva era. Gestiona tu propia [&#8230;]]]></description>
-		<wfw:commentRss>/Farming%20Simulator%2015/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Half-Life 2</title>
-		<link>/Half-Life%202/</link>
-		<comments>/Half-Life%202/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes Source SDK]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[1998. HALF-LIFE supone un impacto en la industria de juegos con su combinación de acción fren&#233;tica y narración continua y absorbente. El título de debut de Valve fue galardonado con más de 50 premios que lo consideraron el juego del año hasta convertirse en &#8220;El mejor juego para PC de la historia&#8221;, galardón concedido por [&#8230;]]]></description>
-		<wfw:commentRss>/Half-Life%202/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Mad Max</title>
-		<link>/Mad%20Max/</link>
-		<comments>/Mad%20Max/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Conviértete en Mad Max, un guerrero solitario en un despiadado mundo postapocalíptico donde los vehículos son imprescindibles para la supervivencia. En este juego de acción de mundo abierto en tercera persona deberás luchar constantemente contra crueles enemigos para mantenerte con vida en el Páramo, combatiendo tanto cuerpo a cuerpo como en vehículos. Héroe reacio con [&#8230;]]]></description>
-		<wfw:commentRss>/Mad%20Max/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Mass Effect 2</title>
-		<link>/Mass%20Effect%202/</link>
-		<comments>/Mass%20Effect%202/#respond</comments>
+		<title>Dragon Age: Origins</title>
+		<link>/Dragon%20Age%3A%20Origins/</link>
+		<comments>/Dragon%20Age%3A%20Origins/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Czech]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[RPG]]></category>
@@ -299,14 +143,136 @@
 		<category><![CDATA[Spanish]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[¡De los creadores de Star Wars®: Knights of the Old Republic™, Dragon Age: Origins™, y Mass Effect™ llega la segunda y oscura entrega de la emocionante trilogía Mass Effect!Dos años después de que el Comandante Shepard lograse repeler a los invasores Reapers empeñados en destruir toda vida orgánica, emerge un nuevo y misterioso enemigo. En [&#8230;]]]></description>
-		<wfw:commentRss>/Mass%20Effect%202/feed/</wfw:commentRss>
+		<description><![CDATA[Pre-Compra Dragon Age: Origins y recibe lo siguiente: Item Exclusivo para Steam   El Juramento Vil La condesa Luciana de Antiva vivió prácticamente como una prisionera en el castillo de su marido hasta que una esclava elfa le ofreció la posibilidad de escapar. La esclava vinculó mágicamente una pequeña cantidad de sangre de la condesa a [&#8230;]]]></description>
+		<wfw:commentRss>/Dragon%20Age%3A%20Origins/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>PAYDAY 2: Gage Weapon Pack #02</title>
-		<link>/PAYDAY%202%3A%20Gage%20Weapon%20Pack%20%2302/</link>
-		<comments>/PAYDAY%202%3A%20Gage%20Weapon%20Pack%20%2302/#respond</comments>
+		<title>Fallout: New Vegas Ultimate Edition</title>
+		<link>/Fallout%3A%20New%20Vegas%20Ultimate%20Edition/</link>
+		<comments>/Fallout%3A%20New%20Vegas%20Ultimate%20Edition/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¡Bienvenido de vuelta a New Vegas! Con la introducción de la Ultimate Edition, Bethesda Softworks te ofrece una oportunidad de doble o nada para conseguir el lote completo de diversión en New Vegas. Por primera vez en un solo pack, puedes tener todo el contenido de Fallout: New Vegas incluyendo el lote completo del aclamado [&#8230;]]]></description>
+		<wfw:commentRss>/Fallout%3A%20New%20Vegas%20Ultimate%20Edition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Guacamelee! Gold Edition</title>
+		<link>/Guacamelee%21%20Gold%20Edition/</link>
+		<comments>/Guacamelee%21%20Gold%20Edition/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Steam Workshop Acerca del juego Guacamelee! Gold Edition Es un juego de plataformas de acción de estilo Metroid-vania establecido en un mundo mágico de inspiración mexicana. Guacamelee!, desarrollado sobre el estilo clásico de juegos de mundo abierto de Metroid-vania, cuenta con adiciones tales como un fuerte componente de combate cuerpo a cuerpo, una nueva mecánica [&#8230;]]]></description>
+		<wfw:commentRss>/Guacamelee%21%20Gold%20Edition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Left 4 Dead</title>
+		<link>/Left%204%20Dead/</link>
+		<comments>/Left%204%20Dead/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Steam Big Picture Acerca del juego De la mano de Valve®, creadores de Counter-Strike®, Half-Life® y otros muchos juegos, llega Left 4 Dead™, una nueva aventura para PC y Xbox 360 que te meterá en la piel de uno de los cuatro &#34;supervivientes&#34; que libran una pugna de proporciones épicas contra hordas de zombis y [&#8230;]]]></description>
+		<wfw:commentRss>/Left%204%20Dead/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Magicka: Peculiar Gadgets Item Pack</title>
+		<link>/Magicka%3A%20Peculiar%20Gadgets%20Item%20Pack/</link>
+		<comments>/Magicka%3A%20Peculiar%20Gadgets%20Item%20Pack/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>/Magicka%3A%20Peculiar%20Gadgets%20Item%20Pack/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PAYDAY 2: Dragan Character Pack</title>
+		<link>/PAYDAY%202%3A%20Dragan%20Character%20Pack/</link>
+		<comments>/PAYDAY%202%3A%20Dragan%20Character%20Pack/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -315,9 +281,9 @@
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
@@ -327,38 +293,71 @@
 
 		<guid isPermaLink="false"></guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/PAYDAY%202%3A%20Gage%20Weapon%20Pack%20%2302/feed/</wfw:commentRss>
+		<wfw:commentRss>/PAYDAY%202%3A%20Dragan%20Character%20Pack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Rust</title>
-		<link>/Rust/</link>
-		<comments>/Rust/#respond</comments>
+		<title>Risen 2: Dark Waters</title>
+		<link>/Risen%202%3A%20Dark%20Waters/</link>
+		<comments>/Risen%202%3A%20Dark%20Waters/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Early Access]]></category>
+				<category><![CDATA[Czech]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Massively Multiplayer]]></category>
-		<category><![CDATA[MMO]]></category>
-		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Whatever it takes [&#8230;]]]></description>
-		<wfw:commentRss>/Rust/feed/</wfw:commentRss>
+		<description><![CDATA[Varios años después del final de Risen, los furiosos titanes han devastado el mundo y empujado a la humanidad al borde de la desaparición. Más tarde, criaturas monstruosas han surgido de las profundidades marinas y sus ataques han paralizado totalmente la navegación. El héroe, ahora miembro de la Inquisición, es enviado para encontrar el modo [&#8230;]]]></description>
+		<wfw:commentRss>/Risen%202%3A%20Dark%20Waters/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Space Engineers</title>
+		<link>/Space%20Engineers/</link>
+		<comments>/Space%20Engineers/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Swedish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Space Engineers is a sandbox game about engineering, construction, exploration and survival in space and on planets. Players build space ships, space stations, planetary outposts of various sizes and uses (civil and military), pilot ships and travel through space to explore planets and gather resources to survive. Featuring both creative and survival modes, there is [&#8230;]]]></description>
+		<wfw:commentRss>/Space%20Engineers/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Stats &#8211; Cheap &amp; Cheerful</title>
+	<atom:link href="/category/features/stats/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tienda de juegos</description>
+	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<title>Stats &#8211; Cheap &amp; Cheerful</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Killing Floor</title>
+		<link>/Killing%20Floor/</link>
+		<comments>/Killing%20Floor/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Killing Floor es un shooter Cooperativo del género Survival Horror que tiene lugar en los campos y ciudades devastadas de Inglaterra, después de que una serie de experimentos militares de clonación fracasaran con horribles consecuencias. Tú y tus amigos sois miembros de los militares desplegados en esos lugares con una sencilla misión: ¡Sobrevivir el tiempo [&#8230;]]]></description>
+		<wfw:commentRss>/Killing%20Floor/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Grand Ages: Medieval</title>
+		<link>/Grand%20Ages%3A%20Medieval/</link>
+		<comments>/Grand%20Ages%3A%20Medieval/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Funciones: Explorad un mundo de juego gigantesco con más de 20 millones de kilómetros cuadrados, planificad estratégicamente dónde fundar los pueblos importantes y defended vuestro reino de las potencias extranjeras. Producid y comerciad con 20 mercancías distintas para satisfacer las demandas de vuestros ciudadanos y soldados: por ejemplo, carbón, fruta y cerámica. Investigad y utilizad [&#8230;]]]></description>
+		<wfw:commentRss>/Grand%20Ages%3A%20Medieval/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Orcs Must Die!</title>
+		<link>/Orcs%20Must%20Die%21/</link>
+		<comments>/Orcs%20Must%20Die%21/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Rebánalos, incinéralos, empálalos, arrójalos &#8211; da igual cómo lo hagas. Los orcos deben morir en este juego de acción y estrategia de la mano de Robot Entertainment. En la piel de un poderoso mago de guerra con un arsenal de mortíferas armas, hechizos y trampas al alcance de tu mano, te toca defender veinticuatro fortalezas [&#8230;]]]></description>
+		<wfw:commentRss>/Orcs%20Must%20Die%21/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dawn of War Franchise Pack</title>
+		<link>/Dawn%20of%20War%20Franchise%20Pack/</link>
+		<comments>/Dawn%20of%20War%20Franchise%20Pack/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>/Dawn%20of%20War%20Franchise%20Pack/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DogFighter</title>
+		<link>/DogFighter/</link>
+		<comments>/DogFighter/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[DogFighter es un arcade de combate aéreo de acción frenética y mecánica de juego estilo arena. Los jugadores pueden competir con un máximo de 7 oponentes en 4 modos multijugador, o luchar en solitario en 7 modos para un jugador, utilizando biplanos mejorados con más de 20 armas ofensivas y defensivas&#8230; &#8230; y esto sólo [&#8230;]]]></description>
+		<wfw:commentRss>/DogFighter/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Runespell: Overture</title>
+		<link>/Runespell%3A%20Overture/</link>
+		<comments>/Runespell%3A%20Overture/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Runespell: Overture es un juego de rol que combina la mecánica del póquer con potenciadores y tarjetas coleccionables. El mundo está ambientado en la Europa medieval que une personajes históricos con la mitología y las sagas nórdicas. El jugador asume el papel de Changeling, el hijo de un dios monstruo, en busca de su némesis. [&#8230;]]]></description>
+		<wfw:commentRss>/Runespell%3A%20Overture/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Super Toy Cars</title>
+		<link>/Super%20Toy%20Cars/</link>
+		<comments>/Super%20Toy%20Cars/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Super Toy Cars is a tabletop arcade combat racing game featuring fast and cool looking cars, impressive tracks made of everyday objects and a bunch of power-ups that will let you destroy your opposition. Collect all cars and upgrades to keep up with competition while you progress in career mode or have a quick race [&#8230;]]]></description>
+		<wfw:commentRss>/Super%20Toy%20Cars/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ancients of Ooga</title>
+		<link>/Ancients%20of%20Ooga/</link>
+		<comments>/Ancients%20of%20Ooga/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¡De los creadores de &#8216;Cloning Clyde&#8217; llega una nueva aventura épica! ¡Come, canta e incluso ábrete paso vomitando a través de la divertidísima y primitiva tierra de Ooga! No te aburrirás ni un segundo mientras conoces, trabas amistad y finalmente te haces con siete estrafalarias tribus oogani. Descubre sus ancestrales poderes perdidos, aprovecha sus habilidades [&#8230;]]]></description>
+		<wfw:commentRss>/Ancients%20of%20Ooga/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Luminosity</title>
+		<link>/Luminosity/</link>
+		<comments>/Luminosity/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Luminosity is a fast paced arcade score attack game. You take the control of a space ship and your objective is to close off the enemy drones and conquer a certain percent of the map in order to blow them up. Things quickly escalate and you face an increasing number of unique and challenging enemies. [&#8230;]]]></description>
+		<wfw:commentRss>/Luminosity/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Expand</title>
+		<link>/Expand/</link>
+		<comments>/Expand/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Expand is a 2D indie minimalist game in which you guide a pink square through a circular labyrinth that constantly rotates, unfolds and expands around you. Navigate through a world that can easily lift as well as harm you, keeping you disorientated and unfamiliar in your surroundings. A world set in five stages, Expand offers [&#8230;]]]></description>
+		<wfw:commentRss>/Expand/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Caveman Craig</title>
+		<link>/Caveman%20Craig/</link>
+		<comments>/Caveman%20Craig/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Caveman Craig is a unique strategy/survival game set in a vicious prehistoric world of cavemen, neanderthals, sasquatches, and freakin&#8217; dinosaurs! Build up your clan and conquer the 5 tribes of boggdrop. You decide the fate of man as you hunt, gather, and prepare your way to victory! Demonstrate new skills to your cavemen so they [&#8230;]]]></description>
+		<wfw:commentRss>/Caveman%20Craig/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Moonbase 332</title>
+		<link>/Moonbase%20332/</link>
+		<comments>/Moonbase%20332/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Hello and Welcome to Moonbase 332 Moonbase 332 is an Arcade First Person Shooter by PatchNoteStudio. You play an old American exterminator. After a War between Germany and Austria in Year 2007, a base on the Moon was found. Austria has tested there some genetically modified Plagues to use it as a weapon. Your job [&#8230;]]]></description>
+		<wfw:commentRss>/Moonbase%20332/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

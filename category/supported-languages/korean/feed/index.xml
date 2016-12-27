@@ -12,7 +12,7 @@
 	<atom:link href="/category/supported-languages/korean/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Fri, 16 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,79 +26,122 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>DARK SOULS™: Prepare To Die™ Edition</title>
-		<link>/DARK%20SOULS%E2%84%A2%3A%20Prepare%20To%20Die%E2%84%A2%20Edition/</link>
-		<comments>/DARK%20SOULS%E2%84%A2%3A%20Prepare%20To%20Die%E2%84%A2%20Edition/#respond</comments>
+		<title>Borderlands 2</title>
+		<link>/Borderlands%202/</link>
+		<comments>/Borderlands%202/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Nuevo contenido para PC Dark Souls™: Prepare to Die™ Edition incluirá un capítulo inédito del mundo de Lordran. El jugador, enviado al pasado, descubrirá la historia que tuvo lugar cuando el caballero oscuro Artorias aún vivía. Jefes nuevos: como el dragón negro, el guardián del santuario y Artorias del Abismo. Arena PVP y sistema de [&#8230;]]]></description>
-		<wfw:commentRss>/DARK%20SOULS%E2%84%A2%3A%20Prepare%20To%20Die%E2%84%A2%20Edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Farming Simulator 15</title>
-		<link>/Farming%20Simulator%2015/</link>
-		<comments>/Farming%20Simulator%2015/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Farming Simulator 17 &#8211; Now Available Acerca del juego ¡Bienvenido a la nueva generación de Farming Simulator! Gracias a un motor de gráficos y físicas completamente nuevo, Farming Simulator 15 ofrece un mundo abierto inmenso, lleno de detalles y efectos visuales que transportan a la saga Farming Simulator a una nueva era. Gestiona tu propia [&#8230;]]]></description>
-		<wfw:commentRss>/Farming%20Simulator%2015/feed/</wfw:commentRss>
+		<description><![CDATA[Una nueva era de disparos y saqueos está a punto de comenzar. Juega como uno de los cuatro nuevos buscadores de la Cámara y enfréntate a legiones de nuevas criaturas, psicópatas y al villano que las controla, Jack el Guapo. Haz nuevos amigos, equípalos con un cillón de armas y pelea a su lado en [&#8230;]]]></description>
+		<wfw:commentRss>/Borderlands%202/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Hydrophobia: Prophecy</title>
-		<link>/Hydrophobia%3A%20Prophecy/</link>
-		<comments>/Hydrophobia%3A%20Prophecy/#respond</comments>
+		<title>Max Payne 3</title>
+		<link>/Max%20Payne%203/</link>
+		<comments>/Max%20Payne%203/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Para Max Payne, las tragedias que se llevaron a sus seres queridos hace años son heridas que se niegan a cicatrizar. Tras dejar la policía, prácticamente acabado y totalmente enganchado a los analgésicos, Max acepta un trabajo en São Paulo, Brasil, para proteger a la familia del rico magnate inmobiliario Rodrigo Branco, en un esfuerzo [&#8230;]]]></description>
+		<wfw:commentRss>/Max%20Payne%203/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bound By Flame</title>
+		<link>/Bound%20By%20Flame/</link>
+		<comments>/Bound%20By%20Flame/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[En un mundo sin esperanza asolado por los siete Señores del Hielo y su ejército de no muertos, tú eres Vulcan, un mercenario poseído por un demonio de llamas. En este RPG, en el que todas tus decisiones tendrán consecuencias, deberás elegir entre desatar los poderes de tu demonio interior o rechazar su influencia infernal, [&#8230;]]]></description>
+		<wfw:commentRss>/Bound%20By%20Flame/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Demonicon</title>
+		<link>/Demonicon/</link>
+		<comments>/Demonicon/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[The Dark Eye &#8211; Demonicon is a thrilling action-RPG set in the extraordinarily popular universe of “The Dark Eye”, a richly crafted fantasy world beloved by fantasy gamers across the globe. The Dark Eye &#8211; Demonicon tells the tragic story of a brother and sister who become pawns of sinister forces in a world of [&#8230;]]]></description>
+		<wfw:commentRss>/Demonicon/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nihilumbra</title>
+		<link>/Nihilumbra/</link>
+		<comments>/Nihilumbra/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
@@ -106,128 +149,103 @@
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Sumérgete en el inmenso mundo de Nihilumbra y acompaña a Born en su aventura para encontrarse a sí mismo mientras intenta escapar de su inevitable maldición. Born es un ser creado a partir de la nada absoluta. Cuando abandona el vacío y aparece en el mundo, comienza un largo viaje en el que aprenderá a [&#8230;]]]></description>
+		<wfw:commentRss>/Nihilumbra/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Octodad: Dadliest Catch</title>
+		<link>/Octodad%3A%20Dadliest%20Catch/</link>
+		<comments>/Octodad%3A%20Dadliest%20Catch/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Octodad: Dadliest Catch es la destrucción, el engaño y la paternidad. El jugador controla Octodad, un pulpo apuesto enmascarado como un ser humano, a medida que avanza la vida sobre todos los días. La existencia de Octodad es una lucha constante, ya que debe dominar las tareas cotidianas con sus tentáculos sin hueso difícil de [&#8230;]]]></description>
+		<wfw:commentRss>/Octodad%3A%20Dadliest%20Catch/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Duet</title>
+		<link>/Duet/</link>
+		<comments>/Duet/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Hydrophobia: Prophecy es la edición definitiva de este asombroso juego de acción y aventuras que transcurre en una ciudad flotante en la que los terroristas han tomado el control y la heroína Kate tendrá que enfrentarse a los aterradores recuerdos de su infancia para contraatacar utilizando toda su habilidad y experiencia como ingeniero de sistemas. [&#8230;]]]></description>
-		<wfw:commentRss>/Hydrophobia%3A%20Prophecy/feed/</wfw:commentRss>
+		<description><![CDATA[Tu supervivencia depende de la protección de dos naves. Son artefactos en sincronía, un baile y una canción entre dos entidades enlazadas y unidas en simbiosis. Siente un terror que te mantendrá en vilo, donde el mundo que te rodea se vuelve silencioso e indiferente, como si lo único que importara es el juego que [&#8230;]]]></description>
+		<wfw:commentRss>/Duet/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>A Bird Story</title>
-		<link>/A%20Bird%20Story/</link>
-		<comments>/A%20Bird%20Story/#respond</comments>
+		<title>Dark Heritage: Guardians of Hope</title>
+		<link>/Dark%20Heritage%3A%20Guardians%20of%20Hope/</link>
+		<comments>/Dark%20Heritage%3A%20Guardians%20of%20Hope/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Note: This is not To the Moon&#8217;s sequel, but rather a small experimental project. &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212; From the creator of To the Moon: A simple, wordless 1-hour short about a boy who found an injured bird, told through a blur between reality and imagination. A Bird Story is an interactive pixel animation with the sole purpose [&#8230;]]]></description>
-		<wfw:commentRss>/A%20Bird%20Story/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Phoenix Force</title>
-		<link>/Phoenix%20Force/</link>
-		<comments>/Phoenix%20Force/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Thai]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Un dragón, un ojo gigante y la muerte te atacan con bolas de fuego, rayos láser y guadañas. ¿Qué puedes hacer? A) Decir que el juego es injusto porque con un solo golpe estás muerto y no hay enemigos débiles e irte llorando con tu mamá; o B) ¡Esquivar todo este infierno de proyectiles y [&#8230;]]]></description>
-		<wfw:commentRss>/Phoenix%20Force/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Blackguards 2</title>
-		<link>/Blackguards%202/</link>
-		<comments>/Blackguards%202/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Buy Blackguards: http://store.steampowered.com/app/249650/ Blackguards 2 Steam exclusive content: Acerca del juego Blackguards 2 es la secuela del aclamado juego de rol de estrategia por turnos y viene con aún más batallas, además de una cruenta historia llena de crimen y violencia. Elige tu estilo de juego: ya sea con un monstruo en primera línea de [&#8230;]]]></description>
-		<wfw:commentRss>/Blackguards%202/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dustoff Heli Rescue</title>
-		<link>/Dustoff%20Heli%20Rescue/</link>
-		<comments>/Dustoff%20Heli%20Rescue/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
@@ -237,55 +255,14 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[&#34;¡Necesito un Dustoff!&#34; era la frase que se oía en las ondas de radio durante la guerra en la selva para solicitar la ayuda de las tropas de aire. Despega con tu helicóptero de rescate y busca y salva a soldados heridos en el campo de batalla, normalmente bajo fuego enemigo. ¡Si tú no puedes, [&#8230;]]]></description>
-		<wfw:commentRss>/Dustoff%20Heli%20Rescue/feed/</wfw:commentRss>
+		<description><![CDATA[Indaga en la historia del antiguo alumno del profesor Child, que llega para ayudar a su mentor investigando su misteriosa desaparición en una aventura para descubrir los secretos de la piedra filosofal. Embárcate en una maravillosa aventura que te llevará a una isla habitada por una misteriosa orden. ¡Enfréntate a un peligroso enemigo para intentar [&#8230;]]]></description>
+		<wfw:commentRss>/Dark%20Heritage%3A%20Guardians%20of%20Hope/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Broadside</title>
-		<link>/Broadside/</link>
-		<comments>/Broadside/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Broadside is a pirate action adventure game focused on infamy and destruction. Players take on the role of a pirate taking part in tactical ship-to-ship battles and boarding actions. While preying on trade routes, fighting rival pirates and harassing the Royal Navy, the excitement of fast-paced sailing and sinking ships is rewarded with Infamy points. [&#8230;]]]></description>
-		<wfw:commentRss>/Broadside/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Strata</title>
-		<link>/Strata/</link>
-		<comments>/Strata/#respond</comments>
+		<title>Kingdom Tales</title>
+		<link>/Kingdom%20Tales/</link>
+		<comments>/Kingdom%20Tales/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Casual]]></category>
@@ -293,71 +270,28 @@
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[A truly unique puzzle experience that embraces simplicity, elegance, and challenge. Strata paints a simple yet challenging puzzle game onto a sophisticated canvas of color and sound. Test the limits of your brain by completing complex weaves of color to solve the puzzles. The goal of Strata is to strategically layer colored ribbons to match [&#8230;]]]></description>
-		<wfw:commentRss>/Strata/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>American Truck Simulator</title>
-		<link>/American%20Truck%20Simulator/</link>
-		<comments>/American%20Truck%20Simulator/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[VR Support]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Recién actualizado We&#8217;ve rescaled the whole map from 1:35 to 1:20. Enjoy! Acerca del juego Experience legendary American trucks and deliver various cargoes across sunny California, sandy Nevada, and the Grand Canyon State of Arizona. American Truck Simulator takes you on a journey through the breathtaking landscapes and widely recognized landmarks around the States. Game [&#8230;]]]></description>
-		<wfw:commentRss>/American%20Truck%20Simulator/feed/</wfw:commentRss>
+		<description><![CDATA[Una antigua profecía relata que, algún día, los poderosos dragones buscarán establecerse en un nuevo territorio. ¡Pues el día ha llegado! ¡La profecía se ha cumplido! Solo el más valiente y justo de los líderes puede forjar una relación de amistad entre humanos y dragones. ¡Explora, reúne, produce, comercia, construir y repara! ¡A lo largo [&#8230;]]]></description>
+		<wfw:commentRss>/Kingdom%20Tales/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Grand Theft Auto V</title>
-		<link>/Grand%20Theft%20Auto%20V/</link>
-		<comments>/Grand%20Theft%20Auto%20V/#respond</comments>
+		<title>Borderlands 2 Season Pass</title>
+		<link>/Borderlands%202%20Season%20Pass/</link>
+		<comments>/Borderlands%202%20Season%20Pass/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
@@ -365,47 +299,74 @@
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Cuando un joven estafador callejero, un ladrón de bancos retirado y un psicópata aterrador se ven involucrados con lo peor y más desquiciado del mundo criminal, del gobierno de los EE. UU. y de la industria del espectáculo, tendrán que llevar a cabo una serie de peligrosos golpes para sobrevivir en una ciudad implacable en [&#8230;]]]></description>
-		<wfw:commentRss>/Grand%20Theft%20Auto%20V/feed/</wfw:commentRss>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>/Borderlands%202%20Season%20Pass/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>F.E.A.R. 3</title>
-		<link>/F.E.A.R.%203/</link>
-		<comments>/F.E.A.R.%203/#respond</comments>
+		<title>Might and Magic Heroes VI: Complete Edition</title>
+		<link>/Might%20and%20Magic%20Heroes%20VI%3A%20Complete%20Edition/</link>
+		<comments>/Might%20and%20Magic%20Heroes%20VI%3A%20Complete%20Edition/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>/Might%20and%20Magic%20Heroes%20VI%3A%20Complete%20Edition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Alan Wake Franchise</title>
+		<link>/Alan%20Wake%20Franchise%20/</link>
+		<comments>/Alan%20Wake%20Franchise%20/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Alma está a la espera y nuevos horrores se muestran ante ti y tu hermano caníbal mientras combatís en una infernal pesadilla. Luchad juntos o morid solos en una misión terrible para hacer frente a vuestra retorcida madre. Los jugadores se podrán meter en la piel de Point Man, un soldado genéticamente mejorado con reflejos [&#8230;]]]></description>
-		<wfw:commentRss>/F.E.A.R.%203/feed/</wfw:commentRss>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>/Alan%20Wake%20Franchise%20/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

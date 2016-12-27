@@ -12,7 +12,7 @@
 	<atom:link href="/category/supported-languages/indie/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Fri, 16 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,146 +26,68 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Xotic</title>
-		<link>/Xotic/</link>
-		<comments>/Xotic/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Xotic es un juego de acción en primera persona al estilo arcade donde consigues puntuaciones muy altas por disparar a enemigos, detonar reacciones en cadena y descubrir poderes y multiplicadores de puntuación secretos. Provisto de una criatura simbiótica y armada llamada la Macroterra, debes limpiar de la presencia maligna y replantar las semillas de la [&#8230;]]]></description>
-		<wfw:commentRss>/Xotic/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Magical Diary</title>
-		<link>/Magical%20Diary/</link>
-		<comments>/Magical%20Diary/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[You have been invited to attend a magical school. Here you can make new friends, learn dozens of spells, face exams in the school dungeons, run for class office, and try to find a date for the May Day Ball. But be careful! You might end up in detention, be lured into a secret society, [&#8230;]]]></description>
-		<wfw:commentRss>/Magical%20Diary/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>inSynch</title>
-		<link>/inSynch/</link>
-		<comments>/inSynch/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Somewhere between rhythm game and musical instrument, inSynch is an arcade game at heart. Allowing the player to act while being acted upon: follow the score you compose, express intent making sense of the music born from your actions. A simple gameplay (press 4 keys to catch incoming shapes from the four corners of your [&#8230;]]]></description>
-		<wfw:commentRss>/inSynch/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>realMyst: Masterpiece Edition</title>
-		<link>/realMyst%3A%20Masterpiece%20Edition/</link>
-		<comments>/realMyst%3A%20Masterpiece%20Edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[realMyst: Masterpiece Edition is a beautifully updated version of realMYST for today’s Mac and Windows computers &#8211; celebrating the 20th anniversary of Myst! The models and textures have been reconstructed to provide an amazing graphical experience. The environments have been enhanced to provide dynamic water, weather, lighting, foliage, focus, and more. The interface has been [&#8230;]]]></description>
-		<wfw:commentRss>/realMyst%3A%20Masterpiece%20Edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Last Dream</title>
-		<link>/Last%20Dream/</link>
-		<comments>/Last%20Dream/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Last Dream incorporates the best features of classic RPGs: replayability and complete immersion into a vast world, rich with detail. 40+ hours of dynamic gameplay 15+ additional hours of immersive side quests 1+ hours of interspersed flashbacks 200+ compositions from talented, independent artists 50 mind-bending puzzles 200+ tracked achievements 500+ unique paths by virtue of [&#8230;]]]></description>
-		<wfw:commentRss>/Last%20Dream/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Isomer</title>
-		<link>/Isomer/</link>
-		<comments>/Isomer/#respond</comments>
+		<title>DayZ</title>
+		<link>/DayZ/</link>
+		<comments>/DayZ/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Isomer is an isometric strategy game inspired by classic turn based games from the 90s and many other more recent survival titles. It&#8217;s open ended, sandbox and each world is procedurally generated leading to an almost unlimited number of different worlds to explore, mine, loot and conquer. You play the role of the commander of [&#8230;]]]></description>
-		<wfw:commentRss>/Isomer/feed/</wfw:commentRss>
+		<description><![CDATA[WARNING: THIS GAME IS EARLY ACCESS ALPHA. PLEASE DO NOT PURCHASE IT UNLESS YOU WANT TO ACTIVELY SUPPORT DEVELOPMENT OF THE GAME AND ARE PREPARED TO HANDLE WITH SERIOUS ISSUES AND POSSIBLE INTERRUPTIONS OF GAME FUNCTIONING. Welcome to the world of DayZ, hit by a new and presently unknown infection which has wiped out most [&#8230;]]]></description>
+		<wfw:commentRss>/DayZ/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Pixel Puzzles: Japan</title>
-		<link>/Pixel%20Puzzles%3A%20Japan/</link>
-		<comments>/Pixel%20Puzzles%3A%20Japan/#respond</comments>
+		<title>Serious Sam Complete Pack</title>
+		<link>/Serious%20Sam%20Complete%20Pack/</link>
+		<comments>/Serious%20Sam%20Complete%20Pack/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Bulgarian]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Pixel Puzzles: Japan combines traditional jigsaw puzzle style gameplay with light video-game interactivity. As you build puzzles your monk will gain higher consciousness states. The higher the level of your monks concentration the bigger the puzzle you can attempt. All hand drawn in a beautiful Japanese aesthetic, Pixel Puzzles: Japan is perfect for puzzlers and [&#8230;]]]></description>
-		<wfw:commentRss>/Pixel%20Puzzles%3A%20Japan/feed/</wfw:commentRss>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>/Serious%20Sam%20Complete%20Pack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Hacker Evolution: Untold</title>
-		<link>/Hacker%20Evolution%3A%20Untold/</link>
-		<comments>/Hacker%20Evolution%3A%20Untold/#respond</comments>
+		<title>Xenonauts</title>
+		<link>/Xenonauts/</link>
+		<comments>/Xenonauts/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
@@ -173,55 +95,112 @@
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Cuando el número de ordenadores existentes y su capacidad de proceso superan al de la humanidad, aparece un punto de singularidad tecnológica.Una enorme crisis económica y sistemática sacude todo el planeta. Nadie conoce la causa exacta y todas las soluciones aplicadas han fallado. Estamos a punto de perder nuestra posición como especie dominante del planeta [&#8230;]]]></description>
-		<wfw:commentRss>/Hacker%20Evolution%3A%20Untold/feed/</wfw:commentRss>
+		<description><![CDATA[Xenonauts is a strategy game in which you control a multi-national military organisation defending a Cold War-era Earth from alien invasion, using small squads of persistent soldiers to eliminate the extraterrestrials and recover their technology in turn-based ground combat. A detailed strategic layer allows you to co-ordinate the defence of the planet, using your interceptors [&#8230;]]]></description>
+		<wfw:commentRss>/Xenonauts/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Alum</title>
-		<link>/Alum/</link>
-		<comments>/Alum/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Guide Alum on his spiritual journey through the dangerous, icy, &#34;Land of Tide&#34;. Help him discover the truth about his city, Kosmos, and the mysterious epidemic known as &#34;The Vague&#34;. As the tale unfolds, it will keep you enthralled all the way up to its epic conclusion. Alum is an original point-and-click adventure game. It [&#8230;]]]></description>
-		<wfw:commentRss>/Alum/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>AirBuccaneers</title>
-		<link>/AirBuccaneers/</link>
-		<comments>/AirBuccaneers/#respond</comments>
+		<title>Trine Enchanted Edition</title>
+		<link>/Trine%20Enchanted%20Edition/</link>
+		<comments>/Trine%20Enchanted%20Edition/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Free to Play]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Trine es un juego de acción y fantasía donde el jugador puede crear y utilizar objetos basados en la física para resolver peligrosos enigmas y vencer a peligrosos enemigos. En un mundo de grandes castillos y extrañas máquinas, tres héroes están unidos a un misterioso dispositivo llamado Trine en una misión para salvar del mal [&#8230;]]]></description>
+		<wfw:commentRss>/Trine%20Enchanted%20Edition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mayhem Triple</title>
+		<link>/Mayhem%20Triple/</link>
+		<comments>/Mayhem%20Triple/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Mayhem Triple is a hyper-violent, tasteless tale of evolution gone wrong and the dangers of time travel. You are Mig Carter, a man with style to spare and the perfect opportunity to show everyone how great you are: the bunny apocalypse. Use smooth acrobatics and a vast armory of creative guns to help traverse countless [&#8230;]]]></description>
+		<wfw:commentRss>/Mayhem%20Triple/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>OTTTD</title>
+		<link>/OTTTD/</link>
+		<comments>/OTTTD/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Welcome to the ancient North, once the cradle of culture and peace, but is now corrupted by magic and inhabited by nasty bandits sowing destruction in airships. Choose to be a vicious Buccaneer or an infamous Viking and take a glider to the skies. Your goal is to drop enemy vessels and secure dominance of [&#8230;]]]></description>
-		<wfw:commentRss>/AirBuccaneers/feed/</wfw:commentRss>
+		<description><![CDATA[Lock, load and let the gibs fly in OTTTD, a Tower Defence/RTS game with RPG elements that pits you against some of the weirdest creatures in the multiverse. OTTTD stands for Over The Top Tower Defence, and you&#8217;ll see why when you&#8217;re blasting 9 kinds of hell out of a Cactus Ghost that&#8217;s making a [&#8230;]]]></description>
+		<wfw:commentRss>/OTTTD/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Sideway™ New York</title>
-		<link>/Sideway%E2%84%A2%20New%20York/</link>
-		<comments>/Sideway%E2%84%A2%20New%20York/#respond</comments>
+		<title>Pid</title>
+		<link>/Pid/</link>
+		<comments>/Pid/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Un joven muchacho llamado Kurt se ve atrapado en un peculiar planeta y debe encontrar el camino de regreso a casa. Ayudado por insólitos aliados y las curiosas herramientas que lleva en su mochila, Kurt deberá desafiar la gravedad para conquistar cada plataforma y resolver cada puzle de este extraño periplo. Con más de doce [&#8230;]]]></description>
+		<wfw:commentRss>/Pid/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A Bird Story</title>
+		<link>/A%20Bird%20Story/</link>
+		<comments>/A%20Bird%20Story/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
@@ -230,39 +209,122 @@
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[¡Lucha a través de un retorcido mundo de grafitis donde tu habilidad resolviendo puzles supondrá la diferencia entre la vida y la muerte! Salta dentro de uno de los mundos en 3D más absorbentes y espectaculares a nivel visual jamás creados. Sigue la retorcida travesía de Nox en una trepidante aventura en 2D dentro de [&#8230;]]]></description>
-		<wfw:commentRss>/Sideway%E2%84%A2%20New%20York/feed/</wfw:commentRss>
+		<description><![CDATA[Note: This is not To the Moon&#8217;s sequel, but rather a small experimental project. &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212; From the creator of To the Moon: A simple, wordless 1-hour short about a boy who found an injured bird, told through a blur between reality and imagination. A Bird Story is an interactive pixel animation with the sole purpose [&#8230;]]]></description>
+		<wfw:commentRss>/A%20Bird%20Story/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Freedom Fall</title>
-		<link>/Freedom%20Fall/</link>
-		<comments>/Freedom%20Fall/#respond</comments>
+		<title>Nebula Online</title>
+		<link>/Nebula%20Online/</link>
+		<comments>/Nebula%20Online/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[MMO]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Nebula Online is a space Massive Multiplayer Online Game which can be cross-played between different platforms. This Sci-Fi game is set within a 3 race-populated galaxy where players face a global conflict for universe domination. Openly alter space and explore the universe to find resource fields, abandoned stations and habitable planets. Be aware of the [&#8230;]]]></description>
+		<wfw:commentRss>/Nebula%20Online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Guns of Icarus Online</title>
+		<link>/Guns%20of%20Icarus%20Online/</link>
+		<comments>/Guns%20of%20Icarus%20Online/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Guns of Icarus Alliance Pre-order Get early access to Guns of Icarus Alliance DLC before official release! To help us test and follow the development, please email us at feedback@musegames.com with your steam receipt. Help us make Alliance the best it can be! Guns of Icarus Alliance is the PvE Expansion DLC and is now [&#8230;]]]></description>
+		<wfw:commentRss>/Guns%20of%20Icarus%20Online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Giana Sisters: Twisted Dreams</title>
+		<link>/Giana%20Sisters%3A%20Twisted%20Dreams/</link>
+		<comments>/Giana%20Sisters%3A%20Twisted%20Dreams/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Freedom Fall is a diabolical down-scrolling platformer set in a prison tower so tall it touches the clouds. Presented with hand painted art, its old school vibe mixes with fast-paced free falling action and a story with both dark wit and heart. With the promise of freedom for those who escape, find your way through [&#8230;]]]></description>
-		<wfw:commentRss>/Freedom%20Fall/feed/</wfw:commentRss>
+		<description><![CDATA[Giana Sisters: Twisted Dreams es un vertiginoso juego de plataformas que representa dos mundos opuestos. Combina el desafío de los juegos de plataformas de estilo retro con gráficos impactantes y controles precisos. Ve cambiando entre dos mundos oníricos dinámicamente diferentes para resolver rompecabezas y enfrentarte a enemigos atroces. Salta entre los intensos sueños de Giana [&#8230;]]]></description>
+		<wfw:commentRss>/Giana%20Sisters%3A%20Twisted%20Dreams/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dungeon Defenders II</title>
+		<link>/Dungeon%20Defenders%20II/</link>
+		<comments>/Dungeon%20Defenders%20II/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[The Old Ones’ armies have invaded Etheria and it’s up to you and your friends to push them back! Create a team of heroes to take into battle. Then freeze, burn, and electrocute enemies with your deadly defenses or jump into the action yourself to finish them off! Play by yourself or with up to [&#8230;]]]></description>
+		<wfw:commentRss>/Dungeon%20Defenders%20II/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

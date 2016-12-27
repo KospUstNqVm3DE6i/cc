@@ -12,7 +12,7 @@
 	<atom:link href="/category/genres/adventure/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Fri, 16 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,54 +26,9 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>CortexGear:AngryDroids</title>
-		<link>/CortexGear%3AAngryDroids/</link>
-		<comments>/CortexGear%3AAngryDroids/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[CortexGear:AngryDroids: IN CORTEXGEAR: ANGRYDROIDS, YOU PLAY AS: an alien(main character) hacker who take control of a CortexGear(A robot with an implanted brain) to destroy the other AngryDroids. The alien is one of the last survivors from a Cortex war(A war based on hacking the opponent) against the AngryDroids. The alien is also from a new [&#8230;]]]></description>
-		<wfw:commentRss>/CortexGear%3AAngryDroids/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dead Rising 2: Off the Record</title>
-		<link>/Dead%20Rising%202%3A%20Off%20the%20Record/</link>
-		<comments>/Dead%20Rising%202%3A%20Off%20the%20Record/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Dead Rising® 2: Off the Record ve cómo Frank West, reportero gráfico y héroe original del incidente de Willamette en Dead Rising®, toma de nuevo el protagonismo mientras los jugadores experimentan una nueva versión del brote de Fortune City. Olvida todo lo que sabías sobre Dead Rising® 2, ¡Frank West vuelve a la carga! La [&#8230;]]]></description>
-		<wfw:commentRss>/Dead%20Rising%202%3A%20Off%20the%20Record/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Mad Max</title>
-		<link>/Mad%20Max/</link>
-		<comments>/Mad%20Max/#respond</comments>
+		<title>Grand Theft Auto V</title>
+		<link>/Grand%20Theft%20Auto%20V/</link>
+		<comments>/Grand%20Theft%20Auto%20V/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -84,219 +39,292 @@
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Conviértete en Mad Max, un guerrero solitario en un despiadado mundo postapocalíptico donde los vehículos son imprescindibles para la supervivencia. En este juego de acción de mundo abierto en tercera persona deberás luchar constantemente contra crueles enemigos para mantenerte con vida en el Páramo, combatiendo tanto cuerpo a cuerpo como en vehículos. Héroe reacio con [&#8230;]]]></description>
-		<wfw:commentRss>/Mad%20Max/feed/</wfw:commentRss>
+		<description><![CDATA[Cuando un joven estafador callejero, un ladrón de bancos retirado y un psicópata aterrador se ven involucrados con lo peor y más desquiciado del mundo criminal, del gobierno de los EE. UU. y de la industria del espectáculo, tendrán que llevar a cabo una serie de peligrosos golpes para sobrevivir en una ciudad implacable en [&#8230;]]]></description>
+		<wfw:commentRss>/Grand%20Theft%20Auto%20V/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Hydrophobia: Prophecy</title>
-		<link>/Hydrophobia%3A%20Prophecy/</link>
-		<comments>/Hydrophobia%3A%20Prophecy/#respond</comments>
+		<title>Dishonored &#8211; Game of the Year Edition</title>
+		<link>/Dishonored%20-%20Game%20of%20the%20Year%20Edition/</link>
+		<comments>/Dishonored%20-%20Game%20of%20the%20Year%20Edition/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Hydrophobia: Prophecy es la edición definitiva de este asombroso juego de acción y aventuras que transcurre en una ciudad flotante en la que los terroristas han tomado el control y la heroína Kate tendrá que enfrentarse a los aterradores recuerdos de su infancia para contraatacar utilizando toda su habilidad y experiencia como ingeniero de sistemas. [&#8230;]]]></description>
-		<wfw:commentRss>/Hydrophobia%3A%20Prophecy/feed/</wfw:commentRss>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>/Dishonored%20-%20Game%20of%20the%20Year%20Edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Walking Dead: Season 2</title>
-		<link>/The%20Walking%20Dead%3A%20Season%202/</link>
-		<comments>/The%20Walking%20Dead%3A%20Season%202/#respond</comments>
+		<title>METAL GEAR SOLID V: GROUND ZEROES</title>
+		<link>/METAL%20GEAR%20SOLID%20V%3A%20GROUND%20ZEROES/</link>
+		<comments>/METAL%20GEAR%20SOLID%20V%3A%20GROUND%20ZEROES/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[The Walking Dead: Season Two continues the story of Clementine, a young girl orphaned by the undead apocalypse. Left to fend for herself, she has been forced to learn how to survive in a world gone mad. Many months have passed since the events seen in Season One of The Walking Dead, and Clementine is [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Walking%20Dead%3A%20Season%202/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Archetype</title>
-		<link>/The%20Archetype/</link>
-		<comments>/The%20Archetype/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Archty Tolomei is a 9 years old boy that lives with his dad. In 2008, his mom left the house with his two sisters and a little baby, only to come back in 2009 asking for forgiveness. During a huge fight, Lisa, one of Archty&#8217;s sisters, called 911. When they arrived, Archty&#8217;s father claimed she [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Archetype/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Shelter</title>
-		<link>/Shelter/</link>
-		<comments>/Shelter/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Experience the wild as a mother badger sheltering her cubs from harm. On their journey they get stalked by a bird of prey, encounter perils of the night, river rapids crossings, big forest fires and the looming threat of death by starvation. Food is to be found, but is there enough for everyone? You will [&#8230;]]]></description>
-		<wfw:commentRss>/Shelter/feed/</wfw:commentRss>
+		<description><![CDATA[Con Metal Gear Solid V: Ground Zeroes, Kojima Productions presenta una nueva obra maestra de la saga Metal Gear Solid. Metal Gear Solid V: Ground Zeroes es la primera parte de Metal Gear Solid V Experience y el prólogo de la segunda parte, más grande, que saldrá a la venta más tarde: Metal Gear Solid [&#8230;]]]></description>
+		<wfw:commentRss>/METAL%20GEAR%20SOLID%20V%3A%20GROUND%20ZEROES/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Incredible Adventures of Van Helsing</title>
-		<link>/The%20Incredible%20Adventures%20of%20Van%20Helsing/</link>
-		<comments>/The%20Incredible%20Adventures%20of%20Van%20Helsing/#respond</comments>
+		<title>The Forest</title>
+		<link>/The%20Forest/</link>
+		<comments>/The%20Forest/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first person survival horror simulator. Key alpha features Enter a living, breathing world, where every tree and plant can be chopped down. Below [&#8230;]]]></description>
+		<wfw:commentRss>/The%20Forest/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Better Late Than DEAD</title>
+		<link>/Better%20Late%20Than%20DEAD/</link>
+		<comments>/Better%20Late%20Than%20DEAD/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Thai]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[FORESEEABLE END? Explore an open sandbox environment which, depending on your intention, could have or could not have a foreseeable end. But as you investigate further, you may notice some suspicious activity including animals that would not normally be found in an area like this and some inconsistencies that lead to more questions. It is [&#8230;]]]></description>
+		<wfw:commentRss>/Better%20Late%20Than%20DEAD/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Cat Lady</title>
+		<link>/The%20Cat%20Lady/</link>
+		<comments>/The%20Cat%20Lady/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[The Cat Lady follows Susan Ashworth, a lonely 40-year old on the verge of suicide. She has no family, no friends and no hope for a better future. One day she discovers that five strangers will come along and change everything&#8230; By author Remigiusz Michalski (Harvester Games) this suspenseful psychological horror game features stylized artwork, [&#8230;]]]></description>
+		<wfw:commentRss>/The%20Cat%20Lady/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>L.A. Noire</title>
+		<link>/L.A.%20Noire/</link>
+		<comments>/L.A.%20Noire/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[En pleno apogeo de la Edad Dorada de Hollywood durante la posguerra, Cole Phelps es un detective del Departamento de Policía de Los Ángeles sumergido en una ciudad que se ahoga en su propio éxito. La corrupción es rampante, el tráfico de drogas está en auge y la tasa de homicidios se sitúa en máximos [&#8230;]]]></description>
+		<wfw:commentRss>/L.A.%20Noire/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Beyond Space</title>
+		<link>/Beyond%20Space/</link>
+		<comments>/Beyond%20Space/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[UNA IMPRESIONANTE AVENTURA ESPACIAL Beyond Space es un vanguardista juego espacial de disparos en 3D que sumerge al jugador en oscuras tramas al estilo de las mejores óperas espaciales. Numerosos sistemas planetarios, nebulosas y campos de asteroides por explorar. Gráficos en 3D ricos en detalles, paisajes espaciales fascinantes y hermosos, efectos especiales espectaculares, renderizado perfecto [&#8230;]]]></description>
+		<wfw:commentRss>/Beyond%20Space/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fearless Fantasy</title>
+		<link>/Fearless%20Fantasy/</link>
+		<comments>/Fearless%20Fantasy/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[As Leon, the world’s most dangerous bounty hunter, you embark on a mission to slay the world’s weirdest creatures, and save a girl from an awful marriage. Fearless Fantasy is probably the weirdest RPG you’ll play this year. It’s a turn-based game that deeply involves players during every turn. You use gestures (with the mouse) [&#8230;]]]></description>
+		<wfw:commentRss>/Fearless%20Fantasy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Survivalist</title>
+		<link>/Survivalist/</link>
+		<comments>/Survivalist/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Ha pasado un año desde la destrucción de la civilización y el egoísta bróker Joe Wheeler emerge de su búnker en busca de comida. Este es un RPG abierto donde tienes la libertad de jugar como quieras &#8211; pero tus elecciones tienen consecuencias. Tu objetivo es encontrar a otros supervivientes, ganarte su respeto y crear [&#8230;]]]></description>
+		<wfw:commentRss>/Survivalist/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Ball</title>
+		<link>/The%20Ball/</link>
+		<comments>/The%20Ball/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Swedish]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Colócate tu sombrero de ala ancha y coge tus armas para embarcarte en una increíble aventura en el oscuro y gótico reino de Borgovia, donde un desquiciado científico amenaza la frágil paz entre mortales y monstruos. Ponte en la piel del increíble cazador de bestias Van Helsing y disfruta de la compañía de la bella [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Incredible%20Adventures%20of%20Van%20Helsing/feed/</wfw:commentRss>
+		<description><![CDATA[New Mini Campaign Released Now we also have a brand-new mini campaign for you &#8211; the winners of a map-making contest for The Ball. This new campaign can be played completely standalone, from the Survival Mode menu and will give you an extra 2 hours of content for free! Playable Character for Killing Floor Everyone [&#8230;]]]></description>
+		<wfw:commentRss>/The%20Ball/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>INK</title>
-		<link>/INK/</link>
-		<comments>/INK/#respond</comments>
+		<title>Foul Play</title>
+		<link>/Foul%20Play/</link>
+		<comments>/Foul%20Play/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[INK is a fast-paced platformer about using colorful paint to uncover your surroundings. INK has a similar feel to hardcore platformers like Super Meat Boy. The object of each level is to defeat all of the enemies in the room (if any) and reach the goal. However, the terrain is invisible to the player. The [&#8230;]]]></description>
-		<wfw:commentRss>/INK/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Stealth Inc 2: A Game of Clones</title>
-		<link>/Stealth%20Inc%202%3A%20A%20Game%20of%20Clones/</link>
-		<comments>/Stealth%20Inc%202%3A%20A%20Game%20of%20Clones/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[In Stealth Inc 2, you play the role of a clone escaping a sinister and high-tech testing facility. Stealth Inc 2 tests both your brain and your reflexes over 60 varied levels linked together in a sprawling overworld. Death is never more than a few moments away, but one of the few advantages of being [&#8230;]]]></description>
-		<wfw:commentRss>/Stealth%20Inc%202%3A%20A%20Game%20of%20Clones/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Wolf Among Us</title>
-		<link>/The%20Wolf%20Among%20Us/</link>
-		<comments>/The%20Wolf%20Among%20Us/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[From the makers of the 2012 Game of the Year: The Walking Dead, comes a gritty, violent and mature thriller based on the award-winning Fables comic books (DC Comics/Vertigo). As Bigby Wolf &#8211; THE big bad wolf &#8211; you will discover that a brutal, bloody murder is just a taste of things to come in [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Wolf%20Among%20Us/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Costume Quest</title>
-		<link>/Costume%20Quest/</link>
-		<comments>/Costume%20Quest/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
@@ -304,8 +332,8 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Costume Quest es una aventura de Halloween creada por Double Fine Productions, de Tim Schafer. En este simpático juego de rol, elige a tu héroe y haz &#34;truco o trato&#34; a través de tres bonitos entornos repletos del humor y la historia típicos de Double Fine. Completa misiones, construye tu grupo y colecciona disfraces que [&#8230;]]]></description>
-		<wfw:commentRss>/Costume%20Quest/feed/</wfw:commentRss>
+		<description><![CDATA[Play as the daemon-hunter Baron Dashforth in a side-scrolling co-op brawler set entirely on the grand spectacle of a theatre stage that rewards performance over pummeling. Perform shattering takedowns and reversals! Electrify the audience with devastating linked attacks as you have a friend join as sidekick Scampwick and use every stage-trick you know to bring [&#8230;]]]></description>
+		<wfw:commentRss>/Foul%20Play/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

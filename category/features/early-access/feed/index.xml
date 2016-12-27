@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Early Access &#8211; Cheap &amp; Cheerful</title>
+	<atom:link href="/category/features/early-access/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tienda de juegos</description>
+	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<title>Early Access &#8211; Cheap &amp; Cheerful</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rust</title>
+		<link>/Rust/</link>
+		<comments>/Rust/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[MMO]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Whatever it takes [&#8230;]]]></description>
+		<wfw:commentRss>/Rust/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Into The War</title>
+		<link>/Into%20The%20War/</link>
+		<comments>/Into%20The%20War/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Into The War is a Parkour FPS which is still in Development. It is made by Small Town Studios and has a long road of work ahead of it. Please hop into the discussion and suggest any features you would like to see in this game.]]></description>
+		<wfw:commentRss>/Into%20The%20War/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Victory: The Age of Racing</title>
+		<link>/Victory%3A%20The%20Age%20of%20Racing/</link>
+		<comments>/Victory%3A%20The%20Age%20of%20Racing/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Victory: The Age of Racing is a unique online racing game with spectacular car handling and user generated cars inspired by the different ages of racing. Victory offers a thrilling racing experience through multiplayer events, competitions and an addictive team career. Victory: The Age of Racing is now FREE! We’d like you to join the [&#8230;]]]></description>
+		<wfw:commentRss>/Victory%3A%20The%20Age%20of%20Racing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Blob From Space</title>
+		<link>/Blob%20From%20Space/</link>
+		<comments>/Blob%20From%20Space/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[With this game we try to challenge the player to finish the entire game with only 3 continues. There are no save points so you have to make the entire run in one go. If you have friends (Or the internet) you can share cheat codes to skip some levels, but don&#8217;t forget you will [&#8230;]]]></description>
+		<wfw:commentRss>/Blob%20From%20Space/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Godus</title>
+		<link>/Godus/</link>
+		<comments>/Godus/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Have you ever wanted to play god? In GODUS, you can sculpt every inch of a beautiful world that you look down upon, where your population of Followers will settle and multiply. As you rule over your living, breathing society, a civilization will blossom across your land and offer you their belief. The more Followers [&#8230;]]]></description>
+		<wfw:commentRss>/Godus/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Close Order</title>
+		<link>/Close%20Order/</link>
+		<comments>/Close%20Order/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Close Order is an arcade shooter with one simple goal: become a badass armada! It&#8217;s not about you. It&#8217;s about other ships around you known as minions that exponentially increase your firepower! Defeat enemies for parts. Combine those parts into minions. Move them around your armada however you please. Become badass! Play through a short, [&#8230;]]]></description>
+		<wfw:commentRss>/Close%20Order/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Labyrinth Simulator</title>
+		<link>/Labyrinth%20Simulator/</link>
+		<comments>/Labyrinth%20Simulator/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Labyrinth Simulator offers you a endless levels of labyrinths and imagination. In Labyrinth Simulator you are the part of the game. Make your own level, publish it or download a level created by community, play it with your friends or play it with your own. Endless levels, endless choises. Labyrinth Simulator offers you a great [&#8230;]]]></description>
+		<wfw:commentRss>/Labyrinth%20Simulator/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Paragon</title>
+		<link>/Paragon/</link>
+		<comments>/Paragon/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[About the Game Jumpdrive is a sandbox space sim set in an alternative future heavily inspired by classic 80s sci-fi. Fight, trade and explore in a massive procedurally generated galaxy of millions of planets and stars. Amass money and power, upgrade or purchase new ships, and one day create your own small fleet with a [&#8230;]]]></description>
+		<wfw:commentRss>/Paragon/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pump-Action Captain</title>
+		<link>/Pump-Action%20Captain/</link>
+		<comments>/Pump-Action%20Captain/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Rebuilt and reimagined on the Unreal 4 Engine. Pump-Action Captain is a difficult, competitive rogue-like permadeath FPS dungeon crawler. You have only ONE life, and ONE weapon. Armed with only a shotgun, you must escape a randomly generated lab home to a hostile AI programmed to kill you. Move quickly, the longer you play, the [&#8230;]]]></description>
+		<wfw:commentRss>/Pump-Action%20Captain/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Space Engineers</title>
+		<link>/Space%20Engineers/</link>
+		<comments>/Space%20Engineers/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Swedish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Space Engineers is a sandbox game about engineering, construction, exploration and survival in space and on planets. Players build space ships, space stations, planetary outposts of various sizes and uses (civil and military), pilot ships and travel through space to explore planets and gather resources to survive. Featuring both creative and survival modes, there is [&#8230;]]]></description>
+		<wfw:commentRss>/Space%20Engineers/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Spark Rising</title>
+		<link>/Spark%20Rising/</link>
+		<comments>/Spark%20Rising/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Spark Rising is a FPS where you conquer worlds and fight back against a mad god that is tearing the galaxy asunder. You play as a Spark Bot and you must betray your master god to save what&#8217;s left before reality is twisted all to hell. The problem is&#8230; how do you fight back against [&#8230;]]]></description>
+		<wfw:commentRss>/Spark%20Rising/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Arcane Worlds</title>
+		<link>/Arcane%20Worlds/</link>
+		<comments>/Arcane%20Worlds/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[A game inspired by classic Magic Carpet, with modern graphics and features. You play as a sorcerer, exploring mysterious worlds, changing them, discovering ancient secrets, creating new spells, fighting creatures and other mages, building and destroying as you please.]]></description>
+		<wfw:commentRss>/Arcane%20Worlds/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -12,7 +12,7 @@
 	<atom:link href="/category/supported-languages/polish/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Fri, 16 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,234 +26,245 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Need for Speed: Shift</title>
-		<link>/Need%20for%20Speed%3A%20Shift/</link>
-		<comments>/Need%20for%20Speed%3A%20Shift/#respond</comments>
+		<title>DARK SOULS™ II: Scholar of the First Sin</title>
+		<link>/DARK%20SOULS%E2%84%A2%20II%3A%20Scholar%20of%20the%20First%20Sin/</link>
+		<comments>/DARK%20SOULS%E2%84%A2%20II%3A%20Scholar%20of%20the%20First%20Sin/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[El premiado Need for Speed™ SHIFT es un auténtico juego de carreras que combina la experiencia real del conductor con una física realista, modelos de coches totalmente perfectos y una amplia variedad de pistas de carreras auténticas. Need for Speed SHIFT conduce a los jugadores en una dirección diferente para crear una experiencia de simulación [&#8230;]]]></description>
-		<wfw:commentRss>/Need%20for%20Speed%3A%20Shift/feed/</wfw:commentRss>
+		<description><![CDATA[Notice Esta es la versión mejorada de 64 bits, con gráficos actualizados y características añadidas. Si buscas el paquete de la versión de 32 bits (con el DARK SOULS™ II original y su contenido descargable), haz clic aquí. El juego en línea, las partidas guardadas y los logros son incompatibles entre las dos versiones. Comprar [&#8230;]]]></description>
+		<wfw:commentRss>/DARK%20SOULS%E2%84%A2%20II%3A%20Scholar%20of%20the%20First%20Sin/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>CoH 2 &#8211; The Western Front Armies: US Forces</title>
-		<link>/CoH%202%20-%20The%20Western%20Front%20Armies%3A%20US%20Forces/</link>
-		<comments>/CoH%202%20-%20The%20Western%20Front%20Armies%3A%20US%20Forces/#respond</comments>
+		<title>Chivalry: Medieval Warfare</title>
+		<link>/Chivalry%3A%20Medieval%20Warfare/</link>
+		<comments>/Chivalry%3A%20Medieval%20Warfare/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Recién actualizado Acerca del juego Asedia castillos y asalta aldeas en Chivalry: Medieval Warfare, un videojuego en primera persona centrado en el modo multijugador. En él se desarrollan competitivos combatesen línea que recrean la experiencia de los verdaderos campos de batalla medievales. El juego se inspira en la intensidad y las batallas épicas de películas [&#8230;]]]></description>
+		<wfw:commentRss>/Chivalry%3A%20Medieval%20Warfare/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dragon Age: Origins</title>
+		<link>/Dragon%20Age%3A%20Origins/</link>
+		<comments>/Dragon%20Age%3A%20Origins/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Czech]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Las US Forces son un adaptable ejército que sabrá amoldarse sin romperse y que cuenta con una infantería y unos vehículos extremadamente versátiles al tiempo que su exclusiva estructura de base te permite capturar la temporal naturaleza de las líneas del frente. Veloces vehículos blindados ligeros y medios, como el icónico M4A3 Sherman, ofrecen potencia [&#8230;]]]></description>
-		<wfw:commentRss>/CoH%202%20-%20The%20Western%20Front%20Armies%3A%20US%20Forces/feed/</wfw:commentRss>
+		<description><![CDATA[Pre-Compra Dragon Age: Origins y recibe lo siguiente: Item Exclusivo para Steam   El Juramento Vil La condesa Luciana de Antiva vivió prácticamente como una prisionera en el castillo de su marido hasta que una esclava elfa le ofreció la posibilidad de escapar. La esclava vinculó mágicamente una pequeña cantidad de sangre de la condesa a [&#8230;]]]></description>
+		<wfw:commentRss>/Dragon%20Age%3A%20Origins/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Euro Truck Simulator 2</title>
-		<link>/Euro%20Truck%20Simulator%202/</link>
-		<comments>/Euro%20Truck%20Simulator%202/#respond</comments>
+		<title>Grid 2 Reloaded Edition</title>
+		<link>/Grid%202%20Reloaded%20Edition/</link>
+		<comments>/Grid%202%20Reloaded%20Edition/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Bulgarian]]></category>
+				<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>/Grid%202%20Reloaded%20Edition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mafia II</title>
+		<link>/Mafia%20II/</link>
+		<comments>/Mafia%20II/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Digital Deluxe Edition Pack del Mafioso: Acceso gratuito a un pack descargable dentro del juego que permite a los jugadores ponerse tras el volante de dos lujosos automóviles modelados a partir de coches clásicos de la época. Además, Vito dará el pego con dos nuevos trajes de mafioso, incluyendo un esmoquin clásico. Libro de Arte [&#8230;]]]></description>
+		<wfw:commentRss>/Mafia%20II/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mortal Kombat X</title>
+		<link>/Mortal%20Kombat%20X/</link>
+		<comments>/Mortal%20Kombat%20X/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[&#34;¿Quién es el siguiente? Disfruta de la nueva generación de la franquicia de lucha n.º 1. Mortal Kombat X reúne un aspecto cinematográfico y una mecánica de juego nunca vistos. Por primera vez, los jugadores pueden elegir múltiples variantes de cada personaje con impacto tanto en la estrategia como en el estilo de lucha. Bonificación [&#8230;]]]></description>
+		<wfw:commentRss>/Mortal%20Kombat%20X/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Space Engineers</title>
+		<link>/Space%20Engineers/</link>
+		<comments>/Space%20Engineers/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[Danish]]></category>
 		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
 		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Norwegian]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[VR Support]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Give American Truck Simulator a test drive Start your new truck empire in the United States! Try the demo of American Truck Simulator and visit the Steam store page. http://store.steampowered.com/app/441960/ Acerca del juego Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to [&#8230;]]]></description>
-		<wfw:commentRss>/Euro%20Truck%20Simulator%202/feed/</wfw:commentRss>
+		<description><![CDATA[Space Engineers is a sandbox game about engineering, construction, exploration and survival in space and on planets. Players build space ships, space stations, planetary outposts of various sizes and uses (civil and military), pilot ships and travel through space to explore planets and gather resources to survive. Featuring both creative and survival modes, there is [&#8230;]]]></description>
+		<wfw:commentRss>/Space%20Engineers/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Half-Life Complete</title>
-		<link>/Half-Life%20Complete/</link>
-		<comments>/Half-Life%20Complete/#respond</comments>
+		<title>Wargame: Airland Battle</title>
+		<link>/Wargame%3A%20Airland%20Battle/</link>
+		<comments>/Wargame%3A%20Airland%20Battle/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
+				<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+		<category><![CDATA[Strategy]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Half-Life%20Complete/feed/</wfw:commentRss>
+		<description><![CDATA[2 SIDES, 12 NATIONS, 750 UNITS: THE STRATEGY GAME REFERENCE IS BACK! Richer, more beautiful and more accessible, Wargame AirLand Battle is the sequel to the explosive real-time strategy game Wargame European Escalation! 1985. After several months of tension between NATO and the Warsaw Pact, an incident in the North Sea suddenly sets the world [&#8230;]]]></description>
+		<wfw:commentRss>/Wargame%3A%20Airland%20Battle/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Magicka: Vietnam</title>
-		<link>/Magicka%3A%20Vietnam/</link>
-		<comments>/Magicka%3A%20Vietnam/#respond</comments>
+		<title>Bound By Flame</title>
+		<link>/Bound%20By%20Flame/</link>
+		<comments>/Bound%20By%20Flame/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Magicka%3A%20Vietnam/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Street Fighter X Tekken</title>
-		<link>/Street%20Fighter%20X%20Tekken/</link>
-		<comments>/Street%20Fighter%20X%20Tekken/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Will You Cross the Line? The long awaited dream match-up between the two titans of fighting is here! Street Fighter® X Tekken® is the ultimate tag team fighting game, featuring one of the most expansive rosters of iconic fighters in fighting game history. The critically acclaimed Street Fighter® IV game engine has been refined with [&#8230;]]]></description>
-		<wfw:commentRss>/Street%20Fighter%20X%20Tekken/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Evil Within</title>
-		<link>/The%20Evil%20Within/</link>
-		<comments>/The%20Evil%20Within/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Demo Now Available A partir del 30 de octubre, podréis disfrutar de los tres primeros capítulos gratis. Si elegís comprar el juego después de estos tres primeros capítulos, podréis reanudar vuestros progresos guardados. Acerca del juego DESCRIPCIÓN DEL JUEGO: Creado por Shinji Mikami, responsable de la influyente serie Resident Evil, y desarrollado con el talento [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Evil%20Within/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Witcher 2: Assassins of Kings Enhanced Edition</title>
-		<link>/The%20Witcher%202%3A%20Assassins%20of%20Kings%20Enhanced%20Edition/</link>
-		<comments>/The%20Witcher%202%3A%20Assassins%20of%20Kings%20Enhanced%20Edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
@@ -261,34 +272,31 @@
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[El jugador se pone en la piel de Geralt de Rivia, un cazador de monstruos profesional, un brujo. Inmerso en los conflictos políticos que afectan a toda Temeria, Geralt ayudó a sofocar la rebelión de la Orden de la Rosa Ardiente. Poco después, salvó la vida del rey Foltest cuando el monarca fue atacado por [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Witcher%202%3A%20Assassins%20of%20Kings%20Enhanced%20Edition/feed/</wfw:commentRss>
+		<description><![CDATA[En un mundo sin esperanza asolado por los siete Señores del Hielo y su ejército de no muertos, tú eres Vulcan, un mercenario poseído por un demonio de llamas. En este RPG, en el que todas tus decisiones tendrán consecuencias, deberás elegir entre desatar los poderes de tu demonio interior o rechazar su influencia infernal, [&#8230;]]]></description>
+		<wfw:commentRss>/Bound%20By%20Flame/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Red Faction Collection</title>
-		<link>/Red%20Faction%20Collection/</link>
-		<comments>/Red%20Faction%20Collection/#respond</comments>
+		<title>Orcs Must Die! 2</title>
+		<link>/Orcs%20Must%20Die%21%202/</link>
+		<comments>/Orcs%20Must%20Die%21%202/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
@@ -297,85 +305,87 @@
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Red%20Faction%20Collection/feed/</wfw:commentRss>
+		<description><![CDATA[Los has lanzado, quemado y rebanado a miles. ¡Ahora los orcos deben morir incluso más que antes! Busca un amigo y acabad con ingentes cantidades de orcos en la secuela del Juego de Estrategia del Año de AIAS creado por Robot Entertainment. Regresa a la lucha como un poderoso Mago Guerrero o como una astuta [&#8230;]]]></description>
+		<wfw:commentRss>/Orcs%20Must%20Die%21%202/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Supreme Commander</title>
-		<link>/Supreme%20Commander/</link>
-		<comments>/Supreme%20Commander/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Durante miles de años, tres fuerzas opuestas han luchado en una guerra para defender lo que creen es la verdad. No puede haber ningún espacio para el compromiso: su modo es el único modo. El devastador conflicto conocido como &#34;La Guerra Infinita&#34; se ha cobrado un precio altísimo en una galaxia que una vez fue [&#8230;]]]></description>
-		<wfw:commentRss>/Supreme%20Commander/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Beyond Space</title>
-		<link>/Beyond%20Space/</link>
-		<comments>/Beyond%20Space/#respond</comments>
+		<title>The Incredible Adventures of Van Helsing</title>
+		<link>/The%20Incredible%20Adventures%20of%20Van%20Helsing/</link>
+		<comments>/The%20Incredible%20Adventures%20of%20Van%20Helsing/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[UNA IMPRESIONANTE AVENTURA ESPACIAL Beyond Space es un vanguardista juego espacial de disparos en 3D que sumerge al jugador en oscuras tramas al estilo de las mejores óperas espaciales. Numerosos sistemas planetarios, nebulosas y campos de asteroides por explorar. Gráficos en 3D ricos en detalles, paisajes espaciales fascinantes y hermosos, efectos especiales espectaculares, renderizado perfecto [&#8230;]]]></description>
-		<wfw:commentRss>/Beyond%20Space/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>UFO: Afterlight</title>
-		<link>/UFO%3A%20Afterlight/</link>
-		<comments>/UFO%3A%20Afterlight/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[The story is situated on Mars. It starts where UFO: Aftermath left off and runs simultaneously with UFO: Aftershock. While the Laputans on Earth are fighting Wargots and Starghosts and finding out what caused the destruction of their home planet, a small colony on Mars is trying to survive and flourish. The player will gain [&#8230;]]]></description>
-		<wfw:commentRss>/UFO%3A%20Afterlight/feed/</wfw:commentRss>
+		<description><![CDATA[Colócate tu sombrero de ala ancha y coge tus armas para embarcarte en una increíble aventura en el oscuro y gótico reino de Borgovia, donde un desquiciado científico amenaza la frágil paz entre mortales y monstruos. Ponte en la piel del increíble cazador de bestias Van Helsing y disfruta de la compañía de la bella [&#8230;]]]></description>
+		<wfw:commentRss>/The%20Incredible%20Adventures%20of%20Van%20Helsing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Trine 2: Complete Story</title>
+		<link>/Trine%202%3A%20Complete%20Story/</link>
+		<comments>/Trine%202%3A%20Complete%20Story/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Trine 2 es un juego de acción de scroll lateral, puzles y plataformas donde juegas como uno de los Tres Héroes que se abren paso a través de incontables peligros en un fantástico mundo de cuento de hadas. Características Principales: Puzles basados en la física con fuego, agua, gravedad y magia Accesible tanto para jugadores [&#8230;]]]></description>
+		<wfw:commentRss>/Trine%202%3A%20Complete%20Story/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

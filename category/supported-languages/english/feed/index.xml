@@ -12,7 +12,7 @@
 	<atom:link href="/category/supported-languages/english/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Fri, 16 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,247 +26,290 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Worms Pinball</title>
-		<link>/Worms%20Pinball/</link>
-		<comments>/Worms%20Pinball/#respond</comments>
+		<title>Counter-Strike</title>
+		<link>/Counter-Strike/</link>
+		<comments>/Counter-Strike/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[El Equipo de The Worms™ regresa, ¡y esta vez tienen pelotas! El Clásico Worms™ Pinball envía a pequeños y adorables chicos rosados a través de una de las mesas de pinball más realistas jamás creadas. Pelea con honor con el místico arte del Kung-Fu de Worms™ o cuélgate alto con los vaqueros rosados más duros [&#8230;]]]></description>
-		<wfw:commentRss>/Worms%20Pinball/feed/</wfw:commentRss>
+		<description><![CDATA[Disfruta del juego de acción en línea número 1 en el mundo. Sum&#233;rgete en el fragor de la guerra antiterrorista más realista con este archiconocido juego por equipos. Alíate con tus compañeros para superar las misiones estrat&#233;gicas, asalta las bases enemigas, rescata a los rehenes, y recuerda que tu personaje contribuye al &#233;xito del equipo, [&#8230;]]]></description>
+		<wfw:commentRss>/Counter-Strike/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Panzer Tactics HD</title>
-		<link>/Panzer%20Tactics%20HD/</link>
-		<comments>/Panzer%20Tactics%20HD/#respond</comments>
+		<title>Need for Speed: Shift</title>
+		<link>/Need%20for%20Speed%3A%20Shift/</link>
+		<comments>/Need%20for%20Speed%3A%20Shift/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Strategy]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[¡Estrategas, a la línea de fuego! El remake en HD del clásico de Nintendo DS. Estamos en 1939 y el mundo está al borde de uno de los mayores conflictos militares de la historia: ¡la Segunda Guerra Mundial! Vive la historia de primera mano planificando tácticamente para el Ejército Rojo soviético, la Wehrmacht alemana y [&#8230;]]]></description>
-		<wfw:commentRss>/Panzer%20Tactics%20HD/feed/</wfw:commentRss>
+		<description><![CDATA[El premiado Need for Speed™ SHIFT es un auténtico juego de carreras que combina la experiencia real del conductor con una física realista, modelos de coches totalmente perfectos y una amplia variedad de pistas de carreras auténticas. Need for Speed SHIFT conduce a los jugadores en una dirección diferente para crear una experiencia de simulación [&#8230;]]]></description>
+		<wfw:commentRss>/Need%20for%20Speed%3A%20Shift/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Red Faction II</title>
-		<link>/Red%20Faction%20II/</link>
-		<comments>/Red%20Faction%20II/#respond</comments>
+		<title>Battlefield: Bad Company 2 Vietnam</title>
+		<link>/Battlefield%3A%20Bad%20Company%202%20Vietnam/</link>
+		<comments>/Battlefield%3A%20Bad%20Company%202%20Vietnam/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[La Tierra en el siglo XXII. Cinco años después de la rebelión en Marte. Durante los últimos 15 años, Sopot, el corrupto dictador, ha oprimido a la gente de la Commonwealth. Su incansable empeño en la unificación con las Repúblicas Unidas vecinas han dejado al país sumido en un innecesario baño de sangre y pobreza. [&#8230;]]]></description>
-		<wfw:commentRss>/Red%20Faction%20II/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Witches, Heroes and Magic</title>
-		<link>/Witches%2C%20Heroes%20and%20Magic/</link>
-		<comments>/Witches%2C%20Heroes%20and%20Magic/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[5 Minute Tutorial! https://youtu.be/bdTpm7A6Csg Hi! I&#8217;m very happy to bring you a quick 5 minute tutorial on the basics concepts of the game. Acerca del juego YOU are the commander of a group of &#34;stackable&#34; armies. It is in REAL-TIME 3rd person with a slow-time system for amazing strategic battles! Outposts produce minions that you [&#8230;]]]></description>
-		<wfw:commentRss>/Witches%2C%20Heroes%20and%20Magic/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Apotheosis Project</title>
-		<link>/The%20Apotheosis%20Project/</link>
-		<comments>/The%20Apotheosis%20Project/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Penelope Barker and Aaron S. Reid are agents of the extra-governmental Pandora Global Corp, which works in parallel with the CIA. Unbeknown to them, they are also guinea pigs in an ambitious and dangerous project&#8230; The corporation is experimenting with a modification to DNA that is capable of altering the faculties of the guinea-pig subjects, [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Apotheosis%20Project/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Hoven the Sages Spinel</title>
-		<link>/Hoven%20the%20Sages%20Spinel/</link>
-		<comments>/Hoven%20the%20Sages%20Spinel/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Huge Update In The Works! Hello everyone! I just wanted to give all of you a quick heads up about some new content coming to Hoven the Sages Spinel. There is going to be a new window outliner, some new enemies, and the first piece of DLC! Oh, and all DLC will be FREE OF [&#8230;]]]></description>
-		<wfw:commentRss>/Hoven%20the%20Sages%20Spinel/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Space Robot Samurai Zombie Slayer</title>
-		<link>/Space%20Robot%20Samurai%20Zombie%20Slayer/</link>
-		<comments>/Space%20Robot%20Samurai%20Zombie%20Slayer/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[We are not alone in the universe, its filled with Zombies! Millions upon Billions of Zombies! That&#8217;s right, in mankind&#8217;s effort to expand into the stars they discovered something so sinister that it stopped them DEAD in their tracks. To combat such daunting numbers mankind invented their most efficient weapon yet: the Space Robot Samurai [&#8230;]]]></description>
-		<wfw:commentRss>/Space%20Robot%20Samurai%20Zombie%20Slayer/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Cook, Serve, Delicious!</title>
-		<link>/Cook%2C%20Serve%2C%20Delicious%21/</link>
-		<comments>/Cook%2C%20Serve%2C%20Delicious%21/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[NEW UPDATE! Cook, Serve, Delicious: Battle Kitchen Edition is a brand new free expansion that provides all new local multiplayer modes and weekly challenges! From 25 indie guest cameos to tons of new features and improvements, CSD: Battle Kitchen will challenge even the most hardened cook. Some of the new features include: Weekly Challenges&#8211; Face [&#8230;]]]></description>
-		<wfw:commentRss>/Cook%2C%20Serve%2C%20Delicious%21/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Ghost in the Machine</title>
-		<link>/Ghost%20in%20the%20Machine/</link>
-		<comments>/Ghost%20in%20the%20Machine/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[about Ghost in the Machine is about the player&#8217;s escape from a run-down factory following a large explosion. In the dark factory there are many dangerous machines that must be minded in order to not be crushed or mechanically separated. Inspired by 1980s platformer-genre games, Ghost in the Machine features true low-res graphics and an [&#8230;]]]></description>
-		<wfw:commentRss>/Ghost%20in%20the%20Machine/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Loot Hero DX</title>
-		<link>/Loot%20Hero%20DX/</link>
-		<comments>/Loot%20Hero%20DX/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[A legendary Dragon is haunting the lands. Towns are set ablaze, and its magic power resurrects the evil creatures of the world. A hero is needed to travel to the corners of the lands and slay the beast to restore peace. RPG grind-fest! Run, Battle ever harder enemies, Collect XP and Loot, Buy better equipment, [&#8230;]]]></description>
-		<wfw:commentRss>/Loot%20Hero%20DX/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>TransPlan</title>
-		<link>/TransPlan/</link>
-		<comments>/TransPlan/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Lleva una caja desde un punto A a un punto B con solo algunas simples herramientas y las leyes de la física. Crea rampas y catapultas, observa cómo los objetos dan vueltas y se caen, y de alguna manera intenta llegar al destino. Cada proyecto es un acertijo dibujado a mano para que interactúes con [&#8230;]]]></description>
-		<wfw:commentRss>/TransPlan/feed/</wfw:commentRss>
+		<description><![CDATA[Prepárate para una guerra totalmente nueva, ya que el enormemente popular shooter online de DICE, Battlefield: Bad Company™ 2, regresa a los 60 y a la infame guerra de Vietnam. El corazón de esta expansión lo componen cuatro mapas multijugador diferentes y totalmente nuevos basados en la Guerra de Vietnam. Cada mapa ofrece una nueva [&#8230;]]]></description>
+		<wfw:commentRss>/Battlefield%3A%20Bad%20Company%202%20Vietnam/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Super Cyborg</title>
-		<link>/Super%20Cyborg/</link>
-		<comments>/Super%20Cyborg/#respond</comments>
+		<title>Call of Duty: World at War</title>
+		<link>/Call%20of%20Duty%3A%20World%20at%20War/</link>
+		<comments>/Call%20of%20Duty%3A%20World%20at%20War/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Call of Duty ha vuelto, redefiniendo la guerra como nunca la habías experimentado. Tomando como base el motor de Call of Duty 4®: Modern Warfare, Call of Duty: World at War sumerge a los jugadores en la experiencia de combate más descarnada y caótica de la Segunda Guerra Mundial hasta la fecha. Los jugadores tendrán [&#8230;]]]></description>
+		<wfw:commentRss>/Call%20of%20Duty%3A%20World%20at%20War/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Darksiders Franchise Pack</title>
+		<link>/Darksiders%20Franchise%20Pack/</link>
+		<comments>/Darksiders%20Franchise%20Pack/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Super Cyborg is an old school non-stop hardcore run&#8217;n&#8217;gun action game! You are an elite battle cyborg who is sent in to investigate a series of anomalies on a mysterious island. The merciless and powerful alien known only as the &#8216;Xirxul life form&#8217; has been awakened by unwitting scientists and now: all humanity is in [&#8230;]]]></description>
-		<wfw:commentRss>/Super%20Cyborg/feed/</wfw:commentRss>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>/Darksiders%20Franchise%20Pack/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Divine Divinity</title>
+		<link>/Divine%20Divinity/</link>
+		<comments>/Divine%20Divinity/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Listado entre los &#8220;100 Mejores juegos para PC de Todos los Tiempos&#8221; por PC GAMER (2012), Divine Divinity es un épico juego de rol con acción hack-and-slash que ofrece un amplio mundo para explorar y miles de objetos para investigar, comercial y utilizar. El juego narra la inacabable batalla entre valerosos héroes y los destructivos [&#8230;]]]></description>
+		<wfw:commentRss>/Divine%20Divinity/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Amnesia: The Dark Descent</title>
+		<link>/Amnesia%3A%20The%20Dark%20Descent/</link>
+		<comments>/Amnesia%3A%20The%20Dark%20Descent/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Los últimos recuerdos se desvanecen en las tinieblas. Tu mente es un caos y lo único que queda es esa sensación de ser la presa. Debes escapar. Despierta&#8230; Amnesia: The Dark Descent es un juego de horror y supervivencia en primera persona. Un juego sobre la inmersión, el descubrimiento y la vida dentro de una [&#8230;]]]></description>
+		<wfw:commentRss>/Amnesia%3A%20The%20Dark%20Descent/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>F.E.A.R.</title>
+		<link>/F.E.A.R./</link>
+		<comments>/F.E.A.R./#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Conviértete en el héroe de tu propia película de acción, intriga y terror. Una misteriosa fuerza paramilitar se infiltra en un complejo aeroespacial multimillonario capturando prisioneros pero sin exigir nada. El gobierno responde con el envío de un equipo de Fuerzas Especiales que termina siendo masacrado. La retransmisión en vivo de la masacre muestra una [&#8230;]]]></description>
+		<wfw:commentRss>/F.E.A.R./feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>H1Z1</title>
+		<link>/H1Z1/</link>
+		<comments>/H1Z1/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[MMO]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[In H1Z1: Just Survive, the H1Z1 zombie virus has crippled civilization. Corrupted by the need to survive, gone are the comforts of society as a new normal permeates the world. You are one of the last remaining humans. Every choice matters, every moment is borrowed time, and every breath could be your last. If you [&#8230;]]]></description>
+		<wfw:commentRss>/H1Z1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Left 4 Dead 2</title>
+		<link>/Left%204%20Dead%202/</link>
+		<comments>/Left%204%20Dead%202/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Ambientado en el apocalipsis zombi, Left 4 Dead 2 (L4D2) es la secuela largamente esperada del galardonado Left 4 Dead, el juego co-op número 1 de 2008. Este FPS cooperativo de acción y horror os llevará a ti y a tus amigos por las ciudades, pantanos y cementerios del Sur Profundo, desde Savannah hasta Nueva [&#8230;]]]></description>
+		<wfw:commentRss>/Left%204%20Dead%202/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Magicka: The Stars Are Left</title>
+		<link>/Magicka%3A%20The%20Stars%20Are%20Left/</link>
+		<comments>/Magicka%3A%20The%20Stars%20Are%20Left/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>/Magicka%3A%20The%20Stars%20Are%20Left/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Magicka: Wizard Wars</title>
+		<link>/Magicka%3A%20Wizard%20Wars/</link>
+		<comments>/Magicka%3A%20Wizard%20Wars/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Free to Play]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Magicka: Wizard Wars &#8211; это командная мочиловка с изрядной дозой юмора и динамической системой Магики. Игроки образуют четверки и носятся по полю боя, сочетая &#34;на лету&#34; стихии магики, чтобы создавать сотни комбинаций заклинаний с самыми разнообразными эффектами. Каждый игрок может персонализировать своего волшебника с помощью уникального снаряжения и магик, завершив образ насмешливой отсылкой на популярные [&#8230;]]]></description>
+		<wfw:commentRss>/Magicka%3A%20Wizard%20Wars/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="/xmlrpc.php">
+	<title>Partial Controller Support &#8211; Page 15 &#8211; Cheap &amp; Cheerful</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Cheap &amp; Cheerful &raquo; Feed" href="/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cheap &amp; Cheerful &raquo; Comments Feed" href="/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cheap &amp; Cheerful &raquo; Partial Controller Support Category Feed" href="/category/features/partial-controller-support/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/:\/\/plati_resell.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wgs-css'  href='/wp-content/plugins/wp-google-search/wgs.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='social_likes_style_flat-css'  href='/wp-content/plugins/wp-social-likes/css/social-likes_flat.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ultrabootstrap-bootstrap-css'  href='/wp-content/themes/custombootstrap/css/bootstrap.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ultrabootstrap-fontawesome-css'  href='/wp-content/themes/custombootstrap/css/font-awesome.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ultrabootstrap-googlefonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A400%2C300%2C700&#038;ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ultrabootstrap-style-css'  href='/wp-content/themes/custombootstrap/style.css?ver=4.7' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-social-likes/js/social-likes.min.js?ver=4.7'></script>
+<link rel='https://api.w.org/' href='/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7" />
+<link rel="icon" href="/wp-content/uploads/2016/12/icon.png" sizes="32x32" />
+<link rel="icon" href="/wp-content/uploads/2016/12/icon.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="/wp-content/uploads/2016/12/icon.png" />
+<meta name="msapplication-TileImage" content="http://://plati_resell.ru/wp-content/uploads/2016/12/icon.png" />
+</head>
+
+
+<body class="archive paged category category-partial-controller-support category-38 paged-15 category-paged-15 hfeed">
+
+<header>	
+<section class="logo-menu">
+	<nav class="navbar navbar-default navbar-fixed-top">
+		<div class="container">
+					<!-- Brand and toggle get grouped for better mobile display -->
+				    <div class="navbar-header">
+				      	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					        <span class="sr-only">Toggle navigation</span>
+					        <span class="icon-bar"></span>
+					        <span class="icon-bar"></span>
+					        <span class="icon-bar"></span>
+				      	</button>
+				      	<div class="logo-tag">
+				      		
+				      			<a href="/">				      			<h1 class="site-title" style="color:#000000">Cheap &amp; Cheerful</h1>
+				      			<h2 class="site-description" style="color:#000000">Tienda de juegos</h2></a>                     
+      						
+      					</div>
+				    </div>
+
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+													<form  class="navbar-form navbar-right" role="search">
+								<ul class="nav pull-right">
+									<div class="main-search">
+										<button class="btn btn-search" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+										  <i class="fa fa-search"></i>
+										</button>
+										<div class="search-box collapse" id="collapseExample">
+											<div class="well search-well">
+																									<div class="wgs_wrapper"><div class="gcse-searchbox-only" data-resultsurl="http://://plati_resell.ru/search_gcse/"></div></div>																							</div>
+										</div>
+									</div>
+								</ul>
+							</form>
+						  							
+						<div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav navbar-nav navbar-right"><li id="menu-item-2836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2836"><a title="FAQ" href="/faq/">FAQ</a></li>
+</ul></div>				    </div> <!-- /.end of collaspe navbar-collaspe -->
+	</div> <!-- /.end of container -->
+	</nav>
+</section> <!-- /.end of section -->
+</header>
+<div class="spacer post-list">
+    <div class="container">
+        <div class="row">
+        <div  class="col-md-9">
+        
+        
+                <h4>Category: Partial Controller Support</h4>        <div class="row">
+                        
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Mind%3A%20Path%20to%20Thalamus/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/296070/header.jpg" title="Mind: Path to Thalamus" alt="Mind: Path to Thalamus" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Mind%3A%20Path%20to%20Thalamus/" rel="bookmark">Mind: Path to Thalamus</a></h3>
+
+    
+
+        <p>Mind: Path to Thalamus es un juego de puzles en primer persona que lanza al jugador en un entorno surrealista y fantasioso . Como jugador podrás manipular el clima y más elementos naturales del entorno para progresar en esta historia emotiva y llena de giros. Cambia todo el entorno El gameplay de MIND se centra [&hellip;]</p>
+        
+        <a href="/Mind%3A%20Path%20to%20Thalamus/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Heileen%203%3A%20New%20Horizons/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/305490/header.jpg" title="Heileen 3: New Horizons" alt="Heileen 3: New Horizons" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Heileen%203%3A%20New%20Horizons/" rel="bookmark">Heileen 3: New Horizons</a></h3>
+
+    
+
+        <p>Heileen 3 continues the story from the end of the second game and takes place in the Caribbean islands. Traveling side by side with Morgan the pirate, Heileen will search for her missing friends, hoping to reunite with all of them. But that&#8217;s only the beginning, because the story continues! You&#8217;ll have a fixed amount [&hellip;]</p>
+        
+        <a href="/Heileen%203%3A%20New%20Horizons/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Zombie%20Killtime/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/380700/header.jpg" title="Zombie Killtime" alt="Zombie Killtime" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Zombie%20Killtime/" rel="bookmark">Zombie Killtime</a></h3>
+
+    
+
+        <p>Zombie Killtime is a fast-paced, action-packed, zombie platform shooter with 4 player coop gameplay. Survive against endless waves of zombies with your friends as you upgrade your guns and earn new ones. Features Very fast-paced gameplay Four player co-op, locally or online Over 20 different weapons, each with a unique style More explosions than a [&hellip;]</p>
+        
+        <a href="/Zombie%20Killtime/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Girls%20Like%20Robots/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/263460/header.jpg" title="Girls Like Robots" alt="Girls Like Robots" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Girls%20Like%20Robots/" rel="bookmark">Girls Like Robots</a></h3>
+
+    
+
+        <p>Their faces are the playing pieces. The rules are their emotions! Ridiculously charming puzzles, wrapped around an epic tale of love and danger, topped off with an authentic old-time stringband soundtrack! The goal is to put every one next to their friends. But you can&#8217;t please everybody all the time. Sometimes you gotta break hearts [&hellip;]</p>
+        
+        <a href="/Girls%20Like%20Robots/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Dynamite%20Jack/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/202730/header.jpg" title="Dynamite Jack" alt="Dynamite Jack" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Dynamite%20Jack/" rel="bookmark">Dynamite Jack</a></h3>
+
+    
+
+        <p>¡Dynamite Jack debe abrirse camino hacia la libertad a base de explosiones! ¡Jack, un valeroso marine espacial armado únicamente con bombas y una linterna, debe escapar de las Minas de Anathema! Usa el sigilo para sortear a los guardias y las bombas para eliminar a tus enemigos en esta intensa aventura de acción en perspectiva [&hellip;]</p>
+        
+        <a href="/Dynamite%20Jack/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Lara%20Croft%20and%20the%20Guardian%20of%20Light/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/35130/header.jpg" title="Lara Croft and the Guardian of Light" alt="Lara Croft and the Guardian of Light" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Lara%20Croft%20and%20the%20Guardian%20of%20Light/" rel="bookmark">Lara Croft and the Guardian of Light</a></h3>
+
+    
+
+        <p>Lara Croft and the Guardian of Light es un juego de accción y aventura protagonizado por Lara Croft. Este nuevo capítulo de la saga de Tomb Raider combina los rasgos principales de la misma, tales como la exploración, las plataformas y la resolución de puzles, con la progresión del personaje, divertidos combates a un ritmo [&hellip;]</p>
+        
+        <a href="/Lara%20Croft%20and%20the%20Guardian%20of%20Light/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Journal/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/261680/header.jpg" title="Journal" alt="Journal" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Journal/" rel="bookmark">Journal</a></h3>
+
+    
+
+        <p>Enter the pages of the hand painted world of Journal. A journey through the life of a young and troubled girl as she tries to face up to the choices and responsibilities that come with childhood. An experience that questions the reliability of how we choose to remember events and explores the truths hidden within [&hellip;]</p>
+        
+        <a href="/Journal/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Grand%20Theft%20Auto%20IV%3A%20Complete%20Edition/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/901583/header.jpg" title="Grand Theft Auto IV: Complete Edition" alt="Grand Theft Auto IV: Complete Edition" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Grand%20Theft%20Auto%20IV%3A%20Complete%20Edition/" rel="bookmark">Grand Theft Auto IV: Complete Edition</a></h3>
+
+    
+
+        <p>Coming Soon &#8211; Grand Theft Auto V Grand Theft Auto IV y los episodios – The Lost and Damned y The Ballad of Gay Tony. GTA IV: Complete Edition Incluye: Grand Theft Auto IV and the episodes – The Lost and Damned &amp; The Ballad of Gay Tony. Acerca del juego Este título independiente incluye [&hellip;]</p>
+        
+        <a href="/Grand%20Theft%20Auto%20IV%3A%20Complete%20Edition/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Dishonored%20-%20Game%20of%20the%20Year%20Edition/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/subs/31293/header_586x192.jpg" title="Dishonored &#8211; Game of the Year Edition" alt="Dishonored &#8211; Game of the Year Edition" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Dishonored%20-%20Game%20of%20the%20Year%20Edition/" rel="bookmark">Dishonored &#8211; Game of the Year Edition</a></h3>
+
+    
+
+                
+        <a href="/Dishonored%20-%20Game%20of%20the%20Year%20Edition/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/The%20Orange%20Box/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/subs/469/header_586x192.jpg" title="The Orange Box" alt="The Orange Box" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/The%20Orange%20Box/" rel="bookmark">The Orange Box</a></h3>
+
+    
+
+                
+        <a href="/The%20Orange%20Box/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Magicka%3A%20The%20Other%20Side%20of%20the%20Coin/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/73093/header.jpg" title="Magicka: The Other Side of the Coin" alt="Magicka: The Other Side of the Coin" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Magicka%3A%20The%20Other%20Side%20of%20the%20Coin/" rel="bookmark">Magicka: The Other Side of the Coin</a></h3>
+
+    
+
+                
+        <a href="/Magicka%3A%20The%20Other%20Side%20of%20the%20Coin/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+                
+<div class="col-lg-4 col-md-6 eq-blocks">
+    <div class="post-block">
+					<a href="/Risen%203%20-%20Titan%20Lords/" rel="bookmark"><img src="http://cdn.akamai.steamstatic.com/steam/apps/249230/header.jpg" title="Risen 3 &#8211; Titan Lords" alt="Risen 3 &#8211; Titan Lords" class="img-responsive"></a>
+		  
+    <div class="summary">
+                        <h3><a href="/Risen%203%20-%20Titan%20Lords/" rel="bookmark">Risen 3 &#8211; Titan Lords</a></h3>
+
+    
+
+        <p>El mundo ha sido abandonado por sus dioses y ha sufrido la furia de los titanes. La humanidad lucha por recuperar su fuerza y reunir a sus tropas. Pero tú tienes preocupaciones más acuciantes: tu propia vida se ha desmoronado y debes partir para reclamar lo que se ha perdido en la oscuridad que está [&hellip;]</p>
+        
+        <a href="/Risen%203%20-%20Titan%20Lords/" rel="bookmark" title="" class="readmore">Read More </a>
+
+    </div>
+</div>
+</div>
+
+
+
+
+            
+            
+
+                </div>
+        <div class="page-nav">
+	<nav class="navigation pagination" role="navigation">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><a class="prev page-numbers" href="/category/features/partial-controller-support/page/14/">←</a>
+<a class='page-numbers' href='/category/features/partial-controller-support/'>1</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='/category/features/partial-controller-support/page/13/'>13</a>
+<a class='page-numbers' href='/category/features/partial-controller-support/page/14/'>14</a>
+<span class='page-numbers current'>15</span>
+<a class='page-numbers' href='/category/features/partial-controller-support/page/16/'>16</a>
+<a class='page-numbers' href='/category/features/partial-controller-support/page/17/'>17</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='/category/features/partial-controller-support/page/47/'>47</a>
+<a class="next page-numbers" href="/category/features/partial-controller-support/page/16/">→</a></div>
+	</nav></div>
+        </div>
+    <div class="col-md-3">
+<div id="secondary" class="widget-area" role="complementary">
+	9105	<script>
+		var prices = {
+'key_wmz': 1.74,
+'key_wmr': 96,
+'key_wme': 1.63,
+'key_wmu': 52.42,
+'key_py1': 98.77,
+}	</script>
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h3 class="panel-title">Comprar cd key</h3>
+		</div>
+		<div class="panel-body">
+	  		<form id=f1 name=f1 method="POST" action="http://www.oplata.info/asp/curr_select.asp">
+				<h3 class="margin-10 text-primary text-center">
+					<span id="key_price">1</span> <span id="key_currency">$</span>
+				</h3>
+				<input type="hidden" value="1916376" name="id_goods">
+				<input type="hidden" value="526283 " name="id_agent">
+				<input type="hidden" value="http://www.plati.ru/asp/buy.asp?id_d=1916376" name="fail_page">
+				<div class="form-group">
+					<label for="key_change_currency" class="control-label">Pagar con:</label>
+					<select id="key_change_currency" onchange="currency_change(event);" class="form-control" name="type_curr" size="1">
+														<option value="WMZ"> Webmoney (USD)</option>
+															<option value="WMR"> Webmoney (RUR)</option>
+															<option value="WME"> Webmoney (EUR)</option>
+															<option value="WMU"> Webmoney (UAH)</option>
+															<option value="PY1">Tarjeta bancaria (USD)</option>
+												</select>
+		 		</div>
+	   			<p class="text-center">
+		 			<button class="btn btn-primary btn-lg" type="submit">Comprar <span class="glyphicon glyphicon-shopping-cart"></span></button>
+	   			</p>
+	   			<p class="text-center no-margin">
+					Deje por favor la regeneración positiva después de la compra
+	   			</p>
+	  		</form>
+		</div>
+	</div>
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h3 class="panel-title">Social de alimentación</h3>
+		</div>
+		<div class="panel-body text-center">
+			<div class="social-likes social-likes_vertical" data-title="Risen 3 - Titan Lords" data-url="http://://plati_resell.ru/Risen%203%20-%20Titan%20Lords/" data-counters="yes"><div class="vkontakte" title="Share link on VK">VK</div><div class="facebook" title="Share link on Facebook">Facebook</div><div class="twitter" title="Share link on Twitter">Twitter</div><div class="plusone" title="Share link on Google+">Google+</div></div><form style="display: none;" class="sociallikes-livejournal-form"></form>		</div>
+	</div>
+		</div><!-- #secondary -->
+    </div>
+    </div>
+
+</div>
+</div>
+
+		<!-- Tab to top scrolling -->
+					<div class="scroll-top-wrapper"> <span class="scroll-top-inner">
+				<i class="fa fa-2x fa-angle-up"></i>
+				</span>
+			</div>
+				<footers>
+		<div class="container footers">
+        <div class="row">
+                                                        </div>
+    </div>
+		</footers>
+		<footer>
+		<div class="container">
+
+				   
+			        <div class="pull-left">
+				            <ul class="list-inline social">
+	                                                    	</ul>
+					</div>
+				 
+				
+			    <div class="pull-right">
+					<a href="/sitemap.html">sitemap</a>
+			        2016
+			      </div>
+			    </div>
+
+		</footer>
+
+	
+		
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"018372472755624537576:rqi4gz3j4rm"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/wp-google-search/assets/js/google_cse_v2.js?ver=1'></script>
+<script type='text/javascript' src='/wp-content/themes/custombootstrap/js/bootstrap.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/wp-content/themes/custombootstrap/js/script.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/wp-content/themes/custombootstrap/js/app.js?ver=0.1'></script>
+<script type='text/javascript' src='/wp-includes/js/wp-embed.min.js?ver=4.7'></script>
+	</body>
+</html>

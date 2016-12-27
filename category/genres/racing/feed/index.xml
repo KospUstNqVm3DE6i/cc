@@ -12,7 +12,7 @@
 	<atom:link href="/category/genres/racing/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Fri, 16 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,138 +26,167 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Need for Speed: Shift</title>
-		<link>/Need%20for%20Speed%3A%20Shift/</link>
-		<comments>/Need%20for%20Speed%3A%20Shift/#respond</comments>
+		<title>GRID Autosport</title>
+		<link>/GRID%20Autosport/</link>
+		<comments>/GRID%20Autosport/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[El premiado Need for Speed™ SHIFT es un auténtico juego de carreras que combina la experiencia real del conductor con una física realista, modelos de coches totalmente perfectos y una amplia variedad de pistas de carreras auténticas. Need for Speed SHIFT conduce a los jugadores en una dirección diferente para crear una experiencia de simulación [&#8230;]]]></description>
-		<wfw:commentRss>/Need%20for%20Speed%3A%20Shift/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Sleeping Dogs: Definitive Edition</title>
-		<link>/Sleeping%20Dogs%3A%20Definitive%20Edition/</link>
-		<comments>/Sleeping%20Dogs%3A%20Definitive%20Edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[La Definitive Edition del juego de acción que ha conseguido varios premios y excelentes críticas, rediseñado y remasterizado para la nueva generación. Se incluyen los 24 contenidos descargables anteriores, entre ellos el episodio adicional El año de la serpiente y Pesadilla en North Point, de temática de terror. Además se han añadido numerosas mejores visuales, [&#8230;]]]></description>
-		<wfw:commentRss>/Sleeping%20Dogs%3A%20Definitive%20Edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Coffin Dodgers</title>
-		<link>/Coffin%20Dodgers/</link>
-		<comments>/Coffin%20Dodgers/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Coffin Dodgers es un juego en el que el objetivo será salvar el alma de uno de los siete jubilados que viven tranquilamente en un hogar del jubilado. Todos ellos han “tuneado” sus scooters para enfrentarse, ni más ni menos, que a la mismísima Parca. Nuestros viejos héroes están armados hasta los dientes con una [&#8230;]]]></description>
-		<wfw:commentRss>/Coffin%20Dodgers/feed/</wfw:commentRss>
+		<description><![CDATA[Ficha por un equipo y plántales cara a tus rivales en un nuevo y fascinante reto automovilístico. Junto a tu compañero de filas, debes superar a rivales directos y cumplir los objetivos de los patrocinadores en vertiginosas carreras donde cada adelantamiento vale su peso en oro. Especialízate en la disciplina que más te apasione o [&#8230;]]]></description>
+		<wfw:commentRss>/GRID%20Autosport/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>StuntMANIA Reloaded</title>
-		<link>/StuntMANIA%20Reloaded/</link>
-		<comments>/StuntMANIA%20Reloaded/#respond</comments>
+		<title>Post Apocalyptic Mayhem</title>
+		<link>/Post%20Apocalyptic%20Mayhem/</link>
+		<comments>/Post%20Apocalyptic%20Mayhem/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Dutch]]></category>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[StuntMANIA Reloaded is a fast paced 3D car stunt driving and exploration game, where you get to perform the most amazing tricks and stunts in some really cool environments. New in StuntMANIA Reloaded is the ability to drift and slide when driving to take some amazing corners and to produce some awesome burnouts and donuts! [&#8230;]]]></description>
-		<wfw:commentRss>/StuntMANIA%20Reloaded/feed/</wfw:commentRss>
+		<description><![CDATA[Steam Big Picture Acerca del juego Post Apocalyptic Mayhem te permite correr y luchar con vehículos totalmente modificados a lo largo de numerosos e impresionantes circuitos y acabar con los demás corredores en medio de un desmesurado caos automovilístico. Puedes usar las habilidades especiales del vehículo para destruir los coches enemigos de una forma espectacular [&#8230;]]]></description>
+		<wfw:commentRss>/Post%20Apocalyptic%20Mayhem/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>RC Mini Racers</title>
-		<link>/RC%20Mini%20Racers/</link>
-		<comments>/RC%20Mini%20Racers/#respond</comments>
+		<title>Defunct</title>
+		<link>/Defunct/</link>
+		<comments>/Defunct/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
+				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Single-player]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[RC Mini Racers is a fast paced and explosive racing game with 20+ remote controlled mini cars, lots of missiles and mines, turbos for an extra boost as well as great hard rock music. More than 20 cars can be unlocked within the game and the car pimp shop lets you customize you RC car [&#8230;]]]></description>
-		<wfw:commentRss>/RC%20Mini%20Racers/feed/</wfw:commentRss>
+		<description><![CDATA[Defunct es un juego de aventuras indie que se centra en el movimiento fluido, la velocidad y un mundo cautivador. Eres un robot roto que cae accidentalmente de una nave de mercancías y se encuentra en una Tierra sin humanos, habitada por robots. ¡Debes regresar a la nave antes de que sea demasiado tarde! Estás [&#8230;]]]></description>
+		<wfw:commentRss>/Defunct/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Colin McRae Rally</title>
-		<link>/Colin%20McRae%20Rally/</link>
-		<comments>/Colin%20McRae%20Rally/#respond</comments>
+		<title>WRC 4 FIA World Rally Championship</title>
+		<link>/WRC%204%20FIA%20World%20Rally%20Championship/</link>
+		<comments>/WRC%204%20FIA%20World%20Rally%20Championship/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¡Demuestra tu estilo y gana el FIA WORLD RALLY CHAMPIONSHIP de la temporada 2013! Experimenta la temporada de FIA World Rally Championship 2013 con los conductores, coches y circuitos de los campeonatos de WRC, WRC 2, WRC 3 y Junior WRC. Saca provecho de un motor gráfico mejorado y de un realismo sin precedentes que [&#8230;]]]></description>
+		<wfw:commentRss>/WRC%204%20FIA%20World%20Rally%20Championship/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SHOFER Race Driver</title>
+		<link>/SHOFER%20Race%20Driver/</link>
+		<comments>/SHOFER%20Race%20Driver/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[SHOFER Race Driver takes you deep into Middle East. Real cars, real tracks and also … . Some local music. Unlock new cars and tracks by participating in series of races and don’t worry about anything, because you’ll never be left alone, your partner lady will contact you to get you out of any trouble. [&#8230;]]]></description>
+		<wfw:commentRss>/SHOFER%20Race%20Driver/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bang Bang Racing</title>
+		<link>/Bang%20Bang%20Racing/</link>
+		<comments>/Bang%20Bang%20Racing/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Bang Bang Racing es un juego arcade distinto centrado no solo en la velocidad, sino también en las habilidades técnicas de conducción. Un sistema de control muy intuitivo y pistas emocionantes ofrecen un sinfín de diversión para toda la familia. Bang Bang Racing ofrece una trepidante carrera durante cada curva y cada recta. ¡Conduce veloces [&#8230;]]]></description>
+		<wfw:commentRss>/Bang%20Bang%20Racing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GRID 2 &#8211; Drift Pack</title>
+		<link>/GRID%202%20-%20Drift%20Pack/</link>
+		<comments>/GRID%202%20-%20Drift%20Pack/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
@@ -168,151 +197,115 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Disfruta de la clásica experiencia de rallies con Colin McRae Rally. Esta edición para PC y Mac de Colin McRae Rally incluye la lista completa de coches y pistas del juego para móvil líder de ventas del año pasado y TREINTA increíbles etapas de rally, repartidas en tres escenarios sacados del clásico para PlayStation Colin [&#8230;]]]></description>
-		<wfw:commentRss>/Colin%20McRae%20Rally/feed/</wfw:commentRss>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>/GRID%202%20-%20Drift%20Pack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Assetto Corsa</title>
-		<link>/Assetto%20Corsa/</link>
-		<comments>/Assetto%20Corsa/#respond</comments>
+		<title>Street Racing Syndicate</title>
+		<link>/Street%20Racing%20Syndicate/</link>
+		<comments>/Street%20Racing%20Syndicate/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[The raw, high-stakes world of illegal street racing comes to life in Street Racing Syndicate. Trick out over 40 authentic licensed cars with parts from over 15 real-world manufacturers, then turn your customized ride loose on the streets of 3 cities across the USA. Lay it all on the line &#8211; your wallet, your woman, [&#8230;]]]></description>
+		<wfw:commentRss>/Street%20Racing%20Syndicate/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Qvadriga</title>
+		<link>/Qvadriga/</link>
+		<comments>/Qvadriga/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
 		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Strategy]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[NEXT GENERATION RACING SIMULATOR Assetto Corsa features an advanced DirectX 11 graphics engine that recreates an immersive environment, dynamic lighthing and realistic materials and surfaces. The advanced physics engine is being designed to provide a very realistic driving experience, including features and aspects of real cars, never seen on any other racing simulator such as [&#8230;]]]></description>
-		<wfw:commentRss>/Assetto%20Corsa/feed/</wfw:commentRss>
+		<description><![CDATA[Welcome to the Roman circus! If you have come here it is because you wish to manage your own chariot racing team. Train your drivers and give them the finest equipment and horses. If you do this well, your chariots will provide you with both wealth and fame. but beware! Chariot races are dangerous. Accidents [&#8230;]]]></description>
+		<wfw:commentRss>/Qvadriga/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Need For Speed: Hot Pursuit</title>
-		<link>/Need%20For%20Speed%3A%20Hot%20Pursuit/</link>
-		<comments>/Need%20For%20Speed%3A%20Hot%20Pursuit/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Need for Speed Hot Pursuit te sumerge en un nuevo universo abierto al volante de los coches más rápidos y bonitos del mundo. Desarrollado por Criterion, el galardonado estudio responsable de la saga Burnout, Hot Pursuit redefinirá los juegos de carreras para toda una nueva generación. Experimenta velocidades de vértigo, embestidas y persecuciones mientras te [&#8230;]]]></description>
-		<wfw:commentRss>/Need%20For%20Speed%3A%20Hot%20Pursuit/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Burnout Paradise: The Ultimate Box</title>
-		<link>/Burnout%20Paradise%3A%20The%20Ultimate%20Box/</link>
-		<comments>/Burnout%20Paradise%3A%20The%20Ultimate%20Box/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Burnout Paradise The Ultimate Box reúne al mejor juego de carreras para consolas de 2008, Burnout Paradise, junto con una serie de nuevos contenidos que incluyen motos y emocionantes nuevos modos de juego online y desafíos. Los usuarios de PC podrán disfrutar de imágenes espectaculares, increíbles carreras a alta velocidad, monstruosos choques rompe huesos y [&#8230;]]]></description>
-		<wfw:commentRss>/Burnout%20Paradise%3A%20The%20Ultimate%20Box/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Zombie Driver HD</title>
-		<link>/Zombie%20Driver%20HD/</link>
-		<comments>/Zombie%20Driver%20HD/#respond</comments>
+		<title>Glacier 3: The Meltdown</title>
+		<link>/Glacier%203%3A%20The%20Meltdown/</link>
+		<comments>/Glacier%203%3A%20The%20Meltdown/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Since the press discovered multi-billionaire Bob Slayer’s best kept secret, the illegal Glacier Races, there are more applications than ever before for this deadly, crazy race. New contenders have entered the race, their vehicles are faster, stronger and equipped with new, experimental kind of weapons. Every each contender believes that their car is best equipped [&#8230;]]]></description>
+		<wfw:commentRss>/Glacier%203%3A%20The%20Meltdown/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gas Guzzlers Extreme Gold Pack</title>
+		<link>/Gas%20Guzzlers%20Extreme%20Gold%20Pack/</link>
+		<comments>/Gas%20Guzzlers%20Extreme%20Gold%20Pack/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Insane mix of cars, speed, explosions, blood and zombies! Fight through an epic narrative campaign or test yourself in the Slaughter and Blood Race modes. Engage huge bosses, save survivors, drive crazy vehicles such as a bulldozer, fire truck or even a tank and smash everything in your way. Take part in the Blood Race [&#8230;]]]></description>
-		<wfw:commentRss>/Zombie%20Driver%20HD/feed/</wfw:commentRss>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>/Gas%20Guzzlers%20Extreme%20Gold%20Pack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Motorama</title>
-		<link>/Motorama/</link>
-		<comments>/Motorama/#respond</comments>
+		<title>RACE Injection</title>
+		<link>/RACE%20Injection/</link>
+		<comments>/RACE%20Injection/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Go back in time and experience “The Fabulous Fifties” in a game that relives the period, vehicles and street races of the legendary 50´s films. Customize your car and compete in 8 different race modes, through five completely different 50´s themed areas and become the King of the Road! For many years, street racings have [&#8230;]]]></description>
-		<wfw:commentRss>/Motorama/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Monster Truck Destruction</title>
-		<link>/Monster%20Truck%20Destruction/</link>
-		<comments>/Monster%20Truck%20Destruction/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
+				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Thai]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Drive and destroy your way to glory Your fans are calling out for destruction and you’re going to make sure they get it! Get behind the wheel of one of 30 monster trucks and put it to its limits to destroy everything in sight. Spin your wheels in competitive Drag races or send your ride [&#8230;]]]></description>
-		<wfw:commentRss>/Monster%20Truck%20Destruction/feed/</wfw:commentRss>
+		<description><![CDATA[RACE Injection is the final chapter in the RACE 07 series of games, ending the award winning series on a high note. RACE Injection contains 23 new unique car models and boasts 9 new tracks from across the globe. RACE Injection collects the most requested content in five distinct classes: Formula RaceRoom class, GT Power [&#8230;]]]></description>
+		<wfw:commentRss>/RACE%20Injection/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

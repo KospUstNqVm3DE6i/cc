@@ -12,7 +12,7 @@
 	<atom:link href="/category/supported-languages/japanese/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Fri, 16 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,68 +26,71 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Grand Theft Auto Collection</title>
-		<link>/Grand%20Theft%20Auto%20Collection/</link>
-		<comments>/Grand%20Theft%20Auto%20Collection/#respond</comments>
+		<title>Counter-Strike: Source</title>
+		<link>/Counter-Strike%3A%20Source/</link>
+		<comments>/Counter-Strike%3A%20Source/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Thai]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Grand%20Theft%20Auto%20Collection/feed/</wfw:commentRss>
+		<description><![CDATA[LA NUEVA ENTREGA DEL JUEGO DE ACCIÓN EN LÍNEA NÚMERO 1 EN TODO EL MUNDO Counter-Strike: Source combina la intensidad de las partidas por equipos, que le valió varios premios al título original, con la avanzada tecnología de Source&#8482;. Con sus vanguardistas gráficos, nuevos sonidos y un mayor dinamismo, Counter-Strike: Source no puede faltar en [&#8230;]]]></description>
+		<wfw:commentRss>/Counter-Strike%3A%20Source/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Dead Island: Game of the Year Edition</title>
-		<link>/Dead%20Island%3A%20Game%20of%20the%20Year%20Edition/</link>
-		<comments>/Dead%20Island%3A%20Game%20of%20the%20Year%20Edition/#respond</comments>
+		<title>Borderlands: The Pre-Sequel</title>
+		<link>/Borderlands%3A%20The%20Pre-Sequel/</link>
+		<comments>/Borderlands%3A%20The%20Pre-Sequel/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Ужас. Насилие. Безумие. Бедлам. Праздничные каникулы превратились в нечто ужасное. Тропический остров наполняется хаосом после загадочного появления толп зомби. Единственный шанс выжить — это бороться насмерть, чтобы найти выход с этого острова, где вы просто-напросто отрезаны от всего остального мира. Dead Island сочетает в себе экшен с видом от первого лица с особенным вниманием к [&#8230;]]]></description>
-		<wfw:commentRss>/Dead%20Island%3A%20Game%20of%20the%20Year%20Edition/feed/</wfw:commentRss>
+		<description><![CDATA[¡SUMÉRGETE EN EL UNIVERSO DE BORDERLANDS Y PREPÁRATE PARA DISPARAR Y SAQUEAR EN UNA NUEVA AVENTURA QUE TE TRANSPORTARÁ A LA LUNA DE PANDORA EN BORDERLANDS: THE PRE-SEQUEL! Descubre la historia que hay tras Jack el Guapo, el villano de Borderlands 2, y su ascenso al poder. Situada entre el Borderlands original y Borderlands 2, [&#8230;]]]></description>
+		<wfw:commentRss>/Borderlands%3A%20The%20Pre-Sequel/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>GRID 2 &#8211; Spa-Francorchamps Track Pack</title>
-		<link>/GRID%202%20-%20Spa-Francorchamps%20Track%20Pack/</link>
-		<comments>/GRID%202%20-%20Spa-Francorchamps%20Track%20Pack/#respond</comments>
+		<title>F1 2014</title>
+		<link>/F1%202014/</link>
+		<comments>/F1%202014/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Downloadable Content]]></category>
+				<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
@@ -107,291 +110,260 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/GRID%202%20-%20Spa-Francorchamps%20Track%20Pack/feed/</wfw:commentRss>
+		<description><![CDATA[Siente el rugido de los nuevos monoplazas turboalimentados del juego de FORMULA 1™ más accesible hasta la fecha. F1 2014 cuenta con todos los coches, pilotos y circuitos del 2014 FIA FORMULA ONE WORLD CHAMPIONSHIP™, incluidas las incorporaciones de Rusia y Austria, el regreso del trazado alemán de Hockenheim y el 2014 FORMULA 1 GULF AIR BAHRAIN [&#8230;]]]></description>
+		<wfw:commentRss>/F1%202014/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Portal</title>
-		<link>/Portal/</link>
-		<comments>/Portal/#respond</comments>
+		<title>METAL GEAR SOLID V: THE PHANTOM PAIN</title>
+		<link>/METAL%20GEAR%20SOLID%20V%3A%20THE%20PHANTOM%20PAIN/</link>
+		<comments>/METAL%20GEAR%20SOLID%20V%3A%20THE%20PHANTOM%20PAIN/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Konami Digital Entertainment presenta el último capítulo de METAL GEAR SOLID V Experience: METAL GEAR SOLID V: The Phantom Pain. La franquicia entra en una nueva era gracias a la innovadora tecnología de Fox Engine y MGSV: The Phantom Pain ofrece a los jugadores una experiencia de juego de máximo nivel y libertad táctica para [&#8230;]]]></description>
+		<wfw:commentRss>/METAL%20GEAR%20SOLID%20V%3A%20THE%20PHANTOM%20PAIN/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Stronghold Crusader 2</title>
+		<link>/Stronghold%20Crusader%202/</link>
+		<comments>/Stronghold%20Crusader%202/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Includes Source SDK]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Portal&#8482; es la nueva aventura para un solo jugador de Valve. Ambientado en los misteriosos laboratorios de Aperture Science, Portal ha sido calificado como uno de los juegos más innovadores de los últimos tiempos y ofrece incontables horas de rompecabezas nunca vistos. El juego está diseñado para cambiar radicalmente el modo en que los jugadores [&#8230;]]]></description>
-		<wfw:commentRss>/Portal/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Witcher 2: Assassins of Kings Enhanced Edition</title>
-		<link>/The%20Witcher%202%3A%20Assassins%20of%20Kings%20Enhanced%20Edition/</link>
-		<comments>/The%20Witcher%202%3A%20Assassins%20of%20Kings%20Enhanced%20Edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[El jugador se pone en la piel de Geralt de Rivia, un cazador de monstruos profesional, un brujo. Inmerso en los conflictos políticos que afectan a toda Temeria, Geralt ayudó a sofocar la rebelión de la Orden de la Rosa Ardiente. Poco después, salvó la vida del rey Foltest cuando el monarca fue atacado por [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Witcher%202%3A%20Assassins%20of%20Kings%20Enhanced%20Edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Ori and the Blind Forest</title>
-		<link>/Ori%20and%20the%20Blind%20Forest/</link>
-		<comments>/Ori%20and%20the%20Blind%20Forest/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[El bosque de Nibel está muriendo. Después de que una fuerte tormenta pusiera en marcha una serie de devastadores acontecimientos, un inesperado héroe deberá partir en busca del valor y enfrentarse a su oscuro archienemigo; solo así salvará su hogar. Ori and the Blind Forest narra la historia de un joven huérfano destinado a convertirse [&#8230;]]]></description>
-		<wfw:commentRss>/Ori%20and%20the%20Blind%20Forest/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Alien Rage &#8211; Unlimited</title>
-		<link>/Alien%20Rage%20-%20Unlimited/</link>
-		<comments>/Alien%20Rage%20-%20Unlimited/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Unleash a fury of powerful weapons as you blast your way through armies of Alien forces hell-bent on taking you down! Battle through 14 intense levels and prepare to face a barrage of beastly-sized bosses that will test your every skill. Each of your 10 weapons comes with two firing modes and you’ll need all [&#8230;]]]></description>
-		<wfw:commentRss>/Alien%20Rage%20-%20Unlimited/feed/</wfw:commentRss>
+		<description><![CDATA[Edición especial Banda Sonora Digital compuesta por Robert Euvino Libro de Arte Digital &#8216;El Arte de Stronghold Crusader 2&#8217; Stronghold Crusader HD: Juego completo en Steam &#8211; ¿Ya tienes el juego en Steam? ¡Regálaselo a un amigo! Clientes Special Edition Para acceder a tu libro de arte y banda sonora digital, instala el juego, navega [&#8230;]]]></description>
+		<wfw:commentRss>/Stronghold%20Crusader%202/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Frederic: Evil Strikes Back</title>
-		<link>/Frederic%3A%20Evil%20Strikes%20Back/</link>
-		<comments>/Frederic%3A%20Evil%20Strikes%20Back/#respond</comments>
+		<title>Orcs Must Die! 2</title>
+		<link>/Orcs%20Must%20Die%21%202/</link>
+		<comments>/Orcs%20Must%20Die%21%202/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Oferta especial Buy Frederic: Evil Strikes Back on Steam and get the award winning soundtrack from the game for free!!! Acerca del juego Derrota a famosos oponentes en duelos musicales. Sumérgete en la fantástica y llena de aventuras historia de Fryderyk. Intenta descubrir y sacarle el gustillo a todas las parodias escondidas por los creadores. [&#8230;]]]></description>
-		<wfw:commentRss>/Frederic%3A%20Evil%20Strikes%20Back/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Frozen Synapse Prime</title>
-		<link>/Frozen%20Synapse%20Prime/</link>
-		<comments>/Frozen%20Synapse%20Prime/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Una nueva experiencia de Frozen Synapse Sé el estratega en una nueva experiencia de Frozen Synapse. Guía a una facción de rebeldes para acabar con la poderosa empresa que controla la ciudad de Markov Geist. Controla a un equipo de soldados de élite futuristas: desde fusileros y francotiradores a granaderos y artilleros, en el mejor [&#8230;]]]></description>
-		<wfw:commentRss>/Frozen%20Synapse%20Prime/feed/</wfw:commentRss>
+		<description><![CDATA[Los has lanzado, quemado y rebanado a miles. ¡Ahora los orcos deben morir incluso más que antes! Busca un amigo y acabad con ingentes cantidades de orcos en la secuela del Juego de Estrategia del Año de AIAS creado por Robot Entertainment. Regresa a la lucha como un poderoso Mago Guerrero o como una astuta [&#8230;]]]></description>
+		<wfw:commentRss>/Orcs%20Must%20Die%21%202/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Enigmatis: The Ghosts of Maple Creek</title>
-		<link>/Enigmatis%3A%20The%20Ghosts%20of%20Maple%20Creek/</link>
-		<comments>/Enigmatis%3A%20The%20Ghosts%20of%20Maple%20Creek/#respond</comments>
+		<title>Orcs Must Die!</title>
+		<link>/Orcs%20Must%20Die%21/</link>
+		<comments>/Orcs%20Must%20Die%21/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Dutch]]></category>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Strategy]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Te despiertas después de una fuerte tormenta. Cae la tarde y estás tumbado en el arcén de la carretera cerca de una aldea pequeña. Un escalofrío atraviesa tu cuerpo al acordarse de cosas de las que tu mente desgraciadamente no puede o quizás no quiere acordarse&#8230; ¿Encontrarás valor suficiente para enfrentarte al milenario misterio oculto [&#8230;]]]></description>
-		<wfw:commentRss>/Enigmatis%3A%20The%20Ghosts%20of%20Maple%20Creek/feed/</wfw:commentRss>
+		<description><![CDATA[Rebánalos, incinéralos, empálalos, arrójalos &#8211; da igual cómo lo hagas. Los orcos deben morir en este juego de acción y estrategia de la mano de Robot Entertainment. En la piel de un poderoso mago de guerra con un arsenal de mortíferas armas, hechizos y trampas al alcance de tu mano, te toca defender veinticuatro fortalezas [&#8230;]]]></description>
+		<wfw:commentRss>/Orcs%20Must%20Die%21/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Dungeon Lurk II &#8211; Leona</title>
-		<link>/Dungeon%20Lurk%20II%20-%20Leona/</link>
-		<comments>/Dungeon%20Lurk%20II%20-%20Leona/#respond</comments>
+		<title>Sacred Citadel</title>
+		<link>/Sacred%20Citadel/</link>
+		<comments>/Sacred%20Citadel/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Sharpen your axe, string your bow, brew your potions! Ancaria needs heroes like you. Grab your friends to join the resistance! The once peaceful land of Ancaria is in grave danger. The evil Ashen empire has enslaved its population and is using the orc-like Grimmoc to wipe out the Seraphim, who swore to protect it. [&#8230;]]]></description>
+		<wfw:commentRss>/Sacred%20Citadel/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fractal: Make Blooms Not War</title>
+		<link>/Fractal%3A%20Make%20Blooms%20Not%20War/</link>
+		<comments>/Fractal%3A%20Make%20Blooms%20Not%20War/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Del galardonado equipo que te trajo Auditorium y Pulse: Volume One llega Fractal, una cautivadora experiencia de puzles musicales. Empuja, haz combos y encadena a través de una ensoñación pulsante en technicolor mientras expandes tu consciencia a 130 latidos por minuto. Con tres exclusivos y desafiantes modos de juego, increíbles gráficos de calidad HD y [&#8230;]]]></description>
+		<wfw:commentRss>/Fractal%3A%20Make%20Blooms%20Not%20War/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>War of the Human Tanks</title>
+		<link>/War%20of%20the%20Human%20Tanks/</link>
+		<comments>/War%20of%20the%20Human%20Tanks/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[War of the Human Tanks is a story driven strategy game with a gameplay reminiscent of Battleship and Chess, featuring a story of war, loyalty, sacrifice and human shaped tanks. This story takes place in a land vaguely reminiscent of modern-day Japan. In the twenty years since the first Human Tank was developed, the war [&#8230;]]]></description>
+		<wfw:commentRss>/War%20of%20the%20Human%20Tanks/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Prehistorik</title>
+		<link>/Prehistorik/</link>
+		<comments>/Prehistorik/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[THE STORY: A giant has stolen all the grub from the Grag tribe! You play the role of Grag and set off on this monster’s trail in search of food! Super friendly Grag is helped along the way by his new friend, the fly! Help this prehistoric hero defeat his monstrous enemies and bring back [&#8230;]]]></description>
+		<wfw:commentRss>/Prehistorik/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gynophobia</title>
+		<link>/Gynophobia/</link>
+		<comments>/Gynophobia/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Ukrainian]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[An Action Puzzle Adventure Game with roots in the classic &#34;Point &#38; Click&#34; genre. Take your time and explore the environment for clues to puzzles. Zoom in to detailed areas to find secrets that allow you to progress in the game. The story Ceghran, The Dread King, has constructed a dungeon kingdom to house his [&#8230;]]]></description>
-		<wfw:commentRss>/Dungeon%20Lurk%20II%20-%20Leona/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Battlepillars Gold Edition</title>
-		<link>/Battlepillars%20Gold%20Edition/</link>
-		<comments>/Battlepillars%20Gold%20Edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Battlepillars is a real-time tug-of-war strategy game from the team behind Draw a Stickman: EPIC in which you command caterpillars armed to the teeth with flamethrowers, sticky honey, mines, machine guns, and more! Utilize the best strategies and combinations, from blitzkrieg battlepillars armed with only their feet to heavily armored, cannon wielding, rocket launching tankerpillars. [&#8230;]]]></description>
-		<wfw:commentRss>/Battlepillars%20Gold%20Edition/feed/</wfw:commentRss>
+		<description><![CDATA[Gynophobia es un shooter de terror sobre el miedo anormal de las mujeres. Gynophobia está utilizando la clásica jugabilidad de tirador en primera persona, para transmitir la historia de Marcos, que sufre de diferentes fobias, incluyendo el miedo anormal de la mujer. Características principales Mezcla de Terror y Acción Premisa única Música de alta calidad [&#8230;]]]></description>
+		<wfw:commentRss>/Gynophobia/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
