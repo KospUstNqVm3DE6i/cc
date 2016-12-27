@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Strategy &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/genres/strategy/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/genres/strategy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Strategy &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Arma 3 DLC Bundle</title>
-		<link>/Arma%203%20DLC%20Bundle/</link>
-		<comments>/Arma%203%20DLC%20Bundle/#respond</comments>
+		<link>https://cheap-and-cheerful.store/arma-3-dlc-bundle/</link>
+		<comments>https://cheap-and-cheerful.store/arma-3-dlc-bundle/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -54,15 +54,15 @@
 		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/arma-3-dlc-bundle</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Arma%203%20DLC%20Bundle/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/arma-3-dlc-bundle/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>CoH 2 &#8211; The Western Front Armies: US Forces</title>
-		<link>/CoH%202%20-%20The%20Western%20Front%20Armies%3A%20US%20Forces/</link>
-		<comments>/CoH%202%20-%20The%20Western%20Front%20Armies%3A%20US%20Forces/#respond</comments>
+		<link>https://cheap-and-cheerful.store/coh-2-the-western-front-armies-us-forces/</link>
+		<comments>https://cheap-and-cheerful.store/coh-2-the-western-front-armies-us-forces/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Czech]]></category>
@@ -81,15 +81,15 @@
 		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/coh-2-the-western-front-armies-us-forces</guid>
 		<description><![CDATA[Las US Forces son un adaptable ejército que sabrá amoldarse sin romperse y que cuenta con una infantería y unos vehículos extremadamente versátiles al tiempo que su exclusiva estructura de base te permite capturar la temporal naturaleza de las líneas del frente. Veloces vehículos blindados ligeros y medios, como el icónico M4A3 Sherman, ofrecen potencia [&#8230;]]]></description>
-		<wfw:commentRss>/CoH%202%20-%20The%20Western%20Front%20Armies%3A%20US%20Forces/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/coh-2-the-western-front-armies-us-forces/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Hydrophobia: Prophecy</title>
-		<link>/Hydrophobia%3A%20Prophecy/</link>
-		<comments>/Hydrophobia%3A%20Prophecy/#respond</comments>
+		<link>https://cheap-and-cheerful.store/hydrophobia-prophecy/</link>
+		<comments>https://cheap-and-cheerful.store/hydrophobia-prophecy/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -110,15 +110,15 @@
 		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/hydrophobia-prophecy</guid>
 		<description><![CDATA[Hydrophobia: Prophecy es la edición definitiva de este asombroso juego de acción y aventuras que transcurre en una ciudad flotante en la que los terroristas han tomado el control y la heroína Kate tendrá que enfrentarse a los aterradores recuerdos de su infancia para contraatacar utilizando toda su habilidad y experiencia como ingeniero de sistemas. [&#8230;]]]></description>
-		<wfw:commentRss>/Hydrophobia%3A%20Prophecy/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/hydrophobia-prophecy/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Grey Goo</title>
-		<link>/Grey%20Goo/</link>
-		<comments>/Grey%20Goo/#respond</comments>
+		<link>https://cheap-and-cheerful.store/grey-goo/</link>
+		<comments>https://cheap-and-cheerful.store/grey-goo/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
@@ -141,15 +141,15 @@
 		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/grey-goo</guid>
 		<description><![CDATA[COMBATE EL CAOS. O APROVECHA SU PODER. Siglos después de que la Humanidad abandonara la Tierra por primera vez, todas las formas de vida en la Vía Láctea han evolucionado hacia una tranquilidad interior. Pero se ha producido una mutación. Un organismo misterioso se dirige hacia la superficie de un planeta solitario, con abundantes recursos, [&#8230;]]]></description>
-		<wfw:commentRss>/Grey%20Goo/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/grey-goo/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Blackguards</title>
-		<link>/Blackguards/</link>
-		<comments>/Blackguards/#respond</comments>
+		<link>https://cheap-and-cheerful.store/blackguards/</link>
+		<comments>https://cheap-and-cheerful.store/blackguards/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Czech]]></category>
@@ -172,15 +172,15 @@
 		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/blackguards</guid>
 		<description><![CDATA[Buy Blackguards 2 http://store.steampowered.com/app/314830 Blackguards Deluxe Edition: Acerca del juego ¿Qué sucede cuando la única esperanza para un mundo amenazado no radica en caballeros de brillante armadura sino en las manos de una banda de inadaptados y criminales? Blackguards, un nuevo juego de rol de estrategia por turnos, investiga esta misma cuestión. Descubrirás más de [&#8230;]]]></description>
-		<wfw:commentRss>/Blackguards/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/blackguards/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Reus</title>
-		<link>/Reus/</link>
-		<comments>/Reus/#respond</comments>
+		<link>https://cheap-and-cheerful.store/reus/</link>
+		<comments>https://cheap-and-cheerful.store/reus/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Dutch]]></category>
@@ -197,15 +197,15 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/reus</guid>
 		<description><![CDATA[In Reus, you control powerful giants that help you shape the planet to your will. You can create mountains and oceans, forests and more. Enrich your planet with plants, minerals and animal life. There is only one thing on the planet that you do not control: mankind, with all their virtues and and all their [&#8230;]]]></description>
-		<wfw:commentRss>/Reus/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/reus/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Escapists</title>
-		<link>/The%20Escapists/</link>
-		<comments>/The%20Escapists/#respond</comments>
+		<link>https://cheap-and-cheerful.store/the-escapists/</link>
+		<comments>https://cheap-and-cheerful.store/the-escapists/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -226,15 +226,15 @@
 		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-escapists</guid>
 		<description><![CDATA[Recién actualizado FREE CONTENT UPDATE! Jingle Cells Following on from last year’s release of the free Santa’s Sweatshop content, our daring escapee elf unfortunately lost control of their sleigh mid-flight and was forced to make an emergency landing – right in the middle of the grounds of the Jingle Cells prison! Stuck doing hard time [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Escapists/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-escapists/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>UFO: Afterlight</title>
-		<link>/UFO%3A%20Afterlight/</link>
-		<comments>/UFO%3A%20Afterlight/#respond</comments>
+		<link>https://cheap-and-cheerful.store/ufo-afterlight/</link>
+		<comments>https://cheap-and-cheerful.store/ufo-afterlight/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Captions available]]></category>
@@ -251,15 +251,15 @@
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/ufo-afterlight</guid>
 		<description><![CDATA[The story is situated on Mars. It starts where UFO: Aftermath left off and runs simultaneously with UFO: Aftershock. While the Laputans on Earth are fighting Wargots and Starghosts and finding out what caused the destruction of their home planet, a small colony on Mars is trying to survive and flourish. The player will gain [&#8230;]]]></description>
-		<wfw:commentRss>/UFO%3A%20Afterlight/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/ufo-afterlight/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Dungeon Defenders</title>
-		<link>/Dungeon%20Defenders/</link>
-		<comments>/Dungeon%20Defenders/#respond</comments>
+		<link>https://cheap-and-cheerful.store/dungeon-defenders/</link>
+		<comments>https://cheap-and-cheerful.store/dungeon-defenders/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -282,15 +282,15 @@
 		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/dungeon-defenders</guid>
 		<description><![CDATA[Recién actualizado Steam Exclusive Offer El Dispositivo Portátil de Portales de Aperture Science para la Cazadora. Consumiendo energía constantemente cuando se activa, este dispositivo permite a su usuario abrir portales de una posición a otra y se puede usar para aumentar en gran medida el alcance de una trampa, teletransportarse rápido por el mapa, ¡o [&#8230;]]]></description>
-		<wfw:commentRss>/Dungeon%20Defenders/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/dungeon-defenders/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Not The Robots</title>
-		<link>/Not%20The%20Robots/</link>
-		<comments>/Not%20The%20Robots/#respond</comments>
+		<link>https://cheap-and-cheerful.store/not-the-robots/</link>
+		<comments>https://cheap-and-cheerful.store/not-the-robots/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -303,15 +303,15 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/not-the-robots</guid>
 		<description><![CDATA[You are a robot in an office building. You have to eat furniture and not get caught. A mysterious story unfolds. Not The Robots is this year’s most exciting Roguelike Stealth Furniture Eating Simulator. It’s a game with random levels, permadeath, and the goal of eating furniture &#8211; which is also your stealth cover. A [&#8230;]]]></description>
-		<wfw:commentRss>/Not%20The%20Robots/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/not-the-robots/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Cubemen</title>
-		<link>/Cubemen/</link>
-		<comments>/Cubemen/#respond</comments>
+		<link>https://cheap-and-cheerful.store/cubemen/</link>
+		<comments>https://cheap-and-cheerful.store/cubemen/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Cross-Platform Multiplayer]]></category>
@@ -324,15 +324,15 @@
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/cubemen</guid>
 		<description><![CDATA[Recién actualizado New Features: Level Editor including level creation, sharing &#38; favourites &#8211; Yes Finally! Soon to be hundreds or thousands of user levels to play Brand new music tracks with custom music theme selection options per game mode Local Mayhem games versus Bots (no need for online connectivity at all) Random tower placement option [&#8230;]]]></description>
-		<wfw:commentRss>/Cubemen/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/cubemen/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Trapped Dead</title>
-		<link>/Trapped%20Dead/</link>
-		<comments>/Trapped%20Dead/#respond</comments>
+		<link>https://cheap-and-cheerful.store/trapped-dead/</link>
+		<comments>https://cheap-and-cheerful.store/trapped-dead/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -346,9 +346,9 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/trapped-dead</guid>
 		<description><![CDATA[Trapped Dead es un juego de estrategia táctica en tiempo real al estilo de clásicos como &#34;Commandos&#34; y &#34;Desperados&#34;. Tú y tus amigos controláis vuestros personajes en una vista isométrica en tercera persona a través de un maduro escenario de supervivencia a los zombis inspirado en las exitosas películas de terror de principios de los [&#8230;]]]></description>
-		<wfw:commentRss>/Trapped%20Dead/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/trapped-dead/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

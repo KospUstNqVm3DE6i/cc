@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Simplified Chinese &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/genres/simplified-chinese/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/genres/simplified-chinese/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,37 +19,43 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Simplified Chinese &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Left 4 Dead 2</title>
-		<link>/Left%204%20Dead%202/</link>
-		<comments>/Left%204%20Dead%202/#respond</comments>
+		<title>The Orange Box</title>
+		<link>https://cheap-and-cheerful.store/the-orange-box/</link>
+		<comments>https://cheap-and-cheerful.store/the-orange-box/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[Danish]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[Free to Play]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
 		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
@@ -60,152 +66,169 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Thai]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Ambientado en el apocalipsis zombi, Left 4 Dead 2 (L4D2) es la secuela largamente esperada del galardonado Left 4 Dead, el juego co-op número 1 de 2008. Este FPS cooperativo de acción y horror os llevará a ti y a tus amigos por las ciudades, pantanos y cementerios del Sur Profundo, desde Savannah hasta Nueva [&#8230;]]]></description>
-		<wfw:commentRss>/Left%204%20Dead%202/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-orange-box</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-orange-box/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>MiniDrivers</title>
-		<link>/MiniDrivers/</link>
-		<comments>/MiniDrivers/#respond</comments>
+		<title>Street Fighter V</title>
+		<link>https://cheap-and-cheerful.store/street-fighter-v/</link>
+		<comments>https://cheap-and-cheerful.store/street-fighter-v/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Arabic]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Arabic]]></category>
 		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/street-fighter-v</guid>
+		<description><![CDATA[¡La legendaria franquicia de lucha regresa con STREET FIGHTER® V! Disfruta de unos gráficos espectaculares y detalles sin precedentes en la siguiente generación de guerreros mundiales, mientras participas en batallas accesibles y emocionantes que ofrecen diversión de lucha sin fin tanto para principiantes como veteranos. Desafía a tus amigos en línea o compite por la [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/street-fighter-v/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>FOTONICA</title>
+		<link>https://cheap-and-cheerful.store/fotonica/</link>
+		<comments>https://cheap-and-cheerful.store/fotonica/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[¡Las carreras más locas llegan a tus manos con MiniDrivers! La serie de animación que ha cautivado a millones de personas en todo el mundo tiene un nuevo protagonista: ¡Tú! Crea tus propias historias o cambia las reglas en las carreras y conviértete en Campeón del Mundo. ¡ES HORA DE CORRER! Si algo caracteriza los [&#8230;]]]></description>
-		<wfw:commentRss>/MiniDrivers/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/fotonica</guid>
+		<description><![CDATA[FOTONICA es un juego de carreras, saltos, velocidad y descubrimiento en primera persona. Mantén apretado cualquier botón para correr, suelta para saltar, y mantenlo apretado mientras estás en el aire para aterrizar velozmente. El objetivo es atravesar los ambientes del juego con perfecta destreza, en el tiempo que se da para explorarlo. El escenario es [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/fotonica/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>I Am Vegend &#8211; Zombiegeddon</title>
-		<link>/I%20Am%20Vegend%20-%20Zombiegeddon/</link>
-		<comments>/I%20Am%20Vegend%20-%20Zombiegeddon/#respond</comments>
+		<title>Tiny Troopers</title>
+		<link>https://cheap-and-cheerful.store/tiny-troopers/</link>
+		<comments>https://cheap-and-cheerful.store/tiny-troopers/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[&#34;Las plantas buscan la venganza contra los pájaros, los cerdos y los zombis. ¡No pierdas la oportunidad de dirigir la rebelión! Diviértete al máximo con esta parodia de los juegos para móviles más populares. En esta ocasión, los enemigos se han aliado y quieren destruir a todas las plantas, aplastando todos los semilleros sin piedad, [&#8230;]]]></description>
-		<wfw:commentRss>/I%20Am%20Vegend%20-%20Zombiegeddon/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/tiny-troopers</guid>
+		<description><![CDATA[New Zombie Mode The Tiny Troopers zombie mode includes: Face endless waves of brain-munching zombies, including undead chickens! Utilise air dropped crates of special weapons to lay devastation on the zombie hordes! Use all your favorite Special Forces troopers to take down the undead. Survive as long as you can against unending waves of normal [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/tiny-troopers/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Neighbours from Hell Compilation</title>
-		<link>/Neighbours%20from%20Hell%20Compilation/</link>
-		<comments>/Neighbours%20from%20Hell%20Compilation/#respond</comments>
+		<title>Machines At War 3</title>
+		<link>https://cheap-and-cheerful.store/machines-at-war-3/</link>
+		<comments>https://cheap-and-cheerful.store/machines-at-war-3/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[INTRODUCING THE GAME OF NEIGHBOURHOOD NASTINESS AND COMMUNITY COMMOTION! Living next door to you is a real Neighbour From Hell and it&#8217;s now time to have your revenge! This compilation includes the original Neighbours From Hell and it&#8217;s sequel Neighbours from Hell 2: On Vacation. Story Neighbours from Hell 1 Creep around your neighbour ’s [&#8230;]]]></description>
-		<wfw:commentRss>/Neighbours%20from%20Hell%20Compilation/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dungeon Lurk II &#8211; Leona</title>
-		<link>/Dungeon%20Lurk%20II%20-%20Leona/</link>
-		<comments>/Dungeon%20Lurk%20II%20-%20Leona/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[An Action Puzzle Adventure Game with roots in the classic &#34;Point &#38; Click&#34; genre. Take your time and explore the environment for clues to puzzles. Zoom in to detailed areas to find secrets that allow you to progress in the game. The story Ceghran, The Dread King, has constructed a dungeon kingdom to house his [&#8230;]]]></description>
-		<wfw:commentRss>/Dungeon%20Lurk%20II%20-%20Leona/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/machines-at-war-3</guid>
+		<description><![CDATA[¡Descubre los secretos del equipo de investigación perdido de la Iniciativa Ómicron en 21 misiones épicas! ¡Combate con tus amigos en un juego multijugador en línea que te permitirá escoger entre más de 130 unidades y tecnologías! Elige entre múltiples condiciones de victoria y escenarios para conseguir un mapa de escaramuzas aleatorio y único para [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/machines-at-war-3/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>BADLAND: Game of the Year Edition</title>
-		<link>/BADLAND%3A%20Game%20of%20the%20Year%20Edition/</link>
-		<comments>/BADLAND%3A%20Game%20of%20the%20Year%20Edition/#respond</comments>
+		<title>Aces of the Luftwaffe</title>
+		<link>https://cheap-and-cheerful.store/aces-of-the-luftwaffe/</link>
+		<comments>https://cheap-and-cheerful.store/aces-of-the-luftwaffe/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/aces-of-the-luftwaffe</guid>
+		<description><![CDATA[¡SALTA A LA ACCIÓN Y CONVIÉRTETE EN EL AMO DEL CIELO! Demuestra de qué pasta estás hecho mientras se libra en Europa la gran guerra. Enfréntate a oleadas de aviones y tanques del Eje hasta dar con los verdaderos enemigos: ACES OF THE LUFTWAFFE . ✪✪✪ ARGUMENTO ✪✪✪ Inglaterra vive su peor momento: el Eje [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/aces-of-the-luftwaffe/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>There Came an Echo</title>
+		<link>https://cheap-and-cheerful.store/there-came-an-echo/</link>
+		<comments>https://cheap-and-cheerful.store/there-came-an-echo/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
@@ -213,238 +236,168 @@
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Vuela y sobrevive en el mundo ganador del Juego del Año de BADLAND y descubre una asombrosa cantidad de ingeniosas trampas, puzles y obstáculos en el camino. Con BADLAND: Game of the Year Edition, disfrutarás de la experiencia del supergalardonado juego de acción y aventura como nunca antes. BADLAND: Game of the Year Edition, rediseñado [&#8230;]]]></description>
-		<wfw:commentRss>/BADLAND%3A%20Game%20of%20the%20Year%20Edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>MouseCraft</title>
-		<link>/MouseCraft/</link>
-		<comments>/MouseCraft/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[¿Alguna vez te has preguntado cómo sería un cruce entre el Tetris y Lemmings? Pues bien, deja de preguntártelo, porque&#8230; ¡MouseCraft ya está aquí! MouseCraft es un rompecabezas de tipo A a B en el que los jugadores ayudan a Schrödinger, el gato científico loco, a completar su misteriosa invención impulsada por ratones. Apila bloques [&#8230;]]]></description>
-		<wfw:commentRss>/MouseCraft/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/there-came-an-echo</guid>
+		<description><![CDATA[Ender Wiggin. El Almirante Ackbar. El tipo ese que está al mando de los G.I. Joes. Estos grandísimos comandantes sabían que las batallas no se ganan gracias a un solo soldado de infantería, sino dando órdenes precisas que colocan a sus unidades en posición para obtener la victoria. En There Came an Echo, se siguen [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/there-came-an-echo/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Sometimes: Success Requires Sacrifice</title>
-		<link>/Sometimes%3A%20Success%20Requires%20Sacrifice/</link>
-		<comments>/Sometimes%3A%20Success%20Requires%20Sacrifice/#respond</comments>
+		<title>Clockwork Tales: Of Glass and Ink</title>
+		<link>https://cheap-and-cheerful.store/clockwork-tales-of-glass-and-ink/</link>
+		<comments>https://cheap-and-cheerful.store/clockwork-tales-of-glass-and-ink/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Bulgarian]]></category>
+				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Sometimes: Success Requires Sacrifice, the title says it all! You get thrown into a dark room, with no light to be found anywhere! Are you willing to end your life to light the way for the next generation to proceed further? Play it today and find out! Sometimes features a classic mode, as well as [&#8230;]]]></description>
-		<wfw:commentRss>/Sometimes%3A%20Success%20Requires%20Sacrifice/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/clockwork-tales-of-glass-and-ink</guid>
+		<description><![CDATA[Clockwork Tales: De cristal y tinta es un juego de aventuras del género steampunk. ¡Es una drama detectivesca con elementos de acción como el espionaje, batallas de monstruos y hasta parapente! Una peculiar serie de extraños terremotos están haciendo que todas las ciudades del mundo se derrumben. El Ambrose Ink, uno de las mentes más [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/clockwork-tales-of-glass-and-ink/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Left 4 Dead</title>
-		<link>/Left%204%20Dead/</link>
-		<comments>/Left%204%20Dead/#respond</comments>
+		<title>Half-Life 2</title>
+		<link>https://cheap-and-cheerful.store/half-life-2/</link>
+		<comments>https://cheap-and-cheerful.store/half-life-2/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Commentary available]]></category>
 		<category><![CDATA[Danish]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Thai]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Steam Big Picture Acerca del juego De la mano de Valve®, creadores de Counter-Strike®, Half-Life® y otros muchos juegos, llega Left 4 Dead™, una nueva aventura para PC y Xbox 360 que te meterá en la piel de uno de los cuatro &#34;supervivientes&#34; que libran una pugna de proporciones épicas contra hordas de zombis y [&#8230;]]]></description>
-		<wfw:commentRss>/Left%204%20Dead/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/half-life-2</guid>
+		<description><![CDATA[1998. HALF-LIFE supone un impacto en la industria de juegos con su combinación de acción fren&#233;tica y narración continua y absorbente. El título de debut de Valve fue galardonado con más de 50 premios que lo consideraron el juego del año hasta convertirse en &#8220;El mejor juego para PC de la historia&#8221;, galardón concedido por [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/half-life-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Abyss Raiders: Uncharted</title>
-		<link>/Abyss%20Raiders%3A%20Uncharted/</link>
-		<comments>/Abyss%20Raiders%3A%20Uncharted/#respond</comments>
+		<title>Better Late Than DEAD</title>
+		<link>https://cheap-and-cheerful.store/better-late-than-dead/</link>
+		<comments>https://cheap-and-cheerful.store/better-late-than-dead/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Story &#8230; Death and darkness have engulfed the world. Humans have all since perished, leaving robots alone to rule. The robots compete fiercely for energy. In time, they will simply tend towards their own destruction, just as the humans did. However, there is a group of robots that are committed to resolving this crisis; studying [&#8230;]]]></description>
-		<wfw:commentRss>/Abyss%20Raiders%3A%20Uncharted/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>SpeedRunners</title>
-		<link>/SpeedRunners/</link>
-		<comments>/SpeedRunners/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Thai]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[En una ciudad llena de superhéroe, llegar a los crímenes se convierte en una competición para cada uno. Afortunamente hay suficientes cohetes, bombas, ganchos, pinchos, y otras mejoras tiradas por los alrededores &#8212; para hacer la competición divertida y rápida. Bienvenido a SpeedRunners. Speedrunners es un competitivo plataformas de 4 jugadores con ganchos, poderes, y [&#8230;]]]></description>
-		<wfw:commentRss>/SpeedRunners/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/better-late-than-dead</guid>
+		<description><![CDATA[FORESEEABLE END? Explore an open sandbox environment which, depending on your intention, could have or could not have a foreseeable end. But as you investigate further, you may notice some suspicious activity including animals that would not normally be found in an area like this and some inconsistencies that lead to more questions. It is [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/better-late-than-dead/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Ampu-Tea</title>
-		<link>/Ampu-Tea/</link>
-		<comments>/Ampu-Tea/#respond</comments>
+		<title>Nebula Online</title>
+		<link>https://cheap-and-cheerful.store/nebula-online/</link>
+		<comments>https://cheap-and-cheerful.store/nebula-online/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[MMO]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/nebula-online</guid>
+		<description><![CDATA[Nebula Online is a space Massive Multiplayer Online Game which can be cross-played between different platforms. This Sci-Fi game is set within a 3 race-populated galaxy where players face a global conflict for universe domination. Openly alter space and explore the universe to find resource fields, abandoned stations and habitable planets. Be aware of the [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/nebula-online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>3SwitcheD</title>
+		<link>https://cheap-and-cheerful.store/3switched/</link>
+		<comments>https://cheap-and-cheerful.store/3switched/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[It’s time for rehabilitation! You’re a recovering amputee, fitted with the latest modern technology. The KS-001 Robo-arm is capable of delicate tasks – if used efficiently. What better challenge for the son of an Earl than to make tea for his father? Good luck son. You&#8217;ll need it.]]></description>
-		<wfw:commentRss>/Ampu-Tea/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/3switched</guid>
+		<description><![CDATA[3SwitcheD™, gracias a sus brillantes gráficos en 3D y a la nueva tecnología aplicada, este clásico de culto se ha transformado en una verdadera pieza maestra, realmente adictiva. ¡La búsqueda de las joyas de Tania ha comenzado! En medio de la ciudad del ocio del sistema solar Zeta Reticuli, TopWare Interstellar Entertainment inaugura el casino [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/3switched/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

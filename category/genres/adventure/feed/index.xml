@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Adventure &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/genres/adventure/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/genres/adventure/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Adventure &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Grand Theft Auto V</title>
-		<link>/Grand%20Theft%20Auto%20V/</link>
-		<comments>/Grand%20Theft%20Auto%20V/#respond</comments>
+		<link>https://cheap-and-cheerful.store/grand-theft-auto-v/</link>
+		<comments>https://cheap-and-cheerful.store/grand-theft-auto-v/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -49,15 +49,15 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/grand-theft-auto-v</guid>
 		<description><![CDATA[Cuando un joven estafador callejero, un ladrón de bancos retirado y un psicópata aterrador se ven involucrados con lo peor y más desquiciado del mundo criminal, del gobierno de los EE. UU. y de la industria del espectáculo, tendrán que llevar a cabo una serie de peligrosos golpes para sobrevivir en una ciudad implacable en [&#8230;]]]></description>
-		<wfw:commentRss>/Grand%20Theft%20Auto%20V/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/grand-theft-auto-v/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Dishonored &#8211; Game of the Year Edition</title>
-		<link>/Dishonored%20-%20Game%20of%20the%20Year%20Edition/</link>
-		<comments>/Dishonored%20-%20Game%20of%20the%20Year%20Edition/#respond</comments>
+		<link>https://cheap-and-cheerful.store/dishonored-game-of-the-year-edition/</link>
+		<comments>https://cheap-and-cheerful.store/dishonored-game-of-the-year-edition/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -75,15 +75,15 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/dishonored-game-of-the-year-edition</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Dishonored%20-%20Game%20of%20the%20Year%20Edition/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/dishonored-game-of-the-year-edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>METAL GEAR SOLID V: GROUND ZEROES</title>
-		<link>/METAL%20GEAR%20SOLID%20V%3A%20GROUND%20ZEROES/</link>
-		<comments>/METAL%20GEAR%20SOLID%20V%3A%20GROUND%20ZEROES/#respond</comments>
+		<link>https://cheap-and-cheerful.store/metal-gear-solid-v-ground-zeroes/</link>
+		<comments>https://cheap-and-cheerful.store/metal-gear-solid-v-ground-zeroes/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -102,15 +102,15 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/metal-gear-solid-v-ground-zeroes</guid>
 		<description><![CDATA[Con Metal Gear Solid V: Ground Zeroes, Kojima Productions presenta una nueva obra maestra de la saga Metal Gear Solid. Metal Gear Solid V: Ground Zeroes es la primera parte de Metal Gear Solid V Experience y el prólogo de la segunda parte, más grande, que saldrá a la venta más tarde: Metal Gear Solid [&#8230;]]]></description>
-		<wfw:commentRss>/METAL%20GEAR%20SOLID%20V%3A%20GROUND%20ZEROES/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/metal-gear-solid-v-ground-zeroes/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Forest</title>
-		<link>/The%20Forest/</link>
-		<comments>/The%20Forest/#respond</comments>
+		<link>https://cheap-and-cheerful.store/the-forest/</link>
+		<comments>https://cheap-and-cheerful.store/the-forest/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -124,15 +124,15 @@
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-forest</guid>
 		<description><![CDATA[As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first person survival horror simulator. Key alpha features Enter a living, breathing world, where every tree and plant can be chopped down. Below [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Forest/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-forest/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Better Late Than DEAD</title>
-		<link>/Better%20Late%20Than%20DEAD/</link>
-		<comments>/Better%20Late%20Than%20DEAD/#respond</comments>
+		<link>https://cheap-and-cheerful.store/better-late-than-dead/</link>
+		<comments>https://cheap-and-cheerful.store/better-late-than-dead/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -153,15 +153,15 @@
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Thai]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/better-late-than-dead</guid>
 		<description><![CDATA[FORESEEABLE END? Explore an open sandbox environment which, depending on your intention, could have or could not have a foreseeable end. But as you investigate further, you may notice some suspicious activity including animals that would not normally be found in an area like this and some inconsistencies that lead to more questions. It is [&#8230;]]]></description>
-		<wfw:commentRss>/Better%20Late%20Than%20DEAD/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/better-late-than-dead/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Cat Lady</title>
-		<link>/The%20Cat%20Lady/</link>
-		<comments>/The%20Cat%20Lady/#respond</comments>
+		<link>https://cheap-and-cheerful.store/the-cat-lady/</link>
+		<comments>https://cheap-and-cheerful.store/the-cat-lady/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
@@ -179,15 +179,15 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-cat-lady</guid>
 		<description><![CDATA[The Cat Lady follows Susan Ashworth, a lonely 40-year old on the verge of suicide. She has no family, no friends and no hope for a better future. One day she discovers that five strangers will come along and change everything&#8230; By author Remigiusz Michalski (Harvester Games) this suspenseful psychological horror game features stylized artwork, [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Cat%20Lady/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-cat-lady/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>L.A. Noire</title>
-		<link>/L.A.%20Noire/</link>
-		<comments>/L.A.%20Noire/#respond</comments>
+		<link>https://cheap-and-cheerful.store/l-a-noire/</link>
+		<comments>https://cheap-and-cheerful.store/l-a-noire/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
@@ -202,15 +202,15 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/l-a-noire</guid>
 		<description><![CDATA[En pleno apogeo de la Edad Dorada de Hollywood durante la posguerra, Cole Phelps es un detective del Departamento de Policía de Los Ángeles sumergido en una ciudad que se ahoga en su propio éxito. La corrupción es rampante, el tráfico de drogas está en auge y la tasa de homicidios se sitúa en máximos [&#8230;]]]></description>
-		<wfw:commentRss>/L.A.%20Noire/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/l-a-noire/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Beyond Space</title>
-		<link>/Beyond%20Space/</link>
-		<comments>/Beyond%20Space/#respond</comments>
+		<link>https://cheap-and-cheerful.store/beyond-space/</link>
+		<comments>https://cheap-and-cheerful.store/beyond-space/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -227,15 +227,15 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/beyond-space</guid>
 		<description><![CDATA[UNA IMPRESIONANTE AVENTURA ESPACIAL Beyond Space es un vanguardista juego espacial de disparos en 3D que sumerge al jugador en oscuras tramas al estilo de las mejores óperas espaciales. Numerosos sistemas planetarios, nebulosas y campos de asteroides por explorar. Gráficos en 3D ricos en detalles, paisajes espaciales fascinantes y hermosos, efectos especiales espectaculares, renderizado perfecto [&#8230;]]]></description>
-		<wfw:commentRss>/Beyond%20Space/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/beyond-space/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Fearless Fantasy</title>
-		<link>/Fearless%20Fantasy/</link>
-		<comments>/Fearless%20Fantasy/#respond</comments>
+		<link>https://cheap-and-cheerful.store/fearless-fantasy/</link>
+		<comments>https://cheap-and-cheerful.store/fearless-fantasy/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -249,15 +249,15 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/fearless-fantasy</guid>
 		<description><![CDATA[As Leon, the world’s most dangerous bounty hunter, you embark on a mission to slay the world’s weirdest creatures, and save a girl from an awful marriage. Fearless Fantasy is probably the weirdest RPG you’ll play this year. It’s a turn-based game that deeply involves players during every turn. You use gestures (with the mouse) [&#8230;]]]></description>
-		<wfw:commentRss>/Fearless%20Fantasy/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/fearless-fantasy/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Survivalist</title>
-		<link>/Survivalist/</link>
-		<comments>/Survivalist/#respond</comments>
+		<link>https://cheap-and-cheerful.store/survivalist/</link>
+		<comments>https://cheap-and-cheerful.store/survivalist/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -273,15 +273,15 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/survivalist</guid>
 		<description><![CDATA[Ha pasado un año desde la destrucción de la civilización y el egoísta bróker Joe Wheeler emerge de su búnker en busca de comida. Este es un RPG abierto donde tienes la libertad de jugar como quieras &#8211; pero tus elecciones tienen consecuencias. Tu objetivo es encontrar a otros supervivientes, ganarte su respeto y crear [&#8230;]]]></description>
-		<wfw:commentRss>/Survivalist/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/survivalist/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Ball</title>
-		<link>/The%20Ball/</link>
-		<comments>/The%20Ball/#respond</comments>
+		<link>https://cheap-and-cheerful.store/the-ball/</link>
+		<comments>https://cheap-and-cheerful.store/the-ball/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -301,15 +301,15 @@
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Swedish]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-ball</guid>
 		<description><![CDATA[New Mini Campaign Released Now we also have a brand-new mini campaign for you &#8211; the winners of a map-making contest for The Ball. This new campaign can be played completely standalone, from the Survival Mode menu and will give you an extra 2 hours of content for free! Playable Character for Killing Floor Everyone [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Ball/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-ball/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Foul Play</title>
-		<link>/Foul%20Play/</link>
-		<comments>/Foul%20Play/#respond</comments>
+		<link>https://cheap-and-cheerful.store/foul-play/</link>
+		<comments>https://cheap-and-cheerful.store/foul-play/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -331,9 +331,9 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/foul-play</guid>
 		<description><![CDATA[Play as the daemon-hunter Baron Dashforth in a side-scrolling co-op brawler set entirely on the grand spectacle of a theatre stage that rewards performance over pummeling. Perform shattering takedowns and reversals! Electrify the audience with devastating linked attacks as you have a friend join as sidekick Scampwick and use every stage-trick you know to bring [&#8230;]]]></description>
-		<wfw:commentRss>/Foul%20Play/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/foul-play/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

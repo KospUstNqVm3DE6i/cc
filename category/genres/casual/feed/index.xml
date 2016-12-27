@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Casual &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/genres/casual/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/genres/casual/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,40 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Casual &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Truck Mechanic Simulator 2015</title>
-		<link>/Truck%20Mechanic%20Simulator%202015/</link>
-		<comments>/Truck%20Mechanic%20Simulator%202015/#respond</comments>
+		<title>Wildlife Park 3</title>
+		<link>https://cheap-and-cheerful.store/wildlife-park-3/</link>
+		<comments>https://cheap-and-cheerful.store/wildlife-park-3/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/wildlife-park-3</guid>
+		<description><![CDATA[Wildlife Park 3 – do you have what it takes to be a zoo manager? Wildlife Park 3 is the latest part of the successful series. As zoo manager, you are responsible for your very own and unique zoo. Choose from numerous types of enclosures, park buildings and plants to design an environment appropriate to [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/wildlife-park-3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Flock!</title>
+		<link>https://cheap-and-cheerful.store/flock/</link>
+		<comments>https://cheap-and-cheerful.store/flock/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Casual]]></category>
@@ -36,241 +60,113 @@
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[¡Prepárate para los grandes! Este impresionante simulador te pone en la piel del propietario de un taller de coches especializado en camiones. ¡Con más de 100 piezas interactivas por camión, este detallado juego no es para pesos ligeros! 7 modelos de camión altamente detallados 3 categorías de peso Cada camión consta de más de 100 [&#8230;]]]></description>
-		<wfw:commentRss>/Truck%20Mechanic%20Simulator%202015/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/flock</guid>
+		<description><![CDATA[¡Únete al Rebaño!¡Protege tus campos de trigo y encierra tu ganado, porque FLOCK está aquí! Pilota un OVNI por paisajes de vibrantes colores en este encantador juego de puzles y sandbox donde debes llevar al rebaño de vuelta con ese Hijo de Pastor. Empleando un potente motor de física que controla muchos de los elementos [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/flock/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Fearless Fantasy</title>
-		<link>/Fearless%20Fantasy/</link>
-		<comments>/Fearless%20Fantasy/#respond</comments>
+		<title>Depth Hunter 2: Deep Dive</title>
+		<link>https://cheap-and-cheerful.store/depth-hunter-2-deep-dive/</link>
+		<comments>https://cheap-and-cheerful.store/depth-hunter-2-deep-dive/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[As Leon, the world’s most dangerous bounty hunter, you embark on a mission to slay the world’s weirdest creatures, and save a girl from an awful marriage. Fearless Fantasy is probably the weirdest RPG you’ll play this year. It’s a turn-based game that deeply involves players during every turn. You use gestures (with the mouse) [&#8230;]]]></description>
-		<wfw:commentRss>/Fearless%20Fantasy/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Crayon Physics Deluxe</title>
-		<link>/Crayon%20Physics%20Deluxe/</link>
-		<comments>/Crayon%20Physics%20Deluxe/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Crayon Physics Deluxe es un rompecabezas bidimensional que te da la sensación de lo que pasaría si tus dibujos pudieran convertirse mágicamente en objetos reales. Resuelve los rompecabezas, usa tu visión artística y el uso creativo de la física. Características Principales: Física Increíble Más de 70 niveles Fácil de usar Mísiles, Cuerdas, Bisagras]]></description>
-		<wfw:commentRss>/Crayon%20Physics%20Deluxe/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Coffin Dodgers</title>
-		<link>/Coffin%20Dodgers/</link>
-		<comments>/Coffin%20Dodgers/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Coffin Dodgers es un juego en el que el objetivo será salvar el alma de uno de los siete jubilados que viven tranquilamente en un hogar del jubilado. Todos ellos han “tuneado” sus scooters para enfrentarse, ni más ni menos, que a la mismísima Parca. Nuestros viejos héroes están armados hasta los dientes con una [&#8230;]]]></description>
-		<wfw:commentRss>/Coffin%20Dodgers/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Ironclad Tactics</title>
-		<link>/Ironclad%20Tactics/</link>
-		<comments>/Ironclad%20Tactics/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Ironclad Tactics is a fast-paced, card-based tactics game set in an alternate history Civil War &#8211; with steam-powered military robots! Key Features: Includes the &#8216;Rise of Dmitry&#8217; and &#8216;Blood and Ironclads&#8217; add-on campaigns! No microtransactions! Unlock cards by playing the game, not by purchasing them separately. Experience unique gameplay, with rapid, simultaneous turns that blend [&#8230;]]]></description>
-		<wfw:commentRss>/Ironclad%20Tactics/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Gumboy Tournament</title>
-		<link>/Gumboy%20Tournament/</link>
-		<comments>/Gumboy%20Tournament/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Pon a prueba tus reflejos, juicio y tácticas a la vez que te las ves contra ocho jugadores en esta continuación del popular arcade aclamado por la crítica Gumboy: Crazy Adventures, ganador de numerosos galardones incluyendo JUEGO DEL AÑO 2006 de Gametunnel. Aportando la misma riqueza gráfica y estilo fantástico que hicieron del original Gumboy [&#8230;]]]></description>
-		<wfw:commentRss>/Gumboy%20Tournament/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Inside The Gear</title>
-		<link>/Inside%20The%20Gear/</link>
-		<comments>/Inside%20The%20Gear/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[A physics puzzle game like no other! You are inside the big old machine. There are rusty gears and shafts all around you, along with interactive objects such as planks and cubes. Use each object and place the wheel on the platform – easy! Key Features: Unique physics puzzle game. Multiple solutions for each puzzle. [&#8230;]]]></description>
-		<wfw:commentRss>/Inside%20The%20Gear/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Probably Archery</title>
-		<link>/Probably%20Archery/</link>
-		<comments>/Probably%20Archery/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[VR Support]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Manipulate your wrists, elbows and shoulders to get the arrow to the bow, draw it, aim and fire! Probably Archery gives the player more control over the minutia of their joint movements with tons of crazy scenarios to conquer, multiplayer battles to fight and brutal target challenges to dominate. With controls inspired by games like [&#8230;]]]></description>
-		<wfw:commentRss>/Probably%20Archery/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Vortex Attack</title>
-		<link>/Vortex%20Attack/</link>
-		<comments>/Vortex%20Attack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Vortex Attack Un juego fácil de jugar, difícil de conquistar. Vortex Attack es un adictivo juego shmup frenético con torneos. Vortex Attack cuenta con gran cantidad de efectos visuales, un innovador sistema de vórtices una enorme variedad de naves mejorables y multijugador hasta 3 jugadores en pantalla este juego le da un giro de tuerca [&#8230;]]]></description>
-		<wfw:commentRss>/Vortex%20Attack/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Ancient Planet</title>
-		<link>/Ancient%20Planet/</link>
-		<comments>/Ancient%20Planet/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Bastion of ancient civilization, a keeper of galaxy wisdom is invaded by alien armies. Use powerful ancient technologies and defeat the attack of enemy armies! What&#8217;s special: &#8211; 35 unique levels; &#8211; Variety of different enemies with unique peculiarities; &#8211; New technologies allow choosing appropriate way of defence; &#8211; Story line is based on the [&#8230;]]]></description>
-		<wfw:commentRss>/Ancient%20Planet/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Mountain</title>
-		<link>/Mountain/</link>
-		<comments>/Mountain/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[VR Support]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[~ you are mountain &#8211; you are god ~ Ambient procedural mountain game, as seen on The Internet. FEATURES &#8211; no controls&#8211; automatic save&#8211; audio on/off switch&#8211; time moves forward&#8211; things grow and things die&#8211; nature expresses itself &#34;Welcome to an existential nightmare.&#34;&#8211; Patrick Klepek, Giant Bomb &#34;The time I spend with Mountain feels slightly [&#8230;]]]></description>
-		<wfw:commentRss>/Mountain/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/depth-hunter-2-deep-dive</guid>
+		<description><![CDATA[Depth Hunter 2 ofrece 25 misiones emocionantes en 3 lugares enormes alrededor del mundo. Los jugadores cazarán distintos tipos de peces y se enfrentarán con dificultades a la hora de pescar con lanza que te dejarán sin aliento, es un método de pesca antiguo. Los jugadores tendrán también que encontrar tesoros y tendrán la posibilidad [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/depth-hunter-2-deep-dive/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Last Inua</title>
-		<link>/Last%20Inua/</link>
-		<comments>/Last%20Inua/#respond</comments>
+		<title>The Bridge</title>
+		<link>https://cheap-and-cheerful.store/the-bridge/</link>
+		<comments>https://cheap-and-cheerful.store/the-bridge/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Thai]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Ukrainian]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-bridge</guid>
+		<description><![CDATA[The Bridge es un juego de lógica y puzles en dos dimensiones que obliga al jugador a reevaluar sus ideas preconcebidas sobre la física y la perspectiva. Es una mezcla entre Isaac Newton y M. C. Escher. Manipula la gravedad para convertir el techo en el suelo mientras te aventuras en arquitecturas imposibles. Explora mundos [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-bridge/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iBomber Defense Pacific</title>
+		<link>https://cheap-and-cheerful.store/ibomber-defense-pacific/</link>
+		<comments>https://cheap-and-cheerful.store/ibomber-defense-pacific/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/ibomber-defense-pacific</guid>
+		<description><![CDATA[iBomber moves to the Pacific as you fight a whole new enemy across the Pacific rim to regain freedom. iBomber Defense Pacific takes tower defense to a whole new level and makes you feel like you&#8217;re right there and part of the incredible action. iBomber Defense Pacific has all-new tactics, all-new strategies, all-new maps, all-new [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/ibomber-defense-pacific/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Shadows: Price For Our Sins Bonus Edition</title>
+		<link>https://cheap-and-cheerful.store/shadows-price-for-our-sins-bonus-edition/</link>
+		<comments>https://cheap-and-cheerful.store/shadows-price-for-our-sins-bonus-edition/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
@@ -278,20 +174,147 @@
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/shadows-price-for-our-sins-bonus-edition</guid>
+		<description><![CDATA[Are you ready to party? A chilling night of reckoning is unleashed upon guests bold enough to party on Halloween at an abandoned farm house. As children, you and your friend, Samantha, would play at an old farm during your summer vacations. Years have passed, and Samantha has invited you to join her and a [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/shadows-price-for-our-sins-bonus-edition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Neighbours from Hell Compilation</title>
+		<link>https://cheap-and-cheerful.store/neighbours-from-hell-compilation/</link>
+		<comments>https://cheap-and-cheerful.store/neighbours-from-hell-compilation/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/neighbours-from-hell-compilation</guid>
+		<description><![CDATA[INTRODUCING THE GAME OF NEIGHBOURHOOD NASTINESS AND COMMUNITY COMMOTION! Living next door to you is a real Neighbour From Hell and it&#8217;s now time to have your revenge! This compilation includes the original Neighbours From Hell and it&#8217;s sequel Neighbours from Hell 2: On Vacation. Story Neighbours from Hell 1 Creep around your neighbour ’s [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/neighbours-from-hell-compilation/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Major Mayhem</title>
+		<link>https://cheap-and-cheerful.store/major-mayhem/</link>
+		<comments>https://cheap-and-cheerful.store/major-mayhem/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/major-mayhem</guid>
+		<description><![CDATA[Arcade cover shooter inspired by Time Crisis, Metal Slug and 80&#8217;s action heros! He&#8217;s got an itchy trigger finger, some scratchy stubble, and a fondness for shooting dudes in the face. Run and gun your way through gorgeous 3D environments as you embark on a mission to rescue your kidnapped girlfriend from the Forces of [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/major-mayhem/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Little Racers STREET</title>
+		<link>https://cheap-and-cheerful.store/little-racers-street/</link>
+		<comments>https://cheap-and-cheerful.store/little-racers-street/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[A father and son tale, Last Inua will leave you breathless with its immersive, emotional and captivating gameplay. Last Inua is an immersive and emotional, award winning 2D platform adventure game developed by Glowforth. Designed for the young and old and mixing classic platform genres, culminating in a captivating experience, Last Inua tells the tale [&#8230;]]]></description>
-		<wfw:commentRss>/Last%20Inua/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/little-racers-street</guid>
+		<description><![CDATA[¡La evolución de los videojuegos de carreras en perspectiva cenital ha llegado! Little Racers STREET fusiona la sencilla diversión de los juegos de carreras cenitales con la espectacularidad de las carreras callejeras, ¡y el resultado no podía ser mejor! Experimenta trepidantes carreras a gran velocidad, y derrapa como nunca antes a lo largo de más [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/little-racers-street/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Starlaxis Supernova Edition</title>
+		<link>https://cheap-and-cheerful.store/starlaxis-supernova-edition/</link>
+		<comments>https://cheap-and-cheerful.store/starlaxis-supernova-edition/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/starlaxis-supernova-edition</guid>
+		<description><![CDATA[Supernova-Edition! Some of you may noticed that Starlaxis has been released on some other platforms too. However, on Steam you&#8217;ll get the &#34;Supernova-Edition&#34; which includes improved graphics, more missions, better gameplay mechanic, a new commander and, of course, Steam Achievements, Trading Cards and Leaderboard! Acerca del juego Prepare yourself for mind-blowing puzzle action in new [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/starlaxis-supernova-edition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>R.O.O.T.S</title>
+		<link>https://cheap-and-cheerful.store/r-o-o-t-s/</link>
+		<comments>https://cheap-and-cheerful.store/r-o-o-t-s/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/r-o-o-t-s</guid>
+		<description><![CDATA[R.O.O.T.S is a real-time strategy game that pits the player against colorful yet invasive enemies that must be overtaken before the player themselves is uprooted! Warfare has never been so beautifully unorthodox. Minimalistic graphics, pleasant sounds and smooth controls makes R.O.O.T.S a distinct piece of art that is a pure pleasure to play. ~~~~~ R.O.O.T.S [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/r-o-o-t-s/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Evil Pumpkin: The Lost Halloween</title>
+		<link>https://cheap-and-cheerful.store/evil-pumpkin-the-lost-halloween/</link>
+		<comments>https://cheap-and-cheerful.store/evil-pumpkin-the-lost-halloween/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/evil-pumpkin-the-lost-halloween</guid>
+		<description><![CDATA[Meet Lemuel Barnabas. He is not a protagonist in our story, but just look at him &#8211; he’s scrappy and funny, talks to himself, likes music and long walks behind the bar. In a word &#8211; he is quite mad, but as mad as he is, he’s the one you come to for help. Help? [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/evil-pumpkin-the-lost-halloween/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

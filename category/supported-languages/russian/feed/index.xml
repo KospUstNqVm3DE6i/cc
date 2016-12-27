@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Russian &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/supported-languages/russian/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/supported-languages/russian/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,323 +19,67 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Russian &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Electric Circuit</title>
-		<link>/Electric%20Circuit/</link>
-		<comments>/Electric%20Circuit/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Logical game, where you have to connect all the light bulbs to the power supply. Features: Four levels of difficulty, differing not only in size playing field, but also the possibility of passage of electricity from one end of the field to the other end of the field. Completely random generation of the playing field, [&#8230;]]]></description>
-		<wfw:commentRss>/Electric%20Circuit/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Valve Complete Pack</title>
-		<link>/Valve%20Complete%20Pack/</link>
-		<comments>/Valve%20Complete%20Pack/#respond</comments>
+		<title>Arma 2: Combined Operations</title>
+		<link>https://cheap-and-cheerful.store/arma-2-combined-operations/</link>
+		<comments>https://cheap-and-cheerful.store/arma-2-combined-operations/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Bulgarian]]></category>
 		<category><![CDATA[Captions available]]></category>
 		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[Free to Play]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Valve%20Complete%20Pack/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Age of Empires II HD</title>
-		<link>/Age%20of%20Empires%20II%20HD/</link>
-		<comments>/Age%20of%20Empires%20II%20HD/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[In Age of Empires II: HD Edition, fans of the original game and new players alike will fall in love with the classic Age of Empires II experience. Explore all the original single player campaigns from both Age of Kings and The Conquerors expansion, choose from 18 civilizations spanning over a thousand years of history, [&#8230;]]]></description>
-		<wfw:commentRss>/Age%20of%20Empires%20II%20HD/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Crysis 2 &#8211; Maximum Edition</title>
-		<link>/Crysis%202%20-%20Maximum%20Edition/</link>
-		<comments>/Crysis%202%20-%20Maximum%20Edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Multiplayer Note: As of June 2014, our friends at GameSpy have ended all hosted game services, which will affect the online multiplayer aspect of this game. Because of technical challenges and concerns, EA does not have a solution to keep these services up and running at this time, and online services for this game and [&#8230;]]]></description>
-		<wfw:commentRss>/Crysis%202%20-%20Maximum%20Edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Elder Scrolls V: Skyrim</title>
-		<link>/The%20Elder%20Scrolls%20V%3A%20Skyrim/</link>
-		<comments>/The%20Elder%20Scrolls%20V%3A%20Skyrim/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[EL RENACIMIENTO DE UNA FANTASÍA ÉPICA El nuevo capítulo de la esperadísima saga Elder Scrolls llega de la mano de los creadores de los Juegos del Año 2006 y 2008, Bethesda Game Studios. Skyrim reinventa y el revoluciona el épico universo de fantasía, dando vida a un completo mundo virtual para que puedas explorarlo de [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Elder%20Scrolls%20V%3A%20Skyrim/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Half-Life 2</title>
-		<link>/Half-Life%202/</link>
-		<comments>/Half-Life%202/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes Source SDK]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[1998. HALF-LIFE supone un impacto en la industria de juegos con su combinación de acción fren&#233;tica y narración continua y absorbente. El título de debut de Valve fue galardonado con más de 50 premios que lo consideraron el juego del año hasta convertirse en &#8220;El mejor juego para PC de la historia&#8221;, galardón concedido por [&#8230;]]]></description>
-		<wfw:commentRss>/Half-Life%202/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Magicka: Wizards of the Square Tablet</title>
-		<link>/Magicka%3A%20Wizards%20of%20the%20Square%20Tablet/</link>
-		<comments>/Magicka%3A%20Wizards%20of%20the%20Square%20Tablet/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Exclusively for the PC version your wizard will get all in-game robes and staffs unlocked from the start in this enhanced square edition. Remove the grinding time and get right to the action with your choice of gear! All of these goodies will be unlocked on every other platform you choose to play on The [&#8230;]]]></description>
-		<wfw:commentRss>/Magicka%3A%20Wizards%20of%20the%20Square%20Tablet/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Magicka: Frozen Lake</title>
-		<link>/Magicka%3A%20Frozen%20Lake/</link>
-		<comments>/Magicka%3A%20Frozen%20Lake/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/arma-2-combined-operations</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Magicka%3A%20Frozen%20Lake/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/arma-2-combined-operations/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>PAYDAY 2: Gage Weapon Pack #02</title>
-		<link>/PAYDAY%202%3A%20Gage%20Weapon%20Pack%20%2302/</link>
-		<comments>/PAYDAY%202%3A%20Gage%20Weapon%20Pack%20%2302/#respond</comments>
+		<title>Shift 2 Unleashed</title>
+		<link>https://cheap-and-cheerful.store/shift-2-unleashed/</link>
+		<comments>https://cheap-and-cheerful.store/shift-2-unleashed/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
+				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/PAYDAY%202%3A%20Gage%20Weapon%20Pack%20%2302/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Sleeping Dogs: Definitive Edition</title>
-		<link>/Sleeping%20Dogs%3A%20Definitive%20Edition/</link>
-		<comments>/Sleeping%20Dogs%3A%20Definitive%20Edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[La Definitive Edition del juego de acción que ha conseguido varios premios y excelentes críticas, rediseñado y remasterizado para la nueva generación. Se incluyen los 24 contenidos descargables anteriores, entre ellos el episodio adicional El año de la serpiente y Pesadilla en North Point, de temática de terror. Además se han añadido numerosas mejores visuales, [&#8230;]]]></description>
-		<wfw:commentRss>/Sleeping%20Dogs%3A%20Definitive%20Edition/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/shift-2-unleashed</guid>
+		<description><![CDATA[La aclamada saga SHIFT regresa a las pistas con SHIFT 2 UNLEASHED. El videojuego de carreras automovilísticas más absorbente hasta el momento revive la verdadera sensación de conducir con toda la intensidad y euforia de estar detrás del volante compitiendo en la Batalla de Conductores. SHIFT 2 UNLEASHED reúne toda la violencia, energía y emoción [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/shift-2-unleashed/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Total War: SHOGUN 2</title>
-		<link>/Total%20War%3A%20SHOGUN%202/</link>
-		<comments>/Total%20War%3A%20SHOGUN%202/#respond</comments>
+		<title>Company of Heroes 2</title>
+		<link>https://cheap-and-cheerful.store/company-of-heroes-2/</link>
+		<comments>https://cheap-and-cheerful.store/company-of-heroes-2/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Co-op]]></category>
@@ -353,28 +97,175 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Steam Workshop Mil batallas, mil victorias, pero ¿son tuyas? Crea, descubre y descarga escenarios de batallas históricas, mapas multijugador y los mods más populares y logrados. O bien prueba el editor de Total War TEd para crear y subir los tuyos propios. Acerca del juego DOMINA EL ARTE DE LA GUERRA En la época más [&#8230;]]]></description>
-		<wfw:commentRss>/Total%20War%3A%20SHOGUN%202/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/company-of-heroes-2</guid>
+		<description><![CDATA[Con tecnología Essence Engine 3.0, la serie de Company of Heroes 2 aporta una mecánica de juego única para los jugadores más avezados. Cuenta con el sistema TrueSight™, para emular la línea de visión de las unidades, un sistema de cobertura, que sugiere una colocación más inteligente de las unidades, y un enfoque centrado en [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/company-of-heroes-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Witcher 2: Assassins of Kings Enhanced Edition</title>
-		<link>/The%20Witcher%202%3A%20Assassins%20of%20Kings%20Enhanced%20Edition/</link>
-		<comments>/The%20Witcher%202%3A%20Assassins%20of%20Kings%20Enhanced%20Edition/#respond</comments>
+		<title>Divinity: Original Sin</title>
+		<link>https://cheap-and-cheerful.store/divinity-original-sin/</link>
+		<comments>https://cheap-and-cheerful.store/divinity-original-sin/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/divinity-original-sin</guid>
+		<description><![CDATA[Gather your party and get ready for a new, back-to-the-roots RPG adventure! Discuss your decisions with companions; fight foes in turn-based combat; explore an open world and interact with everything and everyone you see. Join up with a friend to play online in co-op and make your own adventures with the powerful RPG toolkit. In [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/divinity-original-sin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Football Manager 2016</title>
+		<link>https://cheap-and-cheerful.store/football-manager-2016/</link>
+		<comments>https://cheap-and-cheerful.store/football-manager-2016/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/football-manager-2016</guid>
+		<description><![CDATA[Football Manager es el juego de simulación de gestión de fútbol más realista, profundo e inmersivo del mercado; lo más parecido a dirigir un equipo en el mundo real. Podrás controlar a equipos de más de 50 países de todo el mundo. Decidirás quién juega y quién se queda en el banquillo, te encargarás de [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/football-manager-2016/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mad Max</title>
+		<link>https://cheap-and-cheerful.store/mad-max/</link>
+		<comments>https://cheap-and-cheerful.store/mad-max/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/mad-max</guid>
+		<description><![CDATA[Conviértete en Mad Max, un guerrero solitario en un despiadado mundo postapocalíptico donde los vehículos son imprescindibles para la supervivencia. En este juego de acción de mundo abierto en tercera persona deberás luchar constantemente contra crueles enemigos para mantenerte con vida en el Páramo, combatiendo tanto cuerpo a cuerpo como en vehículos. Héroe reacio con [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/mad-max/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Magicka: The Watchtower</title>
+		<link>https://cheap-and-cheerful.store/magicka-the-watchtower/</link>
+		<comments>https://cheap-and-cheerful.store/magicka-the-watchtower/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/magicka-the-watchtower</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/magicka-the-watchtower/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PAYDAY 2: The Big Bank Heist</title>
+		<link>https://cheap-and-cheerful.store/payday-2-the-big-bank-heist/</link>
+		<comments>https://cheap-and-cheerful.store/payday-2-the-big-bank-heist/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/payday-2-the-big-bank-heist</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/payday-2-the-big-bank-heist/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sacred 3</title>
+		<link>https://cheap-and-cheerful.store/sacred-3/</link>
+		<comments>https://cheap-and-cheerful.store/sacred-3/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
@@ -382,14 +273,95 @@
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[El jugador se pone en la piel de Geralt de Rivia, un cazador de monstruos profesional, un brujo. Inmerso en los conflictos políticos que afectan a toda Temeria, Geralt ayudó a sofocar la rebelión de la Orden de la Rosa Ardiente. Poco después, salvó la vida del rey Foltest cuando el monarca fue atacado por [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Witcher%202%3A%20Assassins%20of%20Kings%20Enhanced%20Edition/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/sacred-3</guid>
+		<description><![CDATA[Sacred 3 es un Hack ‘n’ Slash arcade para hasta 4 jugadores ambientado en la guerra de Arcadia. Elegid un héroe legendario y luchad juntos contra las hordas del mal. Os enfrentaréis a grimmocs, brutos, legiones de mercenarios y hechiceros no muertos. Desarrollad las habilidades del personaje y uníos para usar poderosos atributos y tácticas [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/sacred-3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Sims 3 Plus Pets</title>
+		<link>https://cheap-and-cheerful.store/the-sims-3-plus-pets/</link>
+		<comments>https://cheap-and-cheerful.store/the-sims-3-plus-pets/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-sims-3-plus-pets</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-sims-3-plus-pets/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wasteland 2</title>
+		<link>https://cheap-and-cheerful.store/wasteland-2/</link>
+		<comments>https://cheap-and-cheerful.store/wasteland-2/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/wasteland-2</guid>
+		<description><![CDATA[Classic Edition Wasteland 2: Director&#8217;s Cut Wasteland 2 A free copy of Wasteland 1 &#8211; The Original Classic. Mark Morgan&#8217;s Wasteland 2 original soundtrack in digital format. An incredible digital concept art book showcasing many of the world&#8217;s characters and environments. The extras can be found in your Steam installation location for Wasteland 2. (e.g. [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/wasteland-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cities XXL</title>
+		<link>https://cheap-and-cheerful.store/cities-xxl/</link>
+		<comments>https://cheap-and-cheerful.store/cities-xxl/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/cities-xxl</guid>
+		<description><![CDATA[Oferta especial Descuento por fidelidad a jugadores de Cities XL Esta oferta no tiene fecha límite y pueden acceder a él quienes tengan Cities XL*, Cities XL 2011, Cities XL 2012 o Cities XL Platinum. Si has comprado uno de los juegos de Cities XL en Steam: Inicia sesión en la cuenta de Steam en [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/cities-xxl/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

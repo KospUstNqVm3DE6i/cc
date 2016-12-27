@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Bulgarian &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/supported-languages/bulgarian/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/supported-languages/bulgarian/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Bulgarian &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Dropsy</title>
-		<link>/Dropsy/</link>
-		<comments>/Dropsy/#respond</comments>
+		<link>https://cheap-and-cheerful.store/dropsy/</link>
+		<comments>https://cheap-and-cheerful.store/dropsy/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
@@ -62,15 +62,15 @@
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/dropsy</guid>
 		<description><![CDATA[Dropsy: Warm Damp Hug Edition The Dropsy Warm Damp Hug Edition includes the official Dropsy digital soundtrack by Chris Schlarb, the Eternal Hug music EP by Jay Tholen, and Dropsy&#8217;s Book of Secrets &#8211; a collection of over 100 pages of tips, sketches, concepts and ramblings from designer Jay Tholen. Acerca del juego After a [&#8230;]]]></description>
-		<wfw:commentRss>/Dropsy/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/dropsy/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Broadside</title>
-		<link>/Broadside/</link>
-		<comments>/Broadside/#respond</comments>
+		<link>https://cheap-and-cheerful.store/broadside/</link>
+		<comments>https://cheap-and-cheerful.store/broadside/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -103,15 +103,15 @@
 		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/broadside</guid>
 		<description><![CDATA[Broadside is a pirate action adventure game focused on infamy and destruction. Players take on the role of a pirate taking part in tactical ship-to-ship battles and boarding actions. While preying on trade routes, fighting rival pirates and harassing the Royal Navy, the excitement of fast-paced sailing and sinking ships is rewarded with Infamy points. [&#8230;]]]></description>
-		<wfw:commentRss>/Broadside/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/broadside/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Dangerous</title>
-		<link>/Dangerous/</link>
-		<comments>/Dangerous/#respond</comments>
+		<link>https://cheap-and-cheerful.store/dangerous/</link>
+		<comments>https://cheap-and-cheerful.store/dangerous/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -150,15 +150,15 @@
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/dangerous</guid>
 		<description><![CDATA[Dangerous is an epic 3D open and living world space sandbox combat RPG with an immersive and riveting story. You have been awoken from cryo sleep a century later, and must discover the truth. Are you the feared war criminal who will destroy all life or the savior of the universe? Gather your wingmen and [&#8230;]]]></description>
-		<wfw:commentRss>/Dangerous/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/dangerous/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Guns and Robots</title>
-		<link>/Guns%20and%20Robots/</link>
-		<comments>/Guns%20and%20Robots/#respond</comments>
+		<link>https://cheap-and-cheerful.store/guns-and-robots/</link>
+		<comments>https://cheap-and-cheerful.store/guns-and-robots/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -174,15 +174,15 @@
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/guns-and-robots</guid>
 		<description><![CDATA[Guns and Robots is free to play online third person shooter. The game brings robot action with massive customization. Players get cartoony bright 3D graphics in attractive environments and challenge each other in open arenas. Guns and Robots gives fun, entertaining experience with easy to master gameplay and numerous options to experiment robot constructing skills. [&#8230;]]]></description>
-		<wfw:commentRss>/Guns%20and%20Robots/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/guns-and-robots/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Valve Complete Pack</title>
-		<link>/Valve%20Complete%20Pack/</link>
-		<comments>/Valve%20Complete%20Pack/#respond</comments>
+		<link>https://cheap-and-cheerful.store/valve-complete-pack/</link>
+		<comments>https://cheap-and-cheerful.store/valve-complete-pack/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -232,15 +232,15 @@
 		<category><![CDATA[Ukrainian]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/valve-complete-pack</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Valve%20Complete%20Pack/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/valve-complete-pack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Sometimes: Success Requires Sacrifice</title>
-		<link>/Sometimes%3A%20Success%20Requires%20Sacrifice/</link>
-		<comments>/Sometimes%3A%20Success%20Requires%20Sacrifice/#respond</comments>
+		<link>https://cheap-and-cheerful.store/sometimes-success-requires-sacrifice/</link>
+		<comments>https://cheap-and-cheerful.store/sometimes-success-requires-sacrifice/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -279,15 +279,15 @@
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/sometimes-success-requires-sacrifice</guid>
 		<description><![CDATA[Sometimes: Success Requires Sacrifice, the title says it all! You get thrown into a dark room, with no light to be found anywhere! Are you willing to end your life to light the way for the next generation to proceed further? Play it today and find out! Sometimes features a classic mode, as well as [&#8230;]]]></description>
-		<wfw:commentRss>/Sometimes%3A%20Success%20Requires%20Sacrifice/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/sometimes-success-requires-sacrifice/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Euro Truck Simulator 2</title>
-		<link>/Euro%20Truck%20Simulator%202/</link>
-		<comments>/Euro%20Truck%20Simulator%202/#respond</comments>
+		<link>https://cheap-and-cheerful.store/euro-truck-simulator-2/</link>
+		<comments>https://cheap-and-cheerful.store/euro-truck-simulator-2/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Bulgarian]]></category>
@@ -322,15 +322,15 @@
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/euro-truck-simulator-2</guid>
 		<description><![CDATA[Give American Truck Simulator a test drive Start your new truck empire in the United States! Try the demo of American Truck Simulator and visit the Steam store page. http://store.steampowered.com/app/441960/ Acerca del juego Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to [&#8230;]]]></description>
-		<wfw:commentRss>/Euro%20Truck%20Simulator%202/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/euro-truck-simulator-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Sherlock Holmes: The Silver Earring</title>
-		<link>/Sherlock%20Holmes%3A%20The%20Silver%20Earring/</link>
-		<comments>/Sherlock%20Holmes%3A%20The%20Silver%20Earring/#respond</comments>
+		<link>https://cheap-and-cheerful.store/sherlock-holmes-the-silver-earring/</link>
+		<comments>https://cheap-and-cheerful.store/sherlock-holmes-the-silver-earring/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
@@ -344,15 +344,15 @@
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/sherlock-holmes-the-silver-earring</guid>
 		<description><![CDATA[En una recepción organizada en honor de su hija, Melvyn Bromsby, un magnate rico, está a punto de hacer un importante anuncio relacionado con sus futuros asuntos de negocios cuando, de repente, suena un disparo. El Señor Brombsby se desploma, víctima de una herida mortal en el corazón&#8230; Un asesinato incomprensible, docenas de testigos y [&#8230;]]]></description>
-		<wfw:commentRss>/Sherlock%20Holmes%3A%20The%20Silver%20Earring/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/sherlock-holmes-the-silver-earring/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Serious Sam 3: BFE</title>
-		<link>/Serious%20Sam%203%3A%20BFE/</link>
-		<comments>/Serious%20Sam%203%3A%20BFE/#respond</comments>
+		<link>https://cheap-and-cheerful.store/serious-sam-3-bfe/</link>
+		<comments>https://cheap-and-cheerful.store/serious-sam-3-bfe/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -379,15 +379,15 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/serious-sam-3-bfe</guid>
 		<description><![CDATA[Serious Sam 3: BFE es el glorioso regreso a la edad de oro de los shooters en primera persona donde los hombres eran hombres, la cobertura era para novatos y pulsar el gatillo hacía que las cosas hicieran bum. Como precuela del título independiente original, Serious Sam: The First Encounter, Serious Sam 3 transcurre durante [&#8230;]]]></description>
-		<wfw:commentRss>/Serious%20Sam%203%3A%20BFE/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/serious-sam-3-bfe/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Scania Truck Driving Simulator</title>
-		<link>/Scania%20Truck%20Driving%20Simulator/</link>
-		<comments>/Scania%20Truck%20Driving%20Simulator/#respond</comments>
+		<link>https://cheap-and-cheerful.store/scania-truck-driving-simulator/</link>
+		<comments>https://cheap-and-cheerful.store/scania-truck-driving-simulator/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Bulgarian]]></category>
@@ -415,15 +415,15 @@
 		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/scania-truck-driving-simulator</guid>
 		<description><![CDATA[Get behind the wheel of one of the most iconic trucks on the road with this highly detailed Scania R-series truck simulation by SCS Software, developers of Euro Truck Simulator 2. Prove your truck skills &#8211; Put your driving skills to the ultimate test with 10 individual truck maneuvering challenges that serve as a practical [&#8230;]]]></description>
-		<wfw:commentRss>/Scania%20Truck%20Driving%20Simulator/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/scania-truck-driving-simulator/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Serious Sam Complete Pack</title>
-		<link>/Serious%20Sam%20Complete%20Pack/</link>
-		<comments>/Serious%20Sam%20Complete%20Pack/#respond</comments>
+		<link>https://cheap-and-cheerful.store/serious-sam-complete-pack/</link>
+		<comments>https://cheap-and-cheerful.store/serious-sam-complete-pack/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -454,15 +454,15 @@
 		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/serious-sam-complete-pack</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Serious%20Sam%20Complete%20Pack/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/serious-sam-complete-pack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>American Truck Simulator</title>
-		<link>/American%20Truck%20Simulator/</link>
-		<comments>/American%20Truck%20Simulator/#respond</comments>
+		<link>https://cheap-and-cheerful.store/american-truck-simulator/</link>
+		<comments>https://cheap-and-cheerful.store/american-truck-simulator/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Bulgarian]]></category>
@@ -496,9 +496,9 @@
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/american-truck-simulator</guid>
 		<description><![CDATA[Recién actualizado We&#8217;ve rescaled the whole map from 1:35 to 1:20. Enjoy! Acerca del juego Experience legendary American trucks and deliver various cargoes across sunny California, sandy Nevada, and the Grand Canyon State of Arizona. American Truck Simulator takes you on a journey through the breathtaking landscapes and widely recognized landmarks around the States. Game [&#8230;]]]></description>
-		<wfw:commentRss>/American%20Truck%20Simulator/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/american-truck-simulator/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

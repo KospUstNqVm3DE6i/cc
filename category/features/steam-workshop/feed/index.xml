@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Steam Workshop &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/features/steam-workshop/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/features/steam-workshop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,355 +19,375 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Steam Workshop &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Arma 3 DLC Bundle</title>
-		<link>/Arma%203%20DLC%20Bundle/</link>
-		<comments>/Arma%203%20DLC%20Bundle/#respond</comments>
+		<title>Divinity: Original Sin</title>
+		<link>https://cheap-and-cheerful.store/divinity-original-sin/</link>
+		<comments>https://cheap-and-cheerful.store/divinity-original-sin/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
+				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Captions available]]></category>
 		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Arma%203%20DLC%20Bundle/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/divinity-original-sin</guid>
+		<description><![CDATA[Gather your party and get ready for a new, back-to-the-roots RPG adventure! Discuss your decisions with companions; fight foes in turn-based combat; explore an open world and interact with everything and everyone you see. Join up with a friend to play online in co-op and make your own adventures with the powerful RPG toolkit. In [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/divinity-original-sin/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Football Manager 2015</title>
-		<link>/Football%20Manager%202015/</link>
-		<comments>/Football%20Manager%202015/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Football Manager 2015 &#8211; новая часть знаменитой серии симулятора футбольного менеджера. Выходит на PC, Mac и Linux в ноябре 2014 года. Football Manager &#8211; это наиболее реалистичный симулятор футбольного менеджера. Станьте тренером одного из клубов в более чем 50 странах, включая все лучшие европейские лиги. Football Manager 2015 позволит вам оказаться в роли менеджера клуба, [&#8230;]]]></description>
-		<wfw:commentRss>/Football%20Manager%202015/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Torchlight II</title>
-		<link>/Torchlight%20II/</link>
-		<comments>/Torchlight%20II/#respond</comments>
+		<title>Serious Sam Complete Pack</title>
+		<link>https://cheap-and-cheerful.store/serious-sam-complete-pack/</link>
+		<comments>https://cheap-and-cheerful.store/serious-sam-complete-pack/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Bulgarian]]></category>
 		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Vuelve el galardonado RPG de acción, ¡ahora más grande y mejor que nunca! Torchlight II te lleva de vuelta al peculiar y acelerado mundo de monstruos sedientos de sangre, abundantes tesoros y siniestros secretos, y una vez más, ¡el destino del mundo está en tus manos! Torchlight II captura todo el sabor y la emoción [&#8230;]]]></description>
-		<wfw:commentRss>/Torchlight%20II/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Star Wars Collection</title>
-		<link>/Star%20Wars%20Collection/</link>
-		<comments>/Star%20Wars%20Collection/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Star%20Wars%20Collection/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Pool Nation</title>
-		<link>/Pool%20Nation/</link>
-		<comments>/Pool%20Nation/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Pool Nation FX Now Available! Owners of Pool Nation can now pick up Pool Nation FX at a discounted rate! But hurry as this is a limited time offer! http://store.steampowered.com/app/314000/ Acerca del juego Play POOL NATION and become mesmerised by our balls, entranced by our decals &#38; unashamedly attached to our cues, so join us [&#8230;]]]></description>
-		<wfw:commentRss>/Pool%20Nation/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/serious-sam-complete-pack</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/serious-sam-complete-pack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Murder Miners</title>
-		<link>/Murder%20Miners/</link>
-		<comments>/Murder%20Miners/#respond</comments>
+		<title>Europa Universalis IV: El Dorado</title>
+		<link>https://cheap-and-cheerful.store/europa-universalis-iv-el-dorado/</link>
+		<comments>https://cheap-and-cheerful.store/europa-universalis-iv-el-dorado/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[***The split-screen mode shown in the trailer is only on the Xbox version*** Murder Miners is the #1 rated Xbox Live Indie Game. We still host community playdates every Wednesday at 6PM Central. Join the Murder Miners Steam group to be notified of the weekly playdate. We&#8217;ll also notify you when the sequel, Murder Miners [&#8230;]]]></description>
-		<wfw:commentRss>/Murder%20Miners/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Cute Things Dying Violently</title>
-		<link>/Cute%20Things%20Dying%20Violently/</link>
-		<comments>/Cute%20Things%20Dying%20Violently/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Hey kids! Do you like failure? Are you suspicious of success? Do you smile at the thought of &#34;accidental&#34; electrocution? Then boy have we got the game for you! Introducing Cute Things Dying Violently, a game where nothing bad happens. CTDV is all about hapless Critters, and the Critters need your help! Launch them around [&#8230;]]]></description>
-		<wfw:commentRss>/Cute%20Things%20Dying%20Violently/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Minimum</title>
-		<link>/Minimum/</link>
-		<comments>/Minimum/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Are you a fan of old-school twitch shooters like Unreal Tournament and Tribes? What about team focused MOBAs like DotA and League of Legends? Would you like to play a game that combines elements of both genres while adding crafting, customization, giant robots and a bold new art style to the mix? Of course you [&#8230;]]]></description>
-		<wfw:commentRss>/Minimum/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Ace of Spades: Battle Builder</title>
-		<link>/Ace%20of%20Spades%3A%20Battle%20Builder/</link>
-		<comments>/Ace%20of%20Spades%3A%20Battle%20Builder/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+				<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Di hola a un shooter creativo. Ace of Spades es el FPS que te deja crear tu campo de batalla, destruirlo y volver a crearlo. Hasta 32 jugadores pueden eligir entre 4 clases únicas y saltar a un caótico multijugador por equipos sobre un campo de batalla en interminable evolución para construir, destruir y eliminar [&#8230;]]]></description>
-		<wfw:commentRss>/Ace%20of%20Spades%3A%20Battle%20Builder/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Arma 3</title>
-		<link>/Arma%203/</link>
-		<comments>/Arma%203/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Experimenta la verdadera dinámica de combate en un gigantesco entorno de pruebas militar. Con una amplia variedad de contenidos para un jugador y multijugador, más de 20 vehículos y 40 armas e infinitas oportunidades para la creación de contenidos, este título se ha convertido en el principal juego militar para PC. Auténtico, diverso, abierto: Arma [&#8230;]]]></description>
-		<wfw:commentRss>/Arma%203/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/europa-universalis-iv-el-dorado</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/europa-universalis-iv-el-dorado/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Football Manager 2016</title>
-		<link>/Football%20Manager%202016/</link>
-		<comments>/Football%20Manager%202016/#respond</comments>
+		<title>Dungeon Defenders</title>
+		<link>https://cheap-and-cheerful.store/dungeon-defenders/</link>
+		<comments>https://cheap-and-cheerful.store/dungeon-defenders/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/dungeon-defenders</guid>
+		<description><![CDATA[Recién actualizado Steam Exclusive Offer El Dispositivo Portátil de Portales de Aperture Science para la Cazadora. Consumiendo energía constantemente cuando se activa, este dispositivo permite a su usuario abrir portales de una posición a otra y se puede usar para aumentar en gran medida el alcance de una trampa, teletransportarse rápido por el mapa, ¡o [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/dungeon-defenders/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Unium</title>
+		<link>https://cheap-and-cheerful.store/unium/</link>
+		<comments>https://cheap-and-cheerful.store/unium/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/unium</guid>
+		<description><![CDATA[Dibuja una línea. Una sola línea ¿Que difícil puede resultar? Comienza con un mosaico y traza una línea hacia el siguiente, y así sucesivamente. Cada mosaico por el que pasas cambia de negro a blanco o vuelve atrás. ¿Puedes dar vuelta todos los mosaicos negros utilizando una sola línea? El juego más simple se puede [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/unium/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Octodad: Dadliest Catch</title>
+		<link>https://cheap-and-cheerful.store/octodad-dadliest-catch/</link>
+		<comments>https://cheap-and-cheerful.store/octodad-dadliest-catch/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/octodad-dadliest-catch</guid>
+		<description><![CDATA[Octodad: Dadliest Catch es la destrucción, el engaño y la paternidad. El jugador controla Octodad, un pulpo apuesto enmascarado como un ser humano, a medida que avanza la vida sobre todos los días. La existencia de Octodad es una lucha constante, ya que debe dominar las tareas cotidianas con sus tentáculos sin hueso difícil de [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/octodad-dadliest-catch/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Architect</title>
+		<link>https://cheap-and-cheerful.store/the-architect/</link>
+		<comments>https://cheap-and-cheerful.store/the-architect/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-architect</guid>
+		<description><![CDATA[In the beginning there was nothing. There was only silence. Then a tiny object appeared&#8230; The game follows the story of a mysterious, yet insignificant object set to bring a world to life. The player will take control of the mysterious, yet insignificant object in it&#8217;s quest. The Architect is the twisted sci-fi abstract labyrinth [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-architect/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Joe Danger</title>
+		<link>https://cheap-and-cheerful.store/joe-danger/</link>
+		<comments>https://cheap-and-cheerful.store/joe-danger/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/joe-danger</guid>
+		<description><![CDATA[Can you put the world’s most determined stuntman back into the limelight? Combo, boost and pull ludicrous stunts as Joe attempts to race his way back into the record books in over 100 eye-popping levels. Leap school buses full of screaming kids and pools of ravenous sharks! Dodge spikes and mousetraps! Speed through coin dashes [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/joe-danger/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dying Light</title>
+		<link>https://cheap-and-cheerful.store/dying-light/</link>
+		<comments>https://cheap-and-cheerful.store/dying-light/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Football Manager es el juego de simulación de gestión de fútbol más realista, profundo e inmersivo del mercado; lo más parecido a dirigir un equipo en el mundo real. Podrás controlar a equipos de más de 50 países de todo el mundo. Decidirás quién juega y quién se queda en el banquillo, te encargarás de [&#8230;]]]></description>
-		<wfw:commentRss>/Football%20Manager%202016/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Tropico 5</title>
-		<link>/Tropico%205/</link>
-		<comments>/Tropico%205/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Vuelve a la remota isla nación de Trópico en la nueva entrega de la famosa y aclamada saga de &#34;simulación de una dictadura&#34;. Expande el reinado de tu dinastía desde el periodo colonial hasta más allá del siglo XXI y enfréntate a nuevos retos, incluidos mecanismos comerciales avanzados, investigación científica y tecnológica y exploración. Las [&#8230;]]]></description>
-		<wfw:commentRss>/Tropico%205/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/dying-light</guid>
+		<description><![CDATA[Oferta exclusiva de Steam ¡Si te gusta estamparte contra todo lo que ves, este paquete es ideal para ti! Obtén un traje de carreras adornado con calaveras y una pintura de vehículo de prueba de choque para personalizar tu buggy. Valve Anti-cheat Dying Light&#8217;s online interactions are secured using Valve Anti-cheat system. For more information, [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/dying-light/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Space Engineers</title>
+		<link>https://cheap-and-cheerful.store/space-engineers/</link>
+		<comments>https://cheap-and-cheerful.store/space-engineers/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Swedish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/space-engineers</guid>
+		<description><![CDATA[Space Engineers is a sandbox game about engineering, construction, exploration and survival in space and on planets. Players build space ships, space stations, planetary outposts of various sizes and uses (civil and military), pilot ships and travel through space to explore planets and gather resources to survive. Featuring both creative and survival modes, there is [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/space-engineers/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bridge Project</title>
+		<link>https://cheap-and-cheerful.store/bridge-project/</link>
+		<comments>https://cheap-and-cheerful.store/bridge-project/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/bridge-project</guid>
+		<description><![CDATA[Build A Bridge&#8230; and Get Over It! The Bridge Project is the successor to the original and award-winning Bridge Builder simulation, all amateur designers and structural engineers finally have a new challenge on their PC. The gameplay has been subject to much tweaking and development with new up to date materials exciting scenarios and a [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/bridge-project/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Black Mesa</title>
+		<link>https://cheap-and-cheerful.store/black-mesa/</link>
+		<comments>https://cheap-and-cheerful.store/black-mesa/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/black-mesa</guid>
+		<description><![CDATA[Relive Half-Life in this highly acclaimed, fan-made recreation. Main Info Black Mesa is the award winning fan-made re-imagining of Gordon Freeman&#8217;s landmark journey through the Black Mesa Research Facility. Relive Half-Life, Valve Software&#8217;s revolutionary debut, and experience the game that raised the bar for the entire game industry all over again! Key Features Nostalgia has [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/black-mesa/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

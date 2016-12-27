@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Norwegian &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/supported-languages/norwegian/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/supported-languages/norwegian/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,146 +19,37 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Norwegian &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Football Manager 2016</title>
-		<link>/Football%20Manager%202016/</link>
-		<comments>/Football%20Manager%202016/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Football Manager es el juego de simulación de gestión de fútbol más realista, profundo e inmersivo del mercado; lo más parecido a dirigir un equipo en el mundo real. Podrás controlar a equipos de más de 50 países de todo el mundo. Decidirás quién juega y quién se queda en el banquillo, te encargarás de [&#8230;]]]></description>
-		<wfw:commentRss>/Football%20Manager%202016/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Shadow Puppeteer</title>
-		<link>/Shadow%20Puppeteer/</link>
-		<comments>/Shadow%20Puppeteer/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Swedish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Invite a friend to explore the strange, yet beautiful world of darkness and light in Shadow Puppeteer, an award-winning, local co-op adventure. Assume the roles of a boy and his shadow, separated from one another by the evil shadow puppeteer. Work together to manipulate light, solving puzzles that bring you closer to finding this villain [&#8230;]]]></description>
-		<wfw:commentRss>/Shadow%20Puppeteer/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Broadside</title>
-		<link>/Broadside/</link>
-		<comments>/Broadside/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Broadside is a pirate action adventure game focused on infamy and destruction. Players take on the role of a pirate taking part in tactical ship-to-ship battles and boarding actions. While preying on trade routes, fighting rival pirates and harassing the Royal Navy, the excitement of fast-paced sailing and sinking ships is rewarded with Infamy points. [&#8230;]]]></description>
-		<wfw:commentRss>/Broadside/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Orange Box</title>
-		<link>/The%20Orange%20Box/</link>
-		<comments>/The%20Orange%20Box/#respond</comments>
+		<title>Left 4 Dead 2</title>
+		<link>https://cheap-and-cheerful.store/left-4-dead-2/</link>
+		<comments>https://cheap-and-cheerful.store/left-4-dead-2/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[Danish]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[Free to Play]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
 		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
@@ -169,69 +60,51 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/The%20Orange%20Box/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/left-4-dead-2</guid>
+		<description><![CDATA[Ambientado en el apocalipsis zombi, Left 4 Dead 2 (L4D2) es la secuela largamente esperada del galardonado Left 4 Dead, el juego co-op número 1 de 2008. Este FPS cooperativo de acción y horror os llevará a ti y a tus amigos por las ciudades, pantanos y cementerios del Sur Profundo, desde Savannah hasta Nueva [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/left-4-dead-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Long Dark</title>
-		<link>/The%20Long%20Dark/</link>
-		<comments>/The%20Long%20Dark/#respond</comments>
+		<title>Professional Farmer 2014</title>
+		<link>https://cheap-and-cheerful.store/professional-farmer-2014/</link>
+		<comments>https://cheap-and-cheerful.store/professional-farmer-2014/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Early Access]]></category>
+				<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[*** THE LONG DARK ES UN JUEGO CON ACCESO ANTICIPADO. ESTAMOS MEJORANDO CONSTANTEMENTE EL MUNDO ABIERTO, QUE AÚN NO ESTÁ TERMINADO. AL COMPRAR ESTA VERSIÓN AYUDARÁS AL DESARROLLO DEL JUEGO. PARA MÁS INFORMACIÓN, CONSULTA LOS DETALLES DEL ACCESO ANTICIPADO QUE ENCONTRARÁS MÁS ARRIBA. *** ¿En qué consiste The Long Dark? The Long Dark ofrece una experiencia de [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Long%20Dark/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/professional-farmer-2014</guid>
+		<description><![CDATA[Edición de coleccionista Contenido adicional incluido en Professional Farmer 2014, edición de coleccionista: Farming Giant: Como en las series de gigantes, el jugador recibirá una simulación comercial de primera clase, diseñada con infinidad de detalles. El jugador construirá granjas y mantendrá y mejorará sus propiedades. Agricultural Simulator: Historical Farming: El juego te lleva a los [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/professional-farmer-2014/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Dangerous</title>
-		<link>/Dangerous/</link>
-		<comments>/Dangerous/#respond</comments>
+		<title>Sometimes: Success Requires Sacrifice</title>
+		<link>https://cheap-and-cheerful.store/sometimes-success-requires-sacrifice/</link>
+		<comments>https://cheap-and-cheerful.store/sometimes-success-requires-sacrifice/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Arabic]]></category>
 		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[Danish]]></category>
 		<category><![CDATA[Dutch]]></category>
@@ -246,16 +119,16 @@
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Thai]]></category>
@@ -263,64 +136,70 @@
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Dangerous is an epic 3D open and living world space sandbox combat RPG with an immersive and riveting story. You have been awoken from cryo sleep a century later, and must discover the truth. Are you the feared war criminal who will destroy all life or the savior of the universe? Gather your wingmen and [&#8230;]]]></description>
-		<wfw:commentRss>/Dangerous/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/sometimes-success-requires-sacrifice</guid>
+		<description><![CDATA[Sometimes: Success Requires Sacrifice, the title says it all! You get thrown into a dark room, with no light to be found anywhere! Are you willing to end your life to light the way for the next generation to proceed further? Play it today and find out! Sometimes features a classic mode, as well as [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/sometimes-success-requires-sacrifice/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Half-Life 2</title>
-		<link>/Half-Life%202/</link>
-		<comments>/Half-Life%202/#respond</comments>
+		<title>Left 4 Dead</title>
+		<link>https://cheap-and-cheerful.store/left-4-dead/</link>
+		<comments>https://cheap-and-cheerful.store/left-4-dead/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Commentary available]]></category>
 		<category><![CDATA[Danish]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[1998. HALF-LIFE supone un impacto en la industria de juegos con su combinación de acción fren&#233;tica y narración continua y absorbente. El título de debut de Valve fue galardonado con más de 50 premios que lo consideraron el juego del año hasta convertirse en &#8220;El mejor juego para PC de la historia&#8221;, galardón concedido por [&#8230;]]]></description>
-		<wfw:commentRss>/Half-Life%202/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/left-4-dead</guid>
+		<description><![CDATA[Steam Big Picture Acerca del juego De la mano de Valve®, creadores de Counter-Strike®, Half-Life® y otros muchos juegos, llega Left 4 Dead™, una nueva aventura para PC y Xbox 360 que te meterá en la piel de uno de los cuatro &#34;supervivientes&#34; que libran una pugna de proporciones épicas contra hordas de zombis y [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/left-4-dead/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Bridge</title>
-		<link>/The%20Bridge/</link>
-		<comments>/The%20Bridge/#respond</comments>
+		<title>KAMI</title>
+		<link>https://cheap-and-cheerful.store/kami/</link>
+		<comments>https://cheap-and-cheerful.store/kami/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Bulgarian]]></category>
 		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[Danish]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
 		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
@@ -335,56 +214,176 @@
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Thai]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[The Bridge es un juego de lógica y puzles en dos dimensiones que obliga al jugador a reevaluar sus ideas preconcebidas sobre la física y la perspectiva. Es una mezcla entre Isaac Newton y M. C. Escher. Manipula la gravedad para convertir el techo en el suelo mientras te aventuras en arquitecturas imposibles. Explora mundos [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Bridge/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/kami</guid>
+		<description><![CDATA[KAMI is deceptively simple: fold out coloured paper to fill the screen in as few moves as possible. Relaxing and easy to pick up, you&#8217;ll soon find yourself deep in contemplation to perfect each puzzle. Created by State of Play, famous for their handcrafted aesthetic, KAMI has been created with real paper in an elegant [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/kami/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Among the Sleep</title>
-		<link>/Among%20the%20Sleep/</link>
-		<comments>/Among%20the%20Sleep/#respond</comments>
+		<title>Journey of a Roach</title>
+		<link>https://cheap-and-cheerful.store/journey-of-a-roach/</link>
+		<comments>https://cheap-and-cheerful.store/journey-of-a-roach/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Arabic]]></category>
 		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
-		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Juego de terror en primera persona en el que te meterás en la piel de un niño de dos años. El juego aborda el horror a través de la atmósfera y la exploracioń, y no a través de sistemas de combate y puntuación. En Among the Sleep, tú eres un niño vulnerable y asustado, que [&#8230;]]]></description>
-		<wfw:commentRss>/Among%20the%20Sleep/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/journey-of-a-roach</guid>
+		<description><![CDATA[Guerra nuclear, entorno postapocalíptico, tierras estériles y sin vida. ¿Sin vida? ¡Eso es decir demasiado! Unos insectos mutantes han convertido un refugio a prueba de bombas en su hogar y están listos para explorar el mundo. Deja que esta aventura gráfica te transporte a un divertido y extraño fin del mundo y únete a las [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/journey-of-a-roach/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Half-Life Complete</title>
-		<link>/Half-Life%20Complete/</link>
-		<comments>/Half-Life%20Complete/#respond</comments>
+		<title>Portal 2</title>
+		<link>https://cheap-and-cheerful.store/portal-2/</link>
+		<comments>https://cheap-and-cheerful.store/portal-2/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Thai]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/portal-2</guid>
+		<description><![CDATA[Portal 2 continúa con esa fórmula ganadora consistente en una innovadora mecánica de juego, historia y música que condujeron al Portal original a ganar más de 70 galardones y lo convirtieron en un nuevo mito de la industria. En el modo de un jugador de Portal 2 conoceremos a un nuevo elenco de personajes, gran [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/portal-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ethan: Meteor Hunter</title>
+		<link>https://cheap-and-cheerful.store/ethan-meteor-hunter/</link>
+		<comments>https://cheap-and-cheerful.store/ethan-meteor-hunter/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/ethan-meteor-hunter</guid>
+		<description><![CDATA[Odéis congelar el tiempo y manipular el mundo con un dinámico uso de la física, lo que permite un sinfín de posibilidades: supera desafiantes plataformas y difíciles puzles como TÚ quieras. Un cruce entre Super Meat Boy y Braid &#8211; Morirás en repetidas ocasiones, pero disfrutarás de ello : ¡domina el juego de un solo [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/ethan-meteor-hunter/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Surgeon Simulator 2013</title>
+		<link>https://cheap-and-cheerful.store/surgeon-simulator-2013/</link>
+		<comments>https://cheap-and-cheerful.store/surgeon-simulator-2013/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/surgeon-simulator-2013</guid>
+		<description><![CDATA[Check Out the New VR Game &#8211; Surgeon Simulator: ER! http://store.steampowered.com/app/518920 Acerca del juego ¡En este portapapeles te explicamos qué incluye cada versión de Surgeon Simulator! ¡Si ya tienes Surgeon Simulator 2013, no es cuestión de infarto! MEJORA comprando el DLC de la Anniversary Edition que aparece arriba y recibirás todo el contenido de A&#38;E [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/surgeon-simulator-2013/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Portal</title>
+		<link>https://cheap-and-cheerful.store/portal/</link>
+		<comments>https://cheap-and-cheerful.store/portal/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -396,11 +395,11 @@
 		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Norwegian]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
@@ -409,27 +408,24 @@
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Half-Life%20Complete/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/portal</guid>
+		<description><![CDATA[Portal&#8482; es la nueva aventura para un solo jugador de Valve. Ambientado en los misteriosos laboratorios de Aperture Science, Portal ha sido calificado como uno de los juegos más innovadores de los últimos tiempos y ofrece incontables horas de rompecabezas nunca vistos. El juego está diseñado para cambiar radicalmente el modo en que los jugadores [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/portal/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>ShootMania Storm</title>
-		<link>/ShootMania%20Storm/</link>
-		<comments>/ShootMania%20Storm/#respond</comments>
+		<title>Ephemerid: A Musical Adventure</title>
+		<link>https://cheap-and-cheerful.store/ephemerid-a-musical-adventure/</link>
+		<comments>https://cheap-and-cheerful.store/ephemerid-a-musical-adventure/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Bulgarian]]></category>
 		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[Danish]]></category>
 		<category><![CDATA[Dutch]]></category>
@@ -437,41 +433,51 @@
 		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
 		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Thai]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Jump in the most creative PC shooter! There is a lot to customize or create: skins, taunt horns, maps, textures, replays, game modes and much more. Leave your rocketgun aside for a while and bring your ideas to the game. Acerca del juego ShootMania the FPS “Powered By Players” ShootMania Storm is revolutionizing the multiplayer [&#8230;]]]></description>
-		<wfw:commentRss>/ShootMania%20Storm/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/ephemerid-a-musical-adventure</guid>
+		<description><![CDATA[2015 IGF Winner: Excellence in Audio Ephemerid is a rock fairy tale about a paper mayfly. Lean back, relax and enjoy it as a whole, as you would a favorite album. Ephemerid is part rhythm game, part point-and-click adventure, and part rock opera. KEY FEATURES Ephemerid’s beating heart is its original soundtrack, rock guitar with [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/ephemerid-a-musical-adventure/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Mysterious Cities of Gold</title>
-		<link>/The%20Mysterious%20Cities%20of%20Gold/</link>
-		<comments>/The%20Mysterious%20Cities%20of%20Gold/#respond</comments>
+		<title>Scania Truck Driving Simulator</title>
+		<link>https://cheap-and-cheerful.store/scania-truck-driving-simulator/</link>
+		<comments>https://cheap-and-cheerful.store/scania-truck-driving-simulator/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Casual]]></category>
+				<category><![CDATA[Bulgarian]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Norwegian]]></category>
@@ -479,14 +485,17 @@
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Juega como Esteban, Zia y Tao a través de numerosos niveles complejos y llenos de acertijos, trampas y fases de infiltración en una amplia variedad de escenarios maravillosos. Explora cada rincón de China y escapa de los hombres hostiles de Zarès en busca la Ciudad de Oro. Fiel al argumento y al estilo de los [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Mysterious%20Cities%20of%20Gold/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/scania-truck-driving-simulator</guid>
+		<description><![CDATA[Get behind the wheel of one of the most iconic trucks on the road with this highly detailed Scania R-series truck simulation by SCS Software, developers of Euro Truck Simulator 2. Prove your truck skills &#8211; Put your driving skills to the ultimate test with 10 individual truck maneuvering challenges that serve as a practical [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/scania-truck-driving-simulator/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

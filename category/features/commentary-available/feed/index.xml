@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Commentary available &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/features/commentary-available/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/features/commentary-available/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,300 +19,16 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Commentary available &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Team Fortress 2</title>
-		<link>/Team%20Fortress%202/</link>
-		<comments>/Team%20Fortress%202/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[Free to Play]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[The Tough Break Update is Now Available! Acerca del juego &#8220;No podrás pasártelo mejor online&#8221; &#8211; PC Gamer ¡Es ahora GRATIS! ¡No hay truco! ¡Juega todo lo que quieras, el tiempo que quieras! ¡El juego gratuito más valorado de todos los tiempos! Uno de los juegos de acción online más popular, Team Fortress 2, publica [&#8230;]]]></description>
-		<wfw:commentRss>/Team%20Fortress%202/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Gone Home</title>
-		<link>/Gone%20Home/</link>
-		<comments>/Gone%20Home/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Commentary Mode now available! Your copy of Gone Home now includes Developer Commentary Mode! More than an hour and a half of audio commentary from the developers of the game. Find it in the Modifiers menu when starting a new game! Enjoy!! Acerca del juego June 7th, 1995. 1:15 AM You arrive home after a [&#8230;]]]></description>
-		<wfw:commentRss>/Gone%20Home/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Republique</title>
-		<link>/Republique/</link>
-		<comments>/Republique/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[¡Por fin ya está aquí République: Episodio 5: Terminus! En Camouflaj estamos todos ansiosos por lanzar finalmente el quinto y último capítulo de République. A todos los que han esperado la conclusión de la serie, les agradecemos profundamente su paciencia y apoyo. El equipo de Camouflaj se ha volcado enteramente en este épico episodio final, [&#8230;]]]></description>
-		<wfw:commentRss>/Republique/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Closure</title>
-		<link>/Closure/</link>
-		<comments>/Closure/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[En el oscuro y misterioso mundo de Closure solamente existe lo que se ve. Manipula la luces para que los objetos entren y salgan de la realidad en este multipremiado juego de puzles. Juega como un extraño demonio de aspecto arácnido que explora las historias de tres personajes humanos a través de bellos e inquietantes [&#8230;]]]></description>
-		<wfw:commentRss>/Closure/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Archetype</title>
-		<link>/The%20Archetype/</link>
-		<comments>/The%20Archetype/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Archty Tolomei is a 9 years old boy that lives with his dad. In 2008, his mom left the house with his two sisters and a little baby, only to come back in 2009 asking for forgiveness. During a huge fight, Lisa, one of Archty&#8217;s sisters, called 911. When they arrived, Archty&#8217;s father claimed she [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Archetype/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Blackwell Epiphany</title>
-		<link>/Blackwell%20Epiphany/</link>
-		<comments>/Blackwell%20Epiphany/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[A dead man’s soul cries out against the force of a ferocious blizzard. He cries for help. He cries for answers. Then he screams as he is torn apart like damp tissue paper. This wasn’t the first time, and it won’t be the last. The police are powerless to stop it, so the duty falls [&#8230;]]]></description>
-		<wfw:commentRss>/Blackwell%20Epiphany/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Pillars of Eternity</title>
-		<link>/Pillars%20of%20Eternity/</link>
-		<comments>/Pillars%20of%20Eternity/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Champion Edition Pillars of Eternity Champion Edition: Digital Original Soundtrack: This soundtrack contains many of the game&#8217;s music tracks performed by a live orchestra. Contains at least 17 tracks in MP3 and FLAC formats. Digital Campaign Almanac: The Campaign Almanac contains everything related to the lore, history, and world of Eora as originally told by [&#8230;]]]></description>
-		<wfw:commentRss>/Pillars%20of%20Eternity/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Whispered World Special Edition</title>
-		<link>/The%20Whispered%20World%20Special%20Edition/</link>
-		<comments>/The%20Whispered%20World%20Special%20Edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Cuando el destino de un mundo pende de un hilo, ¡surge un héroe inesperado! The Whispered World, la épica aventura visualmente impresionante, ya está disponible por primera vez en una Edición especial. Deja que el mundo de The Whispered World te embelese con sus muchísimos detalles animados y fantásticos personajes. La aventura de Sadwick comienza [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Whispered%20World%20Special%20Edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Skulls of the Shogun</title>
-		<link>/Skulls%20of%20the%20Shogun/</link>
-		<comments>/Skulls%20of%20the%20Shogun/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Steam Big Picture Acerca del juego ¡Aplasta a tus enemigos y cómete sus cráneos! Skulls of the Shogun es un juego de estrategia por turnos rapidísimo, repleto de elementos de los juegos de lucha y con grandes dosis de humor. ¡Entra en el más allá de los samuráis y une fuerzas con guerreros zombis, monjes [&#8230;]]]></description>
-		<wfw:commentRss>/Skulls%20of%20the%20Shogun/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Grim Fandango Remastered</title>
-		<link>/Grim%20Fandango%20Remastered/</link>
-		<comments>/Grim%20Fandango%20Remastered/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[The Making of Grim Fandango Remastered The makers of Grim Fandango discuss the development of the beloved adventure game and how Double Fine Productions plans to release the original classic to a contemporary audience. Watch The Making of Grim Fandango Here! Acerca del juego Something&#8217;s rotten in the land of the dead, and you&#8217;re being [&#8230;]]]></description>
-		<wfw:commentRss>/Grim%20Fandango%20Remastered/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Godus</title>
-		<link>/Godus/</link>
-		<comments>/Godus/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Have you ever wanted to play god? In GODUS, you can sculpt every inch of a beautiful world that you look down upon, where your population of Followers will settle and multiply. As you rule over your living, breathing society, a civilization will blossom across your land and offer you their belief. The more Followers [&#8230;]]]></description>
-		<wfw:commentRss>/Godus/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
 		<title>Valve Complete Pack</title>
-		<link>/Valve%20Complete%20Pack/</link>
-		<comments>/Valve%20Complete%20Pack/#respond</comments>
+		<link>https://cheap-and-cheerful.store/valve-complete-pack/</link>
+		<comments>https://cheap-and-cheerful.store/valve-complete-pack/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -362,9 +78,338 @@
 		<category><![CDATA[Ukrainian]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/valve-complete-pack</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Valve%20Complete%20Pack/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/valve-complete-pack/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sky Mercenaries</title>
+		<link>https://cheap-and-cheerful.store/sky-mercenaries/</link>
+		<comments>https://cheap-and-cheerful.store/sky-mercenaries/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Turn Notifications]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/sky-mercenaries</guid>
+		<description><![CDATA[An epic sky battle awaits you! Choose your pilot and fighter to join the ultimate 2D S.H.M.U.P action ! Fight over 50 enemy types on 8 worlds in over 32 story missions and unlimited random content. Be prepared for the overpowering enemy fleet and challenging bossfights. Upgrade your fighters, drones and pilots the way you [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/sky-mercenaries/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Amnesia: The Dark Descent</title>
+		<link>https://cheap-and-cheerful.store/amnesia-the-dark-descent/</link>
+		<comments>https://cheap-and-cheerful.store/amnesia-the-dark-descent/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/amnesia-the-dark-descent</guid>
+		<description><![CDATA[Los últimos recuerdos se desvanecen en las tinieblas. Tu mente es un caos y lo único que queda es esa sensación de ser la presa. Debes escapar. Despierta&#8230; Amnesia: The Dark Descent es un juego de horror y supervivencia en primera persona. Un juego sobre la inmersión, el descubrimiento y la vida dentro de una [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/amnesia-the-dark-descent/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Axis Football 2015</title>
+		<link>https://cheap-and-cheerful.store/axis-football-2015/</link>
+		<comments>https://cheap-and-cheerful.store/axis-football-2015/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/axis-football-2015</guid>
+		<description><![CDATA[Axis Football Overview Axis Football is a high-quality, 3D American Football Game. Choose from 32 team and play in either season mode or quick match against AI or local multiplayer. A great alternative to Madden, Axis Football features excellent controls and a unique aimed passing system that gives unprecedented accuracy and control of where the [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/axis-football-2015/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Orange Box</title>
+		<link>https://cheap-and-cheerful.store/the-orange-box/</link>
+		<comments>https://cheap-and-cheerful.store/the-orange-box/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[Free to Play]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Thai]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-orange-box</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-orange-box/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Judgement</title>
+		<link>https://cheap-and-cheerful.store/judgement/</link>
+		<comments>https://cheap-and-cheerful.store/judgement/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/judgement</guid>
+		<description><![CDATA[WARNING: Some players may find the theme/content of Judgement disturbing. If you are sensitive to disturbing thoughts/images, play at your own risk. Judgement is a story-driven, decision-making adventure game, where your Judgement can mean the difference between life, death, or somewhere in between. It&#8217;s a game of morality and how gray it can be. In [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/judgement/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Half-Life Complete</title>
+		<link>https://cheap-and-cheerful.store/half-life-complete/</link>
+		<comments>https://cheap-and-cheerful.store/half-life-complete/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Thai]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/half-life-complete</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/half-life-complete/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Adventures of Fatman</title>
+		<link>https://cheap-and-cheerful.store/the-adventures-of-fatman/</link>
+		<comments>https://cheap-and-cheerful.store/the-adventures-of-fatman/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-adventures-of-fatman</guid>
+		<description><![CDATA[To the Fat Mobile, let&#8217;s go !! You are the crime fighter for the city of Shadowlawn. Just when you&#8217;re complaining about how dull things have been, a supervillain named Toxicman is created from a botched act of corporate sabotage. It is up to you, then, to tear yourself away from food long enough to [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-adventures-of-fatman/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Left 4 Dead 2</title>
+		<link>https://cheap-and-cheerful.store/left-4-dead-2/</link>
+		<comments>https://cheap-and-cheerful.store/left-4-dead-2/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/left-4-dead-2</guid>
+		<description><![CDATA[Ambientado en el apocalipsis zombi, Left 4 Dead 2 (L4D2) es la secuela largamente esperada del galardonado Left 4 Dead, el juego co-op número 1 de 2008. Este FPS cooperativo de acción y horror os llevará a ti y a tus amigos por las ciudades, pantanos y cementerios del Sur Profundo, desde Savannah hasta Nueva [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/left-4-dead-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Strike Vector</title>
+		<link>https://cheap-and-cheerful.store/strike-vector/</link>
+		<comments>https://cheap-and-cheerful.store/strike-vector/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/strike-vector</guid>
+		<description><![CDATA[&#34;Strike Vector is gorgeous shooter with strong mechanics and lots of customisation&#34; 7.7/10 – IGN &#34;it more than makes up for by being a gorgeous, intensely competitive experience that matches its aesthetic appeal with pure shooter satisfaction&#34; – 7.5/10 –destructoid &#34;Strike Vector does one thing &#8211; frantic multiplayer combat action &#8211; and does it really [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/strike-vector/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Left 4 Dead</title>
+		<link>https://cheap-and-cheerful.store/left-4-dead/</link>
+		<comments>https://cheap-and-cheerful.store/left-4-dead/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/left-4-dead</guid>
+		<description><![CDATA[Steam Big Picture Acerca del juego De la mano de Valve®, creadores de Counter-Strike®, Half-Life® y otros muchos juegos, llega Left 4 Dead™, una nueva aventura para PC y Xbox 360 que te meterá en la piel de uno de los cuatro &#34;supervivientes&#34; que libran una pugna de proporciones épicas contra hordas de zombis y [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/left-4-dead/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Technobabylon</title>
+		<link>https://cheap-and-cheerful.store/technobabylon/</link>
+		<comments>https://cheap-and-cheerful.store/technobabylon/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/technobabylon</guid>
+		<description><![CDATA[The year 2087 is upon us — a future where genetic engineering is the norm, the addictive Trance has replaced almost any need for human interaction, and an omnipresent AI named Central powers the city. Its all-seeing CEL police force keeps tabs on everyone, including three people who are about to meet their maker. Charlie [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/technobabylon/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

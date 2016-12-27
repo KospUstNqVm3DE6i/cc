@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Racing &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/genres/racing/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/genres/racing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,95 +19,20 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Racing &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>GRID Autosport</title>
-		<link>/GRID%20Autosport/</link>
-		<comments>/GRID%20Autosport/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Ficha por un equipo y plántales cara a tus rivales en un nuevo y fascinante reto automovilístico. Junto a tu compañero de filas, debes superar a rivales directos y cumplir los objetivos de los patrocinadores en vertiginosas carreras donde cada adelantamiento vale su peso en oro. Especialízate en la disciplina que más te apasione o [&#8230;]]]></description>
-		<wfw:commentRss>/GRID%20Autosport/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Post Apocalyptic Mayhem</title>
-		<link>/Post%20Apocalyptic%20Mayhem/</link>
-		<comments>/Post%20Apocalyptic%20Mayhem/#respond</comments>
+		<title>DiRT Showdown</title>
+		<link>https://cheap-and-cheerful.store/dirt-showdown/</link>
+		<comments>https://cheap-and-cheerful.store/dirt-showdown/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Steam Big Picture Acerca del juego Post Apocalyptic Mayhem te permite correr y luchar con vehículos totalmente modificados a lo largo de numerosos e impresionantes circuitos y acabar con los demás corredores en medio de un desmesurado caos automovilístico. Puedes usar las habilidades especiales del vehículo para destruir los coches enemigos de una forma espectacular [&#8230;]]]></description>
-		<wfw:commentRss>/Post%20Apocalyptic%20Mayhem/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Defunct</title>
-		<link>/Defunct/</link>
-		<comments>/Defunct/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Defunct es un juego de aventuras indie que se centra en el movimiento fluido, la velocidad y un mundo cautivador. Eres un robot roto que cae accidentalmente de una nave de mercancías y se encuentra en una Tierra sin humanos, habitada por robots. ¡Debes regresar a la nave antes de que sea demasiado tarde! Estás [&#8230;]]]></description>
-		<wfw:commentRss>/Defunct/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>WRC 4 FIA World Rally Championship</title>
-		<link>/WRC%204%20FIA%20World%20Rally%20Championship/</link>
-		<comments>/WRC%204%20FIA%20World%20Rally%20Championship/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
@@ -116,163 +41,36 @@
 		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[¡Demuestra tu estilo y gana el FIA WORLD RALLY CHAMPIONSHIP de la temporada 2013! Experimenta la temporada de FIA World Rally Championship 2013 con los conductores, coches y circuitos de los campeonatos de WRC, WRC 2, WRC 3 y Junior WRC. Saca provecho de un motor gráfico mejorado y de un realismo sin precedentes que [&#8230;]]]></description>
-		<wfw:commentRss>/WRC%204%20FIA%20World%20Rally%20Championship/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/dirt-showdown</guid>
+		<description><![CDATA[¡Compite, choca y desfasa en un tour mundial de caos motorizado con DiRT Showdown! La atmósfera de multitud, dinámica social y accesibilidad se elevan a la máxima potencia en este delirio de conducción turbo inyectado. Písale a fondo y gánate la adulación de las masas en trepidantes pruebas por escenarios míticos. Alcanza la victoria a [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/dirt-showdown/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>SHOFER Race Driver</title>
-		<link>/SHOFER%20Race%20Driver/</link>
-		<comments>/SHOFER%20Race%20Driver/#respond</comments>
+		<title>MiniDrivers</title>
+		<link>https://cheap-and-cheerful.store/minidrivers/</link>
+		<comments>https://cheap-and-cheerful.store/minidrivers/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[SHOFER Race Driver takes you deep into Middle East. Real cars, real tracks and also … . Some local music. Unlock new cars and tracks by participating in series of races and don’t worry about anything, because you’ll never be left alone, your partner lady will contact you to get you out of any trouble. [&#8230;]]]></description>
-		<wfw:commentRss>/SHOFER%20Race%20Driver/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Bang Bang Racing</title>
-		<link>/Bang%20Bang%20Racing/</link>
-		<comments>/Bang%20Bang%20Racing/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Bang Bang Racing es un juego arcade distinto centrado no solo en la velocidad, sino también en las habilidades técnicas de conducción. Un sistema de control muy intuitivo y pistas emocionantes ofrecen un sinfín de diversión para toda la familia. Bang Bang Racing ofrece una trepidante carrera durante cada curva y cada recta. ¡Conduce veloces [&#8230;]]]></description>
-		<wfw:commentRss>/Bang%20Bang%20Racing/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>GRID 2 &#8211; Drift Pack</title>
-		<link>/GRID%202%20-%20Drift%20Pack/</link>
-		<comments>/GRID%202%20-%20Drift%20Pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/GRID%202%20-%20Drift%20Pack/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Street Racing Syndicate</title>
-		<link>/Street%20Racing%20Syndicate/</link>
-		<comments>/Street%20Racing%20Syndicate/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[The raw, high-stakes world of illegal street racing comes to life in Street Racing Syndicate. Trick out over 40 authentic licensed cars with parts from over 15 real-world manufacturers, then turn your customized ride loose on the streets of 3 cities across the USA. Lay it all on the line &#8211; your wallet, your woman, [&#8230;]]]></description>
-		<wfw:commentRss>/Street%20Racing%20Syndicate/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Qvadriga</title>
-		<link>/Qvadriga/</link>
-		<comments>/Qvadriga/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Welcome to the Roman circus! If you have come here it is because you wish to manage your own chariot racing team. Train your drivers and give them the finest equipment and horses. If you do this well, your chariots will provide you with both wealth and fame. but beware! Chariot races are dangerous. Accidents [&#8230;]]]></description>
-		<wfw:commentRss>/Qvadriga/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Glacier 3: The Meltdown</title>
-		<link>/Glacier%203%3A%20The%20Meltdown/</link>
-		<comments>/Glacier%203%3A%20The%20Meltdown/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Since the press discovered multi-billionaire Bob Slayer’s best kept secret, the illegal Glacier Races, there are more applications than ever before for this deadly, crazy race. New contenders have entered the race, their vehicles are faster, stronger and equipped with new, experimental kind of weapons. Every each contender believes that their car is best equipped [&#8230;]]]></description>
-		<wfw:commentRss>/Glacier%203%3A%20The%20Meltdown/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Gas Guzzlers Extreme Gold Pack</title>
-		<link>/Gas%20Guzzlers%20Extreme%20Gold%20Pack/</link>
-		<comments>/Gas%20Guzzlers%20Extreme%20Gold%20Pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Sports]]></category>
@@ -281,17 +79,77 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Gas%20Guzzlers%20Extreme%20Gold%20Pack/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/minidrivers</guid>
+		<description><![CDATA[¡Las carreras más locas llegan a tus manos con MiniDrivers! La serie de animación que ha cautivado a millones de personas en todo el mundo tiene un nuevo protagonista: ¡Tú! Crea tus propias historias o cambia las reglas en las carreras y conviértete en Campeón del Mundo. ¡ES HORA DE CORRER! Si algo caracteriza los [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/minidrivers/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>RACE Injection</title>
-		<link>/RACE%20Injection/</link>
-		<comments>/RACE%20Injection/#respond</comments>
+		<title>Pressure</title>
+		<link>https://cheap-and-cheerful.store/pressure/</link>
+		<comments>https://cheap-and-cheerful.store/pressure/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/pressure</guid>
+		<description><![CDATA[Juego de carreras arcade clásico en un fantástico universo de estilo steampunk. Enfréntate a hordas de enemigos mientras tu coche se lanza por un mundo de vapor único. “Pressure” abre la válvula de un fantástico nuevo mundo lleno de peligros. ¡Solo tú y tu coche de vapor podéis impedir que el malvado conde Jabón se [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/pressure/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Redline</title>
+		<link>https://cheap-and-cheerful.store/redline/</link>
+		<comments>https://cheap-and-cheerful.store/redline/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/redline</guid>
+		<description><![CDATA[Join the Company! It&#8217;s 2066 and the world is a different place. While the privileged insiders live in fertile domed cities, the rest of us fight for survival in the wastelands. Rival gangs battle for supremacy, turf control and valuable resources. In order for a young man to succeed he must make the right choices [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/redline/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>18 Wheels of Steel: American Long Haul</title>
+		<link>https://cheap-and-cheerful.store/18-wheels-of-steel-american-long-haul/</link>
+		<comments>https://cheap-and-cheerful.store/18-wheels-of-steel-american-long-haul/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/18-wheels-of-steel-american-long-haul</guid>
+		<description><![CDATA[¡Tu sueño americano empieza al volante de tu propio tráiler! ¡Las carreteras de Norteamérica te aguardan! ¡Ya no trabajas para nadie! Eres el dueño de un negocio de camiones y tú dices como se hacen las cosas. Construye tu imperio camión a camión para dominar las carreteras y superar a la competencia. ¿Puedes soportar la [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/18-wheels-of-steel-american-long-haul/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Test Drive: Ferrari Racing Legends</title>
+		<link>https://cheap-and-cheerful.store/test-drive-ferrari-racing-legends/</link>
+		<comments>https://cheap-and-cheerful.store/test-drive-ferrari-racing-legends/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
@@ -303,9 +161,152 @@
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[RACE Injection is the final chapter in the RACE 07 series of games, ending the award winning series on a high note. RACE Injection contains 23 new unique car models and boasts 9 new tracks from across the globe. RACE Injection collects the most requested content in five distinct classes: Formula RaceRoom class, GT Power [&#8230;]]]></description>
-		<wfw:commentRss>/RACE%20Injection/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/test-drive-ferrari-racing-legends</guid>
+		<description><![CDATA[Detailed physics underpin a huge variety of challenges set throughout the history of this landmark automotive brand. Painstakingly detailed cars and tracks reflect visceral damage as races wear on, an acute sense of speed communicates the power of these highly tuned vehicles, as advanced AI challenges even the most experienced driver. Key Features: Extensive Online [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/test-drive-ferrari-racing-legends/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DiRT 3 Complete Edition</title>
+		<link>https://cheap-and-cheerful.store/dirt-3-complete-edition/</link>
+		<comments>https://cheap-and-cheerful.store/dirt-3-complete-edition/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/dirt-3-complete-edition</guid>
+		<description><![CDATA[Consigue la Edición Completa de DiRT 3, la edición de competición off-road de DiRT 3 definitiva ampliada ahora con contenido adicional y mejorada mediante la integración de Steamworks, que dispone de logros, marcadores y partidas guardadas en Steam Cloud. En DiRT 3 Edición Completa, pilotarás coches míticos que abarcan 50 años de carreras en tres [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/dirt-3-complete-edition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MotorSport Revolution</title>
+		<link>https://cheap-and-cheerful.store/motorsport-revolution/</link>
+		<comments>https://cheap-and-cheerful.store/motorsport-revolution/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/motorsport-revolution</guid>
+		<description><![CDATA[The Game Motorsport Revolution is a single-player, physics-based racing game inspired by classic console racing games, as well as the popular Le Mans Series, which is considered the most challenging sport racing class in the world. With these influences in mind, we’re creating an epic immersive VR motorsport racing experience where players race the world’s [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/motorsport-revolution/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mini Motor Racing EVO</title>
+		<link>https://cheap-and-cheerful.store/mini-motor-racing-evo/</link>
+		<comments>https://cheap-and-cheerful.store/mini-motor-racing-evo/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/mini-motor-racing-evo</guid>
+		<description><![CDATA[Exclusive Tracks on Steam Steam Workshop Create and share your own tracksBuild your dream track with the in-game track editor, then share it with the world using Steam Workshop. You can also download tracks made by other users, and up-vote your favorites. Acerca del juego Take your favorite childhood racer, pump it full of nitrous, [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/mini-motor-racing-evo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tail Drift</title>
+		<link>https://cheap-and-cheerful.store/tail-drift/</link>
+		<comments>https://cheap-and-cheerful.store/tail-drift/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Sports]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/tail-drift</guid>
+		<description><![CDATA[Tail Drift is a fast action racing game where you zoom through fantastic environments. Compete while flying around floating islands, ancient temples and desert canyons, with a fleet of unique planes to take through a variety of game modes. Purchase and upgrade your fleet of planes to gain the edge as you play through 18 [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/tail-drift/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Krautscape</title>
+		<link>https://cheap-and-cheerful.store/krautscape/</link>
+		<comments>https://cheap-and-cheerful.store/krautscape/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/krautscape</guid>
+		<description><![CDATA[Krautscape is an action-packed racing game with bird-like flying cars and procedurally built racetracks. The leading player builds the racetrack while the chasing players can take shortcuts by flying off the track to overcome obstacles. But the track is needed to score and to get speed – the vehicles don&#8217;t have any thrusters to accelerate [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/krautscape/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jet Car Stunts</title>
+		<link>https://cheap-and-cheerful.store/jet-car-stunts/</link>
+		<comments>https://cheap-and-cheerful.store/jet-car-stunts/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/jet-car-stunts</guid>
+		<description><![CDATA[¡Compite a máxima velocidad, domina las piruetas más difíciles y conduce Jet Cars como nadie! Jet Car Stunts es un nuevo tipo de juego de carreras y un remake del juego homónimo para iOS. Domina acrobacias extremas, marca los tiempos más rápidos y deja brillar tus dotes al volante de los Jet Cars. ¿Darás la [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/jet-car-stunts/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

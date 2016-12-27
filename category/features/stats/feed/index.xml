@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Stats &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/features/stats/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/features/stats/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,75 +19,147 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Stats &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Killing Floor</title>
-		<link>/Killing%20Floor/</link>
-		<comments>/Killing%20Floor/#respond</comments>
+		<title>Counter-Strike: Source</title>
+		<link>https://cheap-and-cheerful.store/counter-strike-source/</link>
+		<comments>https://cheap-and-cheerful.store/counter-strike-source/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Thai]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Killing Floor es un shooter Cooperativo del género Survival Horror que tiene lugar en los campos y ciudades devastadas de Inglaterra, después de que una serie de experimentos militares de clonación fracasaran con horribles consecuencias. Tú y tus amigos sois miembros de los militares desplegados en esos lugares con una sencilla misión: ¡Sobrevivir el tiempo [&#8230;]]]></description>
-		<wfw:commentRss>/Killing%20Floor/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/counter-strike-source</guid>
+		<description><![CDATA[LA NUEVA ENTREGA DEL JUEGO DE ACCIÓN EN LÍNEA NÚMERO 1 EN TODO EL MUNDO Counter-Strike: Source combina la intensidad de las partidas por equipos, que le valió varios premios al título original, con la avanzada tecnología de Source&#8482;. Con sus vanguardistas gráficos, nuevos sonidos y un mayor dinamismo, Counter-Strike: Source no puede faltar en [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/counter-strike-source/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Grand Ages: Medieval</title>
-		<link>/Grand%20Ages%3A%20Medieval/</link>
-		<comments>/Grand%20Ages%3A%20Medieval/#respond</comments>
+		<title>Left 4 Dead</title>
+		<link>https://cheap-and-cheerful.store/left-4-dead/</link>
+		<comments>https://cheap-and-cheerful.store/left-4-dead/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
 		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Funciones: Explorad un mundo de juego gigantesco con más de 20 millones de kilómetros cuadrados, planificad estratégicamente dónde fundar los pueblos importantes y defended vuestro reino de las potencias extranjeras. Producid y comerciad con 20 mercancías distintas para satisfacer las demandas de vuestros ciudadanos y soldados: por ejemplo, carbón, fruta y cerámica. Investigad y utilizad [&#8230;]]]></description>
-		<wfw:commentRss>/Grand%20Ages%3A%20Medieval/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/left-4-dead</guid>
+		<description><![CDATA[Steam Big Picture Acerca del juego De la mano de Valve®, creadores de Counter-Strike®, Half-Life® y otros muchos juegos, llega Left 4 Dead™, una nueva aventura para PC y Xbox 360 que te meterá en la piel de uno de los cuatro &#34;supervivientes&#34; que libran una pugna de proporciones épicas contra hordas de zombis y [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/left-4-dead/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Orcs Must Die!</title>
-		<link>/Orcs%20Must%20Die%21/</link>
-		<comments>/Orcs%20Must%20Die%21/#respond</comments>
+		<title>Action Henk</title>
+		<link>https://cheap-and-cheerful.store/action-henk/</link>
+		<comments>https://cheap-and-cheerful.store/action-henk/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Turn Notifications]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/action-henk</guid>
+		<description><![CDATA[Run, jump and butt-slide into the glorious toy-filled world of Action Henk! Become a master of momentum and defy physics as you race against a band of ragged 90s action figures to once and for all prove that Action Henk is the fastest of them all! With over 70 tracks all set in different environments, [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/action-henk/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Guns of Icarus Online</title>
+		<link>https://cheap-and-cheerful.store/guns-of-icarus-online/</link>
+		<comments>https://cheap-and-cheerful.store/guns-of-icarus-online/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/guns-of-icarus-online</guid>
+		<description><![CDATA[Guns of Icarus Alliance Pre-order Get early access to Guns of Icarus Alliance DLC before official release! To help us test and follow the development, please email us at feedback@musegames.com with your steam receipt. Help us make Alliance the best it can be! Guns of Icarus Alliance is the PvE Expansion DLC and is now [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/guns-of-icarus-online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Speedball 2 HD</title>
+		<link>https://cheap-and-cheerful.store/speedball-2-hd/</link>
+		<comments>https://cheap-and-cheerful.store/speedball-2-hd/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -95,40 +167,112 @@
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/speedball-2-hd</guid>
+		<description><![CDATA[Speedball 2 HD es una reencarnación moderna del clásico juego de deportes futurista ciberpunk Speedball, desarrollado originalmente por The Bitmap Brothers y lanzado por primera vez para Atari ST en 1990. Una mezcla brutal de balonmano y hockey sobre hielo jugado a un ritmo trepidante. Ahora, Tower Studios, Vivid Games y The Bitmap Brothers han [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/speedball-2-hd/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mini Motor Racing EVO</title>
+		<link>https://cheap-and-cheerful.store/mini-motor-racing-evo/</link>
+		<comments>https://cheap-and-cheerful.store/mini-motor-racing-evo/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Rebánalos, incinéralos, empálalos, arrójalos &#8211; da igual cómo lo hagas. Los orcos deben morir en este juego de acción y estrategia de la mano de Robot Entertainment. En la piel de un poderoso mago de guerra con un arsenal de mortíferas armas, hechizos y trampas al alcance de tu mano, te toca defender veinticuatro fortalezas [&#8230;]]]></description>
-		<wfw:commentRss>/Orcs%20Must%20Die%21/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/mini-motor-racing-evo</guid>
+		<description><![CDATA[Exclusive Tracks on Steam Steam Workshop Create and share your own tracksBuild your dream track with the in-game track editor, then share it with the world using Steam Workshop. You can also download tracks made by other users, and up-vote your favorites. Acerca del juego Take your favorite childhood racer, pump it full of nitrous, [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/mini-motor-racing-evo/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Dawn of War Franchise Pack</title>
-		<link>/Dawn%20of%20War%20Franchise%20Pack/</link>
-		<comments>/Dawn%20of%20War%20Franchise%20Pack/#respond</comments>
+		<title>Victory: The Age of Racing</title>
+		<link>https://cheap-and-cheerful.store/victory-the-age-of-racing/</link>
+		<comments>https://cheap-and-cheerful.store/victory-the-age-of-racing/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
+				<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/victory-the-age-of-racing</guid>
+		<description><![CDATA[Victory: The Age of Racing is a unique online racing game with spectacular car handling and user generated cars inspired by the different ages of racing. Victory offers a thrilling racing experience through multiplayer events, competitions and an addictive team career. Victory: The Age of Racing is now FREE! We’d like you to join the [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/victory-the-age-of-racing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Velocibox</title>
+		<link>https://cheap-and-cheerful.store/velocibox/</link>
+		<comments>https://cheap-and-cheerful.store/velocibox/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/velocibox</guid>
+		<description><![CDATA[Velocibox is a twitch-heavy action game crafted for the hardcore audience. Flip, spin and dodge your way through more than 70 deviously designed patterns. Features an insanely difficult Super Velocibox mode for the uber-hardcore. So addictive the developer has been called a filthy drug dealer. Popular YouTube Features Featured in popular YouTube Let&#8217;s Plays such [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/velocibox/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PARTICLE MACE</title>
+		<link>https://cheap-and-cheerful.store/particle-mace/</link>
+		<comments>https://cheap-and-cheerful.store/particle-mace/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
@@ -136,190 +280,69 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Dawn%20of%20War%20Franchise%20Pack/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/particle-mace</guid>
+		<description><![CDATA[PARTICLE MACE is a game inspired by Geometry Wars, Asteroids, Amplitude and many others. Unlike in traditional twin stick shooters, in Particle Mace, you destroy your enemies by swinging giant boulders at your enemies. It takes a deep understanding of your own weight, thrust, and inertia in order to be a master Particle Mace gladiator, [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/particle-mace/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>DogFighter</title>
-		<link>/DogFighter/</link>
-		<comments>/DogFighter/#respond</comments>
+		<title>Isaac the Adventurer</title>
+		<link>https://cheap-and-cheerful.store/isaac-the-adventurer/</link>
+		<comments>https://cheap-and-cheerful.store/isaac-the-adventurer/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[DogFighter es un arcade de combate aéreo de acción frenética y mecánica de juego estilo arena. Los jugadores pueden competir con un máximo de 7 oponentes en 4 modos multijugador, o luchar en solitario en 7 modos para un jugador, utilizando biplanos mejorados con más de 20 armas ofensivas y defensivas&#8230; &#8230; y esto sólo [&#8230;]]]></description>
-		<wfw:commentRss>/DogFighter/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/isaac-the-adventurer</guid>
+		<description><![CDATA[Isaac the Adventurer is an action filled plat-former that is packed with traps, puzzles and deadly enemies. Explore the dangerous world and get rewarded with ancient treasures. If you go on this adventure we can not promise you that you will come back alive, and if you will, you won’t be a small boy anymore. [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/isaac-the-adventurer/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Runespell: Overture</title>
-		<link>/Runespell%3A%20Overture/</link>
-		<comments>/Runespell%3A%20Overture/#respond</comments>
+		<title>Protocol</title>
+		<link>https://cheap-and-cheerful.store/protocol/</link>
+		<comments>https://cheap-and-cheerful.store/protocol/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/protocol</guid>
+		<description><![CDATA[Use your lightning skill and pace to outwit your enemies. Challenge other players in a deathmatch, team deathmatch or even capture the flag. The game is a cyberpunk themed first person shooter, it uses smooth and easy to grasp parkour to enable players to flank other players and much more. While playing, it&#8217;s probable that [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/protocol/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ReignMaker</title>
+		<link>https://cheap-and-cheerful.store/reignmaker/</link>
+		<comments>https://cheap-and-cheerful.store/reignmaker/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Runespell: Overture es un juego de rol que combina la mecánica del póquer con potenciadores y tarjetas coleccionables. El mundo está ambientado en la Europa medieval que une personajes históricos con la mitología y las sagas nórdicas. El jugador asume el papel de Changeling, el hijo de un dios monstruo, en busca de su némesis. [&#8230;]]]></description>
-		<wfw:commentRss>/Runespell%3A%20Overture/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Super Toy Cars</title>
-		<link>/Super%20Toy%20Cars/</link>
-		<comments>/Super%20Toy%20Cars/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Super Toy Cars is a tabletop arcade combat racing game featuring fast and cool looking cars, impressive tracks made of everyday objects and a bunch of power-ups that will let you destroy your opposition. Collect all cars and upgrades to keep up with competition while you progress in career mode or have a quick race [&#8230;]]]></description>
-		<wfw:commentRss>/Super%20Toy%20Cars/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Ancients of Ooga</title>
-		<link>/Ancients%20of%20Ooga/</link>
-		<comments>/Ancients%20of%20Ooga/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[¡De los creadores de &#8216;Cloning Clyde&#8217; llega una nueva aventura épica! ¡Come, canta e incluso ábrete paso vomitando a través de la divertidísima y primitiva tierra de Ooga! No te aburrirás ni un segundo mientras conoces, trabas amistad y finalmente te haces con siete estrafalarias tribus oogani. Descubre sus ancestrales poderes perdidos, aprovecha sus habilidades [&#8230;]]]></description>
-		<wfw:commentRss>/Ancients%20of%20Ooga/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Luminosity</title>
-		<link>/Luminosity/</link>
-		<comments>/Luminosity/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Luminosity is a fast paced arcade score attack game. You take the control of a space ship and your objective is to close off the enemy drones and conquer a certain percent of the map in order to blow them up. Things quickly escalate and you face an increasing number of unique and challenging enemies. [&#8230;]]]></description>
-		<wfw:commentRss>/Luminosity/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Expand</title>
-		<link>/Expand/</link>
-		<comments>/Expand/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Expand is a 2D indie minimalist game in which you guide a pink square through a circular labyrinth that constantly rotates, unfolds and expands around you. Navigate through a world that can easily lift as well as harm you, keeping you disorientated and unfamiliar in your surroundings. A world set in five stages, Expand offers [&#8230;]]]></description>
-		<wfw:commentRss>/Expand/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Caveman Craig</title>
-		<link>/Caveman%20Craig/</link>
-		<comments>/Caveman%20Craig/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Caveman Craig is a unique strategy/survival game set in a vicious prehistoric world of cavemen, neanderthals, sasquatches, and freakin&#8217; dinosaurs! Build up your clan and conquer the 5 tribes of boggdrop. You decide the fate of man as you hunt, gather, and prepare your way to victory! Demonstrate new skills to your cavemen so they [&#8230;]]]></description>
-		<wfw:commentRss>/Caveman%20Craig/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Moonbase 332</title>
-		<link>/Moonbase%20332/</link>
-		<comments>/Moonbase%20332/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Hello and Welcome to Moonbase 332 Moonbase 332 is an Arcade First Person Shooter by PatchNoteStudio. You play an old American exterminator. After a War between Germany and Austria in Year 2007, a base on the Moon was found. Austria has tested there some genetically modified Plagues to use it as a weapon. Your job [&#8230;]]]></description>
-		<wfw:commentRss>/Moonbase%20332/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/reignmaker</guid>
+		<description><![CDATA[ReignMaker is a match-3 game with tower defense, city building, and political strategy elements. From your capital city you lead your Kingdom against the invading Void Army that threatens all life. Your match-3, tower defense, and strategy skills will determine the fate of your armies, but the many political decisions you make as a leader [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/reignmaker/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

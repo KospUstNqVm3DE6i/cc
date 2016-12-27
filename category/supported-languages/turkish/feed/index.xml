@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Turkish &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/supported-languages/turkish/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/supported-languages/turkish/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,98 +19,22 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Turkish &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Farming Simulator 15</title>
-		<link>/Farming%20Simulator%2015/</link>
-		<comments>/Farming%20Simulator%2015/#respond</comments>
+		<title>Left 4 Dead 2</title>
+		<link>https://cheap-and-cheerful.store/left-4-dead-2/</link>
+		<comments>https://cheap-and-cheerful.store/left-4-dead-2/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Farming Simulator 17 &#8211; Now Available Acerca del juego ¡Bienvenido a la nueva generación de Farming Simulator! Gracias a un motor de gráficos y físicas completamente nuevo, Farming Simulator 15 ofrece un mundo abierto inmenso, lleno de detalles y efectos visuales que transportan a la saga Farming Simulator a una nueva era. Gestiona tu propia [&#8230;]]]></description>
-		<wfw:commentRss>/Farming%20Simulator%2015/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Project Zomboid</title>
-		<link>/Project%20Zomboid/</link>
-		<comments>/Project%20Zomboid/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Project Zomboid is an open-ended zombie-infested sandbox. It asks one simple question – how will you die?  In the towns of Muldraugh and West Point, survivors must loot houses, build defences and do their utmost to delay their inevitable death day by day. No help is coming – their continued survival relies on their own [&#8230;]]]></description>
-		<wfw:commentRss>/Project%20Zomboid/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Unmechanical</title>
-		<link>/Unmechanical/</link>
-		<comments>/Unmechanical/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Commentary available]]></category>
 		<category><![CDATA[Danish]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
@@ -118,319 +42,369 @@
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Unmechanical es una aventura de puzles que combina ingeniosos rompecabezas con una atmósfera fascinante que te atrapará conforme vayas explorando. Ambientado en un mundo fantástico de carne, roca y acero, en tu viaje hacia la libertad deberás resolver una gran variedad de retos mentales y, aunque puedan parecer sencillos al principio, los desafíos se irán [&#8230;]]]></description>
-		<wfw:commentRss>/Unmechanical/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Tengami</title>
-		<link>/Tengami/</link>
-		<comments>/Tengami/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/left-4-dead-2</guid>
+		<description><![CDATA[Ambientado en el apocalipsis zombi, Left 4 Dead 2 (L4D2) es la secuela largamente esperada del galardonado Left 4 Dead, el juego co-op número 1 de 2008. Este FPS cooperativo de acción y horror os llevará a ti y a tus amigos por las ciudades, pantanos y cementerios del Sur Profundo, desde Savannah hasta Nueva [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/left-4-dead-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>To the Moon</title>
+		<link>https://cheap-and-cheerful.store/to-the-moon/</link>
+		<comments>https://cheap-and-cheerful.store/to-the-moon/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Tengami es un evocador juego de aventura ambientado en el interior de un libro japonés troquelado. Pliega y mueve las hojas y pestañas de este bello mundo de papel para resolver puzles y descubrir sus secretos. Descubre las maravillas de un mundo troquelado Emprende un tranquilo viaje por el Japón de los cuentos de hadas, [&#8230;]]]></description>
-		<wfw:commentRss>/Tengami/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Solarix</title>
-		<link>/Solarix/</link>
-		<comments>/Solarix/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Solarix is a science-fiction stealth-horror game featuring open-ended levels for both combative and stealth-focused playstyles. Solarix combines old-school sci-fi horror with next-gen style and graphics. The story follows an electrical engineer desperately fighting for his life after an infection wipes out an interstellar research station. He must contain the disease, battling both the remnants of [&#8230;]]]></description>
-		<wfw:commentRss>/Solarix/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/to-the-moon</guid>
+		<description><![CDATA[Dr. Rosalene and Dr. Watts have peculiar jobs: They give people another chance to live, all the way from the very beginning&#8230; but only in their patients&#8217; heads. Due to the severity of the operation, the new life becomes the last thing the patients remember before drawing their last breath. Thus, the operation is only [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/to-the-moon/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Two Tribes Pack</title>
-		<link>/Two%20Tribes%20Pack/</link>
-		<comments>/Two%20Tribes%20Pack/#respond</comments>
+		<title>HyperRogue</title>
+		<link>https://cheap-and-cheerful.store/hyperrogue/</link>
+		<comments>https://cheap-and-cheerful.store/hyperrogue/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/hyperrogue</guid>
+		<description><![CDATA[You are a lone adventurer in a strange, non-Euclidean world. Gather as much treasure as you can before the nasty monsters get you. Explore several different worlds, each with its own unique treasures, enemies, and terrain obstacles. Your quest is to find the legendary treasure, the Orbs of Yendor. Collect one of them to win! [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/hyperrogue/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Elementary My Dear Majesty!</title>
+		<link>https://cheap-and-cheerful.store/elementary-my-dear-majesty/</link>
+		<comments>https://cheap-and-cheerful.store/elementary-my-dear-majesty/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/elementary-my-dear-majesty</guid>
+		<description><![CDATA[La hija del rey se ha convertido en un monstruo que se alimenta de humanos; tienes que encontrar la forma de curarla o te comerá. Explora espectaculares escenarios 3D y resuelve ingeniosos puzles para conocer la verdad sobre la poco agradable apariencia de la princesa.]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/elementary-my-dear-majesty/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Among the Sleep</title>
+		<link>https://cheap-and-cheerful.store/among-the-sleep/</link>
+		<comments>https://cheap-and-cheerful.store/among-the-sleep/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Two%20Tribes%20Pack/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Football Manager 2015</title>
-		<link>/Football%20Manager%202015/</link>
-		<comments>/Football%20Manager%202015/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Football Manager 2015 &#8211; новая часть знаменитой серии симулятора футбольного менеджера. Выходит на PC, Mac и Linux в ноябре 2014 года. Football Manager &#8211; это наиболее реалистичный симулятор футбольного менеджера. Станьте тренером одного из клубов в более чем 50 странах, включая все лучшие европейские лиги. Football Manager 2015 позволит вам оказаться в роли менеджера клуба, [&#8230;]]]></description>
-		<wfw:commentRss>/Football%20Manager%202015/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Goat Simulator</title>
-		<link>/Goat%20Simulator/</link>
-		<comments>/Goat%20Simulator/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Goat Simulator es lo último en tecnología de simulación de cabras y trae PARA TI el simulador caprino de próxima generación. Ya no tienes que fantasear con ser una cabra, ¡tus sueños por fin se han hecho realidad! WASD para escribir la historia. En cuanto a mecánica de juego, Goat Simulator va de causar tanta [&#8230;]]]></description>
-		<wfw:commentRss>/Goat%20Simulator/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>KAMI</title>
-		<link>/KAMI/</link>
-		<comments>/KAMI/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
 		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Ukrainian]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/among-the-sleep</guid>
+		<description><![CDATA[Juego de terror en primera persona en el que te meterás en la piel de un niño de dos años. El juego aborda el horror a través de la atmósfera y la exploracioń, y no a través de sistemas de combate y puntuación. En Among the Sleep, tú eres un niño vulnerable y asustado, que [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/among-the-sleep/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Portal 2</title>
+		<link>https://cheap-and-cheerful.store/portal-2/</link>
+		<comments>https://cheap-and-cheerful.store/portal-2/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Norwegian]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Thai]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[KAMI is deceptively simple: fold out coloured paper to fill the screen in as few moves as possible. Relaxing and easy to pick up, you&#8217;ll soon find yourself deep in contemplation to perfect each puzzle. Created by State of Play, famous for their handcrafted aesthetic, KAMI has been created with real paper in an elegant [&#8230;]]]></description>
-		<wfw:commentRss>/KAMI/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/portal-2</guid>
+		<description><![CDATA[Portal 2 continúa con esa fórmula ganadora consistente en una innovadora mecánica de juego, historia y música que condujeron al Portal original a ganar más de 70 galardones y lo convirtieron en un nuevo mito de la industria. En el modo de un jugador de Portal 2 conoceremos a un nuevo elenco de personajes, gran [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/portal-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Immune</title>
-		<link>/Immune/</link>
-		<comments>/Immune/#respond</comments>
+		<title>Deponia</title>
+		<link>https://cheap-and-cheerful.store/deponia/</link>
+		<comments>https://cheap-and-cheerful.store/deponia/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Bulgarian]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/deponia</guid>
+		<description><![CDATA[The Deponia series on Steam: http://store.steampowered.com/app/220740/ http://store.steampowered.com/app/241910/ http://store.steampowered.com/app/421050/ Buy Deponia 1-3: http://store.steampowered.com/app/292910/ Acerca del juego En Deponia, el mundo ha degenerado en un inmenso vertedero de basura, en el que el malhumorado Rufus a duras penas se gana su lamentable existencia. Él es parte de la clase social más baja, condenado a vivir su vida [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/deponia/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pineview Drive</title>
+		<link>https://cheap-and-cheerful.store/pineview-drive/</link>
+		<comments>https://cheap-and-cheerful.store/pineview-drive/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Massively Multiplayer]]></category>
-		<category><![CDATA[MMO]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Experimente la supervivencia real con un guiño en el mundo de Immune – el nuevo MMORPG de supervivencia en mundo abierto. Sobreviva a los páramos con la ayuda de sus amigos y sus armas artesanales. Construya su propia fortaleza para defenderse a usted y a su botín ganado duramente a mutantes malvados, bandidos o jugadores [&#8230;]]]></description>
-		<wfw:commentRss>/Immune/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/pineview-drive</guid>
+		<description><![CDATA[A one-of-a-kind horror shocker – a game aware of your fear! An old abandoned mansion lies at the dead end of Pineview Drive. A troubled man is standing at its gates, looking over the property. 20 years ago he had visited this estate with his wife Linda. During their stay his beloved vanished without a [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/pineview-drive/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Ignite</title>
-		<link>/Ignite/</link>
-		<comments>/Ignite/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Cada carrera es diferente en Ignite y aporta algo nuevo que los jugadores intentan conseguir usando sus propias tácticas.El sistema de puntuación permite que las tácticas sean empleadas durante la carrera. Acumular puntuación permite el uso del nitro en la carrera y se convierte en tiempo adicional al final de ésta. Así que el uso [&#8230;]]]></description>
-		<wfw:commentRss>/Ignite/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Football Manager 2016</title>
-		<link>/Football%20Manager%202016/</link>
-		<comments>/Football%20Manager%202016/#respond</comments>
+		<title>Car Mechanic Simulator 2014</title>
+		<link>https://cheap-and-cheerful.store/car-mechanic-simulator-2014/</link>
+		<comments>https://cheap-and-cheerful.store/car-mechanic-simulator-2014/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Football Manager es el juego de simulación de gestión de fútbol más realista, profundo e inmersivo del mercado; lo más parecido a dirigir un equipo en el mundo real. Podrás controlar a equipos de más de 50 países de todo el mundo. Decidirás quién juega y quién se queda en el banquillo, te encargarás de [&#8230;]]]></description>
-		<wfw:commentRss>/Football%20Manager%202016/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/car-mechanic-simulator-2014</guid>
+		<description><![CDATA[Now you can own and operate your own auto repair service with PlayWay’s Car Mechanic Simulator 2014. Car Mechanic Simulator 2014 gives you the behind the scenes view of the daily dealings at local garages and dealership repair shops. Interact with car owners seeking repairs Order parts and materials necessary to maintain inventory including used [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/car-mechanic-simulator-2014/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mind: Path to Thalamus</title>
+		<link>https://cheap-and-cheerful.store/mind-path-to-thalamus/</link>
+		<comments>https://cheap-and-cheerful.store/mind-path-to-thalamus/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/mind-path-to-thalamus</guid>
+		<description><![CDATA[Mind: Path to Thalamus es un juego de puzles en primer persona que lanza al jugador en un entorno surrealista y fantasioso . Como jugador podrás manipular el clima y más elementos naturales del entorno para progresar en esta historia emotiva y llena de giros. Cambia todo el entorno El gameplay de MIND se centra [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/mind-path-to-thalamus/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pro Evolution Soccer 2016</title>
+		<link>https://cheap-and-cheerful.store/pro-evolution-soccer-2016/</link>
+		<comments>https://cheap-and-cheerful.store/pro-evolution-soccer-2016/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Thai]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/pro-evolution-soccer-2016</guid>
+		<description><![CDATA[Удостоенная многих наград игровая серия возвращается в свою 20-ю годовщину с новыми функциями. Игроки, которые играли в режиме myClub в игре PES 2015, могут получить награды в этом же режиме в игре PES 2016: • 2 игрока или более 90+ = 3 игрока 80+. • 1 игрок или более 87+ = 2 игрока 80+. • [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/pro-evolution-soccer-2016/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Loadout</title>
+		<link>https://cheap-and-cheerful.store/loadout/</link>
+		<comments>https://cheap-and-cheerful.store/loadout/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Free to Play]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/loadout</guid>
+		<description><![CDATA[¡Oh, sí, Loadout es un shooter multijugador nuevo y extravagante en donde lo primero y lo último son las armas! Crea un increíble arsenal de una enorme variedad (miles de millones de combinaciones) totalmente personalizado, totalmente único y totalmente letal. Nuestro robusto sistema modular de fabricación de armas permite que los jugadores creen sus propias [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/loadout/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

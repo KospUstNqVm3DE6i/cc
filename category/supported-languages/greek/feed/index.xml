@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Greek &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/supported-languages/greek/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/supported-languages/greek/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Greek &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Valve Complete Pack</title>
-		<link>/Valve%20Complete%20Pack/</link>
-		<comments>/Valve%20Complete%20Pack/#respond</comments>
+		<link>https://cheap-and-cheerful.store/valve-complete-pack/</link>
+		<comments>https://cheap-and-cheerful.store/valve-complete-pack/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -78,15 +78,15 @@
 		<category><![CDATA[Ukrainian]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/valve-complete-pack</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Valve%20Complete%20Pack/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/valve-complete-pack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Lux Delux</title>
-		<link>/Lux%20Delux/</link>
-		<comments>/Lux%20Delux/#respond</comments>
+		<link>https://cheap-and-cheerful.store/lux-delux/</link>
+		<comments>https://cheap-and-cheerful.store/lux-delux/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Cross-Platform Multiplayer]]></category>
@@ -117,15 +117,15 @@
 		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/lux-delux</guid>
 		<description><![CDATA[Lux Delux es un frenético juego de estrategia por turnos sobre riesgo, dominación mundial y mucho más. Lux presenta muchas opciones de modificación y dispone de 900 mapas, distintos generadores de mapas aleatorios, un modo de peligro biológico, un SDK de IA y una liga multijugador en línea. ¡Conquista el mundo en 10 minutos! Multijugador [&#8230;]]]></description>
-		<wfw:commentRss>/Lux%20Delux/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/lux-delux/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Euro Truck Simulator 2</title>
-		<link>/Euro%20Truck%20Simulator%202/</link>
-		<comments>/Euro%20Truck%20Simulator%202/#respond</comments>
+		<link>https://cheap-and-cheerful.store/euro-truck-simulator-2/</link>
+		<comments>https://cheap-and-cheerful.store/euro-truck-simulator-2/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Bulgarian]]></category>
@@ -160,15 +160,15 @@
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/euro-truck-simulator-2</guid>
 		<description><![CDATA[Give American Truck Simulator a test drive Start your new truck empire in the United States! Try the demo of American Truck Simulator and visit the Steam store page. http://store.steampowered.com/app/441960/ Acerca del juego Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to [&#8230;]]]></description>
-		<wfw:commentRss>/Euro%20Truck%20Simulator%202/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/euro-truck-simulator-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Broadside</title>
-		<link>/Broadside/</link>
-		<comments>/Broadside/#respond</comments>
+		<link>https://cheap-and-cheerful.store/broadside/</link>
+		<comments>https://cheap-and-cheerful.store/broadside/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -201,15 +201,15 @@
 		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/broadside</guid>
 		<description><![CDATA[Broadside is a pirate action adventure game focused on infamy and destruction. Players take on the role of a pirate taking part in tactical ship-to-ship battles and boarding actions. While preying on trade routes, fighting rival pirates and harassing the Royal Navy, the excitement of fast-paced sailing and sinking ships is rewarded with Infamy points. [&#8230;]]]></description>
-		<wfw:commentRss>/Broadside/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/broadside/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Football Manager 2015</title>
-		<link>/Football%20Manager%202015/</link>
-		<comments>/Football%20Manager%202015/#respond</comments>
+		<link>https://cheap-and-cheerful.store/football-manager-2015/</link>
+		<comments>https://cheap-and-cheerful.store/football-manager-2015/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Czech]]></category>
@@ -236,15 +236,15 @@
 		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/football-manager-2015</guid>
 		<description><![CDATA[Football Manager 2015 &#8211; новая часть знаменитой серии симулятора футбольного менеджера. Выходит на PC, Mac и Linux в ноябре 2014 года. Football Manager &#8211; это наиболее реалистичный симулятор футбольного менеджера. Станьте тренером одного из клубов в более чем 50 странах, включая все лучшие европейские лиги. Football Manager 2015 позволит вам оказаться в роли менеджера клуба, [&#8230;]]]></description>
-		<wfw:commentRss>/Football%20Manager%202015/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/football-manager-2015/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Dangerous</title>
-		<link>/Dangerous/</link>
-		<comments>/Dangerous/#respond</comments>
+		<link>https://cheap-and-cheerful.store/dangerous/</link>
+		<comments>https://cheap-and-cheerful.store/dangerous/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -283,15 +283,15 @@
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/dangerous</guid>
 		<description><![CDATA[Dangerous is an epic 3D open and living world space sandbox combat RPG with an immersive and riveting story. You have been awoken from cryo sleep a century later, and must discover the truth. Are you the feared war criminal who will destroy all life or the savior of the universe? Gather your wingmen and [&#8230;]]]></description>
-		<wfw:commentRss>/Dangerous/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/dangerous/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Football Manager 2016</title>
-		<link>/Football%20Manager%202016/</link>
-		<comments>/Football%20Manager%202016/#respond</comments>
+		<link>https://cheap-and-cheerful.store/football-manager-2016/</link>
+		<comments>https://cheap-and-cheerful.store/football-manager-2016/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Czech]]></category>
@@ -318,15 +318,15 @@
 		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/football-manager-2016</guid>
 		<description><![CDATA[Football Manager es el juego de simulación de gestión de fútbol más realista, profundo e inmersivo del mercado; lo más parecido a dirigir un equipo en el mundo real. Podrás controlar a equipos de más de 50 países de todo el mundo. Decidirás quién juega y quién se queda en el banquillo, te encargarás de [&#8230;]]]></description>
-		<wfw:commentRss>/Football%20Manager%202016/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/football-manager-2016/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Rescue Team</title>
-		<link>/Rescue%20Team/</link>
-		<comments>/Rescue%20Team/#respond</comments>
+		<link>https://cheap-and-cheerful.store/rescue-team/</link>
+		<comments>https://cheap-and-cheerful.store/rescue-team/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Casual]]></category>
@@ -353,15 +353,15 @@
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/rescue-team</guid>
 		<description><![CDATA[Control the rescue workers who rebuild three islands in the wake of devastating weather! Remove debris to free trapped workers in Rescue Team! Repair damaged restaurants, houses, and sawmills to produce necessary resources. Race against the clock to collect gems, put out fires, and save stranded swimmers! Rescue Team is fun, gripping, and unlike any [&#8230;]]]></description>
-		<wfw:commentRss>/Rescue%20Team/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/rescue-team/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Orange Box</title>
-		<link>/The%20Orange%20Box/</link>
-		<comments>/The%20Orange%20Box/#respond</comments>
+		<link>https://cheap-and-cheerful.store/the-orange-box/</link>
+		<comments>https://cheap-and-cheerful.store/the-orange-box/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -404,15 +404,15 @@
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-orange-box</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/The%20Orange%20Box/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-orange-box/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Vortex: The Gateway</title>
-		<link>/Vortex%3A%20The%20Gateway/</link>
-		<comments>/Vortex%3A%20The%20Gateway/#respond</comments>
+		<link>https://cheap-and-cheerful.store/vortex-the-gateway/</link>
+		<comments>https://cheap-and-cheerful.store/vortex-the-gateway/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -433,15 +433,15 @@
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/vortex-the-gateway</guid>
 		<description><![CDATA[Vortex: The Gateway es un juego de terror y supervivencia en un mundo abierto. Una misteriosa dimensión vórtice te llevará hasta un planeta alienígena. Explóralo, adáptate, construye y combate para sobrevivir. Tendrás que enfrentarte a los peligros del planeta en diferentes momentos del día, con una temperatura en constante cambio, hambriento o muerto de sed. [&#8230;]]]></description>
-		<wfw:commentRss>/Vortex%3A%20The%20Gateway/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/vortex-the-gateway/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Pro Evolution Soccer 2016</title>
-		<link>/Pro%20Evolution%20Soccer%202016/</link>
-		<comments>/Pro%20Evolution%20Soccer%202016/#respond</comments>
+		<link>https://cheap-and-cheerful.store/pro-evolution-soccer-2016/</link>
+		<comments>https://cheap-and-cheerful.store/pro-evolution-soccer-2016/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Arabic]]></category>
@@ -466,15 +466,15 @@
 		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/pro-evolution-soccer-2016</guid>
 		<description><![CDATA[Удостоенная многих наград игровая серия возвращается в свою 20-ю годовщину с новыми функциями. Игроки, которые играли в режиме myClub в игре PES 2015, могут получить награды в этом же режиме в игре PES 2016: • 2 игрока или более 90+ = 3 игрока 80+. • 1 игрок или более 87+ = 2 игрока 80+. • [&#8230;]]]></description>
-		<wfw:commentRss>/Pro%20Evolution%20Soccer%202016/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/pro-evolution-soccer-2016/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>European Ship Simulator</title>
-		<link>/European%20Ship%20Simulator/</link>
-		<comments>/European%20Ship%20Simulator/#respond</comments>
+		<link>https://cheap-and-cheerful.store/european-ship-simulator/</link>
+		<comments>https://cheap-and-cheerful.store/european-ship-simulator/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Dutch]]></category>
@@ -490,9 +490,9 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/european-ship-simulator</guid>
 		<description><![CDATA[Captain eight highly detailed vessels and explore famous European ports including Dover, Rostock and the bay of Gibraltar. Larger vessels will break through the waves with tremendous force but smaller ships will rock back and forth creating a great experience as you try to combat realistic water physics. Each ship handles differently, some with different [&#8230;]]]></description>
-		<wfw:commentRss>/European%20Ship%20Simulator/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/european-ship-simulator/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

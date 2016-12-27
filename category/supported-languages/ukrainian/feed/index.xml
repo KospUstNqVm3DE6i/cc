@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Ukrainian &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/supported-languages/ukrainian/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/supported-languages/ukrainian/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,368 +19,16 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Ukrainian &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>The Bridge</title>
-		<link>/The%20Bridge/</link>
-		<comments>/The%20Bridge/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[The Bridge es un juego de lógica y puzles en dos dimensiones que obliga al jugador a reevaluar sus ideas preconcebidas sobre la física y la perspectiva. Es una mezcla entre Isaac Newton y M. C. Escher. Manipula la gravedad para convertir el techo en el suelo mientras te aventuras en arquitecturas imposibles. Explora mundos [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Bridge/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Scania Truck Driving Simulator</title>
-		<link>/Scania%20Truck%20Driving%20Simulator/</link>
-		<comments>/Scania%20Truck%20Driving%20Simulator/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Get behind the wheel of one of the most iconic trucks on the road with this highly detailed Scania R-series truck simulation by SCS Software, developers of Euro Truck Simulator 2. Prove your truck skills &#8211; Put your driving skills to the ultimate test with 10 individual truck maneuvering challenges that serve as a practical [&#8230;]]]></description>
-		<wfw:commentRss>/Scania%20Truck%20Driving%20Simulator/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Bravada</title>
-		<link>/Bravada/</link>
-		<comments>/Bravada/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Ukrainian]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[You play a young beardless dwarf who dreams about adventures and heroic deeds. Usually dwarves have beards, but for some mystical reasons beard of our hero is not grows. So he decide to make a journey with his friend the bat to solve this problem. During the game you control a group of units each [&#8230;]]]></description>
-		<wfw:commentRss>/Bravada/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Teslagrad</title>
-		<link>/Teslagrad/</link>
-		<comments>/Teslagrad/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Un viaje comienza&#8230; Teslagrad es un juego de plataformas y puzles con elementos de acción, en el cual el magnetismo y otros poderes electromagnéticos son claves para avanzar a lo largo del juego. Descubre los secretos que aguardan en la Torre de Tesla, abandonada por largo tiempo. Gana nuevas habilidades para explorar un mundo no-lineal [&#8230;]]]></description>
-		<wfw:commentRss>/Teslagrad/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Ephemerid: A Musical Adventure</title>
-		<link>/Ephemerid%3A%20A%20Musical%20Adventure/</link>
-		<comments>/Ephemerid%3A%20A%20Musical%20Adventure/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[2015 IGF Winner: Excellence in Audio Ephemerid is a rock fairy tale about a paper mayfly. Lean back, relax and enjoy it as a whole, as you would a favorite album. Ephemerid is part rhythm game, part point-and-click adventure, and part rock opera. KEY FEATURES Ephemerid’s beating heart is its original soundtrack, rock guitar with [&#8230;]]]></description>
-		<wfw:commentRss>/Ephemerid%3A%20A%20Musical%20Adventure/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Hero of Many</title>
-		<link>/Hero%20of%20Many/</link>
-		<comments>/Hero%20of%20Many/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Hero Of Many takes you on an epic journey as a tiny hero in a dangerous world. But you’re not alone; you lead a swarm of water-beings through fierce battles for freedom across four different worlds and twenty-six choreographed levels. It’s an atmospheric action adventure that takes you deep into underwater caverns. Where you: • [&#8230;]]]></description>
-		<wfw:commentRss>/Hero%20of%20Many/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dungeon Lurk II &#8211; Leona</title>
-		<link>/Dungeon%20Lurk%20II%20-%20Leona/</link>
-		<comments>/Dungeon%20Lurk%20II%20-%20Leona/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[An Action Puzzle Adventure Game with roots in the classic &#34;Point &#38; Click&#34; genre. Take your time and explore the environment for clues to puzzles. Zoom in to detailed areas to find secrets that allow you to progress in the game. The story Ceghran, The Dread King, has constructed a dungeon kingdom to house his [&#8230;]]]></description>
-		<wfw:commentRss>/Dungeon%20Lurk%20II%20-%20Leona/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Fake Colours</title>
-		<link>/Fake%20Colours/</link>
-		<comments>/Fake%20Colours/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Ukrainian]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Designed around the RBG colour scheme, Fake Colours is a 3D cube rolling puzzle game in which the player must move three coloured blocks to their corresponding target squares. Don&#8217;t be fooled by the simple, yet beautiful art in the game, Fake Colours is all about the puzzles. Game Blocks are able to roll on [&#8230;]]]></description>
-		<wfw:commentRss>/Fake%20Colours/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Hero of the Kingdom</title>
-		<link>/Hero%20of%20the%20Kingdom/</link>
-		<comments>/Hero%20of%20the%20Kingdom/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Embárcate en una peligrosa aventura para salvar a tu padre y el reino. Vivías una apacible existencia en la granja con tu padre. Un día soleado como otro cualquiera tu vida cambió por completo. Unos malvados bandidos saquearon tu casa y la dejaron hecha cenizas. Tu padre ha desaparecido. La oscuridad se apodera de todo [&#8230;]]]></description>
-		<wfw:commentRss>/Hero%20of%20the%20Kingdom/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Gynophobia</title>
-		<link>/Gynophobia/</link>
-		<comments>/Gynophobia/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Ukrainian]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Gynophobia es un shooter de terror sobre el miedo anormal de las mujeres. Gynophobia está utilizando la clásica jugabilidad de tirador en primera persona, para transmitir la historia de Marcos, que sufre de diferentes fobias, incluyendo el miedo anormal de la mujer. Características principales Mezcla de Terror y Acción Premisa única Música de alta calidad [&#8230;]]]></description>
-		<wfw:commentRss>/Gynophobia/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
 		<title>Valve Complete Pack</title>
-		<link>/Valve%20Complete%20Pack/</link>
-		<comments>/Valve%20Complete%20Pack/#respond</comments>
+		<link>https://cheap-and-cheerful.store/valve-complete-pack/</link>
+		<comments>https://cheap-and-cheerful.store/valve-complete-pack/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -430,15 +78,15 @@
 		<category><![CDATA[Ukrainian]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/valve-complete-pack</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Valve%20Complete%20Pack/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/valve-complete-pack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Dropsy</title>
-		<link>/Dropsy/</link>
-		<comments>/Dropsy/#respond</comments>
+		<link>https://cheap-and-cheerful.store/dropsy/</link>
+		<comments>https://cheap-and-cheerful.store/dropsy/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
@@ -472,9 +120,347 @@
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/dropsy</guid>
 		<description><![CDATA[Dropsy: Warm Damp Hug Edition The Dropsy Warm Damp Hug Edition includes the official Dropsy digital soundtrack by Chris Schlarb, the Eternal Hug music EP by Jay Tholen, and Dropsy&#8217;s Book of Secrets &#8211; a collection of over 100 pages of tips, sketches, concepts and ramblings from designer Jay Tholen. Acerca del juego After a [&#8230;]]]></description>
-		<wfw:commentRss>/Dropsy/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/dropsy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Insurgency</title>
+		<link>https://cheap-and-cheerful.store/insurgency/</link>
+		<comments>https://cheap-and-cheerful.store/insurgency/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Ukrainian]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/insurgency</guid>
+		<description><![CDATA[Sumérgete en una experiencia de combate en espacios cerrados en la que el éxito de tu equipo dependerá de su capacidad para asaltar puntos estratégicos o destruir arsenales, entre otros objetivos. Toma las calles en este título multijugador y cooperativo basado en el motor Source. Sucesor del galardonado mod del Half-Life 2 del mismo nombre, [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/insurgency/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gridberd</title>
+		<link>https://cheap-and-cheerful.store/gridberd/</link>
+		<comments>https://cheap-and-cheerful.store/gridberd/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Ukrainian]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/gridberd</guid>
+		<description><![CDATA[Cada casa guarda muchos misterios terribles. No es fácil adivinarlos, y de las respuestas surgen a veces solamente las nuevas preguntas. ¿Pero qué hacer, cuando de estas respuestas depende vuestra vida? El juego GRIDBERD representa action-horror de la primera persona, en el cual usted tiene que adivinar el misterio terrible de la mansión antigua de [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/gridberd/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Metro: Last Light Redux</title>
+		<link>https://cheap-and-cheerful.store/metro-last-light-redux/</link>
+		<comments>https://cheap-and-cheerful.store/metro-last-light-redux/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Ukrainian]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/metro-last-light-redux</guid>
+		<description><![CDATA[Reviews Acerca del juego Estamos en 2034. Bajo las ruinas del Moscú postapocalíptico, en los túneles del metro, lo poco que queda de la humanidad sufre el asedio de horribles amenazas externas&#8230; e internas. Los mutantes recorren los cielos venenosos y las catacumbas bajo la superficie desolada. Pero, en vez de unirse, las distintas estaciones [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/metro-last-light-redux/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dangerous</title>
+		<link>https://cheap-and-cheerful.store/dangerous/</link>
+		<comments>https://cheap-and-cheerful.store/dangerous/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Bulgarian]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Thai]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Ukrainian]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/dangerous</guid>
+		<description><![CDATA[Dangerous is an epic 3D open and living world space sandbox combat RPG with an immersive and riveting story. You have been awoken from cryo sleep a century later, and must discover the truth. Are you the feared war criminal who will destroy all life or the savior of the universe? Gather your wingmen and [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/dangerous/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fire</title>
+		<link>https://cheap-and-cheerful.store/fire/</link>
+		<comments>https://cheap-and-cheerful.store/fire/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Bulgarian]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Thai]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Ukrainian]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/fire</guid>
+		<description><![CDATA[FIRE es una aventura de exploración con un intuitivo diseño de puzles. Consigue contar una historia terriblemente divertida sin usar siquiera una palabra. Viaja hasta la edad de piedra y enfréntate a la tarea más complicada de esta época: ¡La búsqueda del fuego! El héroe de esta historia es el simpático y despistado neandertal Ungh, [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/fire/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rescue Team</title>
+		<link>https://cheap-and-cheerful.store/rescue-team/</link>
+		<comments>https://cheap-and-cheerful.store/rescue-team/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Ukrainian]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/rescue-team</guid>
+		<description><![CDATA[Control the rescue workers who rebuild three islands in the wake of devastating weather! Remove debris to free trapped workers in Rescue Team! Repair damaged restaurants, houses, and sawmills to produce necessary resources. Race against the clock to collect gems, put out fires, and save stranded swimmers! Rescue Team is fun, gripping, and unlike any [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/rescue-team/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kraven Manor</title>
+		<link>https://cheap-and-cheerful.store/kraven-manor/</link>
+		<comments>https://cheap-and-cheerful.store/kraven-manor/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Thai]]></category>
+		<category><![CDATA[Ukrainian]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/kraven-manor</guid>
+		<description><![CDATA[The Journey of a Student Game Beginning as students, our team quickly realized that the Let&#8217;s Play horror community was taking great interest in Kraven Manor. We decided to venture out, create Demon Wagon Studios, and self-publish so that we may share our game with the world. Thanks for letting us scare you for two [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/kraven-manor/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Metro Redux Bundle</title>
+		<link>https://cheap-and-cheerful.store/metro-redux-bundle/</link>
+		<comments>https://cheap-and-cheerful.store/metro-redux-bundle/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Ukrainian]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/metro-redux-bundle</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/metro-redux-bundle/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Stanley Parable</title>
+		<link>https://cheap-and-cheerful.store/the-stanley-parable/</link>
+		<comments>https://cheap-and-cheerful.store/the-stanley-parable/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Ukrainian]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-stanley-parable</guid>
+		<description><![CDATA[The Stanley Parable is a first person exploration game. You will play as Stanley, and you will not play as Stanley. You will follow a story, you will not follow a story. You will have a choice, you will have no choice. The game will end, the game will never end. Contradiction follows contradiction, the [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-stanley-parable/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Among the Sleep</title>
+		<link>https://cheap-and-cheerful.store/among-the-sleep/</link>
+		<comments>https://cheap-and-cheerful.store/among-the-sleep/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Ukrainian]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/among-the-sleep</guid>
+		<description><![CDATA[Juego de terror en primera persona en el que te meterás en la piel de un niño de dos años. El juego aborda el horror a través de la atmósfera y la exploracioń, y no a través de sistemas de combate y puntuación. En Among the Sleep, tú eres un niño vulnerable y asustado, que [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/among-the-sleep/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

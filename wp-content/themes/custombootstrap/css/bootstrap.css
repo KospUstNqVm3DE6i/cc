@@ -263,8 +263,8 @@ th {
 @font-face {
   font-family: 'Glyphicons Halflings';
 
-  src: url('/wp-content/themes/custombootstrap/fonts/glyphicons-halflings-regular.eot');
-  src: url('/wp-content/themes/custombootstrap/fonts/glyphicons-halflings-regular.eot#iefix') format('embedded-opentype'), url('/wp-content/themes/custombootstrap/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('/wp-content/themes/custombootstrap/fonts/glyphicons-halflings-regular.woff') format('woff'), url('/wp-content/themes/custombootstrap/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('/wp-content/themes/custombootstrap/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  src: url('https://cheap-and-cheerful.store/wp-content/themes/custombootstrap/fonts/glyphicons-halflings-regular.eot');
+  src: url('https://cheap-and-cheerful.store/wp-content/themes/custombootstrap/fonts/glyphicons-halflings-regular.eot#iefix') format('embedded-opentype'), url('https://cheap-and-cheerful.store/wp-content/themes/custombootstrap/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('https://cheap-and-cheerful.store/wp-content/themes/custombootstrap/fonts/glyphicons-halflings-regular.woff') format('woff'), url('https://cheap-and-cheerful.store/wp-content/themes/custombootstrap/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('https://cheap-and-cheerful.store/wp-content/themes/custombootstrap/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;

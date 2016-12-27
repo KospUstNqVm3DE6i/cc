@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Steam Cloud &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/features/steam-cloud/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/features/steam-cloud/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,360 +19,326 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Steam Cloud &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>XCOM: Enemy Unknown</title>
-		<link>/XCOM%3A%20Enemy%20Unknown/</link>
-		<comments>/XCOM%3A%20Enemy%20Unknown/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[XCOM: Enemy Unknown te pone al mando de una organización paramilitar secreta llamada XCOM. Como comandante de XCOM, defenderás la Tierra de una aterradora invasión alienígena a base de administrar recursos, desarrollar tecnologías y supervisar tanto estrategias de combate como tácticas de unidades individuales. El X-COM original goza de una asentada reputación como uno de [&#8230;]]]></description>
-		<wfw:commentRss>/XCOM%3A%20Enemy%20Unknown/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Call of Duty®: Ghosts &#8211; Devastation</title>
-		<link>/Call%20of%20Duty%C2%AE%3A%20Ghosts%20-%20Devastation/</link>
-		<comments>/Call%20of%20Duty%C2%AE%3A%20Ghosts%20-%20Devastation/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Call%20of%20Duty%C2%AE%3A%20Ghosts%20-%20Devastation/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dead Island: Game of the Year Edition</title>
-		<link>/Dead%20Island%3A%20Game%20of%20the%20Year%20Edition/</link>
-		<comments>/Dead%20Island%3A%20Game%20of%20the%20Year%20Edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Ужас. Насилие. Безумие. Бедлам. Праздничные каникулы превратились в нечто ужасное. Тропический остров наполняется хаосом после загадочного появления толп зомби. Единственный шанс выжить — это бороться насмерть, чтобы найти выход с этого острова, где вы просто-напросто отрезаны от всего остального мира. Dead Island сочетает в себе экшен с видом от первого лица с особенным вниманием к [&#8230;]]]></description>
-		<wfw:commentRss>/Dead%20Island%3A%20Game%20of%20the%20Year%20Edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Fallout 2: A Post Nuclear Role Playing Game</title>
-		<link>/Fallout%202%3A%20A%20Post%20Nuclear%20Role%20Playing%20Game/</link>
-		<comments>/Fallout%202%3A%20A%20Post%20Nuclear%20Role%20Playing%20Game/#respond</comments>
+		<title>0RBITALIS</title>
+		<link>https://cheap-and-cheerful.store/0rbitalis/</link>
+		<comments>https://cheap-and-cheerful.store/0rbitalis/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Fallout® 2 es la secuela del juego aclamado por la crítica que sacó a los RPGs de las mazmorras y los llevó a un retro-futuro dinámico y apocalíptico. Han pasado 80 años desde que tus antecesores cruzaron los páramos. Mientras buscas el Kit de Creación del Jardín del Edén para salvar a tu primitivo pueblo, [&#8230;]]]></description>
-		<wfw:commentRss>/Fallout%202%3A%20A%20Post%20Nuclear%20Role%20Playing%20Game/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Orange Box</title>
-		<link>/The%20Orange%20Box/</link>
-		<comments>/The%20Orange%20Box/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[Free to Play]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Includes Source SDK]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/The%20Orange%20Box/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/0rbitalis</guid>
+		<description><![CDATA[0RBITALIS es un simulador de lanzamiento de satélites con un estilo de puzles retro. Lanza tu satélite a órbita y enfréntate a la fuerza dominante que formó todo el universo: la gravedad. Estos lanzamientos no serán cosa fácil: hay todo tipo de estrellas, planetas, cometas, púlsares y muchas cosas más que debes evitar. Por no [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/0rbitalis/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Portal 2</title>
-		<link>/Portal%202/</link>
-		<comments>/Portal%202/#respond</comments>
+		<title>Company of Heroes Complete Pack</title>
+		<link>https://cheap-and-cheerful.store/company-of-heroes-complete-pack/</link>
+		<comments>https://cheap-and-cheerful.store/company-of-heroes-complete-pack/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/company-of-heroes-complete-pack</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/company-of-heroes-complete-pack/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DOOM 3</title>
+		<link>https://cheap-and-cheerful.store/doom-3/</link>
+		<comments>https://cheap-and-cheerful.store/doom-3/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/doom-3</guid>
+		<description><![CDATA[Una masiva invasión demoníaca ha tomado por sorpresa las instalaciones de investigación de la Union Aerospace Corporation (UAC) en Marte, dejando sólo caos y destrucción a su paso. Como uno de los pocos supervivientes, deberás abrirte paso hasta el Infierno y regresar a la vez que luchas contra hordas de malvados monstruos. El camino es [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/doom-3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GRID 2</title>
+		<link>https://cheap-and-cheerful.store/grid-2/</link>
+		<comments>https://cheap-and-cheerful.store/grid-2/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Portal 2 continúa con esa fórmula ganadora consistente en una innovadora mecánica de juego, historia y música que condujeron al Portal original a ganar más de 70 galardones y lo convirtieron en un nuevo mito de la industria. En el modo de un jugador de Portal 2 conoceremos a un nuevo elenco de personajes, gran [&#8230;]]]></description>
-		<wfw:commentRss>/Portal%202/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/grid-2</guid>
+		<description><![CDATA[Steam Big Picture Acerca del juego Ponte a los mandos, pisa a fondo y persigue la fama en GRID 2, la nueva entrega de Race Driver: GRID, el juego que ganó un premio BAFTA y vendió millones de copias. Sumérgete en agresivas carreras rueda con rueda contra una IA avanzada y vive a fondo la [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/grid-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Terraria</title>
-		<link>/Terraria/</link>
-		<comments>/Terraria/#respond</comments>
+		<title>LEGO The Lord of the Rings</title>
+		<link>https://cheap-and-cheerful.store/lego-the-lord-of-the-rings/</link>
+		<comments>https://cheap-and-cheerful.store/lego-the-lord-of-the-rings/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[¡Cava, lucha, explora, construye! Nada es imposible en este juego de aventuras repleto de acción. El mundo es tu lienzo y la tierra misma es tu pintura. ¡Coge tus herramientas y adelante! Crea armas para deshacerte de una gran variedad de enemigos en numerosos ecosistemas. Excava profundo bajo tierra para encontrar accesorios, dinero y otras [&#8230;]]]></description>
-		<wfw:commentRss>/Terraria/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Warhammer 40,000: Kill Team</title>
-		<link>/Warhammer%2040%2C000%3A%20Kill%20Team/</link>
-		<comments>/Warhammer%2040%2C000%3A%20Kill%20Team/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Jump into the rich world of Warhammer 40,000 in this fast paced 3rd person action shooter. As one of the Emperor&#8217;s Elite Space Marines you have been sent on a vital mission to assault a gigantic Ork Kroozer headed for an Imperial Forge World. Choose your Space Marine Chapter and weapons class and commence the [&#8230;]]]></description>
-		<wfw:commentRss>/Warhammer%2040%2C000%3A%20Kill%20Team/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Stellaris</title>
-		<link>/Stellaris/</link>
-		<comments>/Stellaris/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Nova Edition Stellaris Nova Edition includes: Digital Original Soundtrack The Stellaris soundtrack delivers two and a half hours of original music, including bonus tracks and alternate versions not included in the game. Composed by Andreas Waldetoft with appearances by the Brandenburg State Orchestra and Mia Stegmar, listeners will hear themes meant to evoke discovery and [&#8230;]]]></description>
-		<wfw:commentRss>/Stellaris/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>A Story About My Uncle</title>
-		<link>/A%20Story%20About%20My%20Uncle/</link>
-		<comments>/A%20Story%20About%20My%20Uncle/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[A Story About My Uncle es un juego de plataformas en primera persona sobre un chico que va en busca de su tío desaparecido y termina en un mundo cuya existencia ni siquiera podía imaginar. Usa los misteriosos inventos de tu tío que te permiten saltar increíbles alturas y distancias atravesando maravillosos entornos, descubre pistas [&#8230;]]]></description>
-		<wfw:commentRss>/A%20Story%20About%20My%20Uncle/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/lego-the-lord-of-the-rings</guid>
+		<description><![CDATA[Based on The Lord of the Rings motion picture trilogy, LEGO® The Lord of the Rings follows the original story-lines of The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, and The Lord of the Rings: The Return of the King, taking players through the epic [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/lego-the-lord-of-the-rings/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Dear Esther</title>
-		<link>/Dear%20Esther/</link>
-		<comments>/Dear%20Esther/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[“A deserted island…a lost man…memories of a fatal crash…a book written by a dying explorer.” Two years in the making, the highly anticipated Indie remake of the cult mod Dear Esther arrives on PC. Dear Esther immerses you in a stunningly realised world, a remote and desolate island somewhere in the outer Hebrides. As you [&#8230;]]]></description>
-		<wfw:commentRss>/Dear%20Esther/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Ori and the Blind Forest</title>
-		<link>/Ori%20and%20the%20Blind%20Forest/</link>
-		<comments>/Ori%20and%20the%20Blind%20Forest/#respond</comments>
+		<title>Sacred 3</title>
+		<link>https://cheap-and-cheerful.store/sacred-3/</link>
+		<comments>https://cheap-and-cheerful.store/sacred-3/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/sacred-3</guid>
+		<description><![CDATA[Sacred 3 es un Hack ‘n’ Slash arcade para hasta 4 jugadores ambientado en la guerra de Arcadia. Elegid un héroe legendario y luchad juntos contra las hordas del mal. Os enfrentaréis a grimmocs, brutos, legiones de mercenarios y hechiceros no muertos. Desarrollad las habilidades del personaje y uníos para usar poderosos atributos y tácticas [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/sacred-3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Torchlight</title>
+		<link>https://cheap-and-cheerful.store/torchlight/</link>
+		<comments>https://cheap-and-cheerful.store/torchlight/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/torchlight</guid>
+		<description><![CDATA[He aquí Torchlight, una novedosa franquicia RPG de acción creada por Runic Games. Torchlight está siendo desarrollado en Seattle por un veterano equipo compuesto por los diseñadores y líderes de proyectos como Diablo, Diablo II, Mythos, y Fate. Nuestro equipo ha pasado muchos años perfeccionando y evolucionando esta mecánica de juego única. La aventura transcurre [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/torchlight/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Metro: Last Light Season Pass</title>
+		<link>https://cheap-and-cheerful.store/metro-last-light-season-pass/</link>
+		<comments>https://cheap-and-cheerful.store/metro-last-light-season-pass/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/metro-last-light-season-pass</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/metro-last-light-season-pass/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Goodbye Deponia</title>
+		<link>https://cheap-and-cheerful.store/goodbye-deponia/</link>
+		<comments>https://cheap-and-cheerful.store/goodbye-deponia/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/goodbye-deponia</guid>
+		<description><![CDATA[The Deponia series on Steam: http://store.steampowered.com/app/214340/ http://store.steampowered.com/app/220740/ http://store.steampowered.com/app/421050/ Buy Deponia 1-3: http://store.steampowered.com/app/292910/ Acerca del juego Más caos, más destrucción y más Rufus. No uno, ni dos, sino tres Rufuses causarán toda clase de desastres en la tan esperada y divertida aventura gráfica Goodbye Deponia! Los habitantes de Organon planean la destrucción de Deponia, la encantadora [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/goodbye-deponia/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DRAGON BALL XENOVERSE</title>
+		<link>https://cheap-and-cheerful.store/dragon-ball-xenoverse/</link>
+		<comments>https://cheap-and-cheerful.store/dragon-ball-xenoverse/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/dragon-ball-xenoverse</guid>
+		<description><![CDATA[Recién actualizado ¡Los cromos de Steam para Dragon Ball Xenoverse ya están disponibles! Juega al juego y consigue uno de los 6 increíbles cromos coleccionables. Consigue toda la colección y canjéala para desbloquear fondos, emoticonos e insignias para Steam. Acerca del juego ¡Renacen los combates más fieros de Son Goku y sus amigos! ¡POR PRIMERA [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/dragon-ball-xenoverse/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dead Effect</title>
+		<link>https://cheap-and-cheerful.store/dead-effect/</link>
+		<comments>https://cheap-and-cheerful.store/dead-effect/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[El bosque de Nibel está muriendo. Después de que una fuerte tormenta pusiera en marcha una serie de devastadores acontecimientos, un inesperado héroe deberá partir en busca del valor y enfrentarse a su oscuro archienemigo; solo así salvará su hogar. Ori and the Blind Forest narra la historia de un joven huérfano destinado a convertirse [&#8230;]]]></description>
-		<wfw:commentRss>/Ori%20and%20the%20Blind%20Forest/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/dead-effect</guid>
+		<description><![CDATA[Fight for your life in the INDIE SCI-FI FPS game fit for both casual and hard-core gamers with a passion for hunting down hordes of zombies. Prepare yourselves for the incoming nightmare! The ESS Meridian starship is travelling through space with a new FTL technology, heading towards its destination &#8211; Tau Ceti f, the first [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/dead-effect/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kholat</title>
+		<link>https://cheap-and-cheerful.store/kholat/</link>
+		<comments>https://cheap-and-cheerful.store/kholat/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/kholat</guid>
+		<description><![CDATA[Narrado por uno de los actores británicos más populares, Sean Bean, Kholat es un juego de aventuras y exploración con elementos de terror, inspirado por los hechos reales conocidos como el Incidente del paso Dyatlov – la misteriosa muerte de nueve excursionistas rusos, que ha dado lugar a incontables hipótesis sin confirmar. El jugador se [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/kholat/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

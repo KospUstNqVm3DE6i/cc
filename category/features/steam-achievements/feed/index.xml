@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Steam Achievements &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/features/steam-achievements/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/features/steam-achievements/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Steam Achievements &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>DARK</title>
-		<link>/DARK/</link>
-		<comments>/DARK/#respond</comments>
+		<link>https://cheap-and-cheerful.store/dark/</link>
+		<comments>https://cheap-and-cheerful.store/dark/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -43,15 +43,15 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/dark</guid>
 		<description><![CDATA[DARK is a unique stealth-action game with RPG elements in which you take on the role of the ultimate hunter: a vampire. Ambush your enemies from the shadows, roam the darkness and use powerful vampire skills to dispatch your opponents. The intricate story of DARK will take you into the midst of a world of [&#8230;]]]></description>
-		<wfw:commentRss>/DARK/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/dark/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Borderlands 2</title>
-		<link>/Borderlands%202/</link>
-		<comments>/Borderlands%202/#respond</comments>
+		<link>https://cheap-and-cheerful.store/borderlands-2/</link>
+		<comments>https://cheap-and-cheerful.store/borderlands-2/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -71,15 +71,15 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/borderlands-2</guid>
 		<description><![CDATA[Una nueva era de disparos y saqueos está a punto de comenzar. Juega como uno de los cuatro nuevos buscadores de la Cámara y enfréntate a legiones de nuevas criaturas, psicópatas y al villano que las controla, Jack el Guapo. Haz nuevos amigos, equípalos con un cillón de armas y pelea a su lado en [&#8230;]]]></description>
-		<wfw:commentRss>/Borderlands%202/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/borderlands-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>CoH 2 &#8211; The Western Front Armies: Oberkommando West</title>
-		<link>/CoH%202%20-%20The%20Western%20Front%20Armies%3A%20Oberkommando%20West/</link>
-		<comments>/CoH%202%20-%20The%20Western%20Front%20Armies%3A%20Oberkommando%20West/#respond</comments>
+		<link>https://cheap-and-cheerful.store/coh-2-the-western-front-armies-oberkommando-west/</link>
+		<comments>https://cheap-and-cheerful.store/coh-2-the-western-front-armies-oberkommando-west/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Czech]]></category>
@@ -98,15 +98,15 @@
 		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/coh-2-the-western-front-armies-oberkommando-west</guid>
 		<description><![CDATA[Comprando el ejército del OKW por separado, aquellos jugadores que todavía no posean ningún producto de CoH2 podrán acceder a todos los mapas de Company of Heroes 2 existentes en emparejamiento automático y jugar contra todas las demás facciones en multijugador o en refriegas contra la IA. El curtido y recién equipado Oberkommando West es [&#8230;]]]></description>
-		<wfw:commentRss>/CoH%202%20-%20The%20Western%20Front%20Armies%3A%20Oberkommando%20West/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/coh-2-the-western-front-armies-oberkommando-west/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Doom 3: BFG Edition</title>
-		<link>/Doom%203%3A%20BFG%20Edition/</link>
-		<comments>/Doom%203%3A%20BFG%20Edition/#respond</comments>
+		<link>https://cheap-and-cheerful.store/doom-3-bfg-edition/</link>
+		<comments>https://cheap-and-cheerful.store/doom-3-bfg-edition/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -122,15 +122,15 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/doom-3-bfg-edition</guid>
 		<description><![CDATA[DOOM 3 BFG Edition es la colección definitiva de los juegos que definieron los shooters en primera persona, entre los que se encuentran DOOM, DOOM II, DOOM 3 y DOOM 3: Resurrection of Evil y The Lost Mission. Características Principales: Un clásico remasterizado: Desarrollado por id Software, el equipo original responsable del patrimonio de dicha [&#8230;]]]></description>
-		<wfw:commentRss>/Doom%203%3A%20BFG%20Edition/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/doom-3-bfg-edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>GRID 2</title>
-		<link>/GRID%202/</link>
-		<comments>/GRID%202/#respond</comments>
+		<link>https://cheap-and-cheerful.store/grid-2/</link>
+		<comments>https://cheap-and-cheerful.store/grid-2/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
@@ -152,15 +152,15 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/grid-2</guid>
 		<description><![CDATA[Steam Big Picture Acerca del juego Ponte a los mandos, pisa a fondo y persigue la fama en GRID 2, la nueva entrega de Race Driver: GRID, el juego que ganó un premio BAFTA y vendió millones de copias. Sumérgete en agresivas carreras rueda con rueda contra una IA avanzada y vive a fondo la [&#8230;]]]></description>
-		<wfw:commentRss>/GRID%202/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/grid-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Killing Floor</title>
-		<link>/Killing%20Floor/</link>
-		<comments>/Killing%20Floor/#respond</comments>
+		<link>https://cheap-and-cheerful.store/killing-floor/</link>
+		<comments>https://cheap-and-cheerful.store/killing-floor/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -183,15 +183,15 @@
 		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/killing-floor</guid>
 		<description><![CDATA[Killing Floor es un shooter Cooperativo del género Survival Horror que tiene lugar en los campos y ciudades devastadas de Inglaterra, después de que una serie de experimentos militares de clonación fracasaran con horribles consecuencias. Tú y tus amigos sois miembros de los militares desplegados en esos lugares con una sencilla misión: ¡Sobrevivir el tiempo [&#8230;]]]></description>
-		<wfw:commentRss>/Killing%20Floor/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/killing-floor/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Magicka: Tower of Niflheim</title>
-		<link>/Magicka%3A%20Tower%20of%20Niflheim/</link>
-		<comments>/Magicka%3A%20Tower%20of%20Niflheim/#respond</comments>
+		<link>https://cheap-and-cheerful.store/magicka-tower-of-niflheim/</link>
+		<comments>https://cheap-and-cheerful.store/magicka-tower-of-niflheim/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -212,15 +212,15 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/magicka-tower-of-niflheim</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Magicka%3A%20Tower%20of%20Niflheim/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/magicka-tower-of-niflheim/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>PAYDAY 2: Armored Transport</title>
-		<link>/PAYDAY%202%3A%20Armored%20Transport/</link>
-		<comments>/PAYDAY%202%3A%20Armored%20Transport/#respond</comments>
+		<link>https://cheap-and-cheerful.store/payday-2-armored-transport/</link>
+		<comments>https://cheap-and-cheerful.store/payday-2-armored-transport/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -233,15 +233,15 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/payday-2-armored-transport</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/PAYDAY%202%3A%20Armored%20Transport/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/payday-2-armored-transport/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Risen 3 &#8211; Titan Lords</title>
-		<link>/Risen%203%20-%20Titan%20Lords/</link>
-		<comments>/Risen%203%20-%20Titan%20Lords/#respond</comments>
+		<link>https://cheap-and-cheerful.store/risen-3-titan-lords/</link>
+		<comments>https://cheap-and-cheerful.store/risen-3-titan-lords/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Captions available]]></category>
@@ -257,15 +257,15 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/risen-3-titan-lords</guid>
 		<description><![CDATA[El mundo ha sido abandonado por sus dioses y ha sufrido la furia de los titanes. La humanidad lucha por recuperar su fuerza y reunir a sus tropas. Pero tú tienes preocupaciones más acuciantes: tu propia vida se ha desmoronado y debes partir para reclamar lo que se ha perdido en la oscuridad que está [&#8230;]]]></description>
-		<wfw:commentRss>/Risen%203%20-%20Titan%20Lords/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/risen-3-titan-lords/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Stronghold Crusader 2</title>
-		<link>/Stronghold%20Crusader%202/</link>
-		<comments>/Stronghold%20Crusader%202/#respond</comments>
+		<link>https://cheap-and-cheerful.store/stronghold-crusader-2/</link>
+		<comments>https://cheap-and-cheerful.store/stronghold-crusader-2/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Co-op]]></category>
@@ -288,15 +288,15 @@
 		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/stronghold-crusader-2</guid>
 		<description><![CDATA[Edición especial Banda Sonora Digital compuesta por Robert Euvino Libro de Arte Digital &#8216;El Arte de Stronghold Crusader 2&#8217; Stronghold Crusader HD: Juego completo en Steam &#8211; ¿Ya tienes el juego en Steam? ¡Regálaselo a un amigo! Clientes Special Edition Para acceder a tu libro de arte y banda sonora digital, instala el juego, navega [&#8230;]]]></description>
-		<wfw:commentRss>/Stronghold%20Crusader%202/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/stronghold-crusader-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Tropico 5 &#8211; Waterborne</title>
-		<link>/Tropico%205%20-%20Waterborne/</link>
-		<comments>/Tropico%205%20-%20Waterborne/#respond</comments>
+		<link>https://cheap-and-cheerful.store/tropico-5-waterborne/</link>
+		<comments>https://cheap-and-cheerful.store/tropico-5-waterborne/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Co-op]]></category>
@@ -318,15 +318,15 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/tropico-5-waterborne</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Tropico%205%20-%20Waterborne/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/tropico-5-waterborne/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Metro 2033</title>
-		<link>/Metro%202033/</link>
-		<comments>/Metro%202033/#respond</comments>
+		<link>https://cheap-and-cheerful.store/metro-2033/</link>
+		<comments>https://cheap-and-cheerful.store/metro-2033/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -344,9 +344,9 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/metro-2033</guid>
 		<description><![CDATA[Situado en el destrozado metro de un pos-apocalíptico Moscú, Metro 2033 es una historia de supervivencia intensiva donde el destino de la humanidad está en sus manos. En el año 2013 el mundo fue devastado por un evento apocalíptico, aniquilando a casi toda la humanidad y convirtiendo la superficie de la Tierra en terreno tóxico. [&#8230;]]]></description>
-		<wfw:commentRss>/Metro%202033/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/metro-2033/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

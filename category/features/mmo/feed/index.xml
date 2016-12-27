@@ -9,8 +9,8 @@
 
 <channel>
 	<title>MMO &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/features/mmo/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/features/mmo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,21 +19,40 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>MMO &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Defiance: Apex Arkhunter Bundle</title>
-		<link>/Defiance%3A%20Apex%20Arkhunter%20Bundle/</link>
-		<comments>/Defiance%3A%20Apex%20Arkhunter%20Bundle/#respond</comments>
+		<title>Cloud Chamber</title>
+		<link>https://cheap-and-cheerful.store/cloud-chamber/</link>
+		<comments>https://cheap-and-cheerful.store/cloud-chamber/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
+				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[MMO]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/cloud-chamber</guid>
+		<description><![CDATA[Cloud Chamber is a Massively Multiplayer story game. Explore a mysterious 3D database. Investigate and discuss story fragments with other players. Piece together what happened from fragments of found footage, secret journals and astrophysics documentary. In Cloud Chamber, the science is real; the story is fiction, and the truth about Space unknown. Starring Gethin Anthony [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/cloud-chamber/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WAKFU</title>
+		<link>https://cheap-and-cheerful.store/wakfu/</link>
+		<comments>https://cheap-and-cheerful.store/wakfu/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Free to Play]]></category>
 		<category><![CDATA[French]]></category>
@@ -41,64 +60,56 @@
 		<category><![CDATA[Massively Multiplayer]]></category>
 		<category><![CDATA[MMO]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Defiance%3A%20Apex%20Arkhunter%20Bundle/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Guns and Robots</title>
-		<link>/Guns%20and%20Robots/</link>
-		<comments>/Guns%20and%20Robots/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Free to Play]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Massively Multiplayer]]></category>
-		<category><![CDATA[MMO]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Guns and Robots is free to play online third person shooter. The game brings robot action with massive customization. Players get cartoony bright 3D graphics in attractive environments and challenge each other in open arenas. Guns and Robots gives fun, entertaining experience with easy to master gameplay and numerous options to experiment robot constructing skills. [&#8230;]]]></description>
-		<wfw:commentRss>/Guns%20and%20Robots/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/wakfu</guid>
+		<description><![CDATA[DESCUBRA UN UNIVERSO ILIMITADO Embárcate hacia el Mundo de los Doce y sumérgete en la gran aventura de WAKFU, un juego de rol multijugador masivo en línea con un universo original, donde los combates tácticos riman con el humor (sí, sí, verás como sí rima). Asciende el Monte Zinit tras la pista de Ogrest, el [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/wakfu/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Miscreated</title>
-		<link>/Miscreated/</link>
-		<comments>/Miscreated/#respond</comments>
+		<title>Immune</title>
+		<link>https://cheap-and-cheerful.store/immune/</link>
+		<comments>https://cheap-and-cheerful.store/immune/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Massively Multiplayer]]></category>
 		<category><![CDATA[MMO]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[This is an early ALPHA release of MISCREATED. The current feature set is limited, but will be increased as development continues. You will experience issues during gameplay &#8211; incomplete features, bugs, game crashes, performance issues, and even complete character wipes. Nobody knows what started the Final War — it was over too fast, fought with [&#8230;]]]></description>
-		<wfw:commentRss>/Miscreated/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/immune</guid>
+		<description><![CDATA[Experimente la supervivencia real con un guiño en el mundo de Immune – el nuevo MMORPG de supervivencia en mundo abierto. Sobreviva a los páramos con la ayuda de sus amigos y sus armas artesanales. Construya su propia fortaleza para defenderse a usted y a su botín ganado duramente a mutantes malvados, bandidos o jugadores [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/immune/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Wind of Luck: Arena &#8211; Asian Captain pack</title>
-		<link>/Wind%20of%20Luck%3A%20Arena%20-%20Asian%20Captain%20pack/</link>
-		<comments>/Wind%20of%20Luck%3A%20Arena%20-%20Asian%20Captain%20pack/#respond</comments>
+		<title>Wind of Luck: Arena &#8211; Caribbean Captain pack</title>
+		<link>https://cheap-and-cheerful.store/wind-of-luck-arena-caribbean-captain-pack/</link>
+		<comments>https://cheap-and-cheerful.store/wind-of-luck-arena-caribbean-captain-pack/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -121,45 +132,39 @@
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/wind-of-luck-arena-caribbean-captain-pack</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Wind%20of%20Luck%3A%20Arena%20-%20Asian%20Captain%20pack/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/wind-of-luck-arena-caribbean-captain-pack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Nebula Online</title>
-		<link>/Nebula%20Online/</link>
-		<comments>/Nebula%20Online/#respond</comments>
+		<title>EVE Online</title>
+		<link>https://cheap-and-cheerful.store/eve-online/</link>
+		<comments>https://cheap-and-cheerful.store/eve-online/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Massively Multiplayer]]></category>
 		<category><![CDATA[MMO]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Nebula Online is a space Massive Multiplayer Online Game which can be cross-played between different platforms. This Sci-Fi game is set within a 3 race-populated galaxy where players face a global conflict for universe domination. Openly alter space and explore the universe to find resource fields, abandoned stations and habitable planets. Be aware of the [&#8230;]]]></description>
-		<wfw:commentRss>/Nebula%20Online/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/eve-online</guid>
+		<description><![CDATA[Core Starter Pack Introducing the new EVE Online Starter Pack! Designed from the ground up to kickstart a new pilot&#8217;s career, the Core Starter Pack features a full arsenal of skills and gear for miners and crafters. The Core Starter Pack includes: The ORE Venture mining frigate A full set of modules and equipment to [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/eve-online/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Out of Reach</title>
-		<link>/Out%20of%20Reach/</link>
-		<comments>/Out%20of%20Reach/#respond</comments>
+		<title>Fasaria World Online</title>
+		<link>https://cheap-and-cheerful.store/fasaria-world-online/</link>
+		<comments>https://cheap-and-cheerful.store/fasaria-world-online/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Indie]]></category>
@@ -167,143 +172,89 @@
 		<category><![CDATA[MMO]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Upcoming updates Current Top 5 biggest add-ons requested by players that will come along with the next patches: Island claiming! Old stronghold When you really want to settle down and a big base is not enough, you may want to claim the island as yours. Look for abandoned fortifications and use it&#8217;s masts to stick [&#8230;]]]></description>
-		<wfw:commentRss>/Out%20of%20Reach/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Kingdom Wars</title>
-		<link>/Kingdom%20Wars/</link>
-		<comments>/Kingdom%20Wars/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Free to Play]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Massively Multiplayer]]></category>
-		<category><![CDATA[MMO]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Kingdom Wars is a free to play 3D MMORTS with real-time siege combat, without the pay to win element so common in the genre. Having evolved from Dawn of Fantasy: Kingdom Wars this strategy game offers lively online world, where players gather resources, construct majestic towns, and impregnable strongholds, direct citizens, complete quests in the [&#8230;]]]></description>
-		<wfw:commentRss>/Kingdom%20Wars/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/fasaria-world-online</guid>
+		<description><![CDATA[U Game Me Play From Any Platform Play from any web browser. No hidden costs. No banner ads. No Pay to Win. Everything is earned in game. One time payment. No need to ever spend extra cash. VIP Shop where Crystals earned through achievements can be used. Get 25 Free Crystals to start and 50 [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/fasaria-world-online/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>NEStalgia</title>
-		<link>/NEStalgia/</link>
-		<comments>/NEStalgia/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Massively Multiplayer]]></category>
-		<category><![CDATA[MMO]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[&#34;With a ton of content and a charming 8-bit world, you just can&#8217;t go wrong&#34; &#8211; The Escapist &#34;NEStalgia is exactly what you&#8217;d expect if the original Final Fantasy and Dragon Warrior games were shared worlds. Fantastic.&#34; &#8211; 1UP NEStalgia is an original multiplayer RPG inspired by the glory days of traditional console RPGs. Essentially [&#8230;]]]></description>
-		<wfw:commentRss>/NEStalgia/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Musclecar Online</title>
-		<link>/Musclecar%20Online/</link>
-		<comments>/Musclecar%20Online/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Massively Multiplayer]]></category>
-		<category><![CDATA[MMO]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Massively multiplayer online indie racing game. Race against the ghost recordings of your friends and players from around the world. Design and share your own racetracks. Collect over 100 cars and race them in 11 classes. Compete on a new racetrack every day. Play in 3D or top-down 2D! &#8212; Features &#8212; ★★★★★ Retro top-down [&#8230;]]]></description>
-		<wfw:commentRss>/Musclecar%20Online/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Forsaken Uprising</title>
-		<link>/Forsaken%20Uprising/</link>
-		<comments>/Forsaken%20Uprising/#respond</comments>
+		<title>H1Z1</title>
+		<link>https://cheap-and-cheerful.store/h1z1/</link>
+		<comments>https://cheap-and-cheerful.store/h1z1/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[MMO]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/h1z1</guid>
+		<description><![CDATA[In H1Z1: Just Survive, the H1Z1 zombie virus has crippled civilization. Corrupted by the need to survive, gone are the comforts of society as a new normal permeates the world. You are one of the last remaining humans. Every choice matters, every moment is borrowed time, and every breath could be your last. If you [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/h1z1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ascent &#8211; The Space Game</title>
+		<link>https://cheap-and-cheerful.store/ascent-the-space-game/</link>
+		<comments>https://cheap-and-cheerful.store/ascent-the-space-game/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[MMO]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/ascent-the-space-game</guid>
+		<description><![CDATA[Humanity&#8217;s vast empire is lost. With the last communication outside the Apollo Sector far beyond human memory, we&#8217;ve been forced to build anew, using only the dregs of the civilization left behind. Now it&#8217;s your turn to make your mark and help to rebuild our understanding of where we are and where we came from. [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/ascent-the-space-game/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rust</title>
+		<link>https://cheap-and-cheerful.store/rust/</link>
+		<comments>https://cheap-and-cheerful.store/rust/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Massively Multiplayer]]></category>
 		<category><![CDATA[MMO]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Forsaken Uprising a new MMFPSG (Multiplayer Medieval First Person Survival Game). The game centers on a wide variety of craftable goods and building components that vary in strength and usability. The combat system is very fast paced with a 3 tier stat system based on stamina, strength, and health. The player can literally run until [&#8230;]]]></description>
-		<wfw:commentRss>/Forsaken%20Uprising/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Voice of Pripyat</title>
-		<link>/Voice%20of%20Pripyat/</link>
-		<comments>/Voice%20of%20Pripyat/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Massively Multiplayer]]></category>
-		<category><![CDATA[MMO]]></category>
-		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[3D Action first-person shooter in a post-apocalyptic world. Zombies, anomalies, huge maps, intense realtime battles! Right now there are 5 play modes available &#8211; team deathmatch(TDM), deathmatch(DM), capture the flag (CTF), zombie mode (ZM) and peace mode. A lot of maps available for players &#8211; starting with small ones for quick fights to the big [&#8230;]]]></description>
-		<wfw:commentRss>/Voice%20of%20Pripyat/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/rust</guid>
+		<description><![CDATA[The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Whatever it takes [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/rust/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>RIFT</title>
-		<link>/RIFT/</link>
-		<comments>/RIFT/#respond</comments>
+		<title>Stronghold Kingdoms</title>
+		<link>https://cheap-and-cheerful.store/stronghold-kingdoms/</link>
+		<comments>https://cheap-and-cheerful.store/stronghold-kingdoms/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Co-op]]></category>
@@ -311,15 +262,67 @@
 		<category><![CDATA[Free to Play]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Massively Multiplayer]]></category>
 		<category><![CDATA[MMO]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Change Fate: Starfall Prophecy is here Purchase a Starfall Prophecy Edition to explore the Comet of Ahnket Reach level 70, unlock legendary abilities, explore 5 massive new zones, defeat 2 deadly dungeons, conquer a dangerous new raid, challenge the brand new Fortress Sieges, and more in RIFT’s newest expansion: Starfall Prophecy! Acerca del juego It&#8217;s [&#8230;]]]></description>
-		<wfw:commentRss>/RIFT/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/stronghold-kingdoms</guid>
+		<description><![CDATA[Recién actualizado Ya disponible &#8211; Stronghold Kingdoms: Heretic Diseñada para ofrecer experiencias PvE y PvP en un mismo mundo dejuego, Heretic te pone en bandeja dos opciones. ¡Puedes iniciar una cruzada con otros señores contra La Rata, La Serpiente y otros viles personajes de Stronghold o unir fuerzas con El Lobo y convertirte en un [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/stronghold-kingdoms/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lif</title>
+		<link>https://cheap-and-cheerful.store/lif/</link>
+		<comments>https://cheap-and-cheerful.store/lif/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[MMO]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/lif</guid>
+		<description><![CDATA[Lif, The Animal MMO Live your life as an animal in its natural setting in this multiplayer game. Hunt, graze or forage in the undergrowth for food, drink from the lakes, you can even swim! Fight and kill or chat and make friends, even forge families together (yes, you can have babies!) Ever dreamed of [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/lif/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Blitzkrieg 3</title>
+		<link>https://cheap-and-cheerful.store/blitzkrieg-3/</link>
+		<comments>https://cheap-and-cheerful.store/blitzkrieg-3/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[MMO]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/blitzkrieg-3</guid>
+		<description><![CDATA[Add us to your whishlist Digital Deluxe Edition The Deluxe Edition includes the following items: Exclusive Commanders: Konstantin Rokossovsky, Erich von Manstein, and Bernard Montgomery (already available) Unique combat vehicles: the T-34-76 screened tank, the M6 heavy tank, and the “Sturer Emil” (under development) In-game rewards such as Silver Nickname (your nickname highlighted in silver [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/blitzkrieg-3/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

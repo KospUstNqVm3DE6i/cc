@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Portuguese &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/supported-languages/portuguese/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/supported-languages/portuguese/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,361 +19,28 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Portuguese &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Euro Truck Simulator</title>
-		<link>/Euro%20Truck%20Simulator/</link>
-		<comments>/Euro%20Truck%20Simulator/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[The original Euro Truck Simulator &#8211; the game which has become the classic of the genre and is still relevant today. The first truck simulation game in a European setting, with European long haul trucks! Drive freight from London to Rome to Berlin to Madrid to Prague &#8211; and many more cities &#8211; in realistic [&#8230;]]]></description>
-		<wfw:commentRss>/Euro%20Truck%20Simulator/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Rocket League</title>
-		<link>/Rocket%20League/</link>
-		<comments>/Rocket%20League/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Soccer meets driving once again in the long-awaited, physics-based sequel to the beloved arena classic, Supersonic Acrobatic Rocket-Powered Battle-Cars! A futuristic Sports-Action game, Rocket League®, equips players with booster-rigged vehicles that can be crashed into balls for incredible goals or epic saves across multiple, highly-detailed arenas. Using an advanced physics system to simulate realistic interactions, [&#8230;]]]></description>
-		<wfw:commentRss>/Rocket%20League/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>LIMBO</title>
-		<link>/LIMBO/</link>
-		<comments>/LIMBO/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Dudoso sobre el destino de su hermana, un niño entra en LIMBO]]></description>
-		<wfw:commentRss>/LIMBO/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Ampu-Tea</title>
-		<link>/Ampu-Tea/</link>
-		<comments>/Ampu-Tea/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[It’s time for rehabilitation! You’re a recovering amputee, fitted with the latest modern technology. The KS-001 Robo-arm is capable of delicate tasks – if used efficiently. What better challenge for the son of an Earl than to make tea for his father? Good luck son. You&#8217;ll need it.]]></description>
-		<wfw:commentRss>/Ampu-Tea/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dungeon Lurk II &#8211; Leona</title>
-		<link>/Dungeon%20Lurk%20II%20-%20Leona/</link>
-		<comments>/Dungeon%20Lurk%20II%20-%20Leona/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[An Action Puzzle Adventure Game with roots in the classic &#34;Point &#38; Click&#34; genre. Take your time and explore the environment for clues to puzzles. Zoom in to detailed areas to find secrets that allow you to progress in the game. The story Ceghran, The Dread King, has constructed a dungeon kingdom to house his [&#8230;]]]></description>
-		<wfw:commentRss>/Dungeon%20Lurk%20II%20-%20Leona/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Tengami</title>
-		<link>/Tengami/</link>
-		<comments>/Tengami/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Tengami es un evocador juego de aventura ambientado en el interior de un libro japonés troquelado. Pliega y mueve las hojas y pestañas de este bello mundo de papel para resolver puzles y descubrir sus secretos. Descubre las maravillas de un mundo troquelado Emprende un tranquilo viaje por el Japón de los cuentos de hadas, [&#8230;]]]></description>
-		<wfw:commentRss>/Tengami/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Broadsword : Age of Chivalry</title>
-		<link>/Broadsword%20%3A%20Age%20of%20Chivalry/</link>
-		<comments>/Broadsword%20%3A%20Age%20of%20Chivalry/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Broadsword: Age of Chivalry boasts turn-based strategy gameplay as players move from mission to mission in the Middle Ages. Command one of four different armies: the English, The French, the Spanish, or the Hapsburgs in this exciting PC game.  Lead different types of units into battle &#8212; from archers, knights, pikemen and catapults with special [&#8230;]]]></description>
-		<wfw:commentRss>/Broadsword%20%3A%20Age%20of%20Chivalry/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Rocketbirds: Hardboiled Chicken</title>
-		<link>/Rocketbirds%3A%20Hardboiled%20Chicken/</link>
-		<comments>/Rocketbirds%3A%20Hardboiled%20Chicken/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Steam Big Picture Acerca del juego Acaba con el régimen de un malvado pingüino en esta aventura cinemática de plataformas que te ofrece campañas para un jugador y modo cooperativo. Prepárate para tu misión: asesinar al líder pingüino totalitario como Hardboiled Chicken. Destruye a tus enemigos con todo un arsenal de armas e ilumina los [&#8230;]]]></description>
-		<wfw:commentRss>/Rocketbirds%3A%20Hardboiled%20Chicken/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Teslagrad</title>
-		<link>/Teslagrad/</link>
-		<comments>/Teslagrad/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Un viaje comienza&#8230; Teslagrad es un juego de plataformas y puzles con elementos de acción, en el cual el magnetismo y otros poderes electromagnéticos son claves para avanzar a lo largo del juego. Descubre los secretos que aguardan en la Torre de Tesla, abandonada por largo tiempo. Gana nuevas habilidades para explorar un mundo no-lineal [&#8230;]]]></description>
-		<wfw:commentRss>/Teslagrad/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Farming Simulator 15</title>
-		<link>/Farming%20Simulator%2015/</link>
-		<comments>/Farming%20Simulator%2015/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Farming Simulator 17 &#8211; Now Available Acerca del juego ¡Bienvenido a la nueva generación de Farming Simulator! Gracias a un motor de gráficos y físicas completamente nuevo, Farming Simulator 15 ofrece un mundo abierto inmenso, lleno de detalles y efectos visuales que transportan a la saga Farming Simulator a una nueva era. Gestiona tu propia [&#8230;]]]></description>
-		<wfw:commentRss>/Farming%20Simulator%2015/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Team Fortress 2</title>
-		<link>/Team%20Fortress%202/</link>
-		<comments>/Team%20Fortress%202/#respond</comments>
+		<title>Half-Life Complete</title>
+		<link>https://cheap-and-cheerful.store/half-life-complete/</link>
+		<comments>https://cheap-and-cheerful.store/half-life-complete/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Captions available]]></category>
 		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[Danish]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[Free to Play]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
@@ -382,28 +49,55 @@
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Thai]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[The Tough Break Update is Now Available! Acerca del juego &#8220;No podrás pasártelo mejor online&#8221; &#8211; PC Gamer ¡Es ahora GRATIS! ¡No hay truco! ¡Juega todo lo que quieras, el tiempo que quieras! ¡El juego gratuito más valorado de todos los tiempos! Uno de los juegos de acción online más popular, Team Fortress 2, publica [&#8230;]]]></description>
-		<wfw:commentRss>/Team%20Fortress%202/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/half-life-complete</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/half-life-complete/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Runestone Keeper</title>
-		<link>/Runestone%20Keeper/</link>
-		<comments>/Runestone%20Keeper/#respond</comments>
+		<title>FEZ</title>
+		<link>https://cheap-and-cheerful.store/fez/</link>
+		<comments>https://cheap-and-cheerful.store/fez/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/fez</guid>
+		<description><![CDATA[Gomez is a 2D creature living in a 2D world. Or is he? When the existence of a mysterious 3rd dimension is revealed to him, Gomez is sent out on a journey that will take him to the very end of time and space. Use your ability to navigate 3D structures from 4 distinct classic [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/fez/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fractal: Make Blooms Not War</title>
+		<link>https://cheap-and-cheerful.store/fractal-make-blooms-not-war/</link>
+		<comments>https://cheap-and-cheerful.store/fractal-make-blooms-not-war/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Casual]]></category>
@@ -411,21 +105,284 @@
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/fractal-make-blooms-not-war</guid>
+		<description><![CDATA[Del galardonado equipo que te trajo Auditorium y Pulse: Volume One llega Fractal, una cautivadora experiencia de puzles musicales. Empuja, haz combos y encadena a través de una ensoñación pulsante en technicolor mientras expandes tu consciencia a 130 latidos por minuto. Con tres exclusivos y desafiantes modos de juego, increíbles gráficos de calidad HD y [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/fractal-make-blooms-not-war/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Musclecar Online</title>
+		<link>https://cheap-and-cheerful.store/musclecar-online/</link>
+		<comments>https://cheap-and-cheerful.store/musclecar-online/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[MMO]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/musclecar-online</guid>
+		<description><![CDATA[Massively multiplayer online indie racing game. Race against the ghost recordings of your friends and players from around the world. Design and share your own racetracks. Collect over 100 cars and race them in 11 classes. Compete on a new racetrack every day. Play in 3D or top-down 2D! &#8212; Features &#8212; ★★★★★ Retro top-down [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/musclecar-online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Proto Raider</title>
+		<link>https://cheap-and-cheerful.store/proto-raider/</link>
+		<comments>https://cheap-and-cheerful.store/proto-raider/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/proto-raider</guid>
+		<description><![CDATA[Proto Raider es un juego de arcade en el que cada nivel es una mini-misión. Corre, salta, bucea, surfea cataratas, combate monstruos, sobrevuela tornados, etc. ¡Pero ten mucho cuidado pues te puedes calcinar, ahogar, envenenar, apuñalar, aniquilar, o transformarte en piedra! Para completar la misión y recoger tu botín, necesitarás agilidad, velocidad, y objetos especiales [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/proto-raider/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cosmophony</title>
+		<link>https://cheap-and-cheerful.store/cosmophony/</link>
+		<comments>https://cheap-and-cheerful.store/cosmophony/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/cosmophony</guid>
+		<description><![CDATA[Cosmophony es un juego de disparos musical diseñado para jugadores exigentes que buscan una original e intensa experiencia. Debes controlar el corazón de una diosa caída dentro de un universo moribundo para que pueda cumplir con su destino. Tu meta es avanzar a través de una serie de niveles diseñados para ser jugados con una [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/cosmophony/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rochard: Hard Times</title>
+		<link>https://cheap-and-cheerful.store/rochard-hard-times/</link>
+		<comments>https://cheap-and-cheerful.store/rochard-hard-times/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/rochard-hard-times</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/rochard-hard-times/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Spy Bugs</title>
+		<link>https://cheap-and-cheerful.store/spy-bugs/</link>
+		<comments>https://cheap-and-cheerful.store/spy-bugs/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/spy-bugs</guid>
+		<description><![CDATA[Overview Spy_Bugs is a flying game in which the protagonists are cyborg insects upgraded with high tech weapons. They can fly, land, fire weapons and make special attacks, each insect is a different character with a specific weapon, special attack and specific role. The player fights other insects in closed battlefields, like a human&#8217;s house. [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/spy-bugs/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Left 4 Dead 2</title>
+		<link>https://cheap-and-cheerful.store/left-4-dead-2/</link>
+		<comments>https://cheap-and-cheerful.store/left-4-dead-2/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/left-4-dead-2</guid>
+		<description><![CDATA[Ambientado en el apocalipsis zombi, Left 4 Dead 2 (L4D2) es la secuela largamente esperada del galardonado Left 4 Dead, el juego co-op número 1 de 2008. Este FPS cooperativo de acción y horror os llevará a ti y a tus amigos por las ciudades, pantanos y cementerios del Sur Profundo, desde Savannah hasta Nueva [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/left-4-dead-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Chronology</title>
+		<link>https://cheap-and-cheerful.store/chronology/</link>
+		<comments>https://cheap-and-cheerful.store/chronology/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/chronology</guid>
+		<description><![CDATA[`Chronology’ es un alucinante juego de plataforma que combina puzzle y aventura, en el que desafiarás al tiempo manipulando el pasado y el futuro para enmendar el presente. Juega como el Viejo Inventor o su compañero El Caracol, y aprovéchate de sus habilidades especiales (viajar hacia atrás y adelante en el tiempo, detener el tiempo, [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/chronology/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>APOX</title>
+		<link>https://cheap-and-cheerful.store/apox/</link>
+		<comments>https://cheap-and-cheerful.store/apox/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Runestone Keeper is a challenging roguelike to roguelite dungeon crawler that blends classic role playing elements and turn-based combat strategy. Dive into the dungeon roguelite-ness and begin your very own epic adventure! Grab your rucksack, sharpen those dusty swords, step into the dark chamber and fight for glory! [Features] Randomly Generated Dungeon Elements – Almost [&#8230;]]]></description>
-		<wfw:commentRss>/Runestone%20Keeper/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/apox</guid>
+		<description><![CDATA[APOX es un juego de estrategia en tiempo real que incluye de forma única conceptos de los shooters en primera persona. Como en un FPS, puedes tumbarte, agacharte, cambiar de arma, lanzar granadas y registrar cadáveres. Los soldados en APOX tienen munición limitada, pero el intercambio de provisiones se realiza sin problemas. Los soldados se [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/apox/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Escape Machines</title>
+		<link>https://cheap-and-cheerful.store/escape-machines/</link>
+		<comments>https://cheap-and-cheerful.store/escape-machines/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/escape-machines</guid>
+		<description><![CDATA[Escape Machines is an addictive Science Fiction single/multi-player/co-op adventure shooter in the near future! Artificial intellect and robots fight against their creators. You must take control of the robots and save people. The game is currently in early beta, some features may be unfinished. Features: Play with friends in co-op and VS multi-player.*Currently unavailable* Build [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/escape-machines/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

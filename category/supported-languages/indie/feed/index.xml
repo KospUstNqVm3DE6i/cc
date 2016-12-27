@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Indie &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/supported-languages/indie/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/supported-languages/indie/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,312 +19,285 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Indie &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>DayZ</title>
-		<link>/DayZ/</link>
-		<comments>/DayZ/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Massively Multiplayer]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[WARNING: THIS GAME IS EARLY ACCESS ALPHA. PLEASE DO NOT PURCHASE IT UNLESS YOU WANT TO ACTIVELY SUPPORT DEVELOPMENT OF THE GAME AND ARE PREPARED TO HANDLE WITH SERIOUS ISSUES AND POSSIBLE INTERRUPTIONS OF GAME FUNCTIONING. Welcome to the world of DayZ, hit by a new and presently unknown infection which has wiped out most [&#8230;]]]></description>
-		<wfw:commentRss>/DayZ/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Serious Sam Complete Pack</title>
-		<link>/Serious%20Sam%20Complete%20Pack/</link>
-		<comments>/Serious%20Sam%20Complete%20Pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Serious%20Sam%20Complete%20Pack/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Xenonauts</title>
-		<link>/Xenonauts/</link>
-		<comments>/Xenonauts/#respond</comments>
+		<title>Banished</title>
+		<link>https://cheap-and-cheerful.store/banished/</link>
+		<comments>https://cheap-and-cheerful.store/banished/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Xenonauts is a strategy game in which you control a multi-national military organisation defending a Cold War-era Earth from alien invasion, using small squads of persistent soldiers to eliminate the extraterrestrials and recover their technology in turn-based ground combat. A detailed strategic layer allows you to co-ordinate the defence of the planet, using your interceptors [&#8230;]]]></description>
-		<wfw:commentRss>/Xenonauts/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/banished</guid>
+		<description><![CDATA[In this city-building strategy game, you control a group of exiled travelers who decide to restart their lives in a new land. They have only the clothes on their backs and a cart filled with supplies from their homeland. The townspeople of Banished are your primary resource. They are born, grow older, work, have children [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/banished/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Trine Enchanted Edition</title>
-		<link>/Trine%20Enchanted%20Edition/</link>
-		<comments>/Trine%20Enchanted%20Edition/#respond</comments>
+		<title>Prison Architect</title>
+		<link>https://cheap-and-cheerful.store/prison-architect/</link>
+		<comments>https://cheap-and-cheerful.store/prison-architect/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
+				<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Trine es un juego de acción y fantasía donde el jugador puede crear y utilizar objetos basados en la física para resolver peligrosos enigmas y vencer a peligrosos enemigos. En un mundo de grandes castillos y extrañas máquinas, tres héroes están unidos a un misterioso dispositivo llamado Trine en una misión para salvar del mal [&#8230;]]]></description>
-		<wfw:commentRss>/Trine%20Enchanted%20Edition/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/prison-architect</guid>
+		<description><![CDATA[Crea y gestiona una prisión de máxima seguridad. El reloj se pone en marcha desde el mismo momento que los rayos de sol alumbran los muros de la cárcel de buena mañana. Primero, tendrás que construir un bloque de celdas provisionales para mantener a raya a los futuros reclusos de tu prisión de máxima seguridad. [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/prison-architect/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Mayhem Triple</title>
-		<link>/Mayhem%20Triple/</link>
-		<comments>/Mayhem%20Triple/#respond</comments>
+		<title>The Cosmos is MINE!</title>
+		<link>https://cheap-and-cheerful.store/the-cosmos-is-mine/</link>
+		<comments>https://cheap-and-cheerful.store/the-cosmos-is-mine/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-cosmos-is-mine</guid>
+		<description><![CDATA[Welcome Ambitious Space Prospector! First off, thanks for checking out The Cosmos Is MINE! Set in an alternate 1950s universe, The Cosmos is MINE! is a multiplayer RTS where you control a galactic prospecting team in an interstellar resource war against other greedy space miners. With an engrossing two-method system to victory and amusing tongue-in-cheek [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-cosmos-is-mine/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Republique</title>
+		<link>https://cheap-and-cheerful.store/republique/</link>
+		<comments>https://cheap-and-cheerful.store/republique/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/republique</guid>
+		<description><![CDATA[¡Por fin ya está aquí République: Episodio 5: Terminus! En Camouflaj estamos todos ansiosos por lanzar finalmente el quinto y último capítulo de République. A todos los que han esperado la conclusión de la serie, les agradecemos profundamente su paciencia y apoyo. El equipo de Camouflaj se ha volcado enteramente en este épico episodio final, [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/republique/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>InnerCube</title>
+		<link>https://cheap-and-cheerful.store/innercube/</link>
+		<comments>https://cheap-and-cheerful.store/innercube/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/innercube</guid>
+		<description><![CDATA[Think, Roll, Match, Survive! InnerCube is an action-puzzle game, where you control a multi-colored cube using the keyboard to navigate around a grid. Capture colored tiles by rolling the identical color on the cube on top of a tile. Choose from two different modes: a challenging Puzzle Mode where every move counts or a fast [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/innercube/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dear Esther</title>
+		<link>https://cheap-and-cheerful.store/dear-esther/</link>
+		<comments>https://cheap-and-cheerful.store/dear-esther/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Mayhem Triple is a hyper-violent, tasteless tale of evolution gone wrong and the dangers of time travel. You are Mig Carter, a man with style to spare and the perfect opportunity to show everyone how great you are: the bunny apocalypse. Use smooth acrobatics and a vast armory of creative guns to help traverse countless [&#8230;]]]></description>
-		<wfw:commentRss>/Mayhem%20Triple/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/dear-esther</guid>
+		<description><![CDATA[“A deserted island…a lost man…memories of a fatal crash…a book written by a dying explorer.” Two years in the making, the highly anticipated Indie remake of the cult mod Dear Esther arrives on PC. Dear Esther immerses you in a stunningly realised world, a remote and desolate island somewhere in the outer Hebrides. As you [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/dear-esther/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>OTTTD</title>
-		<link>/OTTTD/</link>
-		<comments>/OTTTD/#respond</comments>
+		<title>Breezeblox</title>
+		<link>https://cheap-and-cheerful.store/breezeblox/</link>
+		<comments>https://cheap-and-cheerful.store/breezeblox/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
 		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Lock, load and let the gibs fly in OTTTD, a Tower Defence/RTS game with RPG elements that pits you against some of the weirdest creatures in the multiverse. OTTTD stands for Over The Top Tower Defence, and you&#8217;ll see why when you&#8217;re blasting 9 kinds of hell out of a Cactus Ghost that&#8217;s making a [&#8230;]]]></description>
-		<wfw:commentRss>/OTTTD/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/breezeblox</guid>
+		<description><![CDATA[Breezeblox is an addictive puzzle game where the objective is to reach the end cube without moving off the platform. Special cubes throughout the puzzles will trigger different actions on the platform to aid you with progressing. With 150 challenging puzzles to complete, your brain will be plenty busy.]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/breezeblox/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Pid</title>
-		<link>/Pid/</link>
-		<comments>/Pid/#respond</comments>
+		<title>The Night of the Rabbit</title>
+		<link>https://cheap-and-cheerful.store/the-night-of-the-rabbit/</link>
+		<comments>https://cheap-and-cheerful.store/the-night-of-the-rabbit/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-night-of-the-rabbit</guid>
+		<description><![CDATA[Sumérgete en una historia de magia y fantasía donde todo es posible y donde nada es lo que parece: únete al joven Jerry y persigue a un peculiar conejo blanco hasta el maravilloso reino de Mousewood, una tierra llena de misterio donde las criaturas más extrañas saben hablar. Es en este lugar donde el sueño [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-night-of-the-rabbit/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>FOTONICA</title>
+		<link>https://cheap-and-cheerful.store/fotonica/</link>
+		<comments>https://cheap-and-cheerful.store/fotonica/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/fotonica</guid>
+		<description><![CDATA[FOTONICA es un juego de carreras, saltos, velocidad y descubrimiento en primera persona. Mantén apretado cualquier botón para correr, suelta para saltar, y mantenlo apretado mientras estás en el aire para aterrizar velozmente. El objetivo es atravesar los ambientes del juego con perfecta destreza, en el tiempo que se da para explorarlo. El escenario es [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/fotonica/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SpeedRunners</title>
+		<link>https://cheap-and-cheerful.store/speedrunners/</link>
+		<comments>https://cheap-and-cheerful.store/speedrunners/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Un joven muchacho llamado Kurt se ve atrapado en un peculiar planeta y debe encontrar el camino de regreso a casa. Ayudado por insólitos aliados y las curiosas herramientas que lleva en su mochila, Kurt deberá desafiar la gravedad para conquistar cada plataforma y resolver cada puzle de este extraño periplo. Con más de doce [&#8230;]]]></description>
-		<wfw:commentRss>/Pid/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>A Bird Story</title>
-		<link>/A%20Bird%20Story/</link>
-		<comments>/A%20Bird%20Story/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Note: This is not To the Moon&#8217;s sequel, but rather a small experimental project. &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212; From the creator of To the Moon: A simple, wordless 1-hour short about a boy who found an injured bird, told through a blur between reality and imagination. A Bird Story is an interactive pixel animation with the sole purpose [&#8230;]]]></description>
-		<wfw:commentRss>/A%20Bird%20Story/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Nebula Online</title>
-		<link>/Nebula%20Online/</link>
-		<comments>/Nebula%20Online/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Massively Multiplayer]]></category>
-		<category><![CDATA[MMO]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Nebula Online is a space Massive Multiplayer Online Game which can be cross-played between different platforms. This Sci-Fi game is set within a 3 race-populated galaxy where players face a global conflict for universe domination. Openly alter space and explore the universe to find resource fields, abandoned stations and habitable planets. Be aware of the [&#8230;]]]></description>
-		<wfw:commentRss>/Nebula%20Online/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Guns of Icarus Online</title>
-		<link>/Guns%20of%20Icarus%20Online/</link>
-		<comments>/Guns%20of%20Icarus%20Online/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Guns of Icarus Alliance Pre-order Get early access to Guns of Icarus Alliance DLC before official release! To help us test and follow the development, please email us at feedback@musegames.com with your steam receipt. Help us make Alliance the best it can be! Guns of Icarus Alliance is the PvE Expansion DLC and is now [&#8230;]]]></description>
-		<wfw:commentRss>/Guns%20of%20Icarus%20Online/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/speedrunners</guid>
+		<description><![CDATA[En una ciudad llena de superhéroe, llegar a los crímenes se convierte en una competición para cada uno. Afortunamente hay suficientes cohetes, bombas, ganchos, pinchos, y otras mejoras tiradas por los alrededores &#8212; para hacer la competición divertida y rápida. Bienvenido a SpeedRunners. Speedrunners es un competitivo plataformas de 4 jugadores con ganchos, poderes, y [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/speedrunners/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Giana Sisters: Twisted Dreams</title>
-		<link>/Giana%20Sisters%3A%20Twisted%20Dreams/</link>
-		<comments>/Giana%20Sisters%3A%20Twisted%20Dreams/#respond</comments>
+		<title>Year Walk</title>
+		<link>https://cheap-and-cheerful.store/year-walk/</link>
+		<comments>https://cheap-and-cheerful.store/year-walk/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/year-walk</guid>
+		<description><![CDATA[In the old days man tried to catch a glimpse of the future in the strangest of ways. Experience the ancient Swedish phenomena of year walking through a different kind of first person adventure that blurs the line between two and three dimensions, as well as reality and the supernatural. Venture out into the dark [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/year-walk/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bus Driver</title>
+		<link>https://cheap-and-cheerful.store/bus-driver/</link>
+		<comments>https://cheap-and-cheerful.store/bus-driver/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Giana Sisters: Twisted Dreams es un vertiginoso juego de plataformas que representa dos mundos opuestos. Combina el desafío de los juegos de plataformas de estilo retro con gráficos impactantes y controles precisos. Ve cambiando entre dos mundos oníricos dinámicamente diferentes para resolver rompecabezas y enfrentarte a enemigos atroces. Salta entre los intensos sueños de Giana [&#8230;]]]></description>
-		<wfw:commentRss>/Giana%20Sisters%3A%20Twisted%20Dreams/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dungeon Defenders II</title>
-		<link>/Dungeon%20Defenders%20II/</link>
-		<comments>/Dungeon%20Defenders%20II/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[The Old Ones’ armies have invaded Etheria and it’s up to you and your friends to push them back! Create a team of heroes to take into battle. Then freeze, burn, and electrocute enemies with your deadly defenses or jump into the action yourself to finish them off! Play by yourself or with up to [&#8230;]]]></description>
-		<wfw:commentRss>/Dungeon%20Defenders%20II/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/bus-driver</guid>
+		<description><![CDATA[In Bus Driver, your job is to transport passengers around an attractive and realistic city. You must drive to a timetable on a planned route, whilst obeying traffic rules, and taking care not to upset or injure your passengers. This makes Bus Driver unlike any other driving game &#8211; the experience of driving a bus [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/bus-driver/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

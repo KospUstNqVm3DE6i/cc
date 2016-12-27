@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Web Publishing &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/genres/web-publishing/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/genres/web-publishing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Web Publishing &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>RPG Maker: Inspirational Vol. 1</title>
-		<link>/RPG%20Maker%3A%20Inspirational%20Vol.%201/</link>
-		<comments>/RPG%20Maker%3A%20Inspirational%20Vol.%201/#respond</comments>
+		<link>https://cheap-and-cheerful.store/rpg-maker-inspirational-vol-1/</link>
+		<comments>https://cheap-and-cheerful.store/rpg-maker-inspirational-vol-1/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Downloadable Content]]></category>
@@ -40,9 +40,9 @@
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Web Publishing]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/rpg-maker-inspirational-vol-1</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/RPG%20Maker%3A%20Inspirational%20Vol.%201/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/rpg-maker-inspirational-vol-1/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

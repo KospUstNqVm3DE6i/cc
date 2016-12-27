@@ -9,8 +9,8 @@
 
 <channel>
 	<title>VR Support &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/features/vr-support/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/features/vr-support/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,312 +19,325 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>VR Support &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>ARK: Survival Evolved</title>
-		<link>/ARK%3A%20Survival%20Evolved/</link>
-		<comments>/ARK%3A%20Survival%20Evolved/#respond</comments>
+		<title>Qbeh-1: The Atlas Cube</title>
+		<link>https://cheap-and-cheerful.store/qbeh-1-the-atlas-cube/</link>
+		<comments>https://cheap-and-cheerful.store/qbeh-1-the-atlas-cube/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/qbeh-1-the-atlas-cube</guid>
+		<description><![CDATA[Level Editor &#38; Steam Workshop Get Virtual! Oculus Rift DK1 &#38; DK2 Support now Included Try Before You Buy! Still not sure after all the rave reviews, videos and pictures if you want to pick up the game? Check out the DEMO and get some hands on experience! Acerca del juego QBEH-1: The Atlas Cube [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/qbeh-1-the-atlas-cube/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Meltdown</title>
+		<link>https://cheap-and-cheerful.store/meltdown/</link>
+		<comments>https://cheap-and-cheerful.store/meltdown/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/meltdown</guid>
+		<description><![CDATA[Meltdown is a tactical arcade shooter featuring both singleplayer and intense online multiplayer. Set against a captivating sci-fi backdrop, the action game invites players to follow its main character, Zed, as he tries to shoot his way out of the remote space station that he has been trapped on as a result of a system [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/meltdown/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lunar Flight</title>
+		<link>https://cheap-and-cheerful.store/lunar-flight/</link>
+		<comments>https://cheap-and-cheerful.store/lunar-flight/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/lunar-flight</guid>
+		<description><![CDATA[Una versión moderna del clásico juego arcade Lunar Lander, Lunar Flight amplía la experiencia a un ficticio simulador de módulo lunar completamente accesible que proporciona una variedad de misiones relativas a transportar cargamento, adquirir datos en lugares de prospección y localizar mercancía perdida. Completar misiones te proporciona puntos de experiencia y dinero para repostar, reparar [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/lunar-flight/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Among the Sleep</title>
+		<link>https://cheap-and-cheerful.store/among-the-sleep/</link>
+		<comments>https://cheap-and-cheerful.store/among-the-sleep/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Ukrainian]]></category>
 		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Como hombre o mujer desnudo, congelado y muriendo de hambre en las costas de una isla misteriosa llamada ARK, debes cazar, recolectar, construir objetos, plantar cultivos, investigar tecnologías y construir refugios para soportar los elementos. Usa tu astucia y recursos para matar o domesticar dinosaurios y otros seres primitivos, y asóciate con otros jugadores o [&#8230;]]]></description>
-		<wfw:commentRss>/ARK%3A%20Survival%20Evolved/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/among-the-sleep</guid>
+		<description><![CDATA[Juego de terror en primera persona en el que te meterás en la piel de un niño de dos años. El juego aborda el horror a través de la atmósfera y la exploracioń, y no a través de sistemas de combate y puntuación. En Among the Sleep, tú eres un niño vulnerable y asustado, que [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/among-the-sleep/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Mountain</title>
-		<link>/Mountain/</link>
-		<comments>/Mountain/#respond</comments>
+		<title>Shufflepuck Cantina Deluxe VR</title>
+		<link>https://cheap-and-cheerful.store/shufflepuck-cantina-deluxe-vr/</link>
+		<comments>https://cheap-and-cheerful.store/shufflepuck-cantina-deluxe-vr/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/shufflepuck-cantina-deluxe-vr</guid>
+		<description><![CDATA[Shufflepuck Cantina Deluxe is also very enjoyable without a VR headset! Note: In case the game fails to launch, switch to the winopengl version in BETAS tab. After &#34;accidentally&#34; jumping your spaceship through a wormhole, you’ve crash landed onto this forsaken desert planet a billion kilometers from home. The only thing between you and the [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/shufflepuck-cantina-deluxe-vr/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>FortressCraft Evolved!</title>
+		<link>https://cheap-and-cheerful.store/fortresscraft-evolved/</link>
+		<comments>https://cheap-and-cheerful.store/fortresscraft-evolved/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[~ you are mountain &#8211; you are god ~ Ambient procedural mountain game, as seen on The Internet. FEATURES &#8211; no controls&#8211; automatic save&#8211; audio on/off switch&#8211; time moves forward&#8211; things grow and things die&#8211; nature expresses itself &#34;Welcome to an existential nightmare.&#34;&#8211; Patrick Klepek, Giant Bomb &#34;The time I spend with Mountain feels slightly [&#8230;]]]></description>
-		<wfw:commentRss>/Mountain/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/fortresscraft-evolved</guid>
+		<description><![CDATA[&#34;In a world where early access and indie usually means abandoned, unfinished garbage, this game&#8217;s post launch development is outpacing many AAA titles and companies.&#34; &#34;This really isn&#8217;t the same game that I originally purchased anymore. With all the changes that have been made over that duration the game is so much more fun now [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/fortresscraft-evolved/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>CAT Interstellar</title>
-		<link>/CAT%20Interstellar/</link>
-		<comments>/CAT%20Interstellar/#respond</comments>
+		<title>Albino Lullaby: Episode 1</title>
+		<link>https://cheap-and-cheerful.store/albino-lullaby-episode-1/</link>
+		<comments>https://cheap-and-cheerful.store/albino-lullaby-episode-1/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Early Access]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/albino-lullaby-episode-1</guid>
+		<description><![CDATA[Albino Lullaby is a horror adventure game that doesn&#8217;t rely on jump scares or gore. A Lynchian psychological nightmare where you play as yourself. Escape from a dark and surreal Victorian town that clings to the precipices of underground cliffs. The gamespace dynamically twists and contorts around you in real time, as you unravel an [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/albino-lullaby-episode-1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Strike Suit Zero</title>
+		<link>https://cheap-and-cheerful.store/strike-suit-zero/</link>
+		<comments>https://cheap-and-cheerful.store/strike-suit-zero/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/strike-suit-zero</guid>
+		<description><![CDATA[Steam Workshop Adventurous Mod-Makers can now take XedMod, the Strike Suit Toolset, for a spin&#8230;Use XedMod to create your own ships, weapons and missions for Strike Suit or break away entirely and make brand new games. Acerca del juego En el año 2299 se desarrolla una guerra interestelar. En un intento por salvar a la [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/strike-suit-zero/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>4089: Ghost Within</title>
+		<link>https://cheap-and-cheerful.store/4089-ghost-within/</link>
+		<comments>https://cheap-and-cheerful.store/4089-ghost-within/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Warning: This is a short story meant to be played in a single sitting. Play as a DOG V4 drone, a newly activated maintenance bot who is assisting in the terraforming effort on Mars. After a predictable yet unfortunate accident DOG finds himself uncovering the past of a seemingly barren planet. Gameplay The games current [&#8230;]]]></description>
-		<wfw:commentRss>/CAT%20Interstellar/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/4089-ghost-within</guid>
+		<description><![CDATA[Sneak &#38; battle your way through a procedurally generated mothership in this stealth action RPG! Supports user content &#38; the Oculus Rift! Please follow Phr00t&#8217;s Software for giveaways, updates &#38; more! http://www.facebook.com/phr00ts.software 4089 takes many of the things you loved from 3079 &#38; 3089, like character customization via stat points, grappling hooks, special powers, building [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/4089-ghost-within/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Euro Truck Simulator 2</title>
-		<link>/Euro%20Truck%20Simulator%202/</link>
-		<comments>/Euro%20Truck%20Simulator%202/#respond</comments>
+		<title>Surgeon Simulator 2013</title>
+		<link>https://cheap-and-cheerful.store/surgeon-simulator-2013/</link>
+		<comments>https://cheap-and-cheerful.store/surgeon-simulator-2013/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Czech]]></category>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Danish]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Give American Truck Simulator a test drive Start your new truck empire in the United States! Try the demo of American Truck Simulator and visit the Steam store page. http://store.steampowered.com/app/441960/ Acerca del juego Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to [&#8230;]]]></description>
-		<wfw:commentRss>/Euro%20Truck%20Simulator%202/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/surgeon-simulator-2013</guid>
+		<description><![CDATA[Check Out the New VR Game &#8211; Surgeon Simulator: ER! http://store.steampowered.com/app/518920 Acerca del juego ¡En este portapapeles te explicamos qué incluye cada versión de Surgeon Simulator! ¡Si ya tienes Surgeon Simulator 2013, no es cuestión de infarto! MEJORA comprando el DLC de la Anniversary Edition que aparece arriba y recibirás todo el contenido de A&#38;E [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/surgeon-simulator-2013/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Infinity Runner</title>
-		<link>/Infinity%20Runner/</link>
-		<comments>/Infinity%20Runner/#respond</comments>
+		<title>Probably Archery</title>
+		<link>https://cheap-and-cheerful.store/probably-archery/</link>
+		<comments>https://cheap-and-cheerful.store/probably-archery/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[VR Support]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[The Infinity is the largest spaceship ever built by man-kind; flung into the void of space to secure humanity a new home amongst the stars. However, instead of discovering paradise, the inhabitants of The Infinity unlocked the door to a long forgotten nightmare. Deep inside this leviathan something terrible hunts, out of myth and legend [&#8230;]]]></description>
-		<wfw:commentRss>/Infinity%20Runner/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Project CARS</title>
-		<link>/Project%20CARS/</link>
-		<comments>/Project%20CARS/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[¡Project CARS ofrece la máxima emoción al volante! Orientado, testado y aprobado por una comunidad de fans y pilotos reales, Project CARS presenta la próxima generación de la simulación de carreras que combina los deseos de los fans con la experiencia de los desarrolladores. Disfruta de una experiencia envolvente con la excelente calidad de los [&#8230;]]]></description>
-		<wfw:commentRss>/Project%20CARS/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/probably-archery</guid>
+		<description><![CDATA[Manipulate your wrists, elbows and shoulders to get the arrow to the bow, draw it, aim and fire! Probably Archery gives the player more control over the minutia of their joint movements with tons of crazy scenarios to conquer, multiplayer battles to fight and brutal target challenges to dominate. With controls inspired by games like [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/probably-archery/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Doorways: Chapter 3 &#8211; The Underworld</title>
-		<link>/Doorways%3A%20Chapter%203%20-%20The%20Underworld/</link>
-		<comments>/Doorways%3A%20Chapter%203%20-%20The%20Underworld/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[VR Support]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Doorways: The Underworld es una aventura de terror en primera persona, que cuenta con una historia profunda y una atmósfera atrapante. Te desafía a retos de puzzles y acción, con visual y sonidos envolventes. Prepárate para sumergirte en una experiencia de terror psicológico. The Underworld es el tercer capítulo de la serie Doorways. No es [&#8230;]]]></description>
-		<wfw:commentRss>/Doorways%3A%20Chapter%203%20-%20The%20Underworld/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Caffeine</title>
-		<link>/Caffeine/</link>
-		<comments>/Caffeine/#respond</comments>
+		<title>FRONTIERS</title>
+		<link>https://cheap-and-cheerful.store/frontiers/</link>
+		<comments>https://cheap-and-cheerful.store/frontiers/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Synopsis Caffeine is a quirky first person adventure game with environmental puzzles and a touch of psychological horror. Set in the near future, the entire population of Earth is vigorously addicted to coffee. Massive space stations built by the biggest corporations roam the stars mining minerals to create a synthetic caffeine. You awaken aboard one [&#8230;]]]></description>
-		<wfw:commentRss>/Caffeine/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Toybox Turbos</title>
-		<link>/Toybox%20Turbos/</link>
-		<comments>/Toybox%20Turbos/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[VR Support]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[¡Arranca la diversión con el clásico de carreras de mesa reinventado por Codemasters en Toybox Turbos! &#8211; ¡Ya disponible en 3D con el casco de realidad virtual Oculus Rift Development kit 2 (DK2)! Personaliza 35 vehículos en este sencillo arcade. Compite en 18 circuitos plagados de obstáculos y atajos para vivir una caótica y reñida [&#8230;]]]></description>
-		<wfw:commentRss>/Toybox%20Turbos/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>MotorSport Revolution</title>
-		<link>/MotorSport%20Revolution/</link>
-		<comments>/MotorSport%20Revolution/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[VR Support]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[The Game Motorsport Revolution is a single-player, physics-based racing game inspired by classic console racing games, as well as the popular Le Mans Series, which is considered the most challenging sport racing class in the world. With these influences in mind, we’re creating an epic immersive VR motorsport racing experience where players race the world’s [&#8230;]]]></description>
-		<wfw:commentRss>/MotorSport%20Revolution/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Lemma</title>
-		<link>/Lemma/</link>
-		<comments>/Lemma/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[VR Support]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Immersive first-person parkour in a surreal, physics-driven voxel world. Lemma enables creative building through movement. Spawn structures just by moving through space. Extend platforms, smash through walls, and build new ones, all through parkour moves. Non-linear story &#8211; four possible endings Oculus Rift support (currently limited to SDK v0.6.0.1-beta) Time trial mode Built-in level editor [&#8230;]]]></description>
-		<wfw:commentRss>/Lemma/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Home is Where One Starts&#8230;</title>
-		<link>/Home%20is%20Where%20One%20Starts.../</link>
-		<comments>/Home%20is%20Where%20One%20Starts.../#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[VR Support]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[“I remember when I was a little girl, waiting at the end of my driveway. I had already missed the school bus, but I stood there anyway… envying the birds.” Home is Where One Starts&#8230; is a short, first-person exploration game in the same vein as Dear Esther or Gone Home. It’s an experience where [&#8230;]]]></description>
-		<wfw:commentRss>/Home%20is%20Where%20One%20Starts.../feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/frontiers</guid>
+		<description><![CDATA[FRONTIERS blends the feel of first-person RPG classics like Daggerfall with the relaxing tempo and simplicity of a point-and-click adventure. Discover ancient mysteries, live off the land and fight deadly creatures, all in a beautiful, massive open world. Is FRONTIERS for you? I can still remember the first time I played Daggerfall. Yes, it was [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/frontiers/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

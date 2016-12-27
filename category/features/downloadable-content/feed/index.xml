@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Downloadable Content &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/features/downloadable-content/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/features/downloadable-content/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,281 +19,237 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Downloadable Content &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Arma 2: Private Military Company</title>
-		<link>/Arma%202%3A%20Private%20Military%20Company/</link>
-		<comments>/Arma%202%3A%20Private%20Military%20Company/#respond</comments>
+		<title>Borderlands 2 Game of the Year</title>
+		<link>https://cheap-and-cheerful.store/borderlands-2-game-of-the-year/</link>
+		<comments>https://cheap-and-cheerful.store/borderlands-2-game-of-the-year/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Arma%202%3A%20Private%20Military%20Company/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>GRID 2 &#8211; Spa-Francorchamps Track Pack</title>
-		<link>/GRID%202%20-%20Spa-Francorchamps%20Track%20Pack/</link>
-		<comments>/GRID%202%20-%20Spa-Francorchamps%20Track%20Pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/borderlands-2-game-of-the-year</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/GRID%202%20-%20Spa-Francorchamps%20Track%20Pack/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/borderlands-2-game-of-the-year/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Magicka: Mega Villain Robes</title>
-		<link>/Magicka%3A%20Mega%20Villain%20Robes/</link>
-		<comments>/Magicka%3A%20Mega%20Villain%20Robes/#respond</comments>
+		<title>Magicka: Nippon</title>
+		<link>https://cheap-and-cheerful.store/magicka-nippon/</link>
+		<comments>https://cheap-and-cheerful.store/magicka-nippon/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/magicka-nippon</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/magicka-nippon/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Magicka: The Other Side of the Coin</title>
+		<link>https://cheap-and-cheerful.store/magicka-the-other-side-of-the-coin/</link>
+		<comments>https://cheap-and-cheerful.store/magicka-the-other-side-of-the-coin/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
 		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/magicka-the-other-side-of-the-coin</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Magicka%3A%20Mega%20Villain%20Robes/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/magicka-the-other-side-of-the-coin/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>PAYDAY 2: Gage Assault Pack</title>
-		<link>/PAYDAY%202%3A%20Gage%20Assault%20Pack/</link>
-		<comments>/PAYDAY%202%3A%20Gage%20Assault%20Pack/#respond</comments>
+		<title>The Binding of Isaac Collection</title>
+		<link>https://cheap-and-cheerful.store/the-binding-of-isaac-collection/</link>
+		<comments>https://cheap-and-cheerful.store/the-binding-of-isaac-collection/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-binding-of-isaac-collection</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/PAYDAY%202%3A%20Gage%20Assault%20Pack/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-binding-of-isaac-collection/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Tropico 5 &#8211; Waterborne</title>
-		<link>/Tropico%205%20-%20Waterborne/</link>
-		<comments>/Tropico%205%20-%20Waterborne/#respond</comments>
+		<title>Europa Universalis IV: El Dorado</title>
+		<link>https://cheap-and-cheerful.store/europa-universalis-iv-el-dorado/</link>
+		<comments>https://cheap-and-cheerful.store/europa-universalis-iv-el-dorado/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+				<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/europa-universalis-iv-el-dorado</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Tropico%205%20-%20Waterborne/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/europa-universalis-iv-el-dorado/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Sanctum 2 Complete Pack</title>
-		<link>/Sanctum%202%20Complete%20Pack/</link>
-		<comments>/Sanctum%202%20Complete%20Pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Sanctum%202%20Complete%20Pack/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Royal Defense &#8211; Invisible Threat</title>
-		<link>/Royal%20Defense%20-%20Invisible%20Threat/</link>
-		<comments>/Royal%20Defense%20-%20Invisible%20Threat/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Royal%20Defense%20-%20Invisible%20Threat/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>AI War: Children of Neinzul</title>
-		<link>/AI%20War%3A%20Children%20of%20Neinzul/</link>
-		<comments>/AI%20War%3A%20Children%20of%20Neinzul/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/AI%20War%3A%20Children%20of%20Neinzul/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Arma 2: Army of the Czech Republic</title>
-		<link>/Arma%202%3A%20Army%20of%20the%20Czech%20Republic/</link>
-		<comments>/Arma%202%3A%20Army%20of%20the%20Czech%20Republic/#respond</comments>
+		<title>Vanguard Princess Hilda Rize</title>
+		<link>https://cheap-and-cheerful.store/vanguard-princess-hilda-rize/</link>
+		<comments>https://cheap-and-cheerful.store/vanguard-princess-hilda-rize/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/vanguard-princess-hilda-rize</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Arma%202%3A%20Army%20of%20the%20Czech%20Republic/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/vanguard-princess-hilda-rize/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>GRID Autosport &#8211; Drag Pack</title>
-		<link>/GRID%20Autosport%20-%20Drag%20Pack/</link>
-		<comments>/GRID%20Autosport%20-%20Drag%20Pack/#respond</comments>
+		<title>ACE Founder Pack DLC</title>
+		<link>https://cheap-and-cheerful.store/ace-founder-pack-dlc/</link>
+		<comments>https://cheap-and-cheerful.store/ace-founder-pack-dlc/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Downloadable Content]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Free to Play]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/ace-founder-pack-dlc</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/ace-founder-pack-dlc/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Call of Duty®: Ghosts &#8211; Devastation</title>
+		<link>https://cheap-and-cheerful.store/call-of-duty%c2%ae-ghosts-devastation/</link>
+		<comments>https://cheap-and-cheerful.store/call-of-duty%c2%ae-ghosts-devastation/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/call-of-duty%c2%ae-ghosts-devastation</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/GRID%20Autosport%20-%20Drag%20Pack/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/call-of-duty%c2%ae-ghosts-devastation/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Magicka: Holiday Spirit Item Pack</title>
-		<link>/Magicka%3A%20Holiday%20Spirit%20Item%20Pack/</link>
-		<comments>/Magicka%3A%20Holiday%20Spirit%20Item%20Pack/#respond</comments>
+		<title>Magicka: Vietnam</title>
+		<link>https://cheap-and-cheerful.store/magicka-vietnam/</link>
+		<comments>https://cheap-and-cheerful.store/magicka-vietnam/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/magicka-vietnam</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/magicka-vietnam/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Magicka: Horror Props Item Pack</title>
+		<link>https://cheap-and-cheerful.store/magicka-horror-props-item-pack/</link>
+		<comments>https://cheap-and-cheerful.store/magicka-horror-props-item-pack/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -309,34 +265,59 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/magicka-horror-props-item-pack</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Magicka%3A%20Holiday%20Spirit%20Item%20Pack/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/magicka-horror-props-item-pack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>PAYDAY 2: Gage Sniper Pack</title>
-		<link>/PAYDAY%202%3A%20Gage%20Sniper%20Pack/</link>
-		<comments>/PAYDAY%202%3A%20Gage%20Sniper%20Pack/#respond</comments>
+		<title>The Evil Within Season Pass</title>
+		<link>https://cheap-and-cheerful.store/the-evil-within-season-pass/</link>
+		<comments>https://cheap-and-cheerful.store/the-evil-within-season-pass/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Captions available]]></category>
 		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-evil-within-season-pass</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/PAYDAY%202%3A%20Gage%20Sniper%20Pack/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-evil-within-season-pass/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Crusader Kings II: Horse Lords</title>
+		<link>https://cheap-and-cheerful.store/crusader-kings-ii-horse-lords/</link>
+		<comments>https://cheap-and-cheerful.store/crusader-kings-ii-horse-lords/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/crusader-kings-ii-horse-lords</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/crusader-kings-ii-horse-lords/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Polish &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/supported-languages/polish/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/supported-languages/polish/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,101 +19,95 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Polish &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>DARK SOULS™ II: Scholar of the First Sin</title>
-		<link>/DARK%20SOULS%E2%84%A2%20II%3A%20Scholar%20of%20the%20First%20Sin/</link>
-		<comments>/DARK%20SOULS%E2%84%A2%20II%3A%20Scholar%20of%20the%20First%20Sin/#respond</comments>
+		<title>Arma 2: Combined Operations</title>
+		<link>https://cheap-and-cheerful.store/arma-2-combined-operations/</link>
+		<comments>https://cheap-and-cheerful.store/arma-2-combined-operations/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
 		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Notice Esta es la versión mejorada de 64 bits, con gráficos actualizados y características añadidas. Si buscas el paquete de la versión de 32 bits (con el DARK SOULS™ II original y su contenido descargable), haz clic aquí. El juego en línea, las partidas guardadas y los logros son incompatibles entre las dos versiones. Comprar [&#8230;]]]></description>
-		<wfw:commentRss>/DARK%20SOULS%E2%84%A2%20II%3A%20Scholar%20of%20the%20First%20Sin/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Chivalry: Medieval Warfare</title>
-		<link>/Chivalry%3A%20Medieval%20Warfare/</link>
-		<comments>/Chivalry%3A%20Medieval%20Warfare/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Recién actualizado Acerca del juego Asedia castillos y asalta aldeas en Chivalry: Medieval Warfare, un videojuego en primera persona centrado en el modo multijugador. En él se desarrollan competitivos combatesen línea que recrean la experiencia de los verdaderos campos de batalla medievales. El juego se inspira en la intensidad y las batallas épicas de películas [&#8230;]]]></description>
-		<wfw:commentRss>/Chivalry%3A%20Medieval%20Warfare/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/arma-2-combined-operations</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/arma-2-combined-operations/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Dragon Age: Origins</title>
-		<link>/Dragon%20Age%3A%20Origins/</link>
-		<comments>/Dragon%20Age%3A%20Origins/#respond</comments>
+		<title>BioShock Infinite</title>
+		<link>https://cheap-and-cheerful.store/bioshock-infinite/</link>
+		<comments>https://cheap-and-cheerful.store/bioshock-infinite/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/bioshock-infinite</guid>
+		<description><![CDATA[Indebted to the wrong people, with his life on the line, veteran of the U.S. Cavalry and now hired gun, Booker DeWitt has only one opportunity to wipe his slate clean. He must rescue Elizabeth, a mysterious girl imprisoned since childhood and locked up in the flying city of Columbia. Forced to trust one another, [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/bioshock-infinite/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Beyond Divinity</title>
+		<link>https://cheap-and-cheerful.store/beyond-divinity/</link>
+		<comments>https://cheap-and-cheerful.store/beyond-divinity/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Pre-Compra Dragon Age: Origins y recibe lo siguiente: Item Exclusivo para Steam   El Juramento Vil La condesa Luciana de Antiva vivió prácticamente como una prisionera en el castillo de su marido hasta que una esclava elfa le ofreció la posibilidad de escapar. La esclava vinculó mágicamente una pequeña cantidad de sangre de la condesa a [&#8230;]]]></description>
-		<wfw:commentRss>/Dragon%20Age%3A%20Origins/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/beyond-divinity</guid>
+		<description><![CDATA[Beyond Divinity is the follow-up to the award-winning Divine Divinity. Soul-forged with a Death Knight, your fate is to spend the rest of eternity bonded to this creature of evil, unless you can undo his curse&#8230;prepare for your greatest adventure! This new re-mastered version offers support for Windows 7 and higher resolutions. Key Features: An [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/beyond-divinity/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Grid 2 Reloaded Edition</title>
-		<link>/Grid%202%20Reloaded%20Edition/</link>
-		<comments>/Grid%202%20Reloaded%20Edition/#respond</comments>
+		<title>GRID Autosport</title>
+		<link>https://cheap-and-cheerful.store/grid-autosport/</link>
+		<comments>https://cheap-and-cheerful.store/grid-autosport/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
+				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
@@ -123,6 +117,7 @@
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Sports]]></category>
@@ -132,260 +127,256 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Grid%202%20Reloaded%20Edition/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/grid-autosport</guid>
+		<description><![CDATA[Ficha por un equipo y plántales cara a tus rivales en un nuevo y fascinante reto automovilístico. Junto a tu compañero de filas, debes superar a rivales directos y cumplir los objetivos de los patrocinadores en vertiginosas carreras donde cada adelantamiento vale su peso en oro. Especialízate en la disciplina que más te apasione o [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/grid-autosport/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Mafia II</title>
-		<link>/Mafia%20II/</link>
-		<comments>/Mafia%20II/#respond</comments>
+		<title>Left 4 Dead 2</title>
+		<link>https://cheap-and-cheerful.store/left-4-dead-2/</link>
+		<comments>https://cheap-and-cheerful.store/left-4-dead-2/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Digital Deluxe Edition Pack del Mafioso: Acceso gratuito a un pack descargable dentro del juego que permite a los jugadores ponerse tras el volante de dos lujosos automóviles modelados a partir de coches clásicos de la época. Además, Vito dará el pego con dos nuevos trajes de mafioso, incluyendo un esmoquin clásico. Libro de Arte [&#8230;]]]></description>
-		<wfw:commentRss>/Mafia%20II/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Mortal Kombat X</title>
-		<link>/Mortal%20Kombat%20X/</link>
-		<comments>/Mortal%20Kombat%20X/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[&#34;¿Quién es el siguiente? Disfruta de la nueva generación de la franquicia de lucha n.º 1. Mortal Kombat X reúne un aspecto cinematográfico y una mecánica de juego nunca vistos. Por primera vez, los jugadores pueden elegir múltiples variantes de cada personaje con impacto tanto en la estrategia como en el estilo de lucha. Bonificación [&#8230;]]]></description>
-		<wfw:commentRss>/Mortal%20Kombat%20X/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Space Engineers</title>
-		<link>/Space%20Engineers/</link>
-		<comments>/Space%20Engineers/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
 		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Commentary available]]></category>
 		<category><![CDATA[Danish]]></category>
 		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Swedish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Space Engineers is a sandbox game about engineering, construction, exploration and survival in space and on planets. Players build space ships, space stations, planetary outposts of various sizes and uses (civil and military), pilot ships and travel through space to explore planets and gather resources to survive. Featuring both creative and survival modes, there is [&#8230;]]]></description>
-		<wfw:commentRss>/Space%20Engineers/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Wargame: Airland Battle</title>
-		<link>/Wargame%3A%20Airland%20Battle/</link>
-		<comments>/Wargame%3A%20Airland%20Battle/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[2 SIDES, 12 NATIONS, 750 UNITS: THE STRATEGY GAME REFERENCE IS BACK! Richer, more beautiful and more accessible, Wargame AirLand Battle is the sequel to the explosive real-time strategy game Wargame European Escalation! 1985. After several months of tension between NATO and the Warsaw Pact, an incident in the North Sea suddenly sets the world [&#8230;]]]></description>
-		<wfw:commentRss>/Wargame%3A%20Airland%20Battle/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Bound By Flame</title>
-		<link>/Bound%20By%20Flame/</link>
-		<comments>/Bound%20By%20Flame/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[En un mundo sin esperanza asolado por los siete Señores del Hielo y su ejército de no muertos, tú eres Vulcan, un mercenario poseído por un demonio de llamas. En este RPG, en el que todas tus decisiones tendrán consecuencias, deberás elegir entre desatar los poderes de tu demonio interior o rechazar su influencia infernal, [&#8230;]]]></description>
-		<wfw:commentRss>/Bound%20By%20Flame/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Orcs Must Die! 2</title>
-		<link>/Orcs%20Must%20Die%21%202/</link>
-		<comments>/Orcs%20Must%20Die%21%202/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Los has lanzado, quemado y rebanado a miles. ¡Ahora los orcos deben morir incluso más que antes! Busca un amigo y acabad con ingentes cantidades de orcos en la secuela del Juego de Estrategia del Año de AIAS creado por Robot Entertainment. Regresa a la lucha como un poderoso Mago Guerrero o como una astuta [&#8230;]]]></description>
-		<wfw:commentRss>/Orcs%20Must%20Die%21%202/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Incredible Adventures of Van Helsing</title>
-		<link>/The%20Incredible%20Adventures%20of%20Van%20Helsing/</link>
-		<comments>/The%20Incredible%20Adventures%20of%20Van%20Helsing/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Colócate tu sombrero de ala ancha y coge tus armas para embarcarte en una increíble aventura en el oscuro y gótico reino de Borgovia, donde un desquiciado científico amenaza la frágil paz entre mortales y monstruos. Ponte en la piel del increíble cazador de bestias Van Helsing y disfruta de la compañía de la bella [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Incredible%20Adventures%20of%20Van%20Helsing/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/left-4-dead-2</guid>
+		<description><![CDATA[Ambientado en el apocalipsis zombi, Left 4 Dead 2 (L4D2) es la secuela largamente esperada del galardonado Left 4 Dead, el juego co-op número 1 de 2008. Este FPS cooperativo de acción y horror os llevará a ti y a tus amigos por las ciudades, pantanos y cementerios del Sur Profundo, desde Savannah hasta Nueva [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/left-4-dead-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Trine 2: Complete Story</title>
-		<link>/Trine%202%3A%20Complete%20Story/</link>
-		<comments>/Trine%202%3A%20Complete%20Story/#respond</comments>
+		<title>Mass Effect 2</title>
+		<link>https://cheap-and-cheerful.store/mass-effect-2/</link>
+		<comments>https://cheap-and-cheerful.store/mass-effect-2/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/mass-effect-2</guid>
+		<description><![CDATA[¡De los creadores de Star Wars®: Knights of the Old Republic™, Dragon Age: Origins™, y Mass Effect™ llega la segunda y oscura entrega de la emocionante trilogía Mass Effect!Dos años después de que el Comandante Shepard lograse repeler a los invasores Reapers empeñados en destruir toda vida orgánica, emerge un nuevo y misterioso enemigo. En [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/mass-effect-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sniper Elite 3</title>
+		<link>https://cheap-and-cheerful.store/sniper-elite-3/</link>
+		<comments>https://cheap-and-cheerful.store/sniper-elite-3/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/sniper-elite-3</guid>
+		<description><![CDATA[Observa. Planifica. Ejecuta. ADÁPTATE. Sniper Elite 3, el nuevo capítulo de esta galardonada franquicia, invita a los jugadores a adentrarse en el exótico e implacable escenario del conflicto que tuvo lugar en África del Norte durante la Segunda Guerra Mundial, para enfrentarse a un nuevo y letal enemigo. El infame escuadrón de los Afrika Korps [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/sniper-elite-3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Empire: Total War Collection</title>
+		<link>https://cheap-and-cheerful.store/empire-total-war-collection/</link>
+		<comments>https://cheap-and-cheerful.store/empire-total-war-collection/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/empire-total-war-collection</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/empire-total-war-collection/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Street Fighter V</title>
+		<link>https://cheap-and-cheerful.store/street-fighter-v/</link>
+		<comments>https://cheap-and-cheerful.store/street-fighter-v/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/street-fighter-v</guid>
+		<description><![CDATA[¡La legendaria franquicia de lucha regresa con STREET FIGHTER® V! Disfruta de unos gráficos espectaculares y detalles sin precedentes en la siguiente generación de guerreros mundiales, mientras participas en batallas accesibles y emocionantes que ofrecen diversión de lucha sin fin tanto para principiantes como veteranos. Desafía a tus amigos en línea o compite por la [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/street-fighter-v/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DRAGON BALL XENOVERSE</title>
+		<link>https://cheap-and-cheerful.store/dragon-ball-xenoverse/</link>
+		<comments>https://cheap-and-cheerful.store/dragon-ball-xenoverse/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/dragon-ball-xenoverse</guid>
+		<description><![CDATA[Recién actualizado ¡Los cromos de Steam para Dragon Ball Xenoverse ya están disponibles! Juega al juego y consigue uno de los 6 increíbles cromos coleccionables. Consigue toda la colección y canjéala para desbloquear fondos, emoticonos e insignias para Steam. Acerca del juego ¡Renacen los combates más fieros de Son Goku y sus amigos! ¡POR PRIMERA [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/dragon-ball-xenoverse/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nightmares from the Deep 3: Davy Jones</title>
+		<link>https://cheap-and-cheerful.store/nightmares-from-the-deep-3-davy-jones/</link>
+		<comments>https://cheap-and-cheerful.store/nightmares-from-the-deep-3-davy-jones/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/nightmares-from-the-deep-3-davy-jones</guid>
+		<description><![CDATA[Pesadillas profundas 3: Davy Jones &#8211; ¡Prepárate para el capítulo final de la épica trilogía de piratas! Una serie de misteriosas notas diesen a Sara las pruebas que necesita para demostrar al mundo la existencia de la histórica figura de Davy Jones y organiza una conferencia de prensa para publicar lo que ha descubierto; que [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/nightmares-from-the-deep-3-davy-jones/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Deponia</title>
+		<link>https://cheap-and-cheerful.store/deponia/</link>
+		<comments>https://cheap-and-cheerful.store/deponia/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Bulgarian]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Trine 2 es un juego de acción de scroll lateral, puzles y plataformas donde juegas como uno de los Tres Héroes que se abren paso a través de incontables peligros en un fantástico mundo de cuento de hadas. Características Principales: Puzles basados en la física con fuego, agua, gravedad y magia Accesible tanto para jugadores [&#8230;]]]></description>
-		<wfw:commentRss>/Trine%202%3A%20Complete%20Story/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/deponia</guid>
+		<description><![CDATA[The Deponia series on Steam: http://store.steampowered.com/app/220740/ http://store.steampowered.com/app/241910/ http://store.steampowered.com/app/421050/ Buy Deponia 1-3: http://store.steampowered.com/app/292910/ Acerca del juego En Deponia, el mundo ha degenerado en un inmenso vertedero de basura, en el que el malhumorado Rufus a duras penas se gana su lamentable existencia. Él es parte de la clase social más baja, condenado a vivir su vida [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/deponia/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

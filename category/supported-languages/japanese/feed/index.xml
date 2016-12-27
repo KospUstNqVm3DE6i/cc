@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Japanese &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/supported-languages/japanese/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/supported-languages/japanese/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,325 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Japanese &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Counter-Strike: Source</title>
-		<link>/Counter-Strike%3A%20Source/</link>
-		<comments>/Counter-Strike%3A%20Source/#respond</comments>
+		<title>BioShock Infinite &#8211; Season Pass</title>
+		<link>https://cheap-and-cheerful.store/bioshock-infinite-season-pass/</link>
+		<comments>https://cheap-and-cheerful.store/bioshock-infinite-season-pass/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/bioshock-infinite-season-pass</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/bioshock-infinite-season-pass/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Evolve</title>
+		<link>https://cheap-and-cheerful.store/evolve/</link>
+		<comments>https://cheap-and-cheerful.store/evolve/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/evolve</guid>
+		<description><![CDATA[Evolve ha sido galardonado con más de 60 premios, ¡y ahora puedes jugar gratis con Evolve fase 2! En un mundo sin ley donde el hombre se enfrenta a la naturaleza a diario, ¿serás el cazador o la presa? Turtle Rock presenta Evolve fase 2, un juego de disparos multijugador gratuito de próxima generación que [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/evolve/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Left 4 Dead</title>
+		<link>https://cheap-and-cheerful.store/left-4-dead/</link>
+		<comments>https://cheap-and-cheerful.store/left-4-dead/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/left-4-dead</guid>
+		<description><![CDATA[Steam Big Picture Acerca del juego De la mano de Valve®, creadores de Counter-Strike®, Half-Life® y otros muchos juegos, llega Left 4 Dead™, una nueva aventura para PC y Xbox 360 que te meterá en la piel de uno de los cuatro &#34;supervivientes&#34; que libran una pugna de proporciones épicas contra hordas de zombis y [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/left-4-dead/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Serious Sam Complete Pack</title>
+		<link>https://cheap-and-cheerful.store/serious-sam-complete-pack/</link>
+		<comments>https://cheap-and-cheerful.store/serious-sam-complete-pack/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Bulgarian]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/serious-sam-complete-pack</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/serious-sam-complete-pack/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fire</title>
+		<link>https://cheap-and-cheerful.store/fire/</link>
+		<comments>https://cheap-and-cheerful.store/fire/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Bulgarian]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Thai]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Ukrainian]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/fire</guid>
+		<description><![CDATA[FIRE es una aventura de exploración con un intuitivo diseño de puzles. Consigue contar una historia terriblemente divertida sin usar siquiera una palabra. Viaja hasta la edad de piedra y enfréntate a la tarea más complicada de esta época: ¡La búsqueda del fuego! El héroe de esta historia es el simpático y despistado neandertal Ungh, [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/fire/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Trine 3: The Artifacts of Power</title>
+		<link>https://cheap-and-cheerful.store/trine-3-the-artifacts-of-power/</link>
+		<comments>https://cheap-and-cheerful.store/trine-3-the-artifacts-of-power/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/trine-3-the-artifacts-of-power</guid>
+		<description><![CDATA[Disfruta de un mundo de fantasía con asombrosos escenarios y enfréntate a infinidad de puzles basados en la física, con artilugios maravillosos, enemigos peligrosos y criaturas fascinantes. Trine 3: The Artifacts of Power es un juego de acción y plataformas, puzles y aventura, secuela de los premiados Trine y Trine 2. Reúnete con los tres [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/trine-3-the-artifacts-of-power/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>LIMBO</title>
+		<link>https://cheap-and-cheerful.store/limbo/</link>
+		<comments>https://cheap-and-cheerful.store/limbo/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/limbo</guid>
+		<description><![CDATA[Dudoso sobre el destino de su hermana, un niño entra en LIMBO]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/limbo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Phoenix Force</title>
+		<link>https://cheap-and-cheerful.store/phoenix-force/</link>
+		<comments>https://cheap-and-cheerful.store/phoenix-force/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Thai]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/phoenix-force</guid>
+		<description><![CDATA[Un dragón, un ojo gigante y la muerte te atacan con bolas de fuego, rayos láser y guadañas. ¿Qué puedes hacer? A) Decir que el juego es injusto porque con un solo golpe estás muerto y no hay enemigos débiles e irte llorando con tu mamá; o B) ¡Esquivar todo este infierno de proyectiles y [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/phoenix-force/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Scourge: Outbreak</title>
+		<link>https://cheap-and-cheerful.store/scourge-outbreak/</link>
+		<comments>https://cheap-and-cheerful.store/scourge-outbreak/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/scourge-outbreak</guid>
+		<description><![CDATA[El año es el 2026 y el mundo está dominado desde las sombras por la Corporación Nogari, una empresa ambiciosa creadora de la nueva tecnología de combustible &#34;Ambrosía&#34;. Desconocido para la población del mundo, la Ambrosía es un producto sacado de la investigación sobre un misterioso fragmento de meteorito en posesión de Nogari; algo por [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/scourge-outbreak/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kill The Bad Guy</title>
+		<link>https://cheap-and-cheerful.store/kill-the-bad-guy/</link>
+		<comments>https://cheap-and-cheerful.store/kill-the-bad-guy/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -36,129 +345,10 @@
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes Source SDK]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[LA NUEVA ENTREGA DEL JUEGO DE ACCIÓN EN LÍNEA NÚMERO 1 EN TODO EL MUNDO Counter-Strike: Source combina la intensidad de las partidas por equipos, que le valió varios premios al título original, con la avanzada tecnología de Source&#8482;. Con sus vanguardistas gráficos, nuevos sonidos y un mayor dinamismo, Counter-Strike: Source no puede faltar en [&#8230;]]]></description>
-		<wfw:commentRss>/Counter-Strike%3A%20Source/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Borderlands: The Pre-Sequel</title>
-		<link>/Borderlands%3A%20The%20Pre-Sequel/</link>
-		<comments>/Borderlands%3A%20The%20Pre-Sequel/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[¡SUMÉRGETE EN EL UNIVERSO DE BORDERLANDS Y PREPÁRATE PARA DISPARAR Y SAQUEAR EN UNA NUEVA AVENTURA QUE TE TRANSPORTARÁ A LA LUNA DE PANDORA EN BORDERLANDS: THE PRE-SEQUEL! Descubre la historia que hay tras Jack el Guapo, el villano de Borderlands 2, y su ascenso al poder. Situada entre el Borderlands original y Borderlands 2, [&#8230;]]]></description>
-		<wfw:commentRss>/Borderlands%3A%20The%20Pre-Sequel/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>F1 2014</title>
-		<link>/F1%202014/</link>
-		<comments>/F1%202014/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Siente el rugido de los nuevos monoplazas turboalimentados del juego de FORMULA 1™ más accesible hasta la fecha. F1 2014 cuenta con todos los coches, pilotos y circuitos del 2014 FIA FORMULA ONE WORLD CHAMPIONSHIP™, incluidas las incorporaciones de Rusia y Austria, el regreso del trazado alemán de Hockenheim y el 2014 FORMULA 1 GULF AIR BAHRAIN [&#8230;]]]></description>
-		<wfw:commentRss>/F1%202014/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>METAL GEAR SOLID V: THE PHANTOM PAIN</title>
-		<link>/METAL%20GEAR%20SOLID%20V%3A%20THE%20PHANTOM%20PAIN/</link>
-		<comments>/METAL%20GEAR%20SOLID%20V%3A%20THE%20PHANTOM%20PAIN/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Konami Digital Entertainment presenta el último capítulo de METAL GEAR SOLID V Experience: METAL GEAR SOLID V: The Phantom Pain. La franquicia entra en una nueva era gracias a la innovadora tecnología de Fox Engine y MGSV: The Phantom Pain ofrece a los jugadores una experiencia de juego de máximo nivel y libertad táctica para [&#8230;]]]></description>
-		<wfw:commentRss>/METAL%20GEAR%20SOLID%20V%3A%20THE%20PHANTOM%20PAIN/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Stronghold Crusader 2</title>
-		<link>/Stronghold%20Crusader%202/</link>
-		<comments>/Stronghold%20Crusader%202/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simulation]]></category>
@@ -166,204 +356,61 @@
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Edición especial Banda Sonora Digital compuesta por Robert Euvino Libro de Arte Digital &#8216;El Arte de Stronghold Crusader 2&#8217; Stronghold Crusader HD: Juego completo en Steam &#8211; ¿Ya tienes el juego en Steam? ¡Regálaselo a un amigo! Clientes Special Edition Para acceder a tu libro de arte y banda sonora digital, instala el juego, navega [&#8230;]]]></description>
-		<wfw:commentRss>/Stronghold%20Crusader%202/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/kill-the-bad-guy</guid>
+		<description><![CDATA[I &#8211; KTBG: the original single-player puzzle game II &#8211; Gangs of Bad Guys: the new multi-player mode (English only) I &#8211; KTBG ¿Tiene cualquiera derecho al perdón? ¿Puede un crimen ser olvidado? Numerosos criminales de guerra, antiguos miembros de la Mafia y malhechores de todo pelo piensan que pueden disimular su vil pasado y [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/kill-the-bad-guy/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Orcs Must Die! 2</title>
-		<link>/Orcs%20Must%20Die%21%202/</link>
-		<comments>/Orcs%20Must%20Die%21%202/#respond</comments>
+		<title>Toybox Turbos</title>
+		<link>https://cheap-and-cheerful.store/toybox-turbos/</link>
+		<comments>https://cheap-and-cheerful.store/toybox-turbos/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
+				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Los has lanzado, quemado y rebanado a miles. ¡Ahora los orcos deben morir incluso más que antes! Busca un amigo y acabad con ingentes cantidades de orcos en la secuela del Juego de Estrategia del Año de AIAS creado por Robot Entertainment. Regresa a la lucha como un poderoso Mago Guerrero o como una astuta [&#8230;]]]></description>
-		<wfw:commentRss>/Orcs%20Must%20Die%21%202/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/toybox-turbos</guid>
+		<description><![CDATA[¡Arranca la diversión con el clásico de carreras de mesa reinventado por Codemasters en Toybox Turbos! &#8211; ¡Ya disponible en 3D con el casco de realidad virtual Oculus Rift Development kit 2 (DK2)! Personaliza 35 vehículos en este sencillo arcade. Compite en 18 circuitos plagados de obstáculos y atajos para vivir una caótica y reñida [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/toybox-turbos/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Orcs Must Die!</title>
-		<link>/Orcs%20Must%20Die%21/</link>
-		<comments>/Orcs%20Must%20Die%21/#respond</comments>
+		<title>Super Chain Crusher Horizon</title>
+		<link>https://cheap-and-cheerful.store/super-chain-crusher-horizon/</link>
+		<comments>https://cheap-and-cheerful.store/super-chain-crusher-horizon/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Rebánalos, incinéralos, empálalos, arrójalos &#8211; da igual cómo lo hagas. Los orcos deben morir en este juego de acción y estrategia de la mano de Robot Entertainment. En la piel de un poderoso mago de guerra con un arsenal de mortíferas armas, hechizos y trampas al alcance de tu mano, te toca defender veinticuatro fortalezas [&#8230;]]]></description>
-		<wfw:commentRss>/Orcs%20Must%20Die%21/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Sacred Citadel</title>
-		<link>/Sacred%20Citadel/</link>
-		<comments>/Sacred%20Citadel/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Sharpen your axe, string your bow, brew your potions! Ancaria needs heroes like you. Grab your friends to join the resistance! The once peaceful land of Ancaria is in grave danger. The evil Ashen empire has enslaved its population and is using the orc-like Grimmoc to wipe out the Seraphim, who swore to protect it. [&#8230;]]]></description>
-		<wfw:commentRss>/Sacred%20Citadel/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Fractal: Make Blooms Not War</title>
-		<link>/Fractal%3A%20Make%20Blooms%20Not%20War/</link>
-		<comments>/Fractal%3A%20Make%20Blooms%20Not%20War/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Del galardonado equipo que te trajo Auditorium y Pulse: Volume One llega Fractal, una cautivadora experiencia de puzles musicales. Empuja, haz combos y encadena a través de una ensoñación pulsante en technicolor mientras expandes tu consciencia a 130 latidos por minuto. Con tres exclusivos y desafiantes modos de juego, increíbles gráficos de calidad HD y [&#8230;]]]></description>
-		<wfw:commentRss>/Fractal%3A%20Make%20Blooms%20Not%20War/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>War of the Human Tanks</title>
-		<link>/War%20of%20the%20Human%20Tanks/</link>
-		<comments>/War%20of%20the%20Human%20Tanks/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[War of the Human Tanks is a story driven strategy game with a gameplay reminiscent of Battleship and Chess, featuring a story of war, loyalty, sacrifice and human shaped tanks. This story takes place in a land vaguely reminiscent of modern-day Japan. In the twenty years since the first Human Tank was developed, the war [&#8230;]]]></description>
-		<wfw:commentRss>/War%20of%20the%20Human%20Tanks/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Prehistorik</title>
-		<link>/Prehistorik/</link>
-		<comments>/Prehistorik/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[THE STORY: A giant has stolen all the grub from the Grag tribe! You play the role of Grag and set off on this monster’s trail in search of food! Super friendly Grag is helped along the way by his new friend, the fly! Help this prehistoric hero defeat his monstrous enemies and bring back [&#8230;]]]></description>
-		<wfw:commentRss>/Prehistorik/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Gynophobia</title>
-		<link>/Gynophobia/</link>
-		<comments>/Gynophobia/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Ukrainian]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Gynophobia es un shooter de terror sobre el miedo anormal de las mujeres. Gynophobia está utilizando la clásica jugabilidad de tirador en primera persona, para transmitir la historia de Marcos, que sufre de diferentes fobias, incluyendo el miedo anormal de la mujer. Características principales Mezcla de Terror y Acción Premisa única Música de alta calidad [&#8230;]]]></description>
-		<wfw:commentRss>/Gynophobia/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/super-chain-crusher-horizon</guid>
+		<description><![CDATA[Eclipses the normal Windows game　with 3200&#215;800 pixelsfor ultra widescreen shooting! Let loose a series of chained chained explosions on this massive screen, the likes of which have never been seen before! Completely fill a long 2000 pixel ultra-charge-shot gauge to unleash a massive explosion 2000 pixels wide! It blows away all standards and crushes the [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/super-chain-crusher-horizon/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

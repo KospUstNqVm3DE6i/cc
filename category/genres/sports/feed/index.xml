@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Sports &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/genres/sports/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/genres/sports/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,260 +19,149 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Sports &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>GRID 2 &#8211; Spa-Francorchamps Track Pack</title>
-		<link>/GRID%202%20-%20Spa-Francorchamps%20Track%20Pack/</link>
-		<comments>/GRID%202%20-%20Spa-Francorchamps%20Track%20Pack/#respond</comments>
+		<title>DiRT Showdown</title>
+		<link>https://cheap-and-cheerful.store/dirt-showdown/</link>
+		<comments>https://cheap-and-cheerful.store/dirt-showdown/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Downloadable Content]]></category>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/GRID%202%20-%20Spa-Francorchamps%20Track%20Pack/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/dirt-showdown</guid>
+		<description><![CDATA[¡Compite, choca y desfasa en un tour mundial de caos motorizado con DiRT Showdown! La atmósfera de multitud, dinámica social y accesibilidad se elevan a la máxima potencia en este delirio de conducción turbo inyectado. Písale a fondo y gánate la adulación de las masas en trepidantes pruebas por escenarios míticos. Alcanza la victoria a [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/dirt-showdown/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Depth Hunter 2: Deep Dive</title>
-		<link>/Depth%20Hunter%202%3A%20Deep%20Dive/</link>
-		<comments>/Depth%20Hunter%202%3A%20Deep%20Dive/#respond</comments>
+		<title>NBA 2K16</title>
+		<link>https://cheap-and-cheerful.store/nba-2k16/</link>
+		<comments>https://cheap-and-cheerful.store/nba-2k16/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/nba-2k16</guid>
+		<description><![CDATA[Michael Jordan Special Edition La Edición Especial NBA 2K16 Michael Jordan incluye el siguiente contenido adicional: Zapatillas digitales de Jordan para tu Mi JUGADOR Camiseta de Jordan para tu Mi JUGADOR Camiseta de baloncesto de Jordan para tu Mi JUGADOR 30 000 VC Mi EQUIPO VIP+: 3 paquetes esmeralda con un jugador esmeralda garantizado en cada [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/nba-2k16/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lords of Football: United States</title>
+		<link>https://cheap-and-cheerful.store/lords-of-football-united-states/</link>
+		<comments>https://cheap-and-cheerful.store/lords-of-football-united-states/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/lords-of-football-united-states</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/lords-of-football-united-states/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hot Pinball Thrills</title>
+		<link>https://cheap-and-cheerful.store/hot-pinball-thrills/</link>
+		<comments>https://cheap-and-cheerful.store/hot-pinball-thrills/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/hot-pinball-thrills</guid>
+		<description><![CDATA[These 3 HOT pinball tables are the ultimate joy for fans of action packed arcade rounds. Thanks to state-of-the-art technology you’ll experience a premium physics simulation. Amazingly detailed, right down to realistic reflections, this game delivers the most intense pinball experience. Multiple camera angles will carry you off to the depth of the stylish tables. [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/hot-pinball-thrills/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Howler</title>
+		<link>https://cheap-and-cheerful.store/the-howler/</link>
+		<comments>https://cheap-and-cheerful.store/the-howler/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Depth Hunter 2 ofrece 25 misiones emocionantes en 3 lugares enormes alrededor del mundo. Los jugadores cazarán distintos tipos de peces y se enfrentarán con dificultades a la hora de pescar con lanza que te dejarán sin aliento, es un método de pesca antiguo. Los jugadores tendrán también que encontrar tesoros y tendrán la posibilidad [&#8230;]]]></description>
-		<wfw:commentRss>/Depth%20Hunter%202%3A%20Deep%20Dive/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>OlliOlli</title>
-		<link>/OlliOlli/</link>
-		<comments>/OlliOlli/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[OlliOlli mixes addictive one-life gameplay with over 120 tricks and grinds across 50 deviously crafted levels, 250 Challenges, Spots Mode and Daily Grind. Not enough for you? Complete all challenges to unlock the super skillful RAD Mode! Rack up the biggest and coolest combos along the way then time your landing to perfection to rule [&#8230;]]]></description>
-		<wfw:commentRss>/OlliOlli/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Baseball Mogul 2015</title>
-		<link>/Baseball%20Mogul%202015/</link>
-		<comments>/Baseball%20Mogul%202015/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Demo Now Available! Be sure to checkout our Baseball Mogul 2015 Demo! http://store.steampowered.com/app/388350/ The Mogul Series! Baseball Mogul 2015 is just one of the many games in the Mogul series! Take a look at our other games, currently on Greenlight: 1) Baseball Mogul Diamond: http://steamcommunity.com/sharedfiles/filedetails/?id=449904616 2) Football Mogul 15: http://steamcommunity.com/sharedfiles/filedetails/?id=450350062 Also, currently selling on Steam&#8217;s [&#8230;]]]></description>
-		<wfw:commentRss>/Baseball%20Mogul%202015/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-howler</guid>
+		<description><![CDATA[Use gravity, tension, and wind currents to get your hot air balloon to its destination, dropping off cargo on your way, in this ultra-challenging game. You&#8217;ll have to use your skill, wit, and reflexes, to complete all of The Howler&#8217;s dozens of levels. All art used in the Howler was meticulously created by classically-trained experienced [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-howler/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Grid 2 Reloaded Edition</title>
-		<link>/Grid%202%20Reloaded%20Edition/</link>
-		<comments>/Grid%202%20Reloaded%20Edition/#respond</comments>
+		<title>DiRT 3 Complete Edition</title>
+		<link>https://cheap-and-cheerful.store/dirt-3-complete-edition/</link>
+		<comments>https://cheap-and-cheerful.store/dirt-3-complete-edition/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Downloadable Content]]></category>
+				<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Grid%202%20Reloaded%20Edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Speedball 2 HD</title>
-		<link>/Speedball%202%20HD/</link>
-		<comments>/Speedball%202%20HD/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Speedball 2 HD es una reencarnación moderna del clásico juego de deportes futurista ciberpunk Speedball, desarrollado originalmente por The Bitmap Brothers y lanzado por primera vez para Atari ST en 1990. Una mezcla brutal de balonmano y hockey sobre hielo jugado a un ritmo trepidante. Ahora, Tower Studios, Vivid Games y The Bitmap Brothers han [&#8230;]]]></description>
-		<wfw:commentRss>/Speedball%202%20HD/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Worms Crazy Golf</title>
-		<link>/Worms%20Crazy%20Golf/</link>
-		<comments>/Worms%20Crazy%20Golf/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Recién actualizado ¡DLC gratuito disponible! El Worms™ Crazy Golf &#34;Carnival Course&#34; Pack es un pack de contenido descargable gratuito que añade un montón de nuevo contenido a Worms™ Crazy Golf. El “Carnival Course” Pack incluye el nuevo recorrido de 18 hoyos &#34;Carnival&#34; de crazy golf, 5 nuevos desafíos con tablas de clasificación, la nueva función [&#8230;]]]></description>
-		<wfw:commentRss>/Worms%20Crazy%20Golf/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Axis Football 2015</title>
-		<link>/Axis%20Football%202015/</link>
-		<comments>/Axis%20Football%202015/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Axis Football Overview Axis Football is a high-quality, 3D American Football Game. Choose from 32 team and play in either season mode or quick match against AI or local multiplayer. A great alternative to Madden, Axis Football features excellent controls and a unique aimed passing system that gives unprecedented accuracy and control of where the [&#8230;]]]></description>
-		<wfw:commentRss>/Axis%20Football%202015/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>GRID 2 &#8211; Bathurst Track Pack</title>
-		<link>/GRID%202%20-%20Bathurst%20Track%20Pack/</link>
-		<comments>/GRID%202%20-%20Bathurst%20Track%20Pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/GRID%202%20-%20Bathurst%20Track%20Pack/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Pool Nation</title>
-		<link>/Pool%20Nation/</link>
-		<comments>/Pool%20Nation/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
@@ -281,56 +170,194 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Pool Nation FX Now Available! Owners of Pool Nation can now pick up Pool Nation FX at a discounted rate! But hurry as this is a limited time offer! http://store.steampowered.com/app/314000/ Acerca del juego Play POOL NATION and become mesmerised by our balls, entranced by our decals &#38; unashamedly attached to our cues, so join us [&#8230;]]]></description>
-		<wfw:commentRss>/Pool%20Nation/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/dirt-3-complete-edition</guid>
+		<description><![CDATA[Consigue la Edición Completa de DiRT 3, la edición de competición off-road de DiRT 3 definitiva ampliada ahora con contenido adicional y mejorada mediante la integración de Steamworks, que dispone de logros, marcadores y partidas guardadas en Steam Cloud. En DiRT 3 Edición Completa, pilotarás coches míticos que abarcan 50 años de carreras en tres [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/dirt-3-complete-edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Dreamcast Collection</title>
-		<link>/Dreamcast%20Collection/</link>
-		<comments>/Dreamcast%20Collection/#respond</comments>
+		<title>WWE 2K15</title>
+		<link>https://cheap-and-cheerful.store/wwe-2k15/</link>
+		<comments>https://cheap-and-cheerful.store/wwe-2k15/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Dreamcast%20Collection/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/wwe-2k15</guid>
+		<description><![CDATA[¡WWE 2K15 da comienzo a una nueva era de videojuegos de la WWE! WWE 2K15 ofrece los golpes más fuertes y la jugabilidad de la WWE más fluida hasta la fecha, más parecida que nunca a lo que los fans ven en los programas de la WWE. Con importantes mejoras en la jugabilidad, una presentación [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/wwe-2k15/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Football Mogul 2014</title>
-		<link>/Football%20Mogul%202014/</link>
-		<comments>/Football%20Mogul%202014/#respond</comments>
+		<title>Probably Archery</title>
+		<link>https://cheap-and-cheerful.store/probably-archery/</link>
+		<comments>https://cheap-and-cheerful.store/probably-archery/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Want to Review Football Mogul 2014? Would you like to review this game for free? Are you a video game reviewer? Do you have your own video game channel/website/blog/etc.? If you&#8217;re interested in reviewing Football Mogul 2014, just contact us via support@sportsmogul.com or e-mail connor@sportsmogul.com! We&#8217;re happy to give reviewers a key(s) when requested. All [&#8230;]]]></description>
-		<wfw:commentRss>/Football%20Mogul%202014/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/probably-archery</guid>
+		<description><![CDATA[Manipulate your wrists, elbows and shoulders to get the arrow to the bow, draw it, aim and fire! Probably Archery gives the player more control over the minutia of their joint movements with tons of crazy scenarios to conquer, multiplayer battles to fight and brutal target challenges to dominate. With controls inspired by games like [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/probably-archery/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gas Guzzlers Extreme Gold Pack</title>
+		<link>https://cheap-and-cheerful.store/gas-guzzlers-extreme-gold-pack/</link>
+		<comments>https://cheap-and-cheerful.store/gas-guzzlers-extreme-gold-pack/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/gas-guzzlers-extreme-gold-pack</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/gas-guzzlers-extreme-gold-pack/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lethal League</title>
+		<link>https://cheap-and-cheerful.store/lethal-league/</link>
+		<comments>https://cheap-and-cheerful.store/lethal-league/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/lethal-league</guid>
+		<description><![CDATA[Lethal League es un juego de lucha de proyectiles competitivo en el que tienes que estamparle una pelota de anti-gravedad a tu oponente para ganar. La pelota acelera con cada golpe hasta velocidades extremas. Juega de forma local o por Internet. Características: – Hasta 4 jugadores: Partidas locales Y por Internet con hasta cuatro jugadores [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/lethal-league/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Football Manager 2015</title>
+		<link>https://cheap-and-cheerful.store/football-manager-2015/</link>
+		<comments>https://cheap-and-cheerful.store/football-manager-2015/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/football-manager-2015</guid>
+		<description><![CDATA[Football Manager 2015 &#8211; новая часть знаменитой серии симулятора футбольного менеджера. Выходит на PC, Mac и Linux в ноябре 2014 года. Football Manager &#8211; это наиболее реалистичный симулятор футбольного менеджера. Станьте тренером одного из клубов в более чем 50 странах, включая все лучшие европейские лиги. Football Manager 2015 позволит вам оказаться в роли менеджера клуба, [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/football-manager-2015/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MiniDrivers</title>
+		<link>https://cheap-and-cheerful.store/minidrivers/</link>
+		<comments>https://cheap-and-cheerful.store/minidrivers/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/minidrivers</guid>
+		<description><![CDATA[¡Las carreras más locas llegan a tus manos con MiniDrivers! La serie de animación que ha cautivado a millones de personas en todo el mundo tiene un nuevo protagonista: ¡Tú! Crea tus propias historias o cambia las reglas en las carreras y conviértete en Campeón del Mundo. ¡ES HORA DE CORRER! Si algo caracteriza los [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/minidrivers/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>French &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/supported-languages/french/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/supported-languages/french/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,322 +19,344 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>French &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Far Cry 3 &#8211; Blood Dragon</title>
-		<link>/Far%20Cry%203%20-%20Blood%20Dragon/</link>
-		<comments>/Far%20Cry%203%20-%20Blood%20Dragon/#respond</comments>
+		<title>Counter-Strike: Source</title>
+		<link>https://cheap-and-cheerful.store/counter-strike-source/</link>
+		<comments>https://cheap-and-cheerful.store/counter-strike-source/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[&#34;Far Cry 3: Blood Dragon es el ciberjuego de disparos más FLIPANTE. Está amBiehntado en un extraño mundo abierto: una isla plagada de maldad. Una visión del futuro totalmente ochentera al estilo VHS. Año 2007. Eres el sargento Rex Colt, un cibercomando Tipo Cuatro que se enfrenta a un ejército de cíborgs rebeldes. Tu misión: [&#8230;]]]></description>
-		<wfw:commentRss>/Far%20Cry%203%20-%20Blood%20Dragon/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Aliens vs. Predator</title>
-		<link>/Aliens%20vs.%20Predator/</link>
-		<comments>/Aliens%20vs.%20Predator/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Thai]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Aliens%20vs.%20Predator/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/counter-strike-source</guid>
+		<description><![CDATA[LA NUEVA ENTREGA DEL JUEGO DE ACCIÓN EN LÍNEA NÚMERO 1 EN TODO EL MUNDO Counter-Strike: Source combina la intensidad de las partidas por equipos, que le valió varios premios al título original, con la avanzada tecnología de Source&#8482;. Con sus vanguardistas gráficos, nuevos sonidos y un mayor dinamismo, Counter-Strike: Source no puede faltar en [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/counter-strike-source/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Call of Duty: World at War</title>
-		<link>/Call%20of%20Duty%3A%20World%20at%20War/</link>
-		<comments>/Call%20of%20Duty%3A%20World%20at%20War/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Call of Duty ha vuelto, redefiniendo la guerra como nunca la habías experimentado. Tomando como base el motor de Call of Duty 4®: Modern Warfare, Call of Duty: World at War sumerge a los jugadores en la experiencia de combate más descarnada y caótica de la Segunda Guerra Mundial hasta la fecha. Los jugadores tendrán [&#8230;]]]></description>
-		<wfw:commentRss>/Call%20of%20Duty%3A%20World%20at%20War/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Escape Dead Island</title>
-		<link>/Escape%20Dead%20Island/</link>
-		<comments>/Escape%20Dead%20Island/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Escape Dead Island es un juego de supervivencia y misterio que se desarrolla en la enigmática isla de Narapela después del brote zombi del juego original de Dead Island. En este título, descubrirás los orígenes del virus zombi a través de los ojos del aspirante a periodista Cliff Calo. Cliff Calo, hijo del magnate de [&#8230;]]]></description>
-		<wfw:commentRss>/Escape%20Dead%20Island/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Doom 3: BFG Edition</title>
-		<link>/Doom%203%3A%20BFG%20Edition/</link>
-		<comments>/Doom%203%3A%20BFG%20Edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[DOOM 3 BFG Edition es la colección definitiva de los juegos que definieron los shooters en primera persona, entre los que se encuentran DOOM, DOOM II, DOOM 3 y DOOM 3: Resurrection of Evil y The Lost Mission. Características Principales: Un clásico remasterizado: Desarrollado por id Software, el equipo original responsable del patrimonio de dicha [&#8230;]]]></description>
-		<wfw:commentRss>/Doom%203%3A%20BFG%20Edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Fallout 3</title>
-		<link>/Fallout%203/</link>
-		<comments>/Fallout%203/#respond</comments>
+		<title>Need for Speed: Shift</title>
+		<link>https://cheap-and-cheerful.store/need-for-speed-shift/</link>
+		<comments>https://cheap-and-cheerful.store/need-for-speed-shift/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/need-for-speed-shift</guid>
+		<description><![CDATA[El premiado Need for Speed™ SHIFT es un auténtico juego de carreras que combina la experiencia real del conductor con una física realista, modelos de coches totalmente perfectos y una amplia variedad de pistas de carreras auténticas. Need for Speed SHIFT conduce a los jugadores en una dirección diferente para crear una experiencia de simulación [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/need-for-speed-shift/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Borderlands</title>
+		<link>https://cheap-and-cheerful.store/borderlands/</link>
+		<comments>https://cheap-and-cheerful.store/borderlands/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Los ingenieros de Vault-Tec han trabajado sin descanso en una reproducción interactiva de la vida en el Yermo para que la disfrutes desde la comodidad de tu refugio. Incluye un mundo en constante expansión, combates únicos, efectos visuales cargados de realismo, miles de decisiones para tomar y un increíble reparto de personajes dinámicos. Cada minuto [&#8230;]]]></description>
-		<wfw:commentRss>/Fallout%203/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/borderlands</guid>
+		<description><![CDATA[Carga, Quita el Seguro y Enfréntate a la Locura ¡Prepárate para un auténtico disparate! ¡Juega en el papel de uno de los cuatro mercenarios de gatillo fácil y arrasa con cualquier cosa que se interponga en tu camino! Con su acción adictiva, combate frenético en primera persona, un arsenal masivo, elementos RPG, y co-op para [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/borderlands/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Grid 2 Reloaded Edition</title>
-		<link>/Grid%202%20Reloaded%20Edition/</link>
-		<comments>/Grid%202%20Reloaded%20Edition/#respond</comments>
+		<title>Company of Heroes Complete Pack</title>
+		<link>https://cheap-and-cheerful.store/company-of-heroes-complete-pack/</link>
+		<comments>https://cheap-and-cheerful.store/company-of-heroes-complete-pack/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Downloadable Content]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/company-of-heroes-complete-pack</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/company-of-heroes-complete-pack/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dishonored</title>
+		<link>https://cheap-and-cheerful.store/dishonored/</link>
+		<comments>https://cheap-and-cheerful.store/dishonored/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/dishonored</guid>
+		<description><![CDATA[Dishonored es un juego de acción en primera persona al que te entregarás por completo encarnando a un asesino sobrenatural movido por la sed de venganza. Un sistema de combate flexible te permitirá combinar una gran variedad de poderes sobrenaturales, armas y enrevesados artilugios para eliminar a tus enemigos desplegando toda tu creatividad. Tú decides [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/dishonored/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Euro Truck Simulator</title>
+		<link>https://cheap-and-cheerful.store/euro-truck-simulator/</link>
+		<comments>https://cheap-and-cheerful.store/euro-truck-simulator/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/euro-truck-simulator</guid>
+		<description><![CDATA[The original Euro Truck Simulator &#8211; the game which has become the classic of the genre and is still relevant today. The first truck simulation game in a European setting, with European long haul trucks! Drive freight from London to Rome to Berlin to Madrid to Prague &#8211; and many more cities &#8211; in realistic [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/euro-truck-simulator/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Football Manager 2015</title>
+		<link>https://cheap-and-cheerful.store/football-manager-2015/</link>
+		<comments>https://cheap-and-cheerful.store/football-manager-2015/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
 		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Grid%202%20Reloaded%20Edition/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/football-manager-2015</guid>
+		<description><![CDATA[Football Manager 2015 &#8211; новая часть знаменитой серии симулятора футбольного менеджера. Выходит на PC, Mac и Linux в ноябре 2014 года. Football Manager &#8211; это наиболее реалистичный симулятор футбольного менеджера. Станьте тренером одного из клубов в более чем 50 странах, включая все лучшие европейские лиги. Football Manager 2015 позволит вам оказаться в роли менеджера клуба, [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/football-manager-2015/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Killing Floor Bundle</title>
-		<link>/Killing%20Floor%20Bundle/</link>
-		<comments>/Killing%20Floor%20Bundle/#respond</comments>
+		<title>Half-Life Complete</title>
+		<link>https://cheap-and-cheerful.store/half-life-complete/</link>
+		<comments>https://cheap-and-cheerful.store/half-life-complete/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Thai]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/half-life-complete</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Killing%20Floor%20Bundle/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/half-life-complete/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Magicka: Heirlooms Item Pack</title>
-		<link>/Magicka%3A%20Heirlooms%20Item%20Pack/</link>
-		<comments>/Magicka%3A%20Heirlooms%20Item%20Pack/#respond</comments>
+		<title>Mad Max</title>
+		<link>https://cheap-and-cheerful.store/mad-max/</link>
+		<comments>https://cheap-and-cheerful.store/mad-max/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/mad-max</guid>
+		<description><![CDATA[Conviértete en Mad Max, un guerrero solitario en un despiadado mundo postapocalíptico donde los vehículos son imprescindibles para la supervivencia. En este juego de acción de mundo abierto en tercera persona deberás luchar constantemente contra crueles enemigos para mantenerte con vida en el Páramo, combatiendo tanto cuerpo a cuerpo como en vehículos. Héroe reacio con [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/mad-max/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mass Effect 2</title>
+		<link>https://cheap-and-cheerful.store/mass-effect-2/</link>
+		<comments>https://cheap-and-cheerful.store/mass-effect-2/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Magicka%3A%20Heirlooms%20Item%20Pack/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/mass-effect-2</guid>
+		<description><![CDATA[¡De los creadores de Star Wars®: Knights of the Old Republic™, Dragon Age: Origins™, y Mass Effect™ llega la segunda y oscura entrega de la emocionante trilogía Mass Effect!Dos años después de que el Comandante Shepard lograse repeler a los invasores Reapers empeñados en destruir toda vida orgánica, emerge un nuevo y misterioso enemigo. En [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/mass-effect-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Mortal Kombat Komplete Edition</title>
-		<link>/Mortal%20Kombat%20Komplete%20Edition/</link>
-		<comments>/Mortal%20Kombat%20Komplete%20Edition/#respond</comments>
+		<title>PAYDAY 2: Gage Weapon Pack #02</title>
+		<link>https://cheap-and-cheerful.store/payday-2-gage-weapon-pack-02/</link>
+		<comments>https://cheap-and-cheerful.store/payday-2-gage-weapon-pack-02/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/payday-2-gage-weapon-pack-02</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/payday-2-gage-weapon-pack-02/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rocket League</title>
+		<link>https://cheap-and-cheerful.store/rocket-league/</link>
+		<comments>https://cheap-and-cheerful.store/rocket-league/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[The newest chapter of the iconic fighting franchise is now available! Experience the deadliest tournament with all the kombatants and their unique fatalities. Players enter the realm to face the Kombatants in Mortal Kombat Komplete Edition, delivering all of the downloadable content (DLC), including intrepid warriors Skarlet, Kenshi and Rain, as well as the notorious [&#8230;]]]></description>
-		<wfw:commentRss>/Mortal%20Kombat%20Komplete%20Edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Red Orchestra: Ostfront 41-45</title>
-		<link>/Red%20Orchestra%3A%20Ostfront%2041-45/</link>
-		<comments>/Red%20Orchestra%3A%20Ostfront%2041-45/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Lucha en el campo de batalla que cambió el mundo para siempre. Lucha junto a tus compatriotas en algunos de los entornos más inhóspitos del Frente Oriental en Red Orchestra: Ostfront 41-45. Red Orchestra te sitúa en el combate multijugador en primera persona sobre la Segunda Guerra Mundial más realista hasta la fecha en PC y permite [&#8230;]]]></description>
-		<wfw:commentRss>/Red%20Orchestra%3A%20Ostfront%2041-45/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Sniper Elite 3</title>
-		<link>/Sniper%20Elite%203/</link>
-		<comments>/Sniper%20Elite%203/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Observa. Planifica. Ejecuta. ADÁPTATE. Sniper Elite 3, el nuevo capítulo de esta galardonada franquicia, invita a los jugadores a adentrarse en el exótico e implacable escenario del conflicto que tuvo lugar en África del Norte durante la Segunda Guerra Mundial, para enfrentarse a un nuevo y letal enemigo. El infame escuadrón de los Afrika Korps [&#8230;]]]></description>
-		<wfw:commentRss>/Sniper%20Elite%203/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/rocket-league</guid>
+		<description><![CDATA[Soccer meets driving once again in the long-awaited, physics-based sequel to the beloved arena classic, Supersonic Acrobatic Rocket-Powered Battle-Cars! A futuristic Sports-Action game, Rocket League®, equips players with booster-rigged vehicles that can be crashed into balls for incredible goals or epic saves across multiple, highly-detailed arenas. Using an advanced physics system to simulate realistic interactions, [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/rocket-league/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Action &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/genres/action/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/genres/action/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,38 +19,36 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Action &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Arma 2</title>
-		<link>/Arma%202/</link>
-		<comments>/Arma%202/#respond</comments>
+		<title>CortexGear:AngryDroids</title>
+		<link>https://cheap-and-cheerful.store/cortexgearangrydroids/</link>
+		<comments>https://cheap-and-cheerful.store/cortexgearangrydroids/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Cimentado sobre 10 años de constante desarrollo del motor, ARMA II ofrece el entorno de combate más realista del mundo. Imita fielmente la balística y desviación del disparo del mundo real, la penetración en función del material, tiene un ciclo real de día y noche, viento dinámico, meteorología y efectos ambientales. La simulación de un [&#8230;]]]></description>
-		<wfw:commentRss>/Arma%202/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/cortexgearangrydroids</guid>
+		<description><![CDATA[CortexGear:AngryDroids: IN CORTEXGEAR: ANGRYDROIDS, YOU PLAY AS: an alien(main character) hacker who take control of a CortexGear(A robot with an implanted brain) to destroy the other AngryDroids. The alien is one of the last survivors from a Cortex war(A war based on hacking the opponent) against the AngryDroids. The alien is also from a new [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/cortexgearangrydroids/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Grand Theft Auto IV</title>
-		<link>/Grand%20Theft%20Auto%20IV/</link>
-		<comments>/Grand%20Theft%20Auto%20IV/#respond</comments>
+		<title>Grand Theft Auto IV: Complete Edition</title>
+		<link>https://cheap-and-cheerful.store/grand-theft-auto-iv-complete-edition/</link>
+		<comments>https://cheap-and-cheerful.store/grand-theft-auto-iv-complete-edition/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
@@ -59,148 +57,130 @@
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[¿Qué significa hoy el Sueño Americano? Para Niko Bellic, recién llegado en barco desde Europa, es la esperanza de poder escapar de su pasado. Para su primo, Roman, es la visión de que juntos pueden hacer fortuna en Liberty City, la puerta a la tierra de las oportunidades. A medida que van acumulando deudas y [&#8230;]]]></description>
-		<wfw:commentRss>/Grand%20Theft%20Auto%20IV/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/grand-theft-auto-iv-complete-edition</guid>
+		<description><![CDATA[Coming Soon &#8211; Grand Theft Auto V Grand Theft Auto IV y los episodios – The Lost and Damned y The Ballad of Gay Tony. GTA IV: Complete Edition Incluye: Grand Theft Auto IV and the episodes – The Lost and Damned &#38; The Ballad of Gay Tony. Acerca del juego Este título independiente incluye [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/grand-theft-auto-iv-complete-edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>BioShock Infinite &#8211; Season Pass</title>
-		<link>/BioShock%20Infinite%20-%20Season%20Pass/</link>
-		<comments>/BioShock%20Infinite%20-%20Season%20Pass/#respond</comments>
+		<title>Borderlands 2 Season Pass</title>
+		<link>https://cheap-and-cheerful.store/borderlands-2-season-pass/</link>
+		<comments>https://cheap-and-cheerful.store/borderlands-2-season-pass/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/BioShock%20Infinite%20-%20Season%20Pass/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Company of Heroes Complete Pack</title>
-		<link>/Company%20of%20Heroes%20Complete%20Pack/</link>
-		<comments>/Company%20of%20Heroes%20Complete%20Pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/borderlands-2-season-pass</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Company%20of%20Heroes%20Complete%20Pack/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/borderlands-2-season-pass/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>DmC: Devil May Cry</title>
-		<link>/DmC%3A%20Devil%20May%20Cry/</link>
-		<comments>/DmC%3A%20Devil%20May%20Cry/#respond</comments>
+		<title>Darksiders II</title>
+		<link>https://cheap-and-cheerful.store/darksiders-ii/</link>
+		<comments>https://cheap-and-cheerful.store/darksiders-ii/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Steam Big Picture Acerca del juego In this retelling of Dante&#8217;s origin story which is set against a contemporary backdrop, DmC Devil May Cry™ retains the stylish action, fluid combat and self-assured protagonist that have defined the iconic series but inject a more brutal and visceral edge. The Dante of DmC is a young man [&#8230;]]]></description>
-		<wfw:commentRss>/DmC%3A%20Devil%20May%20Cry/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/darksiders-ii</guid>
+		<description><![CDATA[Crucible Mode Darksiders II presenta un modo de supervivencia en la arena llamado El Crisol, que permite a los jugadores seguir mejorando su personaje incluso después de haber terminado el juego principal y que ofrece el desafío definitivo. Características principales: Tras completar cinco de las 100 oleadas exclusivas del modo, los jugadores tendrán la opción [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/darksiders-ii/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Guacamelee! Gold Edition</title>
-		<link>/Guacamelee%21%20Gold%20Edition/</link>
-		<comments>/Guacamelee%21%20Gold%20Edition/#respond</comments>
+		<title>Divinity: Dragon Commander</title>
+		<link>https://cheap-and-cheerful.store/divinity-dragon-commander/</link>
+		<comments>https://cheap-and-cheerful.store/divinity-dragon-commander/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Steam Workshop Acerca del juego Guacamelee! Gold Edition Es un juego de plataformas de acción de estilo Metroid-vania establecido en un mundo mágico de inspiración mexicana. Guacamelee!, desarrollado sobre el estilo clásico de juegos de mundo abierto de Metroid-vania, cuenta con adiciones tales como un fuerte componente de combate cuerpo a cuerpo, una nueva mecánica [&#8230;]]]></description>
-		<wfw:commentRss>/Guacamelee%21%20Gold%20Edition/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/divinity-dragon-commander</guid>
+		<description><![CDATA[You are the Dragon Commander. Your mission it is to reunite a broken empire and become the new emperor. Success depends entirely on your ability to efficiently rule your empire, build invincible armies and lead them to victory. Your secret weapons: your tactical insights, your leadership skills and your ability to turn yourself into a [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/divinity-dragon-commander/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Left 4 Dead 2</title>
-		<link>/Left%204%20Dead%202/</link>
-		<comments>/Left%204%20Dead%202/#respond</comments>
+		<title>The Orange Box</title>
+		<link>https://cheap-and-cheerful.store/the-orange-box/</link>
+		<comments>https://cheap-and-cheerful.store/the-orange-box/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[Danish]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[Free to Play]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
 		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
@@ -211,141 +191,175 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Thai]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Ambientado en el apocalipsis zombi, Left 4 Dead 2 (L4D2) es la secuela largamente esperada del galardonado Left 4 Dead, el juego co-op número 1 de 2008. Este FPS cooperativo de acción y horror os llevará a ti y a tus amigos por las ciudades, pantanos y cementerios del Sur Profundo, desde Savannah hasta Nueva [&#8230;]]]></description>
-		<wfw:commentRss>/Left%204%20Dead%202/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Magicka: Party Robes</title>
-		<link>/Magicka%3A%20Party%20Robes/</link>
-		<comments>/Magicka%3A%20Party%20Robes/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-orange-box</guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Magicka%3A%20Party%20Robes/feed/</wfw:commentRss>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-orange-box/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Max Payne</title>
-		<link>/Max%20Payne/</link>
-		<comments>/Max%20Payne/#respond</comments>
+		<title>LEGO The Lord of the Rings</title>
+		<link>https://cheap-and-cheerful.store/lego-the-lord-of-the-rings/</link>
+		<comments>https://cheap-and-cheerful.store/lego-the-lord-of-the-rings/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Max Payne es un hombre que no tiene nada que perder en la violenta y fría noche urbana. Un policía encubierto culpado por un asesinato y ahora perseguido por la policía y la mafia. Max se encuentra entre la espada y la pared en una lucha donde no tiene esperanzas de ganar. Prepárate para una [&#8230;]]]></description>
-		<wfw:commentRss>/Max%20Payne/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>PAYDAY 2: Gage Weapon Pack #02</title>
-		<link>/PAYDAY%202%3A%20Gage%20Weapon%20Pack%20%2302/</link>
-		<comments>/PAYDAY%202%3A%20Gage%20Weapon%20Pack%20%2302/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Danish]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/PAYDAY%202%3A%20Gage%20Weapon%20Pack%20%2302/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Serious Sam Complete Pack</title>
-		<link>/Serious%20Sam%20Complete%20Pack/</link>
-		<comments>/Serious%20Sam%20Complete%20Pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Serious%20Sam%20Complete%20Pack/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Evil Within</title>
-		<link>/The%20Evil%20Within/</link>
-		<comments>/The%20Evil%20Within/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/lego-the-lord-of-the-rings</guid>
+		<description><![CDATA[Based on The Lord of the Rings motion picture trilogy, LEGO® The Lord of the Rings follows the original story-lines of The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, and The Lord of the Rings: The Return of the King, taking players through the epic [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/lego-the-lord-of-the-rings/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Magicka: Mega Villain Robes</title>
+		<link>https://cheap-and-cheerful.store/magicka-mega-villain-robes/</link>
+		<comments>https://cheap-and-cheerful.store/magicka-mega-villain-robes/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/magicka-mega-villain-robes</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/magicka-mega-villain-robes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>METAL GEAR SOLID V: GROUND ZEROES</title>
+		<link>https://cheap-and-cheerful.store/metal-gear-solid-v-ground-zeroes/</link>
+		<comments>https://cheap-and-cheerful.store/metal-gear-solid-v-ground-zeroes/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/metal-gear-solid-v-ground-zeroes</guid>
+		<description><![CDATA[Con Metal Gear Solid V: Ground Zeroes, Kojima Productions presenta una nueva obra maestra de la saga Metal Gear Solid. Metal Gear Solid V: Ground Zeroes es la primera parte de Metal Gear Solid V Experience y el prólogo de la segunda parte, más grande, que saldrá a la venta más tarde: Metal Gear Solid [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/metal-gear-solid-v-ground-zeroes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Street Fighter X Tekken</title>
+		<link>https://cheap-and-cheerful.store/street-fighter-x-tekken/</link>
+		<comments>https://cheap-and-cheerful.store/street-fighter-x-tekken/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/street-fighter-x-tekken</guid>
+		<description><![CDATA[Will You Cross the Line? The long awaited dream match-up between the two titans of fighting is here! Street Fighter® X Tekken® is the ultimate tag team fighting game, featuring one of the most expansive rosters of iconic fighters in fighting game history. The critically acclaimed Street Fighter® IV game engine has been refined with [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/street-fighter-x-tekken/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sniper Elite V2</title>
+		<link>https://cheap-and-cheerful.store/sniper-elite-v2/</link>
+		<comments>https://cheap-and-cheerful.store/sniper-elite-v2/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Demo Now Available A partir del 30 de octubre, podréis disfrutar de los tres primeros capítulos gratis. Si elegís comprar el juego después de estos tres primeros capítulos, podréis reanudar vuestros progresos guardados. Acerca del juego DESCRIPCIÓN DEL JUEGO: Creado por Shinji Mikami, responsable de la influyente serie Resident Evil, y desarrollado con el talento [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Evil%20Within/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/sniper-elite-v2</guid>
+		<description><![CDATA[En los oscuros días del final de la Segunda Guerra Mundial entre las ruinas de Berlín, una bala puede cambiar el curso de la historia&#8230; Sniper Elite V2 es la esperada secuela del aclamadísimo Sniper Elite, ofreciendo a los jugadores la experiencia de francotirador más auténtica ambientada en la Segunda Guerra Mundial. Eres el francotirador [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/sniper-elite-v2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Titan</title>
+		<link>https://cheap-and-cheerful.store/titan/</link>
+		<comments>https://cheap-and-cheerful.store/titan/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/titan</guid>
+		<description><![CDATA[Will you escape from the Tower? The great block breaker developed by Titus Interactive in 1988 is back with a brand-new HD version featuring superb 3D environments. Locked up in an 80-level tower by a mad scientist, use your brainpower to help you to escape. Armed with your pod (a cubic robot) and a metal [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/titan/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

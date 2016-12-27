@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Portuguese-Brazil &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/supported-languages/portuguese-brazil/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/supported-languages/portuguese-brazil/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,86 +19,153 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Portuguese-Brazil &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>BioShock Infinite: Clash in the Clouds</title>
-		<link>/BioShock%20Infinite%3A%20Clash%20in%20the%20Clouds/</link>
-		<comments>/BioShock%20Infinite%3A%20Clash%20in%20the%20Clouds/#respond</comments>
+		<title>Grand Theft Auto V</title>
+		<link>https://cheap-and-cheerful.store/grand-theft-auto-v/</link>
+		<comments>https://cheap-and-cheerful.store/grand-theft-auto-v/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/BioShock%20Infinite%3A%20Clash%20in%20the%20Clouds/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/grand-theft-auto-v</guid>
+		<description><![CDATA[Cuando un joven estafador callejero, un ladrón de bancos retirado y un psicópata aterrador se ven involucrados con lo peor y más desquiciado del mundo criminal, del gobierno de los EE. UU. y de la industria del espectáculo, tendrán que llevar a cabo una serie de peligrosos golpes para sobrevivir en una ciudad implacable en [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/grand-theft-auto-v/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>GRID Autosport</title>
-		<link>/GRID%20Autosport/</link>
-		<comments>/GRID%20Autosport/#respond</comments>
+		<title>Football Manager 2015</title>
+		<link>https://cheap-and-cheerful.store/football-manager-2015/</link>
+		<comments>https://cheap-and-cheerful.store/football-manager-2015/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
 		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Ficha por un equipo y plántales cara a tus rivales en un nuevo y fascinante reto automovilístico. Junto a tu compañero de filas, debes superar a rivales directos y cumplir los objetivos de los patrocinadores en vertiginosas carreras donde cada adelantamiento vale su peso en oro. Especialízate en la disciplina que más te apasione o [&#8230;]]]></description>
-		<wfw:commentRss>/GRID%20Autosport/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/football-manager-2015</guid>
+		<description><![CDATA[Football Manager 2015 &#8211; новая часть знаменитой серии симулятора футбольного менеджера. Выходит на PC, Mac и Linux в ноябре 2014 года. Football Manager &#8211; это наиболее реалистичный симулятор футбольного менеджера. Станьте тренером одного из клубов в более чем 50 странах, включая все лучшие европейские лиги. Football Manager 2015 позволит вам оказаться в роли менеджера клуба, [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/football-manager-2015/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>METAL GEAR SOLID V: THE PHANTOM PAIN</title>
-		<link>/METAL%20GEAR%20SOLID%20V%3A%20THE%20PHANTOM%20PAIN/</link>
-		<comments>/METAL%20GEAR%20SOLID%20V%3A%20THE%20PHANTOM%20PAIN/#respond</comments>
+		<title>Mad Max</title>
+		<link>https://cheap-and-cheerful.store/mad-max/</link>
+		<comments>https://cheap-and-cheerful.store/mad-max/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Captions available]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/mad-max</guid>
+		<description><![CDATA[Conviértete en Mad Max, un guerrero solitario en un despiadado mundo postapocalíptico donde los vehículos son imprescindibles para la supervivencia. En este juego de acción de mundo abierto en tercera persona deberás luchar constantemente contra crueles enemigos para mantenerte con vida en el Páramo, combatiendo tanto cuerpo a cuerpo como en vehículos. Héroe reacio con [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/mad-max/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tomb Raider</title>
+		<link>https://cheap-and-cheerful.store/tomb-raider/</link>
+		<comments>https://cheap-and-cheerful.store/tomb-raider/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/tomb-raider</guid>
+		<description><![CDATA[Reviews and Accolades 4.4/5 &#34;&#8230;it delivers a must-play gaming experience for action adventure fans everywhere. Welcome back, Lara, you&#8217;ve been missed.&#34; &#8211; Cheat Code Central 4.5/5 &#34;&#8230;Tomb Raider is sure to impress. Its expert sense of pacing, captivating setting, and dark tone create a truly memorable experience that&#8217;s further enhanced by an immense level of [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/tomb-raider/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Awesomenauts</title>
+		<link>https://cheap-and-cheerful.store/awesomenauts/</link>
+		<comments>https://cheap-and-cheerful.store/awesomenauts/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
@@ -108,25 +175,27 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Konami Digital Entertainment presenta el último capítulo de METAL GEAR SOLID V Experience: METAL GEAR SOLID V: The Phantom Pain. La franquicia entra en una nueva era gracias a la innovadora tecnología de Fox Engine y MGSV: The Phantom Pain ofrece a los jugadores una experiencia de juego de máximo nivel y libertad táctica para [&#8230;]]]></description>
-		<wfw:commentRss>/METAL%20GEAR%20SOLID%20V%3A%20THE%20PHANTOM%20PAIN/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/awesomenauts</guid>
+		<description><![CDATA[New matchmaking! A new update for Awesomenauts is now available, featuring a completely overhauled matchmaking system, a new party system, and reworked menus. There has never been a better time to be playing Awesomenauts! Acerca del juego Es el año 3587. El conflicto se extiende por las estrellas con guerras eternas entre ejércitos de robots. [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/awesomenauts/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Tales of Zestiria</title>
-		<link>/Tales%20of%20Zestiria/</link>
-		<comments>/Tales%20of%20Zestiria/#respond</comments>
+		<title>Of Orcs And Men</title>
+		<link>https://cheap-and-cheerful.store/of-orcs-and-men/</link>
+		<comments>https://cheap-and-cheerful.store/of-orcs-and-men/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
@@ -135,95 +204,26 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[¡Lucha por lo que quieres! En un mundo dividido por la guerra entre dos poderosas naciones que luchan por el poder y la supremacía, deberás aceptar la carga del Pastor y luchar contra la oscuridad humana para proteger a tu mundo de la malicia y reconciliar a los humanos con los serafines. Junto con Lailah, [&#8230;]]]></description>
-		<wfw:commentRss>/Tales%20of%20Zestiria/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/of-orcs-and-men</guid>
+		<description><![CDATA[Steam Big Picture Acerca del juego ¡Lidera la revolución de orcos y goblins! En un mundo en guerra, el vasto Imperio de los Hombres trata de extender su dominio sobre los territorios de orcos y goblins, a quienes persigue, esclaviza y masacra sistemáticamente. En este gran juego de rol, encarnarás a un temible guerrero orco [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/of-orcs-and-men/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>DuckTales: Remastered</title>
-		<link>/DuckTales%3A%20Remastered/</link>
-		<comments>/DuckTales%3A%20Remastered/#respond</comments>
+		<title>The Long Dark</title>
+		<link>https://cheap-and-cheerful.store/the-long-dark/</link>
+		<comments>https://cheap-and-cheerful.store/the-long-dark/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Steam Big Picture Acerca del juego DuckTales: Remastered &#8211; Llega una hermosa versión dibujada a mano de uno de los títulos de 8 bits más queridos de todos los tiempos. Viaja en el tiempo hacia una de las eras doradas de los videojuegos, pero ahora con un nivel de detalle que impactará tanto a los [&#8230;]]]></description>
-		<wfw:commentRss>/DuckTales%3A%20Remastered/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Trine 2: Complete Story</title>
-		<link>/Trine%202%3A%20Complete%20Story/</link>
-		<comments>/Trine%202%3A%20Complete%20Story/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Trine 2 es un juego de acción de scroll lateral, puzles y plataformas donde juegas como uno de los Tres Héroes que se abren paso a través de incontables peligros en un fantástico mundo de cuento de hadas. Características Principales: Puzles basados en la física con fuego, agua, gravedad y magia Accesible tanto para jugadores [&#8230;]]]></description>
-		<wfw:commentRss>/Trine%202%3A%20Complete%20Story/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Bridge</title>
-		<link>/The%20Bridge/</link>
-		<comments>/The%20Bridge/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
@@ -235,83 +235,158 @@
 		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Ukrainian]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-long-dark</guid>
+		<description><![CDATA[*** THE LONG DARK ES UN JUEGO CON ACCESO ANTICIPADO. ESTAMOS MEJORANDO CONSTANTEMENTE EL MUNDO ABIERTO, QUE AÚN NO ESTÁ TERMINADO. AL COMPRAR ESTA VERSIÓN AYUDARÁS AL DESARROLLO DEL JUEGO. PARA MÁS INFORMACIÓN, CONSULTA LOS DETALLES DEL ACCESO ANTICIPADO QUE ENCONTRARÁS MÁS ARRIBA. *** ¿En qué consiste The Long Dark? The Long Dark ofrece una experiencia de [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-long-dark/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Shattered Planet</title>
+		<link>https://cheap-and-cheerful.store/shattered-planet/</link>
+		<comments>https://cheap-and-cheerful.store/shattered-planet/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/shattered-planet</guid>
+		<description><![CDATA[Explore a dangerous planet that&#8217;s different every time and try to survive! The Galactic Union&#8217;s job for you is clear: research the alien wildlife &#8212; for science! However, in this case, researching may include lasers, explosions, hungry aliens, space sushi, and other similarly delicious-or-terrifying hazards. In-between missions, use scrap metal you&#8217;ve collected to upgrade your [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/shattered-planet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hero of Many</title>
+		<link>https://cheap-and-cheerful.store/hero-of-many/</link>
+		<comments>https://cheap-and-cheerful.store/hero-of-many/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Bulgarian]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Thai]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[The Bridge es un juego de lógica y puzles en dos dimensiones que obliga al jugador a reevaluar sus ideas preconcebidas sobre la física y la perspectiva. Es una mezcla entre Isaac Newton y M. C. Escher. Manipula la gravedad para convertir el techo en el suelo mientras te aventuras en arquitecturas imposibles. Explora mundos [&#8230;]]]></description>
-		<wfw:commentRss>/The%20Bridge/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/hero-of-many</guid>
+		<description><![CDATA[Hero Of Many takes you on an epic journey as a tiny hero in a dangerous world. But you’re not alone; you lead a swarm of water-beings through fierce battles for freedom across four different worlds and twenty-six choreographed levels. It’s an atmospheric action adventure that takes you deep into underwater caverns. Where you: • [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/hero-of-many/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Thunder Wolves</title>
-		<link>/Thunder%20Wolves/</link>
-		<comments>/Thunder%20Wolves/#respond</comments>
+		<title>Gynophobia</title>
+		<link>https://cheap-and-cheerful.store/gynophobia/</link>
+		<comments>https://cheap-and-cheerful.store/gynophobia/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[When this “wolf pack” strikes, you hear the thunder roll. The Thunder Wolves attack from the air. They are mercenaries, and the best helicopter pilots in the world. Every one of them is ready for action at all times—and ready to fight evil, wherever it lurks. The Thunder Wolves have already made it through countless [&#8230;]]]></description>
-		<wfw:commentRss>/Thunder%20Wolves/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/gynophobia</guid>
+		<description><![CDATA[Gynophobia es un shooter de terror sobre el miedo anormal de las mujeres. Gynophobia está utilizando la clásica jugabilidad de tirador en primera persona, para transmitir la historia de Marcos, que sufre de diferentes fobias, incluyendo el miedo anormal de la mujer. Características principales Mezcla de Terror y Acción Premisa única Música de alta calidad [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/gynophobia/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Grim Fandango Remastered</title>
-		<link>/Grim%20Fandango%20Remastered/</link>
-		<comments>/Grim%20Fandango%20Remastered/#respond</comments>
+		<title>Aces of the Luftwaffe</title>
+		<link>https://cheap-and-cheerful.store/aces-of-the-luftwaffe/</link>
+		<comments>https://cheap-and-cheerful.store/aces-of-the-luftwaffe/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Commentary available]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[The Making of Grim Fandango Remastered The makers of Grim Fandango discuss the development of the beloved adventure game and how Double Fine Productions plans to release the original classic to a contemporary audience. Watch The Making of Grim Fandango Here! Acerca del juego Something&#8217;s rotten in the land of the dead, and you&#8217;re being [&#8230;]]]></description>
-		<wfw:commentRss>/Grim%20Fandango%20Remastered/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/aces-of-the-luftwaffe</guid>
+		<description><![CDATA[¡SALTA A LA ACCIÓN Y CONVIÉRTETE EN EL AMO DEL CIELO! Demuestra de qué pasta estás hecho mientras se libra en Europa la gran guerra. Enfréntate a oleadas de aviones y tanques del Eje hasta dar con los verdaderos enemigos: ACES OF THE LUFTWAFFE . ✪✪✪ ARGUMENTO ✪✪✪ Inglaterra vive su peor momento: el Eje [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/aces-of-the-luftwaffe/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Munin</title>
-		<link>/Munin/</link>
-		<comments>/Munin/#respond</comments>
+		<title>RONIN</title>
+		<link>https://cheap-and-cheerful.store/ronin/</link>
+		<comments>https://cheap-and-cheerful.store/ronin/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
@@ -319,76 +394,16 @@
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Imagina que puedes mover montañas&#8230; ¡literalmente! Ayuda a Munin, el mensajero de Odín, usando físicas realistas, runas nórdicas, plataformas giratorias y un montón de tus propias neuronas para reclamar su poder en un viaje a través de Yggdrasil. ADÉNTRATE EN UN MUNDO DE MITOLOGÍA NÓRDICA A Munin el cuervo, fiel mensajero de Odín, el dios [&#8230;]]]></description>
-		<wfw:commentRss>/Munin/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Oceanhorn: Monster of Uncharted Seas</title>
-		<link>/Oceanhorn%3A%20Monster%20of%20Uncharted%20Seas/</link>
-		<comments>/Oceanhorn%3A%20Monster%20of%20Uncharted%20Seas/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[You wake up and find a letter from your father. He is gone… The only lead is his old notebook and a mysterious necklace. What happened? Oceanhorn: Monster of Uncharted Seas combines captivating storytelling, breathtaking 3D visuals and exciting gameplay into one epic action-adventure experience. In the game you explore the islands of Uncharted Seas, [&#8230;]]]></description>
-		<wfw:commentRss>/Oceanhorn%3A%20Monster%20of%20Uncharted%20Seas/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Contrast</title>
-		<link>/Contrast/</link>
-		<comments>/Contrast/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[CONTRAST es un juego de puzles y plataformas en el que viajarás instantáneamente de un fantástico mundo en 3D a un misterioso universo de sombras en 2D. Adéntrate en la atmósfera onírica y surrealista de 1920, inspirada en el cabaret y en el cine negro y mecida por una cálida música de jazz. En este [&#8230;]]]></description>
-		<wfw:commentRss>/Contrast/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/ronin</guid>
+		<description><![CDATA[Ronin is stylish a turn-based action platformer following the exploits of a vengeful heroine determined to strike down five prominent figures of a powerful corporation. Move with precision by meticulously planning out each silent step, soaring leap, and devastating swing of your blade from the shadows as you seek your revenge. Turn-Based Action: Carefully plot [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/ronin/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Local Co-op &#8211; Cheap &amp; Cheerful</title>
-	<atom:link href="/category/features/local-co-op/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://cheap-and-cheerful.store/category/features/local-co-op/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
 	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,136 +19,84 @@
 	<generator>https://wordpress.org/?v=4.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/icon.png</url>
+	<url>https://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
 	<title>Local Co-op &#8211; Cheap &amp; Cheerful</title>
-	<link>/</link>
+	<link>https://cheap-and-cheerful.store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Age of Wonders III</title>
-		<link>/Age%20of%20Wonders%20III/</link>
-		<comments>/Age%20of%20Wonders%20III/#respond</comments>
+		<title>Killing Floor Bundle</title>
+		<link>https://cheap-and-cheerful.store/killing-floor-bundle/</link>
+		<comments>https://cheap-and-cheerful.store/killing-floor-bundle/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Age of Wonders III is the long anticipated sequel to the award-winning strategy series. Delivering a unique mix of Empire Building, Role Playing and Warfare, Age of Wonders III offers the ultimate in turn-based fantasy strategy for veterans of the series and new players alike! Create an Empire in your own Image Rule as one [&#8230;]]]></description>
-		<wfw:commentRss>/Age%20of%20Wonders%20III/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/killing-floor-bundle</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/killing-floor-bundle/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Magicka: Gamer Bundle</title>
-		<link>/Magicka%3A%20Gamer%20Bundle/</link>
-		<comments>/Magicka%3A%20Gamer%20Bundle/#respond</comments>
+		<title>Magicka: Tower of Niflheim</title>
+		<link>https://cheap-and-cheerful.store/magicka-tower-of-niflheim/</link>
+		<comments>https://cheap-and-cheerful.store/magicka-tower-of-niflheim/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>/Magicka%3A%20Gamer%20Bundle/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Street Fighter X Tekken</title>
-		<link>/Street%20Fighter%20X%20Tekken/</link>
-		<comments>/Street%20Fighter%20X%20Tekken/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Will You Cross the Line? The long awaited dream match-up between the two titans of fighting is here! Street Fighter® X Tekken® is the ultimate tag team fighting game, featuring one of the most expansive rosters of iconic fighters in fighting game history. The critically acclaimed Street Fighter® IV game engine has been refined with [&#8230;]]]></description>
-		<wfw:commentRss>/Street%20Fighter%20X%20Tekken/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Awesomenauts</title>
-		<link>/Awesomenauts/</link>
-		<comments>/Awesomenauts/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[New matchmaking! A new update for Awesomenauts is now available, featuring a completely overhauled matchmaking system, a new party system, and reworked menus. There has never been a better time to be playing Awesomenauts! Acerca del juego Es el año 3587. El conflicto se extiende por las estrellas con guerras eternas entre ejércitos de robots. [&#8230;]]]></description>
-		<wfw:commentRss>/Awesomenauts/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/magicka-tower-of-niflheim</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/magicka-tower-of-niflheim/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>SpeedRunners</title>
-		<link>/SpeedRunners/</link>
-		<comments>/SpeedRunners/#respond</comments>
+		<title>Serious Sam 3: BFE</title>
+		<link>https://cheap-and-cheerful.store/serious-sam-3-bfe/</link>
+		<comments>https://cheap-and-cheerful.store/serious-sam-3-bfe/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Bulgarian]]></category>
 		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
@@ -156,113 +104,57 @@
 		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[En una ciudad llena de superhéroe, llegar a los crímenes se convierte en una competición para cada uno. Afortunamente hay suficientes cohetes, bombas, ganchos, pinchos, y otras mejoras tiradas por los alrededores &#8212; para hacer la competición divertida y rápida. Bienvenido a SpeedRunners. Speedrunners es un competitivo plataformas de 4 jugadores con ganchos, poderes, y [&#8230;]]]></description>
-		<wfw:commentRss>/SpeedRunners/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Final Exam</title>
-		<link>/Final%20Exam/</link>
-		<comments>/Final%20Exam/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[¡Disfruta de la acción sin pausa y el humor descabellado de este juego de desplazamiento lateral en 2,5D! Cuatro amigos de toda la vida se dirigen a su antiguo instituto para vivir la que promete ser la fiesta del siglo… y acaban en una ciudad fantasma llena de monstruosas criaturas. Sobrevive en solitario o en [&#8230;]]]></description>
-		<wfw:commentRss>/Final%20Exam/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/serious-sam-3-bfe</guid>
+		<description><![CDATA[Serious Sam 3: BFE es el glorioso regreso a la edad de oro de los shooters en primera persona donde los hombres eran hombres, la cobertura era para novatos y pulsar el gatillo hacía que las cosas hicieran bum. Como precuela del título independiente original, Serious Sam: The First Encounter, Serious Sam 3 transcurre durante [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/serious-sam-3-bfe/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Two Brothers</title>
-		<link>/Two%20Brothers/</link>
-		<comments>/Two%20Brothers/#respond</comments>
+		<title>Blood Knights</title>
+		<link>https://cheap-and-cheerful.store/blood-knights/</link>
+		<comments>https://cheap-and-cheerful.store/blood-knights/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Two Brothers is an Action Adventure game that features a classic Gameboy aesthetic. Roy Guarder, inventor, scientist, and philosopher, is on an expedition to discover the origins of life. This quest has brought him to &#34;The Cursed Lands,&#34; a stretch of land so dangerous and shrouded in mystery that it hasn&#8217;t been explored in over [&#8230;]]]></description>
-		<wfw:commentRss>/Two%20Brothers/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Party of Sin</title>
-		<link>/Party%20of%20Sin/</link>
-		<comments>/Party%20of%20Sin/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Ever had that itching desire to break out of hell and into the highest reaches of heaven? In Party of Sin, you take control of the Seven Deadly Sins in a coopetitive puzzle-platformer for 1-4 players. Master a large, dynamic team of anti-heroes &#8212; the Seven Deadly Sins &#8212; as you forge your destiny on [&#8230;]]]></description>
-		<wfw:commentRss>/Party%20of%20Sin/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/blood-knights</guid>
+		<description><![CDATA[Enfréntate a la fuerza del enemigo y recupera tu honor después de que tu, el glorioso cazador de vampiros, haya sido transformado en uno. Lanza ataques devastadores combinando tus habilidades vampíricas con los poderosos golpes de tus espadas. El hack&#8217;n&#8217;slay desarrollado por Deck13 (Venetica, Jack Keane) ofrece los modos individual y multijugador. Cambia en cualquier [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/blood-knights/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Orc Attack: Flatulent Rebellion</title>
-		<link>/Orc%20Attack%3A%20Flatulent%20Rebellion/</link>
-		<comments>/Orc%20Attack%3A%20Flatulent%20Rebellion/#respond</comments>
+		<title>Super Motherload</title>
+		<link>https://cheap-and-cheerful.store/super-motherload/</link>
+		<comments>https://cheap-and-cheerful.store/super-motherload/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
@@ -270,82 +162,184 @@
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Fart or die in this hack-and-slash action game, where fun-loving Orcs battle pollution loving Humans in a humorous fantasy setting. Orcs have become victims of brutal Human expansion, as they are carelessly poisoning the environment. Now, four trained Orc heroes are retaliating with a Not-So-Silent yet very deadly plan. In either single-player or up to [&#8230;]]]></description>
-		<wfw:commentRss>/Orc%20Attack%3A%20Flatulent%20Rebellion/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/super-motherload</guid>
+		<description><![CDATA[Set on Mars in an alternate Cold-War era, Super Motherload is a 1 to 4-player couch co-op digging adventure with storyline by Image Comics&#8217; Kurtis Wiebe, a fully voiced cast of Soviet and American characters, and a procedurally-generated world that changes each time you play. Purchase powerful upgrades and supplies for your mining pod as [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/super-motherload/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Soccertron</title>
-		<link>/Soccertron/</link>
-		<comments>/Soccertron/#respond</comments>
+		<title>Enter the Gungeon</title>
+		<link>https://cheap-and-cheerful.store/enter-the-gungeon/</link>
+		<comments>https://cheap-and-cheerful.store/enter-the-gungeon/#respond</comments>
 		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/enter-the-gungeon</guid>
+		<description><![CDATA[Edición de coleccionista La edición de coleccionista de Enter the Gungeon incluye el juego, la banda sonora, el cómic digital y el desbloqueo instantáneo del arma de microtransacciones. Los propietarios del juego básico pueden actualizar su versión a la edición para coleccionistas pagando la diferencia de precio. Acerca del juego Enter the Gungeon es un [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/enter-the-gungeon/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Worms Clan Wars</title>
+		<link>https://cheap-and-cheerful.store/worms-clan-wars/</link>
+		<comments>https://cheap-and-cheerful.store/worms-clan-wars/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/worms-clan-wars</guid>
+		<description><![CDATA[Now with Steam Workshop Acerca del juego Worms™ Clan Wars llega en exclusiva a PC para reunir a amigos y familias en la noble búsqueda de la superación personal, el dominio del mundo y las ovejas explosivas. Worms™ Clan Wars es el mejor juego de Worms™ y el más grande hasta la fecha: más gusanos, [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/worms-clan-wars/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Defenders: The Second Wave</title>
+		<link>https://cheap-and-cheerful.store/the-defenders-the-second-wave/</link>
+		<comments>https://cheap-and-cheerful.store/the-defenders-the-second-wave/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/the-defenders-the-second-wave</guid>
+		<description><![CDATA[Fight the ghosts through 50 waves of growing danger. Play as a powerful wizard, a mighty warrior, or a strategic builder to stop the ghost invasion. Evolve your character in the direction you want. Survive until dawn, or die trying. Features: Awesome one to four player hack&#8217;n&#8217;slashing 50 waves of evil dudes to fight 10+ [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/the-defenders-the-second-wave/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Darkstone</title>
+		<link>https://cheap-and-cheerful.store/darkstone/</link>
+		<comments>https://cheap-and-cheerful.store/darkstone/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/darkstone</guid>
+		<description><![CDATA[The Evil Draak has joined forces with Death and is destroying everything in his path! Explore huge keeps to find the 7 Legendary Crystals to put an end to his vile acts. It is highly unlikely that you&#8217;ll be able to survive in the hostile regions of this desolate land. Be warned, the fighting will [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/darkstone/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>BRAWL</title>
+		<link>https://cheap-and-cheerful.store/brawl/</link>
+		<comments>https://cheap-and-cheerful.store/brawl/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Swedish]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/brawl</guid>
+		<description><![CDATA[¿Dispuesto a enfrentarte a tus peores miedos&#8230; con una bomba en la mano? Adéntrate en la oscuridad del Emporio con 8 personajes exclusivos, cada uno de ellos con un curioso pasado y un sorprendente giro de los acontecimientos. Lucha hasta el final con diferentes estilos de juego, desde la brutalidad pura y dura como Luchadora [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/brawl/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Volstead</title>
+		<link>https://cheap-and-cheerful.store/volstead/</link>
+		<comments>https://cheap-and-cheerful.store/volstead/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/volstead</guid>
+		<description><![CDATA[Volstead Strategic turn-based game ambiented in USA 1920 when the Volstead act was declared. Features: Strategic turn-based game. From 1 to 5 players in hot-seat mode. Fully replayable. Each game will be unique. Lots of possible strategies. Simple and addictive mechanics. Around 20-60 minutes per game. Multilanguage: English and Spanish. Amazing original Soundtrack.]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/volstead/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A Fistful of Gun</title>
+		<link>https://cheap-and-cheerful.store/a-fistful-of-gun/</link>
+		<comments>https://cheap-and-cheerful.store/a-fistful-of-gun/#respond</comments>
+		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Practice soccer and other sports the way they are meant to be played: sitting on a couch with your friends! Soccertron is a local multiplayer sports game for up to 4 players with a simple premise: Kick the ball or your friends to win the match! Play across 5 different game fields resembling some typical [&#8230;]]]></description>
-		<wfw:commentRss>/Soccertron/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Super Cyborg</title>
-		<link>/Super%20Cyborg/</link>
-		<comments>/Super%20Cyborg/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Super Cyborg is an old school non-stop hardcore run&#8217;n&#8217;gun action game! You are an elite battle cyborg who is sent in to investigate a series of anomalies on a mysterious island. The merciless and powerful alien known only as the &#8216;Xirxul life form&#8217; has been awakened by unwitting scientists and now: all humanity is in [&#8230;]]]></description>
-		<wfw:commentRss>/Super%20Cyborg/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Time of Fury</title>
-		<link>/Time%20of%20Fury/</link>
-		<comments>/Time%20of%20Fury/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false"></guid>
-		<description><![CDATA[Time of Fury takes you right into the European Theater of Operations. Strategic Command is the essence of winning the war and in Time of Fury the war is just huge, ideal for every strategy game fan. Description In World War II every single aspect of war was crucial: from troop movements to supply, from [&#8230;]]]></description>
-		<wfw:commentRss>/Time%20of%20Fury/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://cheap-and-cheerful.store/a-fistful-of-gun</guid>
+		<description><![CDATA[When the evil railroad baron Clayton Boon decided to build a track to Hell, he didn’t reckon on a crazed shaman raising a posse of embittered psychopaths from the dead to stop him. Now they’ll pursue him across the whole Wild West, fighting their way through hordes of bandits, bears, braves and boogeymen just to [&#8230;]]]></description>
+		<wfw:commentRss>https://cheap-and-cheerful.store/a-fistful-of-gun/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
