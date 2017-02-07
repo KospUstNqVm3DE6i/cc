@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/features/steam-trading-cards/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,404 +26,282 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Arma 3 DLC Bundle</title>
-		<link>http://cheap-and-cheerful.store/arma-3-dlc-bundle/</link>
-		<comments>http://cheap-and-cheerful.store/arma-3-dlc-bundle/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Chainsaw Warrior</title>
+		<link>http://cheap-and-cheerful.store/chainsaw-warrior/</link>
+		<comments>http://cheap-and-cheerful.store/chainsaw-warrior/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
+				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/arma-3-dlc-bundle</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/arma-3-dlc-bundle/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Chivalry: Medieval Warfare</title>
-		<link>http://cheap-and-cheerful.store/chivalry-medieval-warfare/</link>
-		<comments>http://cheap-and-cheerful.store/chivalry-medieval-warfare/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/chivalry-medieval-warfare</guid>
-		<description><![CDATA[Recién actualizado Acerca del juego Asedia castillos y asalta aldeas en Chivalry: Medieval Warfare, un videojuego en primera persona centrado en el modo multijugador. En él se desarrollan competitivos combatesen línea que recrean la experiencia de los verdaderos campos de batalla medievales. El juego se inspira en la intensidad y las batallas épicas de películas [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/chivalry-medieval-warfare/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Euro Truck Simulator 2</title>
-		<link>http://cheap-and-cheerful.store/euro-truck-simulator-2/</link>
-		<comments>http://cheap-and-cheerful.store/euro-truck-simulator-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[VR Support]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/euro-truck-simulator-2</guid>
-		<description><![CDATA[Give American Truck Simulator a test drive Start your new truck empire in the United States! Try the demo of American Truck Simulator and visit the Steam store page. http://store.steampowered.com/app/441960/ Acerca del juego Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/euro-truck-simulator-2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Half-Life Complete</title>
-		<link>http://cheap-and-cheerful.store/half-life-complete/</link>
-		<comments>http://cheap-and-cheerful.store/half-life-complete/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes Source SDK]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/half-life-complete</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/half-life-complete/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>PAYDAY 2: The Big Bank Heist</title>
-		<link>http://cheap-and-cheerful.store/payday-2-the-big-bank-heist/</link>
-		<comments>http://cheap-and-cheerful.store/payday-2-the-big-bank-heist/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/payday-2-the-big-bank-heist</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/payday-2-the-big-bank-heist/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Rocket League</title>
-		<link>http://cheap-and-cheerful.store/rocket-league/</link>
-		<comments>http://cheap-and-cheerful.store/rocket-league/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/rocket-league</guid>
-		<description><![CDATA[Soccer meets driving once again in the long-awaited, physics-based sequel to the beloved arena classic, Supersonic Acrobatic Rocket-Powered Battle-Cars! A futuristic Sports-Action game, Rocket League®, equips players with booster-rigged vehicles that can be crashed into balls for incredible goals or epic saves across multiple, highly-detailed arenas. Using an advanced physics system to simulate realistic interactions, [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/rocket-league/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Vanishing of Ethan Carter</title>
-		<link>http://cheap-and-cheerful.store/the-vanishing-of-ethan-carter/</link>
-		<comments>http://cheap-and-cheerful.store/the-vanishing-of-ethan-carter/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/the-vanishing-of-ethan-carter</guid>
-		<description><![CDATA[GOOD NEWS EVERYONE: By purchasing the game, you actually get two games now: 1) The original The Vanishing of Ethan Carter, 2) The Unreal Engine 4 remaster called The Vanishing of Ethan Carter Redux. Please see this link for details. The Vanishing of Ethan Carter is a first-person story-driven mystery game that focuses entirely on [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/the-vanishing-of-ethan-carter/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>X Rebirth</title>
-		<link>http://cheap-and-cheerful.store/x-rebirth/</link>
-		<comments>http://cheap-and-cheerful.store/x-rebirth/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/x-rebirth</guid>
-		<description><![CDATA[Edición de coleccionista This Collector&#8217;s Edition of X Rebirth includes the following items: DLC: The Teladi Outpost DLC: Home of Light (new!) Soundtrack Volume 1 (MP3) Exclusive: Soundtrack Volume 2 (MP3) Optional download: X &#8211; The Space Opera &#8211; Per Musica ad Albion (Video) Bonus download with artworks and X encyclopedia The bonus content will [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/x-rebirth/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Grand Ages: Medieval</title>
-		<link>http://cheap-and-cheerful.store/grand-ages-medieval/</link>
-		<comments>http://cheap-and-cheerful.store/grand-ages-medieval/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/grand-ages-medieval</guid>
-		<description><![CDATA[Funciones: Explorad un mundo de juego gigantesco con más de 20 millones de kilómetros cuadrados, planificad estratégicamente dónde fundar los pueblos importantes y defended vuestro reino de las potencias extranjeras. Producid y comerciad con 20 mercancías distintas para satisfacer las demandas de vuestros ciudadanos y soldados: por ejemplo, carbón, fruta y cerámica. Investigad y utilizad [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/grand-ages-medieval/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Chainsaw Warrior from Games Workshop is the classic nail-biting game for one strong-nerved player! It&#8217;s the year 2032 and spatial warping has opened a hole into another dimension in the midst of the old municipal buildings at the heart of Manhattan. Bizarre and dangerous creatures are flooding into our dimension, intent on destruction. Behind their [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/chainsaw-warrior/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Fire</title>
-		<link>http://cheap-and-cheerful.store/fire/</link>
-		<comments>http://cheap-and-cheerful.store/fire/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/fire</guid>
-		<description><![CDATA[FIRE es una aventura de exploración con un intuitivo diseño de puzles. Consigue contar una historia terriblemente divertida sin usar siquiera una palabra. Viaja hasta la edad de piedra y enfréntate a la tarea más complicada de esta época: ¡La búsqueda del fuego! El héroe de esta historia es el simpático y despistado neandertal Ungh, [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/fire/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Action Henk</title>
-		<link>http://cheap-and-cheerful.store/action-henk/</link>
-		<comments>http://cheap-and-cheerful.store/action-henk/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>GunWorld</title>
+		<link>http://cheap-and-cheerful.store/gunworld/</link>
+		<comments>http://cheap-and-cheerful.store/gunworld/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Plant seeds to grow guns! GunWorld is a love letter to 8-bit action games, it&#8217;s an homage to everything great about classic game design and action heroes of the 1980s! An emphasis on high challenge and non-linear progression means GunWorld is not for the faint of heart. Players will be challenged to complete a series [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/gunworld/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DRAGON BALL XENOVERSE Season Pass</title>
+		<link>http://cheap-and-cheerful.store/dragon-ball-xenoverse-season-pass/</link>
+		<comments>http://cheap-and-cheerful.store/dragon-ball-xenoverse-season-pass/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Turn Notifications]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Swedish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/action-henk</guid>
-		<description><![CDATA[Run, jump and butt-slide into the glorious toy-filled world of Action Henk! Become a master of momentum and defy physics as you race against a band of ragged 90s action figures to once and for all prove that Action Henk is the fastest of them all! With over 70 tracks all set in different environments, [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/action-henk/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/dragon-ball-xenoverse-season-pass/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Back to Bed</title>
-		<link>http://cheap-and-cheerful.store/back-to-bed/</link>
-		<comments>http://cheap-and-cheerful.store/back-to-bed/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>ReignMaker</title>
+		<link>http://cheap-and-cheerful.store/reignmaker/</link>
+		<comments>http://cheap-and-cheerful.store/reignmaker/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Captions available]]></category>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[ReignMaker is a match-3 game with tower defense, city building, and political strategy elements. From your capital city you lead your Kingdom against the invading Void Army that threatens all life. Your match-3, tower defense, and strategy skills will determine the fate of your armies, but the many political decisions you make as a leader [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/reignmaker/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Avalanche 2: Super Avalanche</title>
+		<link>http://cheap-and-cheerful.store/avalanche-2-super-avalanche/</link>
+		<comments>http://cheap-and-cheerful.store/avalanche-2-super-avalanche/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Climb the falling blocks as you race to avoid the rising lava in this challenging arcade platformer! Play as an exceptionally bouncy marshmallow as you dodge enemies, defeat colorful bosses, and try to avoid getting crushed. Buy power-ups from falling shops, collect missions, bank your coins, and purchase powerful game-changing upgrades. Avalanche 2 features a [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/avalanche-2-super-avalanche/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dream</title>
+		<link>http://cheap-and-cheerful.store/dream/</link>
+		<comments>http://cheap-and-cheerful.store/dream/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Dream is an exploration game that takes place within the subconscious mind of Howard Phillips, a young man whose waking hours are tedious and dull, but whose dreams are lucid and powerful. Adventure through these abstract worlds, solve their challenges and discover their secrets in search of the key to Howard’s future. The different worlds [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/dream/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Age of Survival</title>
+		<link>http://cheap-and-cheerful.store/age-of-survival/</link>
+		<comments>http://cheap-and-cheerful.store/age-of-survival/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Survive, explore, craft, build, fight, die! Welcome to Age of Survival. Age of Survival is survival simulation crafting game from Seattletek. Your player has been stranded on an island not far off of the coast of Africa where you will encounter creatures like boar, elephant, lions, hippos, crocs, rhinos, and tons of sea life. Explore [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/age-of-survival/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hydraulic Empire</title>
+		<link>http://cheap-and-cheerful.store/hydraulic-empire/</link>
+		<comments>http://cheap-and-cheerful.store/hydraulic-empire/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[&#34;Hydraulic Empire looks to be that entry into the genre that I have been waiting for.&#34; &#8211; indiegames.com What is it? Hydraulic Empire is a Tower Defense game with RPG elements focusing on strategy, interactions between mobs, and persistent upgrades. What we are doing with Hydraulic Empire is taking the best of what we have [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/hydraulic-empire/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Zotrix</title>
+		<link>http://cheap-and-cheerful.store/zotrix/</link>
+		<comments>http://cheap-and-cheerful.store/zotrix/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Zotrix es un juego de disparo de naves espaciales, inspirado en los antiguos juegos de máquinas recreativas de los años 80’s y 90’s. Diseñado para todas las edades, contiene misiones con un apartado colorido y vistoso que aportan una gran calidad en su jugabilidad. Navegarás por los confines del espacio, llevando cargamento para la flota [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/zotrix/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Marvellous Miss Take</title>
+		<link>http://cheap-and-cheerful.store/the-marvellous-miss-take/</link>
+		<comments>http://cheap-and-cheerful.store/the-marvellous-miss-take/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/back-to-bed</guid>
-		<description><![CDATA[‘Vuelve a la cama’ es un juego en 3D ambientado en un mundo de sueños exclusivo y artístico a través del cual tienes que acompañar a Bob, el sonámbulo, para que regrese seguro a su cama. Para lograrlo, deberás guiar al subconsciente de Bob llamado Subob. Ambos viajan por un mundo de sueños surrealista, formado [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/back-to-bed/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[La que una vez fue una magnífica colección de arte donada por un amable benefactor ha sido saqueada sin escrúpulos, y repartida entre diferentes coleccionistas privados de la ciudad de Londres. Acompaña a Sophia Take, la legítima heredera de las piezas de arte robadas, ¡toda una aspirante a ladrona de guante blanco! Para reclamar lo [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-marvellous-miss-take/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Organic Panic</title>
+		<link>http://cheap-and-cheerful.store/organic-panic/</link>
+		<comments>http://cheap-and-cheerful.store/organic-panic/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Hardcoregamer &#8211; &#34;&#8230;most certainly my game of the show&#34; &#8211; (PAX East 2014) Twinfinite &#8211; &#34;Without a doubt my favorite indie title of PAX East 2014&#34; Entertainmentbuddha &#8211; &#34;&#8230;the brilliance of Last Limb’s efforts truly shine.&#34; Organic Panic It&#8217;s is a wild grown, char grilled, bash &#8217;em up, physics action puzzler! Play 1 to 4 [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/organic-panic/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Runers</title>
+		<link>http://cheap-and-cheerful.store/runers/</link>
+		<comments>http://cheap-and-cheerful.store/runers/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Runers is a top-down rogue-like dungeon shooter where you explore a vast underground labyrinth and face fierce monsters and bosses. As the game advances further into the dungeon, you will gather Runes, which will be used to combine into 285 unique spells. Discovering new spells will unlock their entries in your Runedex; unlock them all! [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/runers/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

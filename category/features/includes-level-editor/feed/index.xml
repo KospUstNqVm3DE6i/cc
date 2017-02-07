@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/features/includes-level-editor/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,39 +26,228 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Arma 2</title>
-		<link>http://cheap-and-cheerful.store/arma-2/</link>
-		<comments>http://cheap-and-cheerful.store/arma-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>GameGuru</title>
+		<link>http://cheap-and-cheerful.store/gameguru/</link>
+		<comments>http://cheap-and-cheerful.store/gameguru/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/arma-2</guid>
-		<description><![CDATA[Cimentado sobre 10 años de constante desarrollo del motor, ARMA II ofrece el entorno de combate más realista del mundo. Imita fielmente la balística y desviación del disparo del mundo real, la penetración en función del material, tiene un ciclo real de día y noche, viento dinámico, meteorología y efectos ambientales. La simulación de un [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/arma-2/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Welcome to GameGuru, the easy game maker. Our mission is to create the easiest and most enjoyable game creator. Join us and our great &#38; enthusiastic community on this journey. Imagine creating a world that you and your friends come together and play&#8230; and creating it could be a matter of minutes with no technical [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/gameguru/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Dying Light</title>
-		<link>http://cheap-and-cheerful.store/dying-light/</link>
-		<comments>http://cheap-and-cheerful.store/dying-light/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Organic Panic</title>
+		<link>http://cheap-and-cheerful.store/organic-panic/</link>
+		<comments>http://cheap-and-cheerful.store/organic-panic/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Hardcoregamer &#8211; &#34;&#8230;most certainly my game of the show&#34; &#8211; (PAX East 2014) Twinfinite &#8211; &#34;Without a doubt my favorite indie title of PAX East 2014&#34; Entertainmentbuddha &#8211; &#34;&#8230;the brilliance of Last Limb’s efforts truly shine.&#34; Organic Panic It&#8217;s is a wild grown, char grilled, bash &#8217;em up, physics action puzzler! Play 1 to 4 [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/organic-panic/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Toki Tori</title>
+		<link>http://cheap-and-cheerful.store/toki-tori/</link>
+		<comments>http://cheap-and-cheerful.store/toki-tori/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[La mecánica de juego en Toki Tori es una fusión de dos géneros. Aunque pueda parecer un juego de plataformas, en realidad es un juego de puzle. Para progresar, el jugador deberá recoger todos los huevos en cada nivel utilizando una cantidad establecida de herramientas. Los jugadores deberán estudiar y planificar con antelación antes de [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/toki-tori/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Adventurezator: When Pigs Fly</title>
+		<link>http://cheap-and-cheerful.store/adventurezator-when-pigs-fly/</link>
+		<comments>http://cheap-and-cheerful.store/adventurezator-when-pigs-fly/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[The Adventurezator is an emergent adventure game about creating emergent adventure games! Rock, Paper, Shotgun says: &#34;Madness! Brilliant madness.&#34; You enter the room. Squinting your eyes under the dim light, you can make up the improbable form of a pig with wings. It is glorious. “We are Pigasus. Mighty game developers”, asserts the airborne swine, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/adventurezator-when-pigs-fly/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>IL-2 Sturmovik: 1946</title>
+		<link>http://cheap-and-cheerful.store/il-2-sturmovik-1946/</link>
+		<comments>http://cheap-and-cheerful.store/il-2-sturmovik-1946/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[La famosa saga de OIeg Maddox Il-2 Sturmovik™ de simulaciones aéreas continúa expandiéndose. La última entrega, Il-2 1946, añadió 36 nuevos aviones, cuatro nuevos mapas gigantescos, más de cien nuevos objetos terrestres y casi 200 nuevas misiones de campaña. Esta nueva entrega incluye además todo lo visto en las entregas previas de Il-2. ¡Lo que [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/il-2-sturmovik-1946/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Worms Clan Wars</title>
+		<link>http://cheap-and-cheerful.store/worms-clan-wars/</link>
+		<comments>http://cheap-and-cheerful.store/worms-clan-wars/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Now with Steam Workshop Acerca del juego Worms™ Clan Wars llega en exclusiva a PC para reunir a amigos y familias en la noble búsqueda de la superación personal, el dominio del mundo y las ovejas explosivas. Worms™ Clan Wars es el mejor juego de Worms™ y el más grande hasta la fecha: más gusanos, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/worms-clan-wars/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sumo Revise</title>
+		<link>http://cheap-and-cheerful.store/sumo-revise/</link>
+		<comments>http://cheap-and-cheerful.store/sumo-revise/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
 		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Is it a bird? Is it a plane? No, it&#8217;s super fat guys free-styling!!! Sumo Revise is a local-multiplayer brawler designed to harken back to the zaniness and replayability of couch-crowding games like Super Smash Bros. and GoldenEye 007, with a splash of silliness of games like QWOP and Surgeon Simulator 2013. FEATURES INSANE, UNPREDICTABLE [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/sumo-revise/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Scarab Tales</title>
+		<link>http://cheap-and-cheerful.store/scarab-tales/</link>
+		<comments>http://cheap-and-cheerful.store/scarab-tales/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Scarab Tales is a casual puzzle game in Egyptian theme. Lead scarabaeus bugs to safety by clicking on them and various level elements. Solve 100 original challenging levels, gain 100 different in-game and 40 Steam achievements and compete with other players in crossplatform TOP 10 score chart and global leaderboards. The game is suitable for [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/scarab-tales/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Chivalry: Medieval Warfare</title>
+		<link>http://cheap-and-cheerful.store/chivalry-medieval-warfare/</link>
+		<comments>http://cheap-and-cheerful.store/chivalry-medieval-warfare/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Recién actualizado Acerca del juego Asedia castillos y asalta aldeas en Chivalry: Medieval Warfare, un videojuego en primera persona centrado en el modo multijugador. En él se desarrollan competitivos combatesen línea que recrean la experiencia de los verdaderos campos de batalla medievales. El juego se inspira en la intensidad y las batallas épicas de películas [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/chivalry-medieval-warfare/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Stronghold Crusader 2</title>
+		<link>http://cheap-and-cheerful.store/stronghold-crusader-2/</link>
+		<comments>http://cheap-and-cheerful.store/stronghold-crusader-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Italian]]></category>
@@ -66,37 +255,6 @@
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/dying-light</guid>
-		<description><![CDATA[Oferta exclusiva de Steam ¡Si te gusta estamparte contra todo lo que ves, este paquete es ideal para ti! Obtén un traje de carreras adornado con calaveras y una pintura de vehículo de prueba de choque para personalizar tu buggy. Valve Anti-cheat Dying Light&#8217;s online interactions are secured using Valve Anti-cheat system. For more information, [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/dying-light/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Tropico 5</title>
-		<link>http://cheap-and-cheerful.store/tropico-5/</link>
-		<comments>http://cheap-and-cheerful.store/tropico-5/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
@@ -107,16 +265,16 @@
 		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/tropico-5</guid>
-		<description><![CDATA[Vuelve a la remota isla nación de Trópico en la nueva entrega de la famosa y aclamada saga de &#34;simulación de una dictadura&#34;. Expande el reinado de tu dinastía desde el periodo colonial hasta más allá del siglo XXI y enfréntate a nuevos retos, incluidos mecanismos comerciales avanzados, investigación científica y tecnológica y exploración. Las [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/tropico-5/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Edición especial Banda Sonora Digital compuesta por Robert Euvino Libro de Arte Digital &#8216;El Arte de Stronghold Crusader 2&#8217; Stronghold Crusader HD: Juego completo en Steam &#8211; ¿Ya tienes el juego en Steam? ¡Regálaselo a un amigo! Clientes Special Edition Para acceder a tu libro de arte y banda sonora digital, instala el juego, navega [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/stronghold-crusader-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Nuclear Dawn</title>
 		<link>http://cheap-and-cheerful.store/nuclear-dawn/</link>
 		<comments>http://cheap-and-cheerful.store/nuclear-dawn/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Cross-Platform Multiplayer]]></category>
@@ -136,7 +294,7 @@
 		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/nuclear-dawn</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[Nuclear Dawn es el primer juego en ofrecer una experiencia completa FPS y RTS sin perjudicar a ninguna de las dos partes. Juega como un soldado en un paisaje post apocalíptico, modelado en base a ciudades modernas, y afronta la lucha con tus enemigos como infantería armada, de asalto o de sigilo, utilizando diversas armas [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/nuclear-dawn/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -145,7 +303,7 @@
 		<title>POSTAL 2</title>
 		<link>http://cheap-and-cheerful.store/postal-2/</link>
 		<comments>http://cheap-and-cheerful.store/postal-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
@@ -159,183 +317,9 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/postal-2</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[Nuevo DLC disponible http://store.steampowered.com/app/360960/ Workshop and Controller Support http://steamcommunity.com/app/223470/workshop/ Registro de actualizaciones Updates since release on Steam in 2013 Added Full controller support Steam workshop integration Many features to the POSTed SDK that make creating workshop content easier The ability to play all seven days of POSTAL 2 and Apocalypse weekend in one playthrough Apocalypse [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/postal-2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Shadowrun Returns</title>
-		<link>http://cheap-and-cheerful.store/shadowrun-returns/</link>
-		<comments>http://cheap-and-cheerful.store/shadowrun-returns/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/shadowrun-returns</guid>
-		<description><![CDATA[MAN MEETS MAGIC &#38; MACHINE. The year is 2054. Magic has returned to the world, awakening powerful creatures of myth and legend. Technology merges with flesh and consciousness. Elves, trolls, orks and dwarves walk among us, while ruthless corporations bleed the world dry. You are a shadowrunner &#8211; a mercenary living on the fringes of [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/shadowrun-returns/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>From the Depths</title>
-		<link>http://cheap-and-cheerful.store/from-the-depths/</link>
-		<comments>http://cheap-and-cheerful.store/from-the-depths/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/from-the-depths</guid>
-		<description><![CDATA[Summary In From the Depths you can build and take first-person command of battleships, planes, submarines, space ships, hot air balloons and more! The game is currently in alpha and contains a wide range of single player content including: A creative mode allowing you to push your designs to the limit and ensure the total [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/from-the-depths/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Sky Mercenaries</title>
-		<link>http://cheap-and-cheerful.store/sky-mercenaries/</link>
-		<comments>http://cheap-and-cheerful.store/sky-mercenaries/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Turn Notifications]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/sky-mercenaries</guid>
-		<description><![CDATA[An epic sky battle awaits you! Choose your pilot and fighter to join the ultimate 2D S.H.M.U.P action ! Fight over 50 enemy types on 8 worlds in over 32 story missions and unlimited random content. Be prepared for the overpowering enemy fleet and challenging bossfights. Upgrade your fighters, drones and pilots the way you [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/sky-mercenaries/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>GameGuru</title>
-		<link>http://cheap-and-cheerful.store/gameguru/</link>
-		<comments>http://cheap-and-cheerful.store/gameguru/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/gameguru</guid>
-		<description><![CDATA[Welcome to GameGuru, the easy game maker. Our mission is to create the easiest and most enjoyable game creator. Join us and our great &#38; enthusiastic community on this journey. Imagine creating a world that you and your friends come together and play&#8230; and creating it could be a matter of minutes with no technical [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/gameguru/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Super House of Dead Ninjas</title>
-		<link>http://cheap-and-cheerful.store/super-house-of-dead-ninjas/</link>
-		<comments>http://cheap-and-cheerful.store/super-house-of-dead-ninjas/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/super-house-of-dead-ninjas</guid>
-		<description><![CDATA[Recién actualizado The July 2013 update is Free and adds exciting new content and features for all existing Super House of Dead Ninjas players. If those ninjas weren&#8217;t dead before, they definitely will be now. Design Your Own Tower! Make your own levels using the new in-game map editor, then share with the community. Or [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/super-house-of-dead-ninjas/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Assetto Corsa</title>
-		<link>http://cheap-and-cheerful.store/assetto-corsa/</link>
-		<comments>http://cheap-and-cheerful.store/assetto-corsa/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/assetto-corsa</guid>
-		<description><![CDATA[NEXT GENERATION RACING SIMULATOR Assetto Corsa features an advanced DirectX 11 graphics engine that recreates an immersive environment, dynamic lighthing and realistic materials and surfaces. The advanced physics engine is being designed to provide a very realistic driving experience, including features and aspects of real cars, never seen on any other racing simulator such as [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/assetto-corsa/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Arma 2: Combined Operations</title>
-		<link>http://cheap-and-cheerful.store/arma-2-combined-operations/</link>
-		<comments>http://cheap-and-cheerful.store/arma-2-combined-operations/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/arma-2-combined-operations</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/arma-2-combined-operations/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

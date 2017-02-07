@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/supported-languages/italian/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,51 +26,151 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>DARK SOULS™: Prepare To Die™ Edition</title>
-		<link>http://cheap-and-cheerful.store/dark-souls%e2%84%a2-prepare-to-die%e2%84%a2-edition/</link>
-		<comments>http://cheap-and-cheerful.store/dark-souls%e2%84%a2-prepare-to-die%e2%84%a2-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Castle</title>
+		<link>http://cheap-and-cheerful.store/castle/</link>
+		<comments>http://cheap-and-cheerful.store/castle/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/dark-souls%e2%84%a2-prepare-to-die%e2%84%a2-edition</guid>
-		<description><![CDATA[Nuevo contenido para PC Dark Souls™: Prepare to Die™ Edition incluirá un capítulo inédito del mundo de Lordran. El jugador, enviado al pasado, descubrirá la historia que tuvo lugar cuando el caballero oscuro Artorias aún vivía. Jefes nuevos: como el dragón negro, el guardián del santuario y Artorias del Abismo. Arena PVP y sistema de [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/dark-souls%e2%84%a2-prepare-to-die%e2%84%a2-edition/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Become the best castle builder in this original and addictive game where you must at the same time create a castle accurately while protecting it from all the annoying baddies. Features Unique concept, engaging and addictive game-play 18 levels in the normal mode, 15 for the King Mode (Extra Hard), and 4 rounds of &#34;Protect [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/castle/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Age of Empires II HD</title>
-		<link>http://cheap-and-cheerful.store/age-of-empires-ii-hd/</link>
-		<comments>http://cheap-and-cheerful.store/age-of-empires-ii-hd/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Roadside Assistance Simulator</title>
+		<link>http://cheap-and-cheerful.store/roadside-assistance-simulator/</link>
+		<comments>http://cheap-and-cheerful.store/roadside-assistance-simulator/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Dutch]]></category>
+				<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Métete en la piel de un equipo de asistencia en carretera y vive su día a día en esta mezcla realista de simulador y juego de gestión. Dirige a tu equipo de rescate desde el centro de asistencia en carretera. Desbloquea nuevas regiones y trata de atraer al mayor número posible de nuevos socios mediante [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/roadside-assistance-simulator/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Giana Sisters: Dream Runners</title>
+		<link>http://cheap-and-cheerful.store/giana-sisters-dream-runners/</link>
+		<comments>http://cheap-and-cheerful.store/giana-sisters-dream-runners/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Corre hacia la meta en Giana Sisters: Dream Runners, un veloz plataformas que enfrentará a hasta 4 jugadores. Corre y salta, acelera y machaca, aturde y telepórtate, transfórmate y lánzate&#8230; Resumiendo: ¡líasela a tus contrincantes! El juego enfrenta a un máximo de 4 jugadores (o personajes no jugadores) en partidas locales o en línea, que [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/giana-sisters-dream-runners/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A-Men 2</title>
+		<link>http://cheap-and-cheerful.store/a-men-2/</link>
+		<comments>http://cheap-and-cheerful.store/a-men-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Prepare yourself for another journey through series of new worlds, featuring multiple challenges with many ways to pass a level and resolve puzzles. A-MEN 2 allows you to hang out with your good, old friends once more. Atom, Antler, Anaconda, Aurelius and Aardvark are ready and waiting to destroy hordes of A-Droids again. So don&#8217;t [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/a-men-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Alchemy Mysteries: Prague Legends</title>
+		<link>http://cheap-and-cheerful.store/alchemy-mysteries-prague-legends/</link>
+		<comments>http://cheap-and-cheerful.store/alchemy-mysteries-prague-legends/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Don&#8217;t miss out our new game! “Battle Time” is here today! http://store.steampowered.com/app/509600 Join our Steam group to learn more about our games, events and giveaways http://steamcommunity.com/groups/jetdogs Try other adventures: http://store.steampowered.com/app/431260/ http://store.steampowered.com/app/497400/ Try other adventures: http://store.steampowered.com/app/347430 http://store.steampowered.com/app/396790 http://store.steampowered.com/app/326180 Acerca del juego Follow orphan Eva on a trip to mystical Prague in Alchemy Mysteries: Prague Legends. After [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/alchemy-mysteries-prague-legends/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fine Sweeper</title>
+		<link>http://cheap-and-cheerful.store/fine-sweeper/</link>
+		<comments>http://cheap-and-cheerful.store/fine-sweeper/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Stats]]></category>
@@ -78,297 +178,156 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/age-of-empires-ii-hd</guid>
-		<description><![CDATA[In Age of Empires II: HD Edition, fans of the original game and new players alike will fall in love with the classic Age of Empires II experience. Explore all the original single player campaigns from both Age of Kings and The Conquerors expansion, choose from 18 civilizations spanning over a thousand years of history, [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/age-of-empires-ii-hd/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Recién actualizado Version 1.2 introduces a brand new scoring system and features new special abilities. Save up on extra-lives in the Bank of Hearts and reap the rewards such as auto-flagging or securely opening tiles. Players who pride themselves in good memory and fast sweeping skills get the points they deserve and new challenges they [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/fine-sweeper/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Call of Duty®: Ghosts &#8211; Onslaught</title>
-		<link>http://cheap-and-cheerful.store/call-of-duty%c2%ae-ghosts-onslaught/</link>
-		<comments>http://cheap-and-cheerful.store/call-of-duty%c2%ae-ghosts-onslaught/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/call-of-duty%c2%ae-ghosts-onslaught</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/call-of-duty%c2%ae-ghosts-onslaught/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Escape Dead Island</title>
-		<link>http://cheap-and-cheerful.store/escape-dead-island/</link>
-		<comments>http://cheap-and-cheerful.store/escape-dead-island/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/escape-dead-island</guid>
-		<description><![CDATA[Escape Dead Island es un juego de supervivencia y misterio que se desarrolla en la enigmática isla de Narapela después del brote zombi del juego original de Dead Island. En este título, descubrirás los orígenes del virus zombi a través de los ojos del aspirante a periodista Cliff Calo. Cliff Calo, hijo del magnate de [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/escape-dead-island/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Elder Scrolls V: Skyrim</title>
-		<link>http://cheap-and-cheerful.store/the-elder-scrolls-v-skyrim/</link>
-		<comments>http://cheap-and-cheerful.store/the-elder-scrolls-v-skyrim/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/the-elder-scrolls-v-skyrim</guid>
-		<description><![CDATA[EL RENACIMIENTO DE UNA FANTASÍA ÉPICA El nuevo capítulo de la esperadísima saga Elder Scrolls llega de la mano de los creadores de los Juegos del Año 2006 y 2008, Bethesda Game Studios. Skyrim reinventa y el revoluciona el épico universo de fantasía, dando vida a un completo mundo virtual para que puedas explorarlo de [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/the-elder-scrolls-v-skyrim/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>FINAL FANTASY IV: THE AFTER YEARS</title>
-		<link>http://cheap-and-cheerful.store/final-fantasy-iv-the-after-years/</link>
-		<comments>http://cheap-and-cheerful.store/final-fantasy-iv-the-after-years/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Maelstrom: The Battle for Earth Begins</title>
+		<link>http://cheap-and-cheerful.store/maelstrom-the-battle-for-earth-begins/</link>
+		<comments>http://cheap-and-cheerful.store/maelstrom-the-battle-for-earth-begins/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/final-fantasy-iv-the-after-years</guid>
-		<description><![CDATA[Totalmente rediseñado en 3-D, ahora puedes jugar a FINAL FANTASY IV: THE AFTER YEARS por primera vez en PC. Toma parte en la épica secuela que se desarrolla casi dos décadas después de los acontecimientos de FINAL FANTASY IV. Los personajes clásicos regresan junto a nuevos héroes, como Ceodore, hijo de Cecil y Rosa. Han [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/final-fantasy-iv-the-after-years/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[En el transcurso de cincuenta años, la Tierra pasó de ser un planeta orientado hacia el futuro a ser un mundo desolado, sumergido en un apocalipsis y desastre ecológico, con guerras mundiales y la destrucción de la raza humana. Es la era de Maelstrom. En este mundo devastado, a medida que los recursos han ido [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/maelstrom-the-battle-for-earth-begins/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Half-Life 2</title>
-		<link>http://cheap-and-cheerful.store/half-life-2/</link>
-		<comments>http://cheap-and-cheerful.store/half-life-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Dracula 3: The Path of the Dragon</title>
+		<link>http://cheap-and-cheerful.store/dracula-3-the-path-of-the-dragon/</link>
+		<comments>http://cheap-and-cheerful.store/dracula-3-the-path-of-the-dragon/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes Source SDK]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/half-life-2</guid>
-		<description><![CDATA[1998. HALF-LIFE supone un impacto en la industria de juegos con su combinación de acción fren&#233;tica y narración continua y absorbente. El título de debut de Valve fue galardonado con más de 50 premios que lo consideraron el juego del año hasta convertirse en &#8220;El mejor juego para PC de la historia&#8221;, galardón concedido por [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/half-life-2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Mafia II</title>
-		<link>http://cheap-and-cheerful.store/mafia-ii/</link>
-		<comments>http://cheap-and-cheerful.store/mafia-ii/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Czech]]></category>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/mafia-ii</guid>
-		<description><![CDATA[Digital Deluxe Edition Pack del Mafioso: Acceso gratuito a un pack descargable dentro del juego que permite a los jugadores ponerse tras el volante de dos lujosos automóviles modelados a partir de coches clásicos de la época. Además, Vito dará el pego con dos nuevos trajes de mafioso, incluyendo un esmoquin clásico. Libro de Arte [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/mafia-ii/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[The trilogy continues as the Prince of Darkness rises again. September 1920, the Vatican appoints Father Arno Moriani, the &#34;Devil&#8217;s Advocate&#34;, to investigate a potential candidate for Sainthood in Transylvania. But in the shadows of the disturbing ruins that were once Vlad the Impaler&#8217;s castle, his investigation takes an unexpected turn&#8230; There is obviously no [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/dracula-3-the-path-of-the-dragon/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>METAL GEAR RISING: REVENGEANCE</title>
-		<link>http://cheap-and-cheerful.store/metal-gear-rising-revengeance/</link>
-		<comments>http://cheap-and-cheerful.store/metal-gear-rising-revengeance/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>1954 Alcatraz</title>
+		<link>http://cheap-and-cheerful.store/1954-alcatraz/</link>
+		<comments>http://cheap-and-cheerful.store/1954-alcatraz/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[1954: Alcatraz – The cash is out there. But who will get it? Joe&#8217;s doing 40 years on Alcatraz for a heist on an armored truck. The loot is still hidden out there, but only Joe knows where it is. In the streets of San Francisco, Joe&#8217;s ex-accomplices and his wife are eager to find [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/1954-alcatraz/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Real Warfare 1242</title>
+		<link>http://cheap-and-cheerful.store/real-warfare-1242/</link>
+		<comments>http://cheap-and-cheerful.store/real-warfare-1242/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[La Rusia del siglo XIII era un estado enorme, mucho mayor que cualquier otro país europeo. Aún estando dividida por conflictos internos se mantenía firme ante las amenazas externas, hasta que un día la vil horda mongola atacó. Apareció de repente y atravesó el país como si de una flecha ardiente se tratara. Los nativos [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/real-warfare-1242/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Phoenix Force</title>
+		<link>http://cheap-and-cheerful.store/phoenix-force/</link>
+		<comments>http://cheap-and-cheerful.store/phoenix-force/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/metal-gear-rising-revengeance</guid>
-		<description><![CDATA[Developed by Kojima Productions and PlatinumGames, METAL GEAR RISING: REVENGEANCE takes the renowned METAL GEAR franchise into exciting new territory with an all-new action experience. The game seamlessly melds pure action and epic story-telling that surrounds Raiden – a child soldier transformed into a half-human, half-cyborg ninja who uses his High Frequency katana blade to [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/metal-gear-rising-revengeance/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Street Fighter X Tekken</title>
-		<link>http://cheap-and-cheerful.store/street-fighter-x-tekken/</link>
-		<comments>http://cheap-and-cheerful.store/street-fighter-x-tekken/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/street-fighter-x-tekken</guid>
-		<description><![CDATA[Will You Cross the Line? The long awaited dream match-up between the two titans of fighting is here! Street Fighter® X Tekken® is the ultimate tag team fighting game, featuring one of the most expansive rosters of iconic fighters in fighting game history. The critically acclaimed Street Fighter® IV game engine has been refined with [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/street-fighter-x-tekken/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Serious Sam Complete Pack</title>
-		<link>http://cheap-and-cheerful.store/serious-sam-complete-pack/</link>
-		<comments>http://cheap-and-cheerful.store/serious-sam-complete-pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Thai]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Un dragón, un ojo gigante y la muerte te atacan con bolas de fuego, rayos láser y guadañas. ¿Qué puedes hacer? A) Decir que el juego es injusto porque con un solo golpe estás muerto y no hay enemigos débiles e irte llorando con tu mamá; o B) ¡Esquivar todo este infierno de proyectiles y [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/phoenix-force/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kill The Bad Guy</title>
+		<link>http://cheap-and-cheerful.store/kill-the-bad-guy/</link>
+		<comments>http://cheap-and-cheerful.store/kill-the-bad-guy/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/serious-sam-complete-pack</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/serious-sam-complete-pack/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Evil Within Season Pass</title>
-		<link>http://cheap-and-cheerful.store/the-evil-within-season-pass/</link>
-		<comments>http://cheap-and-cheerful.store/the-evil-within-season-pass/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/the-evil-within-season-pass</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/the-evil-within-season-pass/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[I &#8211; KTBG: the original single-player puzzle game II &#8211; Gangs of Bad Guys: the new multi-player mode (English only) I &#8211; KTBG ¿Tiene cualquiera derecho al perdón? ¿Puede un crimen ser olvidado? Numerosos criminales de guerra, antiguos miembros de la Mafia y malhechores de todo pelo piensan que pueden disimular su vil pasado y [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/kill-the-bad-guy/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

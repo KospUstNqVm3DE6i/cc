@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/genres/racing/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,131 +26,257 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>DiRT Showdown</title>
-		<link>http://cheap-and-cheerful.store/dirt-showdown/</link>
-		<comments>http://cheap-and-cheerful.store/dirt-showdown/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>GRID™</title>
+		<link>http://cheap-and-cheerful.store/gridtm/</link>
+		<comments>http://cheap-and-cheerful.store/gridtm/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
+				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/dirt-showdown</guid>
-		<description><![CDATA[¡Compite, choca y desfasa en un tour mundial de caos motorizado con DiRT Showdown! La atmósfera de multitud, dinámica social y accesibilidad se elevan a la máxima potencia en este delirio de conducción turbo inyectado. Písale a fondo y gánate la adulación de las masas en trepidantes pruebas por escenarios míticos. Alcanza la victoria a [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/dirt-showdown/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Descubre un asombroso mundo de deportes automovilísticos que cobran vida; desde participar en carreras de Muscle Cars por las peculiares calles de San Francisco y competir en las legendarias 24 Horas de Le Mans a hacer drifting por los muelles de Yokohama. Ponte detrás del volante de emocionantes coches de carreras en las competiciones más [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/gridtm/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>MiniDrivers</title>
-		<link>http://cheap-and-cheerful.store/minidrivers/</link>
-		<comments>http://cheap-and-cheerful.store/minidrivers/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>BlazeRush</title>
+		<link>http://cheap-and-cheerful.store/blazerush/</link>
+		<comments>http://cheap-and-cheerful.store/blazerush/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Dutch]]></category>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/minidrivers</guid>
-		<description><![CDATA[¡Las carreras más locas llegan a tus manos con MiniDrivers! La serie de animación que ha cautivado a millones de personas en todo el mundo tiene un nuevo protagonista: ¡Tú! Crea tus propias historias o cambia las reglas en las carreras y conviértete en Campeón del Mundo. ¡ES HORA DE CORRER! Si algo caracteriza los [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/minidrivers/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[BlazeRush is a dynamic arcade racing survival game with no health, no levelling and no brakes! You can assemble a team of friends to play in local or online multiplayer, choose a car to your taste and chase, blow up and cut off! Adapt your style and tactics to new enemies, obstacles and tracks. Welcome [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/blazerush/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Pressure</title>
-		<link>http://cheap-and-cheerful.store/pressure/</link>
-		<comments>http://cheap-and-cheerful.store/pressure/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Hands on Deck</title>
+		<link>http://cheap-and-cheerful.store/hands-on-deck/</link>
+		<comments>http://cheap-and-cheerful.store/hands-on-deck/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[HoD: On open seas Welcome to the world of pirates! The main and largest product in this pack is our new sequel On open seas. Our first release was a small game called &#34;Hands On Deck&#34;. After a year we stand as strong as ever and we have decided to give out two games as [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/hands-on-deck/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Orborun</title>
+		<link>http://cheap-and-cheerful.store/orborun/</link>
+		<comments>http://cheap-and-cheerful.store/orborun/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Orborun is a 3D action skill run &#38; roll game! Control your Orbot to collect the goods, avoid the obstacles and escape the hazardous Orbo-world. Complete levels on perfect run to get more bonus. More than 100 levels, local co-op multiplayer, feeling of speed and adrenaline, twisted levels in haste/puzzle and hazard shaped different worlds [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/orborun/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Urban Trial Freestyle</title>
+		<link>http://cheap-and-cheerful.store/urban-trial-freestyle/</link>
+		<comments>http://cheap-and-cheerful.store/urban-trial-freestyle/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[El mejor juego de trial urbano de estilo libre! Gracias a su mecánica de juego ultra intuitiva, su gran variedad de fondos alucinantes y de acrobacias para quitar el hipo, ¡es el sueño de todo motorista!! Tras llegar a la primera posición en PlayStation®Store, el aclamado Urban Trial Freestyle™ llega ahora a PC. ¡La ciudad [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/urban-trial-freestyle/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gumboy Tournament</title>
+		<link>http://cheap-and-cheerful.store/gumboy-tournament/</link>
+		<comments>http://cheap-and-cheerful.store/gumboy-tournament/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Pon a prueba tus reflejos, juicio y tácticas a la vez que te las ves contra ocho jugadores en esta continuación del popular arcade aclamado por la crítica Gumboy: Crazy Adventures, ganador de numerosos galardones incluyendo JUEGO DEL AÑO 2006 de Gametunnel. Aportando la misma riqueza gráfica y estilo fantástico que hicieron del original Gumboy [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/gumboy-tournament/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>RACE &#8211; The WTCC Game</title>
+		<link>http://cheap-and-cheerful.store/race-the-wtcc-game/</link>
+		<comments>http://cheap-and-cheerful.store/race-the-wtcc-game/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[El juego oficial del Campeonato del mundo de turismos RACE es el primer juego que se centra en pisar el pedal a fondo fuerte y en la acción intensa del apasionante campeonato WTCC, cuya popularidad atrae a más adeptos en todo el mundo cada día. Basado en el Campeonato del mundo de turismos, uno de [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/race-the-wtcc-game/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GRID 2 &#8211; Bathurst Track Pack</title>
+		<link>http://cheap-and-cheerful.store/grid-2-bathurst-track-pack/</link>
+		<comments>http://cheap-and-cheerful.store/grid-2-bathurst-track-pack/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/grid-2-bathurst-track-pack/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Insane 2</title>
+		<link>http://cheap-and-cheerful.store/insane-2/</link>
+		<comments>http://cheap-and-cheerful.store/insane-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Insane 2 presenta un gran número de innovaciones en el género de las carreras todoterreno. Además de la típica contrarreloj, el juego ofrece otros 9 modos de juego, incluyendo los populares “Capture the flag”, “Gate hunt” y “Pathfinder”, además de algunas nuevas competiciones como cacería de bonos, control del territorio y persecución del helicóptero. Todos [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/insane-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Organ Biker</title>
+		<link>http://cheap-and-cheerful.store/organ-biker/</link>
+		<comments>http://cheap-and-cheerful.store/organ-biker/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Authentic Arcade Action Easy to pick up and play, tough to become the best. Organ Biker is a modern retro arcade style motorcycle action and internal organ delivery game for PC! Dr. Perrywinkle Hayfeather II (assumed name) has put out the call for the quickest and most courageous ORGAN BIKER around and the job pays [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/organ-biker/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Motorama</title>
+		<link>http://cheap-and-cheerful.store/motorama/</link>
+		<comments>http://cheap-and-cheerful.store/motorama/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/pressure</guid>
-		<description><![CDATA[Juego de carreras arcade clásico en un fantástico universo de estilo steampunk. Enfréntate a hordas de enemigos mientras tu coche se lanza por un mundo de vapor único. “Pressure” abre la válvula de un fantástico nuevo mundo lleno de peligros. ¡Solo tú y tu coche de vapor podéis impedir que el malvado conde Jabón se [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/pressure/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Redline</title>
-		<link>http://cheap-and-cheerful.store/redline/</link>
-		<comments>http://cheap-and-cheerful.store/redline/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/redline</guid>
-		<description><![CDATA[Join the Company! It&#8217;s 2066 and the world is a different place. While the privileged insiders live in fertile domed cities, the rest of us fight for survival in the wastelands. Rival gangs battle for supremacy, turf control and valuable resources. In order for a young man to succeed he must make the right choices [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/redline/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>18 Wheels of Steel: American Long Haul</title>
-		<link>http://cheap-and-cheerful.store/18-wheels-of-steel-american-long-haul/</link>
-		<comments>http://cheap-and-cheerful.store/18-wheels-of-steel-american-long-haul/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/18-wheels-of-steel-american-long-haul</guid>
-		<description><![CDATA[¡Tu sueño americano empieza al volante de tu propio tráiler! ¡Las carreteras de Norteamérica te aguardan! ¡Ya no trabajas para nadie! Eres el dueño de un negocio de camiones y tú dices como se hacen las cosas. Construye tu imperio camión a camión para dominar las carreteras y superar a la competencia. ¿Puedes soportar la [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/18-wheels-of-steel-american-long-haul/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Go back in time and experience “The Fabulous Fifties” in a game that relives the period, vehicles and street races of the legendary 50´s films. Customize your car and compete in 8 different race modes, through five completely different 50´s themed areas and become the King of the Road! For many years, street racings have [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/motorama/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Test Drive: Ferrari Racing Legends</title>
 		<link>http://cheap-and-cheerful.store/test-drive-ferrari-racing-legends/</link>
 		<comments>http://cheap-and-cheerful.store/test-drive-ferrari-racing-legends/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
@@ -161,152 +287,9 @@
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/test-drive-ferrari-racing-legends</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[Detailed physics underpin a huge variety of challenges set throughout the history of this landmark automotive brand. Painstakingly detailed cars and tracks reflect visceral damage as races wear on, an acute sense of speed communicates the power of these highly tuned vehicles, as advanced AI challenges even the most experienced driver. Key Features: Extensive Online [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/test-drive-ferrari-racing-legends/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>DiRT 3 Complete Edition</title>
-		<link>http://cheap-and-cheerful.store/dirt-3-complete-edition/</link>
-		<comments>http://cheap-and-cheerful.store/dirt-3-complete-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/dirt-3-complete-edition</guid>
-		<description><![CDATA[Consigue la Edición Completa de DiRT 3, la edición de competición off-road de DiRT 3 definitiva ampliada ahora con contenido adicional y mejorada mediante la integración de Steamworks, que dispone de logros, marcadores y partidas guardadas en Steam Cloud. En DiRT 3 Edición Completa, pilotarás coches míticos que abarcan 50 años de carreras en tres [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/dirt-3-complete-edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>MotorSport Revolution</title>
-		<link>http://cheap-and-cheerful.store/motorsport-revolution/</link>
-		<comments>http://cheap-and-cheerful.store/motorsport-revolution/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[VR Support]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/motorsport-revolution</guid>
-		<description><![CDATA[The Game Motorsport Revolution is a single-player, physics-based racing game inspired by classic console racing games, as well as the popular Le Mans Series, which is considered the most challenging sport racing class in the world. With these influences in mind, we’re creating an epic immersive VR motorsport racing experience where players race the world’s [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/motorsport-revolution/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Mini Motor Racing EVO</title>
-		<link>http://cheap-and-cheerful.store/mini-motor-racing-evo/</link>
-		<comments>http://cheap-and-cheerful.store/mini-motor-racing-evo/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/mini-motor-racing-evo</guid>
-		<description><![CDATA[Exclusive Tracks on Steam Steam Workshop Create and share your own tracksBuild your dream track with the in-game track editor, then share it with the world using Steam Workshop. You can also download tracks made by other users, and up-vote your favorites. Acerca del juego Take your favorite childhood racer, pump it full of nitrous, [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/mini-motor-racing-evo/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Tail Drift</title>
-		<link>http://cheap-and-cheerful.store/tail-drift/</link>
-		<comments>http://cheap-and-cheerful.store/tail-drift/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Sports]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/tail-drift</guid>
-		<description><![CDATA[Tail Drift is a fast action racing game where you zoom through fantastic environments. Compete while flying around floating islands, ancient temples and desert canyons, with a fleet of unique planes to take through a variety of game modes. Purchase and upgrade your fleet of planes to gain the edge as you play through 18 [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/tail-drift/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Krautscape</title>
-		<link>http://cheap-and-cheerful.store/krautscape/</link>
-		<comments>http://cheap-and-cheerful.store/krautscape/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/krautscape</guid>
-		<description><![CDATA[Krautscape is an action-packed racing game with bird-like flying cars and procedurally built racetracks. The leading player builds the racetrack while the chasing players can take shortcuts by flying off the track to overcome obstacles. But the track is needed to score and to get speed – the vehicles don&#8217;t have any thrusters to accelerate [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/krautscape/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Jet Car Stunts</title>
-		<link>http://cheap-and-cheerful.store/jet-car-stunts/</link>
-		<comments>http://cheap-and-cheerful.store/jet-car-stunts/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/jet-car-stunts</guid>
-		<description><![CDATA[¡Compite a máxima velocidad, domina las piruetas más difíciles y conduce Jet Cars como nadie! Jet Car Stunts es un nuevo tipo de juego de carreras y un remake del juego homónimo para iOS. Domina acrobacias extremas, marca los tiempos más rápidos y deja brillar tus dotes al volante de los Jet Cars. ¿Darás la [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/jet-car-stunts/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

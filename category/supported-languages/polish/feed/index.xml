@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/supported-languages/polish/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,48 +26,158 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Arma 2: Combined Operations</title>
-		<link>http://cheap-and-cheerful.store/arma-2-combined-operations/</link>
-		<comments>http://cheap-and-cheerful.store/arma-2-combined-operations/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Need For Speed: Hot Pursuit</title>
+		<link>http://cheap-and-cheerful.store/need-for-speed-hot-pursuit/</link>
+		<comments>http://cheap-and-cheerful.store/need-for-speed-hot-pursuit/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Need for Speed Hot Pursuit te sumerge en un nuevo universo abierto al volante de los coches más rápidos y bonitos del mundo. Desarrollado por Criterion, el galardonado estudio responsable de la saga Burnout, Hot Pursuit redefinirá los juegos de carreras para toda una nueva generación. Experimenta velocidades de vértigo, embestidas y persecuciones mientras te [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/need-for-speed-hot-pursuit/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Crysis 2 &#8211; Maximum Edition</title>
+		<link>http://cheap-and-cheerful.store/crysis-2-maximum-edition/</link>
+		<comments>http://cheap-and-cheerful.store/crysis-2-maximum-edition/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/arma-2-combined-operations</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/arma-2-combined-operations/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Multiplayer Note: As of June 2014, our friends at GameSpy have ended all hosted game services, which will affect the online multiplayer aspect of this game. Because of technical challenges and concerns, EA does not have a solution to keep these services up and running at this time, and online services for this game and [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/crysis-2-maximum-edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>BioShock Infinite</title>
-		<link>http://cheap-and-cheerful.store/bioshock-infinite/</link>
-		<comments>http://cheap-and-cheerful.store/bioshock-infinite/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>F.E.A.R. 3</title>
+		<link>http://cheap-and-cheerful.store/fear-3/</link>
+		<comments>http://cheap-and-cheerful.store/fear-3/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Alma está a la espera y nuevos horrores se muestran ante ti y tu hermano caníbal mientras combatís en una infernal pesadilla. Luchad juntos o morid solos en una misión terrible para hacer frente a vuestra retorcida madre. Los jugadores se podrán meter en la piel de Point Man, un soldado genéticamente mejorado con reflejos [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/fear-3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Just Cause 2</title>
+		<link>http://cheap-and-cheerful.store/just-cause-2/</link>
+		<comments>http://cheap-and-cheerful.store/just-cause-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¡Ya disponible! Acerca del juego Sumérgete en una aventura frenética con total libertad. Eres el agente Rico Rodriguez, y tu misión consiste en encontrar y eliminar a tu amigo y mentor que ha desaparecido en la isla paradisíaca de Panau. Allí tendrás que causar el máximo caos posible por tierra, mar y aire para cambiar [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/just-cause-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Magicka: Aspiring Musician Robes</title>
+		<link>http://cheap-and-cheerful.store/magicka-aspiring-musician-robes/</link>
+		<comments>http://cheap-and-cheerful.store/magicka-aspiring-musician-robes/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-aspiring-musician-robes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Resident Evil 6 Complete</title>
+		<link>http://cheap-and-cheerful.store/resident-evil-6-complete/</link>
+		<comments>http://cheap-and-cheerful.store/resident-evil-6-complete/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
@@ -75,308 +185,185 @@
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/resident-evil-6-complete/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Vanishing of Ethan Carter</title>
+		<link>http://cheap-and-cheerful.store/the-vanishing-of-ethan-carter/</link>
+		<comments>http://cheap-and-cheerful.store/the-vanishing-of-ethan-carter/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/bioshock-infinite</guid>
-		<description><![CDATA[Indebted to the wrong people, with his life on the line, veteran of the U.S. Cavalry and now hired gun, Booker DeWitt has only one opportunity to wipe his slate clean. He must rescue Elizabeth, a mysterious girl imprisoned since childhood and locked up in the flying city of Columbia. Forced to trust one another, [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/bioshock-infinite/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[GOOD NEWS EVERYONE: By purchasing the game, you actually get two games now: 1) The original The Vanishing of Ethan Carter, 2) The Unreal Engine 4 remaster called The Vanishing of Ethan Carter Redux. Please see this link for details. The Vanishing of Ethan Carter is a first-person story-driven mystery game that focuses entirely on [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-vanishing-of-ethan-carter/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Beyond Divinity</title>
-		<link>http://cheap-and-cheerful.store/beyond-divinity/</link>
-		<comments>http://cheap-and-cheerful.store/beyond-divinity/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/beyond-divinity</guid>
-		<description><![CDATA[Beyond Divinity is the follow-up to the award-winning Divine Divinity. Soul-forged with a Death Knight, your fate is to spend the rest of eternity bonded to this creature of evil, unless you can undo his curse&#8230;prepare for your greatest adventure! This new re-mastered version offers support for Windows 7 and higher resolutions. Key Features: An [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/beyond-divinity/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>GRID Autosport</title>
-		<link>http://cheap-and-cheerful.store/grid-autosport/</link>
-		<comments>http://cheap-and-cheerful.store/grid-autosport/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Blood Bowl 2</title>
+		<link>http://cheap-and-cheerful.store/blood-bowl-2/</link>
+		<comments>http://cheap-and-cheerful.store/blood-bowl-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/grid-autosport</guid>
-		<description><![CDATA[Ficha por un equipo y plántales cara a tus rivales en un nuevo y fascinante reto automovilístico. Junto a tu compañero de filas, debes superar a rivales directos y cumplir los objetivos de los patrocinadores en vertiginosas carreras donde cada adelantamiento vale su peso en oro. Especialízate en la disciplina que más te apasione o [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/grid-autosport/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Left 4 Dead 2</title>
-		<link>http://cheap-and-cheerful.store/left-4-dead-2/</link>
-		<comments>http://cheap-and-cheerful.store/left-4-dead-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes Source SDK]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/left-4-dead-2</guid>
-		<description><![CDATA[Ambientado en el apocalipsis zombi, Left 4 Dead 2 (L4D2) es la secuela largamente esperada del galardonado Left 4 Dead, el juego co-op número 1 de 2008. Este FPS cooperativo de acción y horror os llevará a ti y a tus amigos por las ciudades, pantanos y cementerios del Sur Profundo, desde Savannah hasta Nueva [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/left-4-dead-2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Mass Effect 2</title>
-		<link>http://cheap-and-cheerful.store/mass-effect-2/</link>
-		<comments>http://cheap-and-cheerful.store/mass-effect-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/mass-effect-2</guid>
-		<description><![CDATA[¡De los creadores de Star Wars®: Knights of the Old Republic™, Dragon Age: Origins™, y Mass Effect™ llega la segunda y oscura entrega de la emocionante trilogía Mass Effect!Dos años después de que el Comandante Shepard lograse repeler a los invasores Reapers empeñados en destruir toda vida orgánica, emerge un nuevo y misterioso enemigo. En [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/mass-effect-2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Sniper Elite 3</title>
-		<link>http://cheap-and-cheerful.store/sniper-elite-3/</link>
-		<comments>http://cheap-and-cheerful.store/sniper-elite-3/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/sniper-elite-3</guid>
-		<description><![CDATA[Observa. Planifica. Ejecuta. ADÁPTATE. Sniper Elite 3, el nuevo capítulo de esta galardonada franquicia, invita a los jugadores a adentrarse en el exótico e implacable escenario del conflicto que tuvo lugar en África del Norte durante la Segunda Guerra Mundial, para enfrentarse a un nuevo y letal enemigo. El infame escuadrón de los Afrika Korps [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/sniper-elite-3/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Empire: Total War Collection</title>
-		<link>http://cheap-and-cheerful.store/empire-total-war-collection/</link>
-		<comments>http://cheap-and-cheerful.store/empire-total-war-collection/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/empire-total-war-collection</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/empire-total-war-collection/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[World Cup 2016 Watch the replay Acerca del juego ¡¡¡TOUCHDOWN!!! Blood Bowl 2 mezcla el universo de Warhammer y el fútbol americano en un explosivo cóctel de estrategia por turnos, humor y brutalidad a partir del famoso juego de tablero de Games Workshop. El nuevo motor gráfico de Blood Bowl 2 y la alta calidad [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/blood-bowl-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Street Fighter V</title>
-		<link>http://cheap-and-cheerful.store/street-fighter-v/</link>
-		<comments>http://cheap-and-cheerful.store/street-fighter-v/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>1849</title>
+		<link>http://cheap-and-cheerful.store/1849/</link>
+		<comments>http://cheap-and-cheerful.store/1849/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[The year is 1849, and gold has just been discovered in California. You decide to head out west, to seek fame and wealth in the approaching Gold Rush. Will you strike gold and become an overnight mining magnate? Or will you build your fortune bit by bit by supplying 49ers with pickaxes and blue jeans? [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/1849/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Goat Simulator</title>
+		<link>http://cheap-and-cheerful.store/goat-simulator/</link>
+		<comments>http://cheap-and-cheerful.store/goat-simulator/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/street-fighter-v</guid>
-		<description><![CDATA[¡La legendaria franquicia de lucha regresa con STREET FIGHTER® V! Disfruta de unos gráficos espectaculares y detalles sin precedentes en la siguiente generación de guerreros mundiales, mientras participas en batallas accesibles y emocionantes que ofrecen diversión de lucha sin fin tanto para principiantes como veteranos. Desafía a tus amigos en línea o compite por la [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/street-fighter-v/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>DRAGON BALL XENOVERSE</title>
-		<link>http://cheap-and-cheerful.store/dragon-ball-xenoverse/</link>
-		<comments>http://cheap-and-cheerful.store/dragon-ball-xenoverse/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/dragon-ball-xenoverse</guid>
-		<description><![CDATA[Recién actualizado ¡Los cromos de Steam para Dragon Ball Xenoverse ya están disponibles! Juega al juego y consigue uno de los 6 increíbles cromos coleccionables. Consigue toda la colección y canjéala para desbloquear fondos, emoticonos e insignias para Steam. Acerca del juego ¡Renacen los combates más fieros de Son Goku y sus amigos! ¡POR PRIMERA [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/dragon-ball-xenoverse/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Nightmares from the Deep 3: Davy Jones</title>
-		<link>http://cheap-and-cheerful.store/nightmares-from-the-deep-3-davy-jones/</link>
-		<comments>http://cheap-and-cheerful.store/nightmares-from-the-deep-3-davy-jones/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/nightmares-from-the-deep-3-davy-jones</guid>
-		<description><![CDATA[Pesadillas profundas 3: Davy Jones &#8211; ¡Prepárate para el capítulo final de la épica trilogía de piratas! Una serie de misteriosas notas diesen a Sara las pruebas que necesita para demostrar al mundo la existencia de la histórica figura de Davy Jones y organiza una conferencia de prensa para publicar lo que ha descubierto; que [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/nightmares-from-the-deep-3-davy-jones/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Deponia</title>
-		<link>http://cheap-and-cheerful.store/deponia/</link>
-		<comments>http://cheap-and-cheerful.store/deponia/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/deponia</guid>
-		<description><![CDATA[The Deponia series on Steam: http://store.steampowered.com/app/220740/ http://store.steampowered.com/app/241910/ http://store.steampowered.com/app/421050/ Buy Deponia 1-3: http://store.steampowered.com/app/292910/ Acerca del juego En Deponia, el mundo ha degenerado en un inmenso vertedero de basura, en el que el malhumorado Rufus a duras penas se gana su lamentable existencia. Él es parte de la clase social más baja, condenado a vivir su vida [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/deponia/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Goat Simulator es lo último en tecnología de simulación de cabras y trae PARA TI el simulador caprino de próxima generación. Ya no tienes que fantasear con ser una cabra, ¡tus sueños por fin se han hecho realidad! WASD para escribir la historia. En cuanto a mecánica de juego, Goat Simulator va de causar tanta [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/goat-simulator/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Loadout</title>
+		<link>http://cheap-and-cheerful.store/loadout/</link>
+		<comments>http://cheap-and-cheerful.store/loadout/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Free to Play]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¡Oh, sí, Loadout es un shooter multijugador nuevo y extravagante en donde lo primero y lo último son las armas! Crea un increíble arsenal de una enorme variedad (miles de millones de combinaciones) totalmente personalizado, totalmente único y totalmente letal. Nuestro robusto sistema modular de fabricación de armas permite que los jugadores creen sus propias [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/loadout/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Men of War: Assault Squad</title>
+		<link>http://cheap-and-cheerful.store/men-of-war-assault-squad/</link>
+		<comments>http://cheap-and-cheerful.store/men-of-war-assault-squad/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Men of War: Assault Squad cuenta con un nuevo modo de escaramuza cooperativo con acceso a cinco naciones diferentes (Rusia, Alemania, EE.UU., la Commonwealth y, por primera vez en la saga Men of War, Japón) así como un mayor realismo y accesibilidad. Los jugadores podrán ponerse tras los mandos de un tanque para destruir obstáculos, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/men-of-war-assault-squad/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

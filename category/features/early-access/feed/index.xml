@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/features/early-access/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -29,7 +29,7 @@
 		<title>7 Days to Die</title>
 		<link>http://cheap-and-cheerful.store/7-days-to-die/</link>
 		<comments>http://cheap-and-cheerful.store/7-days-to-die/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
@@ -43,94 +43,88 @@
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Single-player]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/7-days-to-die</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[HOW LONG WILL YOU SURVIVE? 7 Days to Die has redefined the survival genre, with unrivaled crafting and world-building content. Set in a brutally unforgiving post-apocalyptic world overrun by the undead, 7 Days to Die is an open-world game that is a unique combination of first person shooter, survival horror, tower defense, and role-playing games. [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/7-days-to-die/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Project Zomboid</title>
-		<link>http://cheap-and-cheerful.store/project-zomboid/</link>
-		<comments>http://cheap-and-cheerful.store/project-zomboid/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Master of Orion</title>
+		<link>http://cheap-and-cheerful.store/master-of-orion/</link>
+		<comments>http://cheap-and-cheerful.store/master-of-orion/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
+				<category><![CDATA[Czech]]></category>
 		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/project-zomboid</guid>
-		<description><![CDATA[Project Zomboid is an open-ended zombie-infested sandbox. It asks one simple question – how will you die?  In the towns of Muldraugh and West Point, survivors must loot houses, build defences and do their utmost to delay their inevitable death day by day. No help is coming – their continued survival relies on their own [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/project-zomboid/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Master Of Orion – Conquer the Stars  ¡Vuelve el apasionante juego de estrategia y viajes espaciales 4X! El nuevo capítulo de la épica saga Master of Orion está listo para volver a conquistar la imaginación de millones de jugadores.  ¡A los amantes de la serie original les agradará saber que la nueva versión se construyó [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/master-of-orion/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Secret Ponchos</title>
-		<link>http://cheap-and-cheerful.store/secret-ponchos/</link>
-		<comments>http://cheap-and-cheerful.store/secret-ponchos/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Grim Dawn</title>
+		<link>http://cheap-and-cheerful.store/grim-dawn/</link>
+		<comments>http://cheap-and-cheerful.store/grim-dawn/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/secret-ponchos</guid>
-		<description><![CDATA[La &#34;Most Wanted Edition&#34; trae una versión expandida de Secret Ponchos a Steam. Switchblade Monkeys, los desarrolladores indie tras Secret Ponchos (¡esos somos nosotros!), han trabajado de cerca con la comunidad de Acceso anticipado para añadir nuevas características y están deseando que llegue el lanzamiento oficial. ¡CADA DISPARO CUENTA! ¿Crees que eres bueno en JcJ? [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/secret-ponchos/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Enter an apocalyptic fantasy world where humanity is on the brink of extinction, iron is valued above gold and trust is hard earned. This ARPG features complex character development, hundreds of unique items, crafting and quests with choice &#38; consequence. Key Features Dual Class &#8211; Combine any of six distinct classes with over 25 skills [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/grim-dawn/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Mission Control: NanoMech</title>
-		<link>http://cheap-and-cheerful.store/mission-control-nanomech/</link>
-		<comments>http://cheap-and-cheerful.store/mission-control-nanomech/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Teddy Terror</title>
+		<link>http://cheap-and-cheerful.store/teddy-terror/</link>
+		<comments>http://cheap-and-cheerful.store/teddy-terror/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Single-player]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/mission-control-nanomech</guid>
-		<description><![CDATA[Mission Control: NanoMech is set late in the 21st century and puts players in a high-tech base on the surface of Mars, where they step into the role of a rover pilot delivering supplies. A rogue artificial intelligence named D-brain has taken control of the factory and most of its robotic workers and refuses to [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/mission-control-nanomech/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Teddy Terror is a 2D horror survival with a challenging passive-aggressive gameplay where using your environment is crucial for survival In Teddy Terror you take on the role of a little boy with his Teddybear who wakes up in a nightmare. With your surroundings as your weapons your goal is to Survive the nightmarish world [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/teddy-terror/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Wonky Pigeon!</title>
 		<link>http://cheap-and-cheerful.store/wonky-pigeon/</link>
 		<comments>http://cheap-and-cheerful.store/wonky-pigeon/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Early Access]]></category>
@@ -144,124 +138,16 @@
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/wonky-pigeon</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[Engage in the craziest war against humans.. as a pigeon! Use famous war tactics such as engagement, avoiding and target fixing to center unlucky people with poo and get points for that. STORY The game is about a pigeon angry with humans. Humans did a bad joke to the pigeons, so they will be punished [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/wonky-pigeon/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Bedlam</title>
-		<link>http://cheap-and-cheerful.store/bedlam/</link>
-		<comments>http://cheap-and-cheerful.store/bedlam/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/bedlam</guid>
-		<description><![CDATA[BEDLAM &#8211; THE GENRE JUMPING SHOOTER Bedlam is a unique FPS game based on a novel of the same name by cult Scottish author Christopher Brookmyre. Pitched as a shooter for those who survived online gaming in the 80s and 90s, Bedlam takes a look through an iconic time in online gaming and serves up [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/bedlam/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Age of Survival</title>
-		<link>http://cheap-and-cheerful.store/age-of-survival/</link>
-		<comments>http://cheap-and-cheerful.store/age-of-survival/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/age-of-survival</guid>
-		<description><![CDATA[Survive, explore, craft, build, fight, die! Welcome to Age of Survival. Age of Survival is survival simulation crafting game from Seattletek. Your player has been stranded on an island not far off of the coast of Africa where you will encounter creatures like boar, elephant, lions, hippos, crocs, rhinos, and tons of sea life. Explore [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/age-of-survival/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>On My Own</title>
-		<link>http://cheap-and-cheerful.store/on-my-own/</link>
-		<comments>http://cheap-and-cheerful.store/on-my-own/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/on-my-own</guid>
-		<description><![CDATA[On My Own balances the beauty and tranquility of being outdoors, with the harsh reality of struggling to survive in nature. Each biome provides unique opportunities and challenges for the player to overcome. Stay alive by finding food, crafting useful items, and adapting to the changing seasons. Live deliberately, front only the essential facts of [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/on-my-own/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Forest Warrior</title>
-		<link>http://cheap-and-cheerful.store/forest-warrior/</link>
-		<comments>http://cheap-and-cheerful.store/forest-warrior/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/forest-warrior</guid>
-		<description><![CDATA[Get Forest Warrior 20% off during Early Access! Forest Warrior is a game in which you will have to survive a forest full of evil monsters like zombies, birds and fire spirits. Using weapons as hatchets, guns and explosives you will have to stay alive in increasingly difficult waves. Besides weapons you are also able [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/forest-warrior/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Doorways: Holy Mountains of Flesh</title>
-		<link>http://cheap-and-cheerful.store/doorways-holy-mountains-of-flesh/</link>
-		<comments>http://cheap-and-cheerful.store/doorways-holy-mountains-of-flesh/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/doorways-holy-mountains-of-flesh</guid>
-		<description><![CDATA[Información general Juan Torres y su familia son el centro de un número incontable de rumores y desapariciones que ocurrieron en El Chacal, un pequeño pueblo de 4,800 habitantes posado sobre la zona montañosa y árida de Salta, Argentina. Entre las historias que circulan en los pueblos de los alrededores, se han oído mencionar actos [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/doorways-holy-mountains-of-flesh/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Miscreated</title>
 		<link>http://cheap-and-cheerful.store/miscreated/</link>
 		<comments>http://cheap-and-cheerful.store/miscreated/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Early Access]]></category>
@@ -273,31 +159,150 @@
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Simulation]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/miscreated</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[This is an early ALPHA release of MISCREATED. The current feature set is limited, but will be increased as development continues. You will experience issues during gameplay &#8211; incomplete features, bugs, game crashes, performance issues, and even complete character wipes. Nobody knows what started the Final War — it was over too fast, fought with [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/miscreated/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>TOXIKK</title>
-		<link>http://cheap-and-cheerful.store/toxikk/</link>
-		<comments>http://cheap-and-cheerful.store/toxikk/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Boid</title>
+		<link>http://cheap-and-cheerful.store/boid/</link>
+		<comments>http://cheap-and-cheerful.store/boid/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Boid is real-time strategy at its most primal. No funds to manage or infrastructures to build. It’s a kill or be killed battle of rapid decisions to dominate the gene pool. Kepler 42-C. A faraway planet of little significance. At least, it was until a malfunctioning drone crashed into its ocean, forever altering the course [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/boid/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fancy Skulls</title>
+		<link>http://cheap-and-cheerful.store/fancy-skulls/</link>
+		<comments>http://cheap-and-cheerful.store/fancy-skulls/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/toxikk</guid>
-		<description><![CDATA[FRAG LIKE IT&#8217;S 1999 TOXIKK™ plays as if today&#8217;s military and MOBA shooters never existed: The game combines the simple and intuitive mechanics of old-school FPS giants with a fresh setting, slick graphics and our vision to carefully evolve the genre with some new ideas elaborated with Arena-FPS enthusiasts. TRY TOXIKK™ FOR FREE Note that [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/toxikk/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Fancy Skulls is a challenging first person shooter with procedural generation, permanent death and distinct art style. Intense and tactical combat, unique weapon mods and items that change the way you play. Foes different not only in visual design but also in their behavior. For example there is an enemy that will teleport every time [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/fancy-skulls/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Demons with Shotguns</title>
+		<link>http://cheap-and-cheerful.store/demons-with-shotguns/</link>
+		<comments>http://cheap-and-cheerful.store/demons-with-shotguns/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Couch Fragger Shooter Action for 2-4 Local Players Frantic local multiplayer, twitch style arena shooting action! Multiple playable characters. Play as the faithless Preacher, the desperate Demon, the Heavenless Angel, the Antichrist Deceiver, the peace keeping Nun or even Death himself. Choose from multiple game modes, including free-for-all and team based modes. Battle it out [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/demons-with-shotguns/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kingdom Wars 2: Battles</title>
+		<link>http://cheap-and-cheerful.store/kingdom-wars-2-battles/</link>
+		<comments>http://cheap-and-cheerful.store/kingdom-wars-2-battles/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Free Undead Rising Expansion Acerca del juego Kingdom Wars II: Battles trae consigo una perspectiva nueva al género de la estratega fantástica en tiempo real. Combina lo mejor de la supervivencia y la construcción a largo plazo, con una ciudad que se construye a un ritmo vertiginoso y combates de asedio y escaramuzas. Todo esto [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/kingdom-wars-2-battles/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ARK: Survival Evolved</title>
+		<link>http://cheap-and-cheerful.store/ark-survival-evolved/</link>
+		<comments>http://cheap-and-cheerful.store/ark-survival-evolved/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Como hombre o mujer desnudo, congelado y muriendo de hambre en las costas de una isla misteriosa llamada ARK, debes cazar, recolectar, construir objetos, plantar cultivos, investigar tecnologías y construir refugios para soportar los elementos. Usa tu astucia y recursos para matar o domesticar dinosaurios y otros seres primitivos, y asóciate con otros jugadores o [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/ark-survival-evolved/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Interstellar Marines</title>
+		<link>http://cheap-and-cheerful.store/interstellar-marines/</link>
+		<comments>http://cheap-and-cheerful.store/interstellar-marines/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Interstellar Marines is an immersive tactical sci-fi First Person Simulator in the making, offering a unique blend of tactical gameplay, dynamic environments and non-scriptet AI. Play Singleplayer or Co-op/PvP on servers around the world. Interstellar Marines is inspired by movies such as Aliens, Starship Troopers and Saving Private Ryan; and games such as Half-Life, Deus [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/interstellar-marines/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

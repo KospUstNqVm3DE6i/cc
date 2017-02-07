@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/genres/sports/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -29,7 +29,7 @@
 		<title>DiRT Showdown</title>
 		<link>http://cheap-and-cheerful.store/dirt-showdown/</link>
 		<comments>http://cheap-and-cheerful.store/dirt-showdown/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
@@ -45,113 +45,109 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/dirt-showdown</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[¡Compite, choca y desfasa en un tour mundial de caos motorizado con DiRT Showdown! La atmósfera de multitud, dinámica social y accesibilidad se elevan a la máxima potencia en este delirio de conducción turbo inyectado. Písale a fondo y gánate la adulación de las masas en trepidantes pruebas por escenarios míticos. Alcanza la victoria a [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/dirt-showdown/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>NBA 2K16</title>
-		<link>http://cheap-and-cheerful.store/nba-2k16/</link>
-		<comments>http://cheap-and-cheerful.store/nba-2k16/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Blood Bowl 2</title>
+		<link>http://cheap-and-cheerful.store/blood-bowl-2/</link>
+		<comments>http://cheap-and-cheerful.store/blood-bowl-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/nba-2k16</guid>
-		<description><![CDATA[Michael Jordan Special Edition La Edición Especial NBA 2K16 Michael Jordan incluye el siguiente contenido adicional: Zapatillas digitales de Jordan para tu Mi JUGADOR Camiseta de Jordan para tu Mi JUGADOR Camiseta de baloncesto de Jordan para tu Mi JUGADOR 30 000 VC Mi EQUIPO VIP+: 3 paquetes esmeralda con un jugador esmeralda garantizado en cada [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/nba-2k16/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[World Cup 2016 Watch the replay Acerca del juego ¡¡¡TOUCHDOWN!!! Blood Bowl 2 mezcla el universo de Warhammer y el fútbol americano en un explosivo cóctel de estrategia por turnos, humor y brutalidad a partir del famoso juego de tablero de Games Workshop. El nuevo motor gráfico de Blood Bowl 2 y la alta calidad [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/blood-bowl-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Lords of Football: United States</title>
-		<link>http://cheap-and-cheerful.store/lords-of-football-united-states/</link>
-		<comments>http://cheap-and-cheerful.store/lords-of-football-united-states/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Winter Sports Trilogy Super Pack</title>
+		<link>http://cheap-and-cheerful.store/winter-sports-trilogy-super-pack/</link>
+		<comments>http://cheap-and-cheerful.store/winter-sports-trilogy-super-pack/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Downloadable Content]]></category>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Sports]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[The Winter Sports Trilogy Super Pack is all the Winter Sports gaming you can handle, in a single package! Includes three games: ➢ Winter Sports 2009 ➢ Biathlon 2009 ➢ Ski Jumping 2007 Winter Sports features 18 disciplines in 11 action-packed sports! With campaign and career modes (with 40 missions!), commentator feedback, 20 items and [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/winter-sports-trilogy-super-pack/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Assetto Corsa</title>
+		<link>http://cheap-and-cheerful.store/assetto-corsa/</link>
+		<comments>http://cheap-and-cheerful.store/assetto-corsa/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[NEXT GENERATION RACING SIMULATOR Assetto Corsa features an advanced DirectX 11 graphics engine that recreates an immersive environment, dynamic lighthing and realistic materials and surfaces. The advanced physics engine is being designed to provide a very realistic driving experience, including features and aspects of real cars, never seen on any other racing simulator such as [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/assetto-corsa/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>IHF Handball Challenge 12</title>
+		<link>http://cheap-and-cheerful.store/ihf-handball-challenge-12/</link>
+		<comments>http://cheap-and-cheerful.store/ihf-handball-challenge-12/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/lords-of-football-united-states</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/lords-of-football-united-states/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Hot Pinball Thrills</title>
-		<link>http://cheap-and-cheerful.store/hot-pinball-thrills/</link>
-		<comments>http://cheap-and-cheerful.store/hot-pinball-thrills/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/hot-pinball-thrills</guid>
-		<description><![CDATA[These 3 HOT pinball tables are the ultimate joy for fans of action packed arcade rounds. Thanks to state-of-the-art technology you’ll experience a premium physics simulation. Amazingly detailed, right down to realistic reflections, this game delivers the most intense pinball experience. Multiple camera angles will carry you off to the depth of the stylish tables. [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/hot-pinball-thrills/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Howler</title>
-		<link>http://cheap-and-cheerful.store/the-howler/</link>
-		<comments>http://cheap-and-cheerful.store/the-howler/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/the-howler</guid>
-		<description><![CDATA[Use gravity, tension, and wind currents to get your hot air balloon to its destination, dropping off cargo on your way, in this ultra-challenging game. You&#8217;ll have to use your skill, wit, and reflexes, to complete all of The Howler&#8217;s dozens of levels. All art used in the Howler was meticulously created by classically-trained experienced [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/the-howler/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[&#34;IHF Handball Challenge 2012 es el juego de balonmano que los aficionados a los juegos de deportes han esperado durante muchos años. En este videojuego cargado de acción, los usuarios pueden disfrutar del fascinante balonmano en su PC. Los contraataques, las magníficas jugadas y las emociones puras son algunos de los elementos clave que hacen [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/ihf-handball-challenge-12/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>DiRT 3 Complete Edition</title>
 		<link>http://cheap-and-cheerful.store/dirt-3-complete-edition/</link>
 		<comments>http://cheap-and-cheerful.store/dirt-3-complete-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
@@ -171,7 +167,7 @@
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/dirt-3-complete-edition</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[Consigue la Edición Completa de DiRT 3, la edición de competición off-road de DiRT 3 definitiva ampliada ahora con contenido adicional y mejorada mediante la integración de Steamworks, que dispone de logros, marcadores y partidas guardadas en Steam Cloud. En DiRT 3 Edición Completa, pilotarás coches míticos que abarcan 50 años de carreras en tres [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/dirt-3-complete-edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -180,7 +176,7 @@
 		<title>WWE 2K15</title>
 		<link>http://cheap-and-cheerful.store/wwe-2k15/</link>
 		<comments>http://cheap-and-cheerful.store/wwe-2k15/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
@@ -199,101 +195,86 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/wwe-2k15</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[¡WWE 2K15 da comienzo a una nueva era de videojuegos de la WWE! WWE 2K15 ofrece los golpes más fuertes y la jugabilidad de la WWE más fluida hasta la fecha, más parecida que nunca a lo que los fans ven en los programas de la WWE. Con importantes mejoras en la jugabilidad, una presentación [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/wwe-2k15/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Probably Archery</title>
-		<link>http://cheap-and-cheerful.store/probably-archery/</link>
-		<comments>http://cheap-and-cheerful.store/probably-archery/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Tail Drift</title>
+		<link>http://cheap-and-cheerful.store/tail-drift/</link>
+		<comments>http://cheap-and-cheerful.store/tail-drift/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+				<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/probably-archery</guid>
-		<description><![CDATA[Manipulate your wrists, elbows and shoulders to get the arrow to the bow, draw it, aim and fire! Probably Archery gives the player more control over the minutia of their joint movements with tons of crazy scenarios to conquer, multiplayer battles to fight and brutal target challenges to dominate. With controls inspired by games like [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/probably-archery/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Tail Drift is a fast action racing game where you zoom through fantastic environments. Compete while flying around floating islands, ancient temples and desert canyons, with a fleet of unique planes to take through a variety of game modes. Purchase and upgrade your fleet of planes to gain the edge as you play through 18 [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/tail-drift/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Gas Guzzlers Extreme Gold Pack</title>
-		<link>http://cheap-and-cheerful.store/gas-guzzlers-extreme-gold-pack/</link>
-		<comments>http://cheap-and-cheerful.store/gas-guzzlers-extreme-gold-pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Urban Trial Freestyle</title>
+		<link>http://cheap-and-cheerful.store/urban-trial-freestyle/</link>
+		<comments>http://cheap-and-cheerful.store/urban-trial-freestyle/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/gas-guzzlers-extreme-gold-pack</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/gas-guzzlers-extreme-gold-pack/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[El mejor juego de trial urbano de estilo libre! Gracias a su mecánica de juego ultra intuitiva, su gran variedad de fondos alucinantes y de acrobacias para quitar el hipo, ¡es el sueño de todo motorista!! Tras llegar a la primera posición en PlayStation®Store, el aclamado Urban Trial Freestyle™ llega ahora a PC. ¡La ciudad [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/urban-trial-freestyle/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Lethal League</title>
-		<link>http://cheap-and-cheerful.store/lethal-league/</link>
-		<comments>http://cheap-and-cheerful.store/lethal-league/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Pro Rugby Manager 2015</title>
+		<link>http://cheap-and-cheerful.store/pro-rugby-manager-2015/</link>
+		<comments>http://cheap-and-cheerful.store/pro-rugby-manager-2015/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+				<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Commentary available]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/lethal-league</guid>
-		<description><![CDATA[Lethal League es un juego de lucha de proyectiles competitivo en el que tienes que estamparle una pelota de anti-gravedad a tu oponente para ganar. La pelota acelera con cada golpe hasta velocidades extremas. Juega de forma local o por Internet. Características: – Hasta 4 jugadores: Partidas locales Y por Internet con hasta cuatro jugadores [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/lethal-league/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Ponte al frente de tu equipo favorito de rugby union.Pro Rugby Manager 2015 te plantea todos los aspectos de los desafíos que debe saber gestionar un auténtico manager de rugby unión tanto para alcanzar el éxito financiero como para ser ¡el próximo campeón! Desarrollado con las licencias de las mayores ligas del mundo: Aviva Premiership [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/pro-rugby-manager-2015/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Football Manager 2015</title>
 		<link>http://cheap-and-cheerful.store/football-manager-2015/</link>
 		<comments>http://cheap-and-cheerful.store/football-manager-2015/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Czech]]></category>
 		<category><![CDATA[Danish]]></category>
@@ -319,7 +300,7 @@
 		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/football-manager-2015</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[Football Manager 2015 &#8211; новая часть знаменитой серии симулятора футбольного менеджера. Выходит на PC, Mac и Linux в ноябре 2014 года. Football Manager &#8211; это наиболее реалистичный симулятор футбольного менеджера. Станьте тренером одного из клубов в более чем 50 странах, включая все лучшие европейские лиги. Football Manager 2015 позволит вам оказаться в роли менеджера клуба, [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/football-manager-2015/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -328,7 +309,7 @@
 		<title>MiniDrivers</title>
 		<link>http://cheap-and-cheerful.store/minidrivers/</link>
 		<comments>http://cheap-and-cheerful.store/minidrivers/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Arabic]]></category>
 		<category><![CDATA[Cross-Platform Multiplayer]]></category>
@@ -355,7 +336,7 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/minidrivers</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[¡Las carreras más locas llegan a tus manos con MiniDrivers! La serie de animación que ha cautivado a millones de personas en todo el mundo tiene un nuevo protagonista: ¡Tú! Crea tus propias historias o cambia las reglas en las carreras y conviértete en Campeón del Mundo. ¡ES HORA DE CORRER! Si algo caracteriza los [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/minidrivers/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>

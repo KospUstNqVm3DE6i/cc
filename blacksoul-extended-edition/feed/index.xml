@@ -10,9 +10,9 @@
 	<atom:link href="http://cheap-and-cheerful.store/blacksoul-extended-edition/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/blacksoul-extended-edition/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 22:07:14 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:23:04 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 </channel>
 </rss>

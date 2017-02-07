@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/supported-languages/japanese/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,302 +26,69 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Grand Theft Auto Collection</title>
-		<link>http://cheap-and-cheerful.store/grand-theft-auto-collection/</link>
-		<comments>http://cheap-and-cheerful.store/grand-theft-auto-collection/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Counter-Strike: Source</title>
+		<link>http://cheap-and-cheerful.store/counter-strike-source/</link>
+		<comments>http://cheap-and-cheerful.store/counter-strike-source/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/grand-theft-auto-collection</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/grand-theft-auto-collection/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dead Island: Game of the Year Edition</title>
-		<link>http://cheap-and-cheerful.store/dead-island-game-of-the-year-edition/</link>
-		<comments>http://cheap-and-cheerful.store/dead-island-game-of-the-year-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/dead-island-game-of-the-year-edition</guid>
-		<description><![CDATA[Ужас. Насилие. Безумие. Бедлам. Праздничные каникулы превратились в нечто ужасное. Тропический остров наполняется хаосом после загадочного появления толп зомби. Единственный шанс выжить — это бороться насмерть, чтобы найти выход с этого острова, где вы просто-напросто отрезаны от всего остального мира. Dead Island сочетает в себе экшен с видом от первого лица с особенным вниманием к [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/dead-island-game-of-the-year-edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>GRID 2 &#8211; Spa-Francorchamps Track Pack</title>
-		<link>http://cheap-and-cheerful.store/grid-2-spa-francorchamps-track-pack/</link>
-		<comments>http://cheap-and-cheerful.store/grid-2-spa-francorchamps-track-pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/grid-2-spa-francorchamps-track-pack</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/grid-2-spa-francorchamps-track-pack/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Portal</title>
-		<link>http://cheap-and-cheerful.store/portal/</link>
-		<comments>http://cheap-and-cheerful.store/portal/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Thai]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/portal</guid>
-		<description><![CDATA[Portal&#8482; es la nueva aventura para un solo jugador de Valve. Ambientado en los misteriosos laboratorios de Aperture Science, Portal ha sido calificado como uno de los juegos más innovadores de los últimos tiempos y ofrece incontables horas de rompecabezas nunca vistos. El juego está diseñado para cambiar radicalmente el modo en que los jugadores [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/portal/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[LA NUEVA ENTREGA DEL JUEGO DE ACCIÓN EN LÍNEA NÚMERO 1 EN TODO EL MUNDO Counter-Strike: Source combina la intensidad de las partidas por equipos, que le valió varios premios al título original, con la avanzada tecnología de Source&#8482;. Con sus vanguardistas gráficos, nuevos sonidos y un mayor dinamismo, Counter-Strike: Source no puede faltar en [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/counter-strike-source/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Witcher 2: Assassins of Kings Enhanced Edition</title>
-		<link>http://cheap-and-cheerful.store/the-witcher-2-assassins-of-kings-enhanced-edition/</link>
-		<comments>http://cheap-and-cheerful.store/the-witcher-2-assassins-of-kings-enhanced-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Borderlands: The Pre-Sequel</title>
+		<link>http://cheap-and-cheerful.store/borderlands-the-pre-sequel/</link>
+		<comments>http://cheap-and-cheerful.store/borderlands-the-pre-sequel/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/the-witcher-2-assassins-of-kings-enhanced-edition</guid>
-		<description><![CDATA[El jugador se pone en la piel de Geralt de Rivia, un cazador de monstruos profesional, un brujo. Inmerso en los conflictos políticos que afectan a toda Temeria, Geralt ayudó a sofocar la rebelión de la Orden de la Rosa Ardiente. Poco después, salvó la vida del rey Foltest cuando el monarca fue atacado por [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/the-witcher-2-assassins-of-kings-enhanced-edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Ori and the Blind Forest</title>
-		<link>http://cheap-and-cheerful.store/ori-and-the-blind-forest/</link>
-		<comments>http://cheap-and-cheerful.store/ori-and-the-blind-forest/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/ori-and-the-blind-forest</guid>
-		<description><![CDATA[El bosque de Nibel está muriendo. Después de que una fuerte tormenta pusiera en marcha una serie de devastadores acontecimientos, un inesperado héroe deberá partir en busca del valor y enfrentarse a su oscuro archienemigo; solo así salvará su hogar. Ori and the Blind Forest narra la historia de un joven huérfano destinado a convertirse [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/ori-and-the-blind-forest/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¡SUMÉRGETE EN EL UNIVERSO DE BORDERLANDS Y PREPÁRATE PARA DISPARAR Y SAQUEAR EN UNA NUEVA AVENTURA QUE TE TRANSPORTARÁ A LA LUNA DE PANDORA EN BORDERLANDS: THE PRE-SEQUEL! Descubre la historia que hay tras Jack el Guapo, el villano de Borderlands 2, y su ascenso al poder. Situada entre el Borderlands original y Borderlands 2, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/borderlands-the-pre-sequel/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Alien Rage &#8211; Unlimited</title>
-		<link>http://cheap-and-cheerful.store/alien-rage-unlimited/</link>
-		<comments>http://cheap-and-cheerful.store/alien-rage-unlimited/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/alien-rage-unlimited</guid>
-		<description><![CDATA[Unleash a fury of powerful weapons as you blast your way through armies of Alien forces hell-bent on taking you down! Battle through 14 intense levels and prepare to face a barrage of beastly-sized bosses that will test your every skill. Each of your 10 weapons comes with two firing modes and you’ll need all [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/alien-rage-unlimited/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Frederic: Evil Strikes Back</title>
-		<link>http://cheap-and-cheerful.store/frederic-evil-strikes-back/</link>
-		<comments>http://cheap-and-cheerful.store/frederic-evil-strikes-back/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/frederic-evil-strikes-back</guid>
-		<description><![CDATA[Oferta especial Buy Frederic: Evil Strikes Back on Steam and get the award winning soundtrack from the game for free!!! Acerca del juego Derrota a famosos oponentes en duelos musicales. Sumérgete en la fantástica y llena de aventuras historia de Fryderyk. Intenta descubrir y sacarle el gustillo a todas las parodias escondidas por los creadores. [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/frederic-evil-strikes-back/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Frozen Synapse Prime</title>
-		<link>http://cheap-and-cheerful.store/frozen-synapse-prime/</link>
-		<comments>http://cheap-and-cheerful.store/frozen-synapse-prime/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/frozen-synapse-prime</guid>
-		<description><![CDATA[Una nueva experiencia de Frozen Synapse Sé el estratega en una nueva experiencia de Frozen Synapse. Guía a una facción de rebeldes para acabar con la poderosa empresa que controla la ciudad de Markov Geist. Controla a un equipo de soldados de élite futuristas: desde fusileros y francotiradores a granaderos y artilleros, en el mejor [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/frozen-synapse-prime/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Enigmatis: The Ghosts of Maple Creek</title>
-		<link>http://cheap-and-cheerful.store/enigmatis-the-ghosts-of-maple-creek/</link>
-		<comments>http://cheap-and-cheerful.store/enigmatis-the-ghosts-of-maple-creek/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/enigmatis-the-ghosts-of-maple-creek</guid>
-		<description><![CDATA[Te despiertas después de una fuerte tormenta. Cae la tarde y estás tumbado en el arcén de la carretera cerca de una aldea pequeña. Un escalofrío atraviesa tu cuerpo al acordarse de cosas de las que tu mente desgraciadamente no puede o quizás no quiere acordarse&#8230; ¿Encontrarás valor suficiente para enfrentarte al milenario misterio oculto [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/enigmatis-the-ghosts-of-maple-creek/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dungeon Lurk II &#8211; Leona</title>
-		<link>http://cheap-and-cheerful.store/dungeon-lurk-ii-leona/</link>
-		<comments>http://cheap-and-cheerful.store/dungeon-lurk-ii-leona/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Fire</title>
+		<link>http://cheap-and-cheerful.store/fire/</link>
+		<comments>http://cheap-and-cheerful.store/fire/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Arabic]]></category>
@@ -339,9 +106,7 @@
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
@@ -350,22 +115,139 @@
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Thai]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/dungeon-lurk-ii-leona</guid>
-		<description><![CDATA[An Action Puzzle Adventure Game with roots in the classic &#34;Point &#38; Click&#34; genre. Take your time and explore the environment for clues to puzzles. Zoom in to detailed areas to find secrets that allow you to progress in the game. The story Ceghran, The Dread King, has constructed a dungeon kingdom to house his [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/dungeon-lurk-ii-leona/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[FIRE es una aventura de exploración con un intuitivo diseño de puzles. Consigue contar una historia terriblemente divertida sin usar siquiera una palabra. Viaja hasta la edad de piedra y enfréntate a la tarea más complicada de esta época: ¡La búsqueda del fuego! El héroe de esta historia es el simpático y despistado neandertal Ungh, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/fire/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Battlepillars Gold Edition</title>
-		<link>http://cheap-and-cheerful.store/battlepillars-gold-edition/</link>
-		<comments>http://cheap-and-cheerful.store/battlepillars-gold-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>METAL GEAR SOLID V: THE PHANTOM PAIN</title>
+		<link>http://cheap-and-cheerful.store/metal-gear-solid-v-the-phantom-pain/</link>
+		<comments>http://cheap-and-cheerful.store/metal-gear-solid-v-the-phantom-pain/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Konami Digital Entertainment presenta el último capítulo de METAL GEAR SOLID V Experience: METAL GEAR SOLID V: The Phantom Pain. La franquicia entra en una nueva era gracias a la innovadora tecnología de Fox Engine y MGSV: The Phantom Pain ofrece a los jugadores una experiencia de juego de máximo nivel y libertad táctica para [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/metal-gear-solid-v-the-phantom-pain/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wolfenstein: The New Order</title>
+		<link>http://cheap-and-cheerful.store/wolfenstein-the-new-order/</link>
+		<comments>http://cheap-and-cheerful.store/wolfenstein-the-new-order/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[DESCRIPCIÓN DEL JUEGO: Wolfenstein®: The New OrderTM revitaliza la serie que creó el género de los shooters en primera persona. Machine Games, un estudio compuesto por un veterano grupo de desarrolladores muy laureados por su labor creando juegos impulsados por la trama, han sido los encargados de desarrollar Wolfenstein, que ofrece una elaborada narrativa repleta [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/wolfenstein-the-new-order/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Spec Ops: The Line</title>
+		<link>http://cheap-and-cheerful.store/spec-ops-the-line/</link>
+		<comments>http://cheap-and-cheerful.store/spec-ops-the-line/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Available now on Mac! Available now on Linux! ¡Spec Ops: The Line, ahora disponible para Linux! Acerca del juego Spec Ops: The Line is a new original title from 2K Games that features provocative and gripping Third-Person modern military Shooter gameplay designed to challenge players&#8217; morality by putting them in the middle of unspeakable situations [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/spec-ops-the-line/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Muffin Knight</title>
+		<link>http://cheap-and-cheerful.store/muffin-knight/</link>
+		<comments>http://cheap-and-cheerful.store/muffin-knight/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[NEW GAME UPDATE – ALL THANKS TO YOUR GREAT FEEDBACK!!! Controller It’s now easier to configure your controller inputs (both in main menu and during gameplay) Added Controller presets for Xbox, Logitech and generic controllers Graphics You can now choose the graphics quality High also includes AntiAliasing If you ever have trouble and want to [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/muffin-knight/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Frederic: Evil Strikes Back</title>
+		<link>http://cheap-and-cheerful.store/frederic-evil-strikes-back/</link>
+		<comments>http://cheap-and-cheerful.store/frederic-evil-strikes-back/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Casual]]></category>
@@ -375,23 +257,134 @@
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/battlepillars-gold-edition</guid>
-		<description><![CDATA[Battlepillars is a real-time tug-of-war strategy game from the team behind Draw a Stickman: EPIC in which you command caterpillars armed to the teeth with flamethrowers, sticky honey, mines, machine guns, and more! Utilize the best strategies and combinations, from blitzkrieg battlepillars armed with only their feet to heavily armored, cannon wielding, rocket launching tankerpillars. [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/battlepillars-gold-edition/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Oferta especial Buy Frederic: Evil Strikes Back on Steam and get the award winning soundtrack from the game for free!!! Acerca del juego Derrota a famosos oponentes en duelos musicales. Sumérgete en la fantástica y llena de aventuras historia de Fryderyk. Intenta descubrir y sacarle el gustillo a todas las parodias escondidas por los creadores. [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/frederic-evil-strikes-back/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Blackguards: Untold Legends</title>
+		<link>http://cheap-and-cheerful.store/blackguards-untold-legends/</link>
+		<comments>http://cheap-and-cheerful.store/blackguards-untold-legends/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/blackguards-untold-legends/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>League of Mermaids</title>
+		<link>http://cheap-and-cheerful.store/league-of-mermaids/</link>
+		<comments>http://cheap-and-cheerful.store/league-of-mermaids/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Swedish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[From the creators of the award-winning Atlantis: Pearls of the Deep and Legends of Atlantis: Exodus comes the next big underwater Match-3 game, League of Mermaids! Help League members &#8211; Cora, Mishell, Koh, and Marina &#8211; on an epic quest to save their endangered mermaid homeland from destruction! League of Mermaids combines Match-3 gameplay with [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/league-of-mermaids/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Elementary My Dear Majesty!</title>
+		<link>http://cheap-and-cheerful.store/elementary-my-dear-majesty/</link>
+		<comments>http://cheap-and-cheerful.store/elementary-my-dear-majesty/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[La hija del rey se ha convertido en un monstruo que se alimenta de humanos; tienes que encontrar la forma de curarla o te comerá. Explora espectaculares escenarios 3D y resuelve ingeniosos puzles para conocer la verdad sobre la poco agradable apariencia de la princesa.]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/elementary-my-dear-majesty/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Toybox Turbos</title>
+		<link>http://cheap-and-cheerful.store/toybox-turbos/</link>
+		<comments>http://cheap-and-cheerful.store/toybox-turbos/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¡Arranca la diversión con el clásico de carreras de mesa reinventado por Codemasters en Toybox Turbos! &#8211; ¡Ya disponible en 3D con el casco de realidad virtual Oculus Rift Development kit 2 (DK2)! Personaliza 35 vehículos en este sencillo arcade. Compite en 18 circuitos plagados de obstáculos y atajos para vivir una caótica y reñida [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/toybox-turbos/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

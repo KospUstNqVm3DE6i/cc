@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/supported-languages/french/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,185 +26,346 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Arma 2: Combined Operations</title>
-		<link>http://cheap-and-cheerful.store/arma-2-combined-operations/</link>
-		<comments>http://cheap-and-cheerful.store/arma-2-combined-operations/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Counter-Strike: Condition Zero</title>
+		<link>http://cheap-and-cheerful.store/counter-strike-condition-zero/</link>
+		<comments>http://cheap-and-cheerful.store/counter-strike-condition-zero/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Esta versión de Counter-Strike trae una extensa campaña Tour of Duty, un número casi ilimitado de escaramuzas, actualizaciones y nuevos contenidos para la modalidad multijugador, que ya ha recibido varios premios. Además, disfrutarás de más de 12 misiones para un solo jugador de regalo. Counter-Strike: Condition Zero es toda una gozada tanto si juegas solo [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/counter-strike-condition-zero/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Age of Empires II HD</title>
+		<link>http://cheap-and-cheerful.store/age-of-empires-ii-hd/</link>
+		<comments>http://cheap-and-cheerful.store/age-of-empires-ii-hd/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/arma-2-combined-operations</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/arma-2-combined-operations/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Grand Theft Auto: Episodes from Liberty City</title>
-		<link>http://cheap-and-cheerful.store/grand-theft-auto-episodes-from-liberty-city/</link>
-		<comments>http://cheap-and-cheerful.store/grand-theft-auto-episodes-from-liberty-city/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/grand-theft-auto-episodes-from-liberty-city</guid>
-		<description><![CDATA[Grand Theft Auto: Episodes from Liberty City incluye The Lost and Damned y The Ballad of Gay Tony en un mismo paquete y no necesita tener el Grand Theft Auto IV original para jugar. En The Lost and Damned, podrás recorrer Liberty City como Johnny, un miembro veterano de The Lost, una famosa panda de [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/grand-theft-auto-episodes-from-liberty-city/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>BioShock Infinite &#8211; Season Pass</title>
-		<link>http://cheap-and-cheerful.store/bioshock-infinite-season-pass/</link>
-		<comments>http://cheap-and-cheerful.store/bioshock-infinite-season-pass/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[In Age of Empires II: HD Edition, fans of the original game and new players alike will fall in love with the classic Age of Empires II experience. Explore all the original single player campaigns from both Age of Kings and The Conquerors expansion, choose from 18 civilizations spanning over a thousand years of history, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/age-of-empires-ii-hd/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Chivalry: Medieval Warfare</title>
+		<link>http://cheap-and-cheerful.store/chivalry-medieval-warfare/</link>
+		<comments>http://cheap-and-cheerful.store/chivalry-medieval-warfare/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Recién actualizado Acerca del juego Asedia castillos y asalta aldeas en Chivalry: Medieval Warfare, un videojuego en primera persona centrado en el modo multijugador. En él se desarrollan competitivos combatesen línea que recrean la experiencia de los verdaderos campos de batalla medievales. El juego se inspira en la intensidad y las batallas épicas de películas [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/chivalry-medieval-warfare/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DmC: Devil May Cry</title>
+		<link>http://cheap-and-cheerful.store/dmc-devil-may-cry/</link>
+		<comments>http://cheap-and-cheerful.store/dmc-devil-may-cry/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/bioshock-infinite-season-pass</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/bioshock-infinite-season-pass/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Steam Big Picture Acerca del juego In this retelling of Dante&#8217;s origin story which is set against a contemporary backdrop, DmC Devil May Cry™ retains the stylish action, fluid combat and self-assured protagonist that have defined the iconic series but inject a more brutal and visceral edge. The Dante of DmC is a young man [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/dmc-devil-may-cry/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>DiRT 3 Complete Edition</title>
-		<link>http://cheap-and-cheerful.store/dirt-3-complete-edition/</link>
-		<comments>http://cheap-and-cheerful.store/dirt-3-complete-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Euro Truck Simulator 2 &#8211; Going East!</title>
+		<link>http://cheap-and-cheerful.store/euro-truck-simulator-2-going-east/</link>
+		<comments>http://cheap-and-cheerful.store/euro-truck-simulator-2-going-east/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Cross-Platform Multiplayer]]></category>
+				<category><![CDATA[Bulgarian]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/euro-truck-simulator-2-going-east/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>FINAL FANTASY IV: THE AFTER YEARS</title>
+		<link>http://cheap-and-cheerful.store/final-fantasy-iv-the-after-years/</link>
+		<comments>http://cheap-and-cheerful.store/final-fantasy-iv-the-after-years/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Totalmente rediseñado en 3-D, ahora puedes jugar a FINAL FANTASY IV: THE AFTER YEARS por primera vez en PC. Toma parte en la épica secuela que se desarrolla casi dos décadas después de los acontecimientos de FINAL FANTASY IV. Los personajes clásicos regresan junto a nuevos héroes, como Ceodore, hijo de Cecil y Rosa. Han [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/final-fantasy-iv-the-after-years/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Orange Box</title>
+		<link>http://cheap-and-cheerful.store/the-orange-box/</link>
+		<comments>http://cheap-and-cheerful.store/the-orange-box/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[Free to Play]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Thai]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-orange-box/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>LEGO The Lord of the Rings</title>
+		<link>http://cheap-and-cheerful.store/lego-the-lord-of-the-rings/</link>
+		<comments>http://cheap-and-cheerful.store/lego-the-lord-of-the-rings/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/dirt-3-complete-edition</guid>
-		<description><![CDATA[Consigue la Edición Completa de DiRT 3, la edición de competición off-road de DiRT 3 definitiva ampliada ahora con contenido adicional y mejorada mediante la integración de Steamworks, que dispone de logros, marcadores y partidas guardadas en Steam Cloud. En DiRT 3 Edición Completa, pilotarás coches míticos que abarcan 50 años de carreras en tres [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/dirt-3-complete-edition/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Based on The Lord of the Rings motion picture trilogy, LEGO® The Lord of the Rings follows the original story-lines of The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, and The Lord of the Rings: The Return of the King, taking players through the epic [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/lego-the-lord-of-the-rings/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Dead Space</title>
-		<link>http://cheap-and-cheerful.store/dead-space/</link>
-		<comments>http://cheap-and-cheerful.store/dead-space/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Mass Effect</title>
+		<link>http://cheap-and-cheerful.store/mass-effect/</link>
+		<comments>http://cheap-and-cheerful.store/mass-effect/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/dead-space</guid>
-		<description><![CDATA[Solamente los Muertos Sobreviven. Una gigantesca astronave minera deja de comunicar con la Tierra tras entrar en contacto con un extraño artefacto en un planeta distante. El ingeniero Isaac Clarke se embarca para repararla y descubre un horrible baño de sangre  la tripulación de la astronave cruelmente masacrada e infectada por una malvada presencia [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/dead-space/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[En el papel del Comandante Shepard, guiarás a un pelotón de elite en una aventura llena de acción y heroísmo a través de la galaxia. Descubre el peligro inminente de una antigua amenaza y lucha contra el traidor Saren y su ejército mortal para salvar la civilización. ¡El destino de todas las vidas depende de [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/mass-effect/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Elder Scrolls V: Skyrim &#8211; Hearthfire</title>
-		<link>http://cheap-and-cheerful.store/the-elder-scrolls-v-skyrim-hearthfire/</link>
-		<comments>http://cheap-and-cheerful.store/the-elder-scrolls-v-skyrim-hearthfire/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>PAYDAY 2: Hotline Miami</title>
+		<link>http://cheap-and-cheerful.store/payday-2-hotline-miami/</link>
+		<comments>http://cheap-and-cheerful.store/payday-2-hotline-miami/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/payday-2-hotline-miami/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Risen 3 &#8211; Adventure Garb</title>
+		<link>http://cheap-and-cheerful.store/risen-3-adventure-garb/</link>
+		<comments>http://cheap-and-cheerful.store/risen-3-adventure-garb/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Captions available]]></category>
 		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/the-elder-scrolls-v-skyrim-hearthfire</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/the-elder-scrolls-v-skyrim-hearthfire/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Farming Simulator 2013 Titanium Edition</title>
-		<link>http://cheap-and-cheerful.store/farming-simulator-2013-titanium-edition/</link>
-		<comments>http://cheap-and-cheerful.store/farming-simulator-2013-titanium-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/farming-simulator-2013-titanium-edition</guid>
-		<description><![CDATA[¡Bienvenido al mayor simulador agrícola jamás creado! Farming Simulator 2013® Titanium te invita al desafiante mundo del granjero moderno: ganadería (vacas, pollos y ovejas), cosechas, ventas… Tú decides cómo gestionar y mejorar tu propia granja en un mundo abierto enorme, que incluye por primera vez escenarios de América. ¡A lo largo de tu progreso, controlarás [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/farming-simulator-2013-titanium-edition/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/risen-3-adventure-garb/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Guacamelee! Super Turbo Championship Edition</title>
-		<link>http://cheap-and-cheerful.store/guacamelee-super-turbo-championship-edition/</link>
-		<comments>http://cheap-and-cheerful.store/guacamelee-super-turbo-championship-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Cast of the Seven Godsends</title>
+		<link>http://cheap-and-cheerful.store/cast-of-the-seven-godsends/</link>
+		<comments>http://cheap-and-cheerful.store/cast-of-the-seven-godsends/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
@@ -214,115 +375,15 @@
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/guacamelee-super-turbo-championship-edition</guid>
-		<description><![CDATA[Super? Turbo?? *Championship????* STCE es una versión ampliamente mejorada del Guacamelee! original. Disfruta explorando dos nuevos niveles enormes, explotando en el potente modo &#34;Intenso&#34; y poniendo huevos bomba como un pollo. Necesitarás bastante potencia para librarte de la nueva clase de enemigos de élite despiadados, de una serie de desafíos actualizados y reequilibrados en los [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/guacamelee-super-turbo-championship-edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>LEGO Batman</title>
-		<link>http://cheap-and-cheerful.store/lego-batman/</link>
-		<comments>http://cheap-and-cheerful.store/lego-batman/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/lego-batman</guid>
-		<description><![CDATA[Cuando todos los villanos en el asilo Arkham se juntan y se escapan, sólo el dúo dinámico es lo suficientemente atrevido como para encargarse de ellos y salvar Gotham City. La diversión de LEGO, el drama de Batman y la singular combinación forman una cómica y excitante aventura en LEGO Batman: The Videogame. Juega como [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/lego-batman/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Magicka: Peculiar Gadgets Item Pack</title>
-		<link>http://cheap-and-cheerful.store/magicka-peculiar-gadgets-item-pack/</link>
-		<comments>http://cheap-and-cheerful.store/magicka-peculiar-gadgets-item-pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/magicka-peculiar-gadgets-item-pack</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-peculiar-gadgets-item-pack/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>PAYDAY 2: Dragan Character Pack</title>
-		<link>http://cheap-and-cheerful.store/payday-2-dragan-character-pack/</link>
-		<comments>http://cheap-and-cheerful.store/payday-2-dragan-character-pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/payday-2-dragan-character-pack</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/payday-2-dragan-character-pack/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Risen</title>
-		<link>http://cheap-and-cheerful.store/risen/</link>
-		<comments>http://cheap-and-cheerful.store/risen/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/risen</guid>
-		<description><![CDATA[La Isla Faranga necesita un nuevo héroe, ¡tú! Entra en un crudo, descarnado y absorbente mundo de fantasía en el que todas las acciones tienen consecuencias. En el mundo épico de Risen, repleto de misteriosos terremotos, aterradores monstruos y tesoros inimaginables, forja tu camino con tu espada, aprende el arte de la lucha con bastón [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/risen/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[El malvado Emperador Zaraaima ha secuestrado al bebé heredero de la tierra de Dareca. El Rey Kandar deberá apelar a la ayuda de los siete Dioses de Dareca durante un viaje a través de los seis mundos de su reino para intentar salvar a su hijo. Deberá enfrentarse a las hordas del emperador, combatiendo en [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/cast-of-the-seven-godsends/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

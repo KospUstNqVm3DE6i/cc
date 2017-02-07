@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/genres/action/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,35 +26,60 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Counter-Strike</title>
-		<link>http://cheap-and-cheerful.store/counter-strike/</link>
-		<comments>http://cheap-and-cheerful.store/counter-strike/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Arma 2</title>
+		<link>http://cheap-and-cheerful.store/arma-2/</link>
+		<comments>http://cheap-and-cheerful.store/arma-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Cimentado sobre 10 años de constante desarrollo del motor, ARMA II ofrece el entorno de combate más realista del mundo. Imita fielmente la balística y desviación del disparo del mundo real, la penetración en función del material, tiene un ciclo real de día y noche, viento dinámico, meteorología y efectos ambientales. La simulación de un [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/arma-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Grand Theft Auto IV</title>
+		<link>http://cheap-and-cheerful.store/grand-theft-auto-iv/</link>
+		<comments>http://cheap-and-cheerful.store/grand-theft-auto-iv/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/counter-strike</guid>
-		<description><![CDATA[Disfruta del juego de acción en línea número 1 en el mundo. Sum&#233;rgete en el fragor de la guerra antiterrorista más realista con este archiconocido juego por equipos. Alíate con tus compañeros para superar las misiones estrat&#233;gicas, asalta las bases enemigas, rescata a los rehenes, y recuerda que tu personaje contribuye al &#233;xito del equipo, [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/counter-strike/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¿Qué significa hoy el Sueño Americano? Para Niko Bellic, recién llegado en barco desde Europa, es la esperanza de poder escapar de su pasado. Para su primo, Roman, es la visión de que juntos pueden hacer fortuna en Liberty City, la puerta a la tierra de las oportunidades. A medida que van acumulando deudas y [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/grand-theft-auto-iv/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Bureau: XCOM Declassified</title>
-		<link>http://cheap-and-cheerful.store/the-bureau-xcom-declassified/</link>
-		<comments>http://cheap-and-cheerful.store/the-bureau-xcom-declassified/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Borderlands 2 Game of the Year</title>
+		<link>http://cheap-and-cheerful.store/borderlands-2-game-of-the-year/</link>
+		<comments>http://cheap-and-cheerful.store/borderlands-2-game-of-the-year/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
@@ -62,95 +87,39 @@
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/the-bureau-xcom-declassified</guid>
-		<description><![CDATA[Corre el año 1962 y la Guerra Fría tiene a la nación llena de temor. Una unidad secreta del gobierno llamada The Bureau investiga una serie de ataques misteriosos hechos por un enemigo más poderoso que el comunismo. Como el agente Carter podrás dar órdenes, jalar el gatillo y guiar a tu equipo en un [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/the-bureau-xcom-declassified/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/borderlands-2-game-of-the-year/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>BRINK</title>
-		<link>http://cheap-and-cheerful.store/brink/</link>
-		<comments>http://cheap-and-cheerful.store/brink/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Dead Rising 3 Apocalypse Edition</title>
+		<link>http://cheap-and-cheerful.store/dead-rising-3-apocalypse-edition/</link>
+		<comments>http://cheap-and-cheerful.store/dead-rising-3-apocalypse-edition/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
 		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/brink</guid>
-		<description><![CDATA[Brink es un adictivo shooter en primera persona que fusiona el modo un jugador, cooperativo y multijugador en una misma experiencia, lo que te permite desarrollar a tu personaje ya sea jugando solo, con tus amigos o contra otros online. Tú decides el rol que quieres asumir en combate en el mundo de Brink mientras [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/brink/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dead Island: Epidemic</title>
-		<link>http://cheap-and-cheerful.store/dead-island-epidemic/</link>
-		<comments>http://cheap-and-cheerful.store/dead-island-epidemic/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Free to Play]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/dead-island-epidemic</guid>
-		<description><![CDATA[PLAY FREE NOW! Time to DI:E Dead Island: Epidemic is a multiplayer action hack &#38; slash arena. Players duke it out over supply points using an arsenal of crafted weaponry, a bevy of devastating powers, and good old-fashioned teamwork. And yeah, we&#8217;ve got zombies too &#8211; so there&#8217;s that. Co-Operate or Compete It&#8217;s you versus [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/dead-island-epidemic/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>QUAKE</title>
-		<link>http://cheap-and-cheerful.store/quake/</link>
-		<comments>http://cheap-and-cheerful.store/quake/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/quake</guid>
-		<description><![CDATA[Arrasa a través de 32 niveles para un jugador y 6 niveles de partida a muerte llenos de terror, sonidos e iluminación sumergente. Ármate contra el caníbal Ogre, el malvado Vore y el indestructible Shambler usando clavos letales, feroces rayos y abominables lanzacohetes y lanzagranadas.]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/quake/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Injustice: Gods Among Us Ultimate Edition</title>
-		<link>http://cheap-and-cheerful.store/injustice-gods-among-us-ultimate-edition/</link>
-		<comments>http://cheap-and-cheerful.store/injustice-gods-among-us-ultimate-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
@@ -159,46 +128,80 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/injustice-gods-among-us-ultimate-edition</guid>
-		<description><![CDATA[Injustice: Gods Among Us Ultimate Edition es la versión mejorada de la atrevida franquicia del género de videojuegos de combate creada por NetherRealm Studios. Con seis nuevos personajes de juego, mas de 30 nuevos skins y 60 nuevas misiones de los Laboratorios S.T.A.R., esta edición viene pegando duro. Además de íconos de DC Comics tales [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/injustice-gods-among-us-ultimate-edition/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Steam Big Picture Free Upgrade to Apocalypse Edition! Dead Rising 3 Apocalypse Edition now includes the ultimate open-world zombie game along with all four of the “Untold Stories of Los Perdidos” episodic downloadable add-on packs. Welcome to the Apocalypse, where your zombie slaying thrills await. Acerca del juego La edición Apocalipsis de Dead Rising 3 [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/dead-rising-3-apocalypse-edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Magicka</title>
-		<link>http://cheap-and-cheerful.store/magicka/</link>
-		<comments>http://cheap-and-cheerful.store/magicka/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>F.E.A.R. 3</title>
+		<link>http://cheap-and-cheerful.store/fear-3/</link>
+		<comments>http://cheap-and-cheerful.store/fear-3/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/magicka</guid>
-		<description><![CDATA[Steam Big Picture Acerca del juego Magicka es una sátira de acción y aventuras ambientada en un rico mundo de fantasía que se inspira en la mitología nórdica. El jugador asume el papel de un mago de una orden sagrada con la misión de detener a un malvado hechicero que ha sumido al mundo en [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/magicka/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Alma está a la espera y nuevos horrores se muestran ante ti y tu hermano caníbal mientras combatís en una infernal pesadilla. Luchad juntos o morid solos en una misión terrible para hacer frente a vuestra retorcida madre. Los jugadores se podrán meter en la piel de Point Man, un soldado genéticamente mejorado con reflejos [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/fear-3/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Magicka: Marshlands</title>
-		<link>http://cheap-and-cheerful.store/magicka-marshlands/</link>
-		<comments>http://cheap-and-cheerful.store/magicka-marshlands/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Killing Floor Bundle</title>
+		<link>http://cheap-and-cheerful.store/killing-floor-bundle/</link>
+		<comments>http://cheap-and-cheerful.store/killing-floor-bundle/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/killing-floor-bundle/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Magicka: Nippon</title>
+		<link>http://cheap-and-cheerful.store/magicka-nippon/</link>
+		<comments>http://cheap-and-cheerful.store/magicka-nippon/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
@@ -206,115 +209,139 @@
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/magicka-marshlands</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-marshlands/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-nippon/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Murdered: Soul Suspect</title>
-		<link>http://cheap-and-cheerful.store/murdered-soul-suspect/</link>
-		<comments>http://cheap-and-cheerful.store/murdered-soul-suspect/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Magicka: Wizard Wars</title>
+		<link>http://cheap-and-cheerful.store/magicka-wizard-wars/</link>
+		<comments>http://cheap-and-cheerful.store/magicka-wizard-wars/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Free to Play]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Magicka: Wizard Wars &#8211; это командная мочиловка с изрядной дозой юмора и динамической системой Магики. Игроки образуют четверки и носятся по полю боя, сочетая &#34;на лету&#34; стихии магики, чтобы создавать сотни комбинаций заклинаний с самыми разнообразными эффектами. Каждый игрок может персонализировать своего волшебника с помощью уникального снаряжения и магик, завершив образ насмешливой отсылкой на популярные [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-wizard-wars/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PAYDAY 2: Armored Transport</title>
+		<link>http://cheap-and-cheerful.store/payday-2-armored-transport/</link>
+		<comments>http://cheap-and-cheerful.store/payday-2-armored-transport/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/payday-2-armored-transport/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sacred 3</title>
+		<link>http://cheap-and-cheerful.store/sacred-3/</link>
+		<comments>http://cheap-and-cheerful.store/sacred-3/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/murdered-soul-suspect</guid>
-		<description><![CDATA[EL ASESINATO MÁS DIFÍCIL DE RESOLVER ES EL TUYO PROPIO. Ronan O&#8217;Connor, un detective con un pasado turbio, se ve envuelto en un robo violento en el que un asesino cruel e implacable pondrá fin a su vida de forma prematura. Ronan descubre con horror que se encuentra en el más allá. Para poder escapar [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/murdered-soul-suspect/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Sacred 3 es un Hack ‘n’ Slash arcade para hasta 4 jugadores ambientado en la guerra de Arcadia. Elegid un héroe legendario y luchad juntos contra las hordas del mal. Os enfrentaréis a grimmocs, brutos, legiones de mercenarios y hechiceros no muertos. Desarrollad las habilidades del personaje y uníos para usar poderosos atributos y tácticas [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/sacred-3/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Resident Evil 0 / biohazard 0 HD REMASTER</title>
-		<link>http://cheap-and-cheerful.store/resident-evil-0-biohazard-0-hd-remaster/</link>
-		<comments>http://cheap-and-cheerful.store/resident-evil-0-biohazard-0-hd-remaster/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>The Evil Within</title>
+		<link>http://cheap-and-cheerful.store/the-evil-within/</link>
+		<comments>http://cheap-and-cheerful.store/the-evil-within/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/resident-evil-0-biohazard-0-hd-remaster</guid>
-		<description><![CDATA[Buzz Acerca del juego Resident Evil 0 revela el misterio que se oculta tras el incidente en la mansión, evento que pone en marcha todos los sucesos de la serie de Resident Evil. Esta versión remasterizada presenta la historia y el juego originales con gráficos asombrosos de calidad HD, sonido envolvente de 5.1 canales, controles [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/resident-evil-0-biohazard-0-hd-remaster/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Space Engineers</title>
-		<link>http://cheap-and-cheerful.store/space-engineers/</link>
-		<comments>http://cheap-and-cheerful.store/space-engineers/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/space-engineers</guid>
-		<description><![CDATA[Space Engineers is a sandbox game about engineering, construction, exploration and survival in space and on planets. Players build space ships, space stations, planetary outposts of various sizes and uses (civil and military), pilot ships and travel through space to explore planets and gather resources to survive. Featuring both creative and survival modes, there is [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/space-engineers/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Demo Now Available A partir del 30 de octubre, podréis disfrutar de los tres primeros capítulos gratis. Si elegís comprar el juego después de estos tres primeros capítulos, podréis reanudar vuestros progresos guardados. Acerca del juego DESCRIPCIÓN DEL JUEGO: Creado por Shinji Mikami, responsable de la influyente serie Resident Evil, y desarrollado con el talento [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-evil-within/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Tomb Raider II</title>
-		<link>http://cheap-and-cheerful.store/tomb-raider-ii/</link>
-		<comments>http://cheap-and-cheerful.store/tomb-raider-ii/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Warhammer 40,000: Kill Team</title>
+		<link>http://cheap-and-cheerful.store/warhammer-40000-kill-team/</link>
+		<comments>http://cheap-and-cheerful.store/warhammer-40000-kill-team/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/tomb-raider-ii</guid>
-		<description><![CDATA[La segunda entrega de la saga Tomb Raider te invita a acompañar a Lara en su viaje alrededor de mundo para recuperar un preciado objeto antes de que éste caiga en las manos equivocadas. Se dice que el legendario artefacto, la Daga de Xian, otorga a quien lo posee el poder de un flamígero dragón.]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/tomb-raider-ii/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Jump into the rich world of Warhammer 40,000 in this fast paced 3rd person action shooter. As one of the Emperor&#8217;s Elite Space Marines you have been sent on a vital mission to assault a gigantic Ork Kroozer headed for an Imperial Forge World. Choose your Space Marine Chapter and weapons class and commence the [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/warhammer-40000-kill-team/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

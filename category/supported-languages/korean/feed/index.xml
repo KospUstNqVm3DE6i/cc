@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/supported-languages/korean/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,10 +26,303 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>BioShock Infinite &#8211; Season Pass</title>
+		<link>http://cheap-and-cheerful.store/bioshock-infinite-season-pass/</link>
+		<comments>http://cheap-and-cheerful.store/bioshock-infinite-season-pass/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/bioshock-infinite-season-pass/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Left 4 Dead 2</title>
+		<link>http://cheap-and-cheerful.store/left-4-dead-2/</link>
+		<comments>http://cheap-and-cheerful.store/left-4-dead-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Ambientado en el apocalipsis zombi, Left 4 Dead 2 (L4D2) es la secuela largamente esperada del galardonado Left 4 Dead, el juego co-op número 1 de 2008. Este FPS cooperativo de acción y horror os llevará a ti y a tus amigos por las ciudades, pantanos y cementerios del Sur Profundo, desde Savannah hasta Nueva [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/left-4-dead-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bound By Flame</title>
+		<link>http://cheap-and-cheerful.store/bound-by-flame/</link>
+		<comments>http://cheap-and-cheerful.store/bound-by-flame/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[En un mundo sin esperanza asolado por los siete Señores del Hielo y su ejército de no muertos, tú eres Vulcan, un mercenario poseído por un demonio de llamas. En este RPG, en el que todas tus decisiones tendrán consecuencias, deberás elegir entre desatar los poderes de tu demonio interior o rechazar su influencia infernal, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/bound-by-flame/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Monday Night Combat</title>
+		<link>http://cheap-and-cheerful.store/monday-night-combat/</link>
+		<comments>http://cheap-and-cheerful.store/monday-night-combat/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Monday Night Combat es un shooter en tercera persona basado en clases… ¡y el deporte letal más popular del futuro! Es una mezcla de fiero combate, movimientos finales y desafíos y recompensas estilo espectáculo que genera una experiencia de acción como ninguna otra. ¿Por qué luchar por el “honor” o el “deber” cuando puedes luchar [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/monday-night-combat/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Warlocks vs Shadows</title>
+		<link>http://cheap-and-cheerful.store/warlocks-vs-shadows/</link>
+		<comments>http://cheap-and-cheerful.store/warlocks-vs-shadows/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Warlocks vs Shadows is an action RPG/brawler game set in a fantasy world invaded by shadow monsters. Playing as an incredibly powerful Warlock and, by using magic skills and weapons, you fight through hordes of enemies. The game places great focus on co-op and versus play between players, where you can fight in 1-4 player [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/warlocks-vs-shadows/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jamsouls</title>
+		<link>http://cheap-and-cheerful.store/jamsouls/</link>
+		<comments>http://cheap-and-cheerful.store/jamsouls/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Get ready for some crazy battles with your friends in the colorful arenas of Jamsouls! In the hope of bringing back the golden era of multiplayer classics, Jamsouls focuses on fast-paced and manic fun with simple and accessible gameplay. Take control of one of nine naughty evils freed from Pandora&#8217;s Box and fight your friends [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/jamsouls/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Prehistorik</title>
+		<link>http://cheap-and-cheerful.store/prehistorik/</link>
+		<comments>http://cheap-and-cheerful.store/prehistorik/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[THE STORY: A giant has stolen all the grub from the Grag tribe! You play the role of Grag and set off on this monster’s trail in search of food! Super friendly Grag is helped along the way by his new friend, the fly! Help this prehistoric hero defeat his monstrous enemies and bring back [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/prehistorik/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Demon Hunter: Chronicles from Beyond</title>
+		<link>http://cheap-and-cheerful.store/demon-hunter-chronicles-from-beyond/</link>
+		<comments>http://cheap-and-cheerful.store/demon-hunter-chronicles-from-beyond/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Cazador de demonios: Crónicas del más allá es una fascinante aventura ambientada en la América de los años 30. El juego relata la historia de Dawn Harlock, una exótica mujer de ojos rojos que debe volver al terreno de su familia en Iowa Island para investigar la misteriosa muerte de su mentor, el Profesor Ashmore. [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/demon-hunter-chronicles-from-beyond/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Book of Unwritten Tales</title>
+		<link>http://cheap-and-cheerful.store/the-book-of-unwritten-tales/</link>
+		<comments>http://cheap-and-cheerful.store/the-book-of-unwritten-tales/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[En un mundo desgarrado por la guerra, el anciano arqueólogo gremlin Mortimer MacGuffin guarda el oscuro secreto de un poderoso artefacto. Quien se haga con él determinará el destino del mundo. Mientras el Ejército de las Sombras envía a sus mejores y más astutos agentes para descubrir el secreto, los cuatro héroes de la Alianza [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-book-of-unwritten-tales/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ballad of Solar</title>
+		<link>http://cheap-and-cheerful.store/ballad-of-solar/</link>
+		<comments>http://cheap-and-cheerful.store/ballad-of-solar/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Swedish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[A new part of adventure! http://store.steampowered.com/app/443370 Acerca del juego In a land of enchantment, torn by evil, a hero arrives to save the day! His name is Solar, and he brings courage, bravery, and skill with a sword. No orc can stop him, no troll can trip him up, and no goblin can gobble him [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/ballad-of-solar/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Borderlands 2</title>
 		<link>http://cheap-and-cheerful.store/borderlands-2/</link>
 		<comments>http://cheap-and-cheerful.store/borderlands-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
@@ -48,7 +341,7 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/borderlands-2</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[Una nueva era de disparos y saqueos está a punto de comenzar. Juega como uno de los cuatro nuevos buscadores de la Cámara y enfréntate a legiones de nuevas criaturas, psicópatas y al villano que las controla, Jack el Guapo. Haz nuevos amigos, equípalos con un cillón de armas y pelea a su lado en [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/borderlands-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -57,7 +350,7 @@
 		<title>Max Payne 3</title>
 		<link>http://cheap-and-cheerful.store/max-payne-3/</link>
 		<comments>http://cheap-and-cheerful.store/max-payne-3/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
@@ -75,298 +368,9 @@
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/max-payne-3</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[Para Max Payne, las tragedias que se llevaron a sus seres queridos hace años son heridas que se niegan a cicatrizar. Tras dejar la policía, prácticamente acabado y totalmente enganchado a los analgésicos, Max acepta un trabajo en São Paulo, Brasil, para proteger a la familia del rico magnate inmobiliario Rodrigo Branco, en un esfuerzo [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/max-payne-3/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Bound By Flame</title>
-		<link>http://cheap-and-cheerful.store/bound-by-flame/</link>
-		<comments>http://cheap-and-cheerful.store/bound-by-flame/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/bound-by-flame</guid>
-		<description><![CDATA[En un mundo sin esperanza asolado por los siete Señores del Hielo y su ejército de no muertos, tú eres Vulcan, un mercenario poseído por un demonio de llamas. En este RPG, en el que todas tus decisiones tendrán consecuencias, deberás elegir entre desatar los poderes de tu demonio interior o rechazar su influencia infernal, [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/bound-by-flame/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Demonicon</title>
-		<link>http://cheap-and-cheerful.store/demonicon/</link>
-		<comments>http://cheap-and-cheerful.store/demonicon/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/demonicon</guid>
-		<description><![CDATA[The Dark Eye &#8211; Demonicon is a thrilling action-RPG set in the extraordinarily popular universe of “The Dark Eye”, a richly crafted fantasy world beloved by fantasy gamers across the globe. The Dark Eye &#8211; Demonicon tells the tragic story of a brother and sister who become pawns of sinister forces in a world of [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/demonicon/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Nihilumbra</title>
-		<link>http://cheap-and-cheerful.store/nihilumbra/</link>
-		<comments>http://cheap-and-cheerful.store/nihilumbra/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/nihilumbra</guid>
-		<description><![CDATA[Sumérgete en el inmenso mundo de Nihilumbra y acompaña a Born en su aventura para encontrarse a sí mismo mientras intenta escapar de su inevitable maldición. Born es un ser creado a partir de la nada absoluta. Cuando abandona el vacío y aparece en el mundo, comienza un largo viaje en el que aprenderá a [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/nihilumbra/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Octodad: Dadliest Catch</title>
-		<link>http://cheap-and-cheerful.store/octodad-dadliest-catch/</link>
-		<comments>http://cheap-and-cheerful.store/octodad-dadliest-catch/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/octodad-dadliest-catch</guid>
-		<description><![CDATA[Octodad: Dadliest Catch es la destrucción, el engaño y la paternidad. El jugador controla Octodad, un pulpo apuesto enmascarado como un ser humano, a medida que avanza la vida sobre todos los días. La existencia de Octodad es una lucha constante, ya que debe dominar las tareas cotidianas con sus tentáculos sin hueso difícil de [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/octodad-dadliest-catch/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Duet</title>
-		<link>http://cheap-and-cheerful.store/duet/</link>
-		<comments>http://cheap-and-cheerful.store/duet/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/duet</guid>
-		<description><![CDATA[Tu supervivencia depende de la protección de dos naves. Son artefactos en sincronía, un baile y una canción entre dos entidades enlazadas y unidas en simbiosis. Siente un terror que te mantendrá en vilo, donde el mundo que te rodea se vuelve silencioso e indiferente, como si lo único que importara es el juego que [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/duet/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dark Heritage: Guardians of Hope</title>
-		<link>http://cheap-and-cheerful.store/dark-heritage-guardians-of-hope/</link>
-		<comments>http://cheap-and-cheerful.store/dark-heritage-guardians-of-hope/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/dark-heritage-guardians-of-hope</guid>
-		<description><![CDATA[Indaga en la historia del antiguo alumno del profesor Child, que llega para ayudar a su mentor investigando su misteriosa desaparición en una aventura para descubrir los secretos de la piedra filosofal. Embárcate en una maravillosa aventura que te llevará a una isla habitada por una misteriosa orden. ¡Enfréntate a un peligroso enemigo para intentar [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/dark-heritage-guardians-of-hope/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Kingdom Tales</title>
-		<link>http://cheap-and-cheerful.store/kingdom-tales/</link>
-		<comments>http://cheap-and-cheerful.store/kingdom-tales/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Swedish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/kingdom-tales</guid>
-		<description><![CDATA[Una antigua profecía relata que, algún día, los poderosos dragones buscarán establecerse en un nuevo territorio. ¡Pues el día ha llegado! ¡La profecía se ha cumplido! Solo el más valiente y justo de los líderes puede forjar una relación de amistad entre humanos y dragones. ¡Explora, reúne, produce, comercia, construir y repara! ¡A lo largo [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/kingdom-tales/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Borderlands 2 Season Pass</title>
-		<link>http://cheap-and-cheerful.store/borderlands-2-season-pass/</link>
-		<comments>http://cheap-and-cheerful.store/borderlands-2-season-pass/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/borderlands-2-season-pass</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/borderlands-2-season-pass/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Might and Magic Heroes VI: Complete Edition</title>
-		<link>http://cheap-and-cheerful.store/might-and-magic-heroes-vi-complete-edition/</link>
-		<comments>http://cheap-and-cheerful.store/might-and-magic-heroes-vi-complete-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/might-and-magic-heroes-vi-complete-edition</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/might-and-magic-heroes-vi-complete-edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Alan Wake Franchise</title>
-		<link>http://cheap-and-cheerful.store/alan-wake-franchise/</link>
-		<comments>http://cheap-and-cheerful.store/alan-wake-franchise/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/alan-wake-franchise</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/alan-wake-franchise/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/genres/dutch/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,60 +26,22 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Darksiders II</title>
-		<link>http://cheap-and-cheerful.store/darksiders-ii/</link>
-		<comments>http://cheap-and-cheerful.store/darksiders-ii/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Age of Empires II HD</title>
+		<link>http://cheap-and-cheerful.store/age-of-empires-ii-hd/</link>
+		<comments>http://cheap-and-cheerful.store/age-of-empires-ii-hd/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Czech]]></category>
+				<category><![CDATA[Captions available]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/darksiders-ii</guid>
-		<description><![CDATA[Crucible Mode Darksiders II presenta un modo de supervivencia en la arena llamado El Crisol, que permite a los jugadores seguir mejorando su personaje incluso después de haber terminado el juego principal y que ofrece el desafío definitivo. Características principales: Tras completar cinco de las 100 oleadas exclusivas del modo, los jugadores tendrán la opción [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/darksiders-ii/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Left 4 Dead 2</title>
-		<link>http://cheap-and-cheerful.store/left-4-dead-2/</link>
-		<comments>http://cheap-and-cheerful.store/left-4-dead-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes Source SDK]]></category>
+		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
@@ -87,6 +49,77 @@
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[In Age of Empires II: HD Edition, fans of the original game and new players alike will fall in love with the classic Age of Empires II experience. Explore all the original single player campaigns from both Age of Kings and The Conquerors expansion, choose from 18 civilizations spanning over a thousand years of history, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/age-of-empires-ii-hd/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Knights and Merchants</title>
+		<link>http://cheap-and-cheerful.store/knights-and-merchants/</link>
+		<comments>http://cheap-and-cheerful.store/knights-and-merchants/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[KNIGHTS and MERCHANTS recreates the era of the Middle Ages. Apart from the purely fictitious geography of our world, all game elements and scenes are based on the Anglo-Saxon period, 1200 A.D. And we haven&#8217;t used imaginary elements like fabled creatures, either. The player takes on the role of an ordinary captain in the Palace [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/knights-and-merchants/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Team Fortress 2</title>
+		<link>http://cheap-and-cheerful.store/team-fortress-2/</link>
+		<comments>http://cheap-and-cheerful.store/team-fortress-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[Free to Play]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Swedish]]></category>
@@ -94,110 +127,46 @@
 		<category><![CDATA[Turkish]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/left-4-dead-2</guid>
-		<description><![CDATA[Ambientado en el apocalipsis zombi, Left 4 Dead 2 (L4D2) es la secuela largamente esperada del galardonado Left 4 Dead, el juego co-op número 1 de 2008. Este FPS cooperativo de acción y horror os llevará a ti y a tus amigos por las ciudades, pantanos y cementerios del Sur Profundo, desde Savannah hasta Nueva [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/left-4-dead-2/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[The Tough Break Update is Now Available! Acerca del juego &#8220;No podrás pasártelo mejor online&#8221; &#8211; PC Gamer ¡Es ahora GRATIS! ¡No hay truco! ¡Juega todo lo que quieras, el tiempo que quieras! ¡El juego gratuito más valorado de todos los tiempos! Uno de los juegos de acción online más popular, Team Fortress 2, publica [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/team-fortress-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Sims 3 Plus Pets</title>
-		<link>http://cheap-and-cheerful.store/the-sims-3-plus-pets/</link>
-		<comments>http://cheap-and-cheerful.store/the-sims-3-plus-pets/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>RUSH</title>
+		<link>http://cheap-and-cheerful.store/rush/</link>
+		<comments>http://cheap-and-cheerful.store/rush/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
+				<category><![CDATA[Casual]]></category>
 		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/the-sims-3-plus-pets</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/the-sims-3-plus-pets/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Reus</title>
-		<link>http://cheap-and-cheerful.store/reus/</link>
-		<comments>http://cheap-and-cheerful.store/reus/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/reus</guid>
-		<description><![CDATA[In Reus, you control powerful giants that help you shape the planet to your will. You can create mountains and oceans, forests and more. Enrich your planet with plants, minerals and animal life. There is only one thing on the planet that you do not control: mankind, with all their virtues and and all their [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/reus/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[De las retorcidas mentes de los creadores del premiado juego Toki Tori surge ahora un nuevo título, llamado simplemente RUSH. Afortunadamente para los fans de los juegos de puzles de alta calidad, RUSH lo es todo excepto simple. En los niveles del juego, totalmente tridimensionales, los jugadores tienen que guiar a unos cubos hacia las [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/rush/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Outcast 1.1</title>
-		<link>http://cheap-and-cheerful.store/outcast-1-1/</link>
-		<comments>http://cheap-and-cheerful.store/outcast-1-1/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Vortex: The Gateway</title>
+		<link>http://cheap-and-cheerful.store/vortex-the-gateway/</link>
+		<comments>http://cheap-and-cheerful.store/vortex-the-gateway/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/outcast-1-1</guid>
-		<description><![CDATA[Fresh3D is bringing you Outcast 1.1, an enhanced version of &#8216;Outcast&#8217;, an action-adventure game featuring software voxel rendering, developed in 1999 for the PC. Outcast was one of the first 3d games to offer: non-linear gameplay, free-roaming environments, combats against clever reactive AI, excellent voice acting, symphonic music, 20+ hours of highly engrossing adventure. Outcast [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/outcast-1-1/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Ephemerid: A Musical Adventure</title>
-		<link>http://cheap-and-cheerful.store/ephemerid-a-musical-adventure/</link>
-		<comments>http://cheap-and-cheerful.store/ephemerid-a-musical-adventure/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Greek]]></category>
@@ -205,154 +174,161 @@
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Vortex: The Gateway es un juego de terror y supervivencia en un mundo abierto. Una misteriosa dimensión vórtice te llevará hasta un planeta alienígena. Explóralo, adáptate, construye y combate para sobrevivir. Tendrás que enfrentarte a los peligros del planeta en diferentes momentos del día, con una temperatura en constante cambio, hambriento o muerto de sed. [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/vortex-the-gateway/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Heroes of Hellas 3: Athens</title>
+		<link>http://cheap-and-cheerful.store/heroes-of-hellas-3-athens/</link>
+		<comments>http://cheap-and-cheerful.store/heroes-of-hellas-3-athens/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Reconstruye Atenas desde las cenizas de su destrucción y consigue la ayuda de los héroes del Olimpo mientras combates contra un dios malvado. A lo largo de adictivos juegos de combina tres e imperiosos interludios de reconstrucción de la ciudad, irás recogiendo oro, atenderás las necesidades de la población devastada y buscarás reliquias legendarias que [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/heroes-of-hellas-3-athens/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Toki Tori</title>
+		<link>http://cheap-and-cheerful.store/toki-tori/</link>
+		<comments>http://cheap-and-cheerful.store/toki-tori/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[La mecánica de juego en Toki Tori es una fusión de dos géneros. Aunque pueda parecer un juego de plataformas, en realidad es un juego de puzle. Para progresar, el jugador deberá recoger todos los huevos en cada nivel utilizando una cantidad establecida de herramientas. Los jugadores deberán estudiar y planificar con antelación antes de [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/toki-tori/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ShootMania Storm</title>
+		<link>http://cheap-and-cheerful.store/shootmania-storm/</link>
+		<comments>http://cheap-and-cheerful.store/shootmania-storm/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/ephemerid-a-musical-adventure</guid>
-		<description><![CDATA[2015 IGF Winner: Excellence in Audio Ephemerid is a rock fairy tale about a paper mayfly. Lean back, relax and enjoy it as a whole, as you would a favorite album. Ephemerid is part rhythm game, part point-and-click adventure, and part rock opera. KEY FEATURES Ephemerid’s beating heart is its original soundtrack, rock guitar with [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/ephemerid-a-musical-adventure/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Jump in the most creative PC shooter! There is a lot to customize or create: skins, taunt horns, maps, textures, replays, game modes and much more. Leave your rocketgun aside for a while and bring your ideas to the game. Acerca del juego ShootMania the FPS “Powered By Players” ShootMania Storm is revolutionizing the multiplayer [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/shootmania-storm/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Frankenstein: Master of Death</title>
-		<link>http://cheap-and-cheerful.store/frankenstein-master-of-death/</link>
-		<comments>http://cheap-and-cheerful.store/frankenstein-master-of-death/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Spy Fox in &#034;Dry Cereal&#034;</title>
+		<link>http://cheap-and-cheerful.store/spy-fox-in-quotdry-cerealquot/</link>
+		<comments>http://cheap-and-cheerful.store/spy-fox-in-quotdry-cerealquot/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Humongous Tees Now Available! Official Humongous Entertainment T-shirts featuring Pajama Sam, Spy Fox, Freddi Fish, and Putt-Putt are now available on Amazon. Acerca del juego Will kids be forced to endure a fate worse than eating dry cereal!? The Plot: William the Kid has nearly completed his dastardly plan to cow-nap all the worlds supply [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/spy-fox-in-quotdry-cerealquot/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pure</title>
+		<link>http://cheap-and-cheerful.store/pure/</link>
+		<comments>http://cheap-and-cheerful.store/pure/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/frankenstein-master-of-death</guid>
-		<description><![CDATA[Don&#8217;t miss out our new game! “Battle Time” is here today! http://store.steampowered.com/app/509600 Join our Steam group to learn more about our games, events and giveaways http://steamcommunity.com/groups/jetdogs Try other adventures: http://store.steampowered.com/app/431260/ http://store.steampowered.com/app/497400/ Try other adventures: http://store.steampowered.com/app/326190 http://store.steampowered.com/app/396790 http://store.steampowered.com/app/326180 Acerca del juego Victor Frankenstein, an old friend and a brilliant scientist has managed to resurrect the dead! [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/frankenstein-master-of-death/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Pure is an action sports off-road trick racing game that takes the genre to a new level. Developed by Black Rock Studio, Pure is the gold standard in off-road racing games. Featuring vertigo-inducing massive aerial jumps and spectacular airborne tricks in photo-realistic real-world locations all over the globe, Pure delivers heart-pounding experiences unique to the genre. Pureencapsulates the moment where bravery [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/pure/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Broadsword : Age of Chivalry</title>
-		<link>http://cheap-and-cheerful.store/broadsword-age-of-chivalry/</link>
-		<comments>http://cheap-and-cheerful.store/broadsword-age-of-chivalry/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/broadsword-age-of-chivalry</guid>
-		<description><![CDATA[Broadsword: Age of Chivalry boasts turn-based strategy gameplay as players move from mission to mission in the Middle Ages. Command one of four different armies: the English, The French, the Spanish, or the Hapsburgs in this exciting PC game.  Lead different types of units into battle &#8212; from archers, knights, pikemen and catapults with special [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/broadsword-age-of-chivalry/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Zooloretto</title>
-		<link>http://cheap-and-cheerful.store/zooloretto/</link>
-		<comments>http://cheap-and-cheerful.store/zooloretto/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/zooloretto</guid>
-		<description><![CDATA[&#34;En esta adictiva adaptación del galardonado juego original de tablero, viajarás por todo el mundo para salvar a los habitantes de los abusivos propietarios del zoológico. Si ganas el juego Zooloretto contra 36 oponentes únicos, lograrás tu misión. Como propietario de un zoológico, debes recolectar grupos de animales para atraer a los visitantes a tu [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/zooloretto/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Bridge Constructor Playground</title>
-		<link>http://cheap-and-cheerful.store/bridge-constructor-playground/</link>
-		<comments>http://cheap-and-cheerful.store/bridge-constructor-playground/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/bridge-constructor-playground</guid>
-		<description><![CDATA[Bridge Constructor Playground offers people of all ages an introduction to the topic of “bridge building”. This game gives you the freedom to let your creative side run riot – nothing is impossible. Across 30 innovative levels you have to build bridges over deep valleys, canals or rivers. Following this your bridges will be subjected [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/bridge-constructor-playground/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Darksiders Franchise Pack</title>
-		<link>http://cheap-and-cheerful.store/darksiders-franchise-pack/</link>
-		<comments>http://cheap-and-cheerful.store/darksiders-franchise-pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Darksiders II</title>
+		<link>http://cheap-and-cheerful.store/darksiders-ii/</link>
+		<comments>http://cheap-and-cheerful.store/darksiders-ii/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[RPG]]></category>
@@ -364,16 +340,16 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/darksiders-franchise-pack</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/darksiders-franchise-pack/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Crucible Mode Darksiders II presenta un modo de supervivencia en la arena llamado El Crisol, que permite a los jugadores seguir mejorando su personaje incluso después de haber terminado el juego principal y que ofrece el desafío definitivo. Características principales: Tras completar cinco de las 100 oleadas exclusivas del modo, los jugadores tendrán la opción [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/darksiders-ii/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Left 4 Dead</title>
 		<link>http://cheap-and-cheerful.store/left-4-dead/</link>
 		<comments>http://cheap-and-cheerful.store/left-4-dead/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Captions available]]></category>
@@ -406,7 +382,7 @@
 		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/left-4-dead</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[Steam Big Picture Acerca del juego De la mano de Valve®, creadores de Counter-Strike®, Half-Life® y otros muchos juegos, llega Left 4 Dead™, una nueva aventura para PC y Xbox 360 que te meterá en la piel de uno de los cuatro &#34;supervivientes&#34; que libran una pugna de proporciones épicas contra hordas de zombis y [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/left-4-dead/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>

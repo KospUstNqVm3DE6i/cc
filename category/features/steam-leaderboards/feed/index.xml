@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/features/steam-leaderboards/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,43 +26,41 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Darksiders II</title>
-		<link>http://cheap-and-cheerful.store/darksiders-ii/</link>
-		<comments>http://cheap-and-cheerful.store/darksiders-ii/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>DiRT 3 Complete Edition</title>
+		<link>http://cheap-and-cheerful.store/dirt-3-complete-edition/</link>
+		<comments>http://cheap-and-cheerful.store/dirt-3-complete-edition/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Dutch]]></category>
+				<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/darksiders-ii</guid>
-		<description><![CDATA[Crucible Mode Darksiders II presenta un modo de supervivencia en la arena llamado El Crisol, que permite a los jugadores seguir mejorando su personaje incluso después de haber terminado el juego principal y que ofrece el desafío definitivo. Características principales: Tras completar cinco de las 100 oleadas exclusivas del modo, los jugadores tendrán la opción [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/darksiders-ii/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Consigue la Edición Completa de DiRT 3, la edición de competición off-road de DiRT 3 definitiva ampliada ahora con contenido adicional y mejorada mediante la integración de Steamworks, que dispone de logros, marcadores y partidas guardadas en Steam Cloud. En DiRT 3 Edición Completa, pilotarás coches míticos que abarcan 50 años de carreras en tres [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/dirt-3-complete-edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>GRID 2 &#8211; Drift Pack</title>
-		<link>http://cheap-and-cheerful.store/grid-2-drift-pack/</link>
-		<comments>http://cheap-and-cheerful.store/grid-2-drift-pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>GRID Autosport</title>
+		<link>http://cheap-and-cheerful.store/grid-autosport/</link>
+		<comments>http://cheap-and-cheerful.store/grid-autosport/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
+				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
@@ -72,6 +70,7 @@
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Sports]]></category>
@@ -79,28 +78,29 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/grid-2-drift-pack</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/grid-2-drift-pack/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Ficha por un equipo y plántales cara a tus rivales en un nuevo y fascinante reto automovilístico. Junto a tu compañero de filas, debes superar a rivales directos y cumplir los objetivos de los patrocinadores en vertiginosas carreras donde cada adelantamiento vale su peso en oro. Especialízate en la disciplina que más te apasione o [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/grid-autosport/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Magicka: Mega Villain Robes</title>
-		<link>http://cheap-and-cheerful.store/magicka-mega-villain-robes/</link>
-		<comments>http://cheap-and-cheerful.store/magicka-mega-villain-robes/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Magicka: Tower of Niflheim</title>
+		<link>http://cheap-and-cheerful.store/magicka-tower-of-niflheim/</link>
+		<comments>http://cheap-and-cheerful.store/magicka-tower-of-niflheim/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
@@ -109,21 +109,22 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/magicka-mega-villain-robes</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-mega-villain-robes/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-tower-of-niflheim/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Serious Sam 3: BFE</title>
-		<link>http://cheap-and-cheerful.store/serious-sam-3-bfe/</link>
-		<comments>http://cheap-and-cheerful.store/serious-sam-3-bfe/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Serious Sam Complete Pack</title>
+		<link>http://cheap-and-cheerful.store/serious-sam-complete-pack/</link>
+		<comments>http://cheap-and-cheerful.store/serious-sam-complete-pack/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Bulgarian]]></category>
 		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
@@ -134,6 +135,8 @@
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
@@ -143,106 +146,122 @@
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/serious-sam-3-bfe</guid>
-		<description><![CDATA[Serious Sam 3: BFE es el glorioso regreso a la edad de oro de los shooters en primera persona donde los hombres eran hombres, la cobertura era para novatos y pulsar el gatillo hacía que las cosas hicieran bum. Como precuela del título independiente original, Serious Sam: The First Encounter, Serious Sam 3 transcurre durante [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/serious-sam-3-bfe/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Grey Goo</title>
-		<link>http://cheap-and-cheerful.store/grey-goo/</link>
-		<comments>http://cheap-and-cheerful.store/grey-goo/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/grey-goo</guid>
-		<description><![CDATA[COMBATE EL CAOS. O APROVECHA SU PODER. Siglos después de que la Humanidad abandonara la Tierra por primera vez, todas las formas de vida en la Vía Láctea han evolucionado hacia una tranquilidad interior. Pero se ha producido una mutación. Un organismo misterioso se dirige hacia la superficie de un planeta solitario, con abundantes recursos, [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/grey-goo/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/serious-sam-complete-pack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Life of Pixel</title>
-		<link>http://cheap-and-cheerful.store/life-of-pixel/</link>
-		<comments>http://cheap-and-cheerful.store/life-of-pixel/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Sniper: Ghost Warrior 2</title>
+		<link>http://cheap-and-cheerful.store/sniper-ghost-warrior-2/</link>
+		<comments>http://cheap-and-cheerful.store/sniper-ghost-warrior-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/life-of-pixel</guid>
-		<description><![CDATA[Life of Pixel &#8211; 13 Game Machines in 1 Epic Adventure Game! Journey across the expertly-recreated worlds of more than a dozen vintage gaming systems, from Commodore 64 to Gameboy to Snes! Life of Pixel takes you on a historical tour-de-force across the rich landscape of 8-bit and 16-bit gaming. Chock-full of tricks &#38; traps, [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/life-of-pixel/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Sniper: Ghost Warrior 2 is the only multi-platform, first-person, modern shooter exclusively designed around the sniper experience. It takes the bulls-eye precision of its predecessor to new and exciting heights, offering more diverse sniper challenges; a rebuilt AI system and the thrilling “one shot, one kill” precision that made the original a huge hit, selling [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/sniper-ghost-warrior-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Goat Simulator</title>
-		<link>http://cheap-and-cheerful.store/goat-simulator/</link>
-		<comments>http://cheap-and-cheerful.store/goat-simulator/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Action Henk</title>
+		<link>http://cheap-and-cheerful.store/action-henk/</link>
+		<comments>http://cheap-and-cheerful.store/action-henk/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Casual]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Racing]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Turn Notifications]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Swedish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/goat-simulator</guid>
-		<description><![CDATA[Goat Simulator es lo último en tecnología de simulación de cabras y trae PARA TI el simulador caprino de próxima generación. Ya no tienes que fantasear con ser una cabra, ¡tus sueños por fin se han hecho realidad! WASD para escribir la historia. En cuanto a mecánica de juego, Goat Simulator va de causar tanta [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/goat-simulator/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Run, jump and butt-slide into the glorious toy-filled world of Action Henk! Become a master of momentum and defy physics as you race against a band of ragged 90s action figures to once and for all prove that Action Henk is the fastest of them all! With over 70 tracks all set in different environments, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/action-henk/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Muffin Knight</title>
-		<link>http://cheap-and-cheerful.store/muffin-knight/</link>
-		<comments>http://cheap-and-cheerful.store/muffin-knight/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>The Blue Flamingo</title>
+		<link>http://cheap-and-cheerful.store/the-blue-flamingo/</link>
+		<comments>http://cheap-and-cheerful.store/the-blue-flamingo/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Every now and then, pilots from all over the world join to challenge each other in a big competition. They take turns finishing a dangerous track filled with foes, hoping to dominate the score table. Your team is making the final preparations. The band are setting up to perform. And your ship &#8211; ”The Blue [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-blue-flamingo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Interstellar Marines</title>
+		<link>http://cheap-and-cheerful.store/interstellar-marines/</link>
+		<comments>http://cheap-and-cheerful.store/interstellar-marines/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Interstellar Marines is an immersive tactical sci-fi First Person Simulator in the making, offering a unique blend of tactical gameplay, dynamic environments and non-scriptet AI. Play Singleplayer or Co-op/PvP on servers around the world. Interstellar Marines is inspired by movies such as Aliens, Starship Troopers and Saving Private Ryan; and games such as Half-Life, Deus [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/interstellar-marines/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Castle Crashers</title>
+		<link>http://cheap-and-cheerful.store/castle-crashers/</link>
+		<comments>http://cheap-and-cheerful.store/castle-crashers/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
@@ -257,31 +276,8 @@
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/muffin-knight</guid>
-		<description><![CDATA[NEW GAME UPDATE – ALL THANKS TO YOUR GREAT FEEDBACK!!! Controller It’s now easier to configure your controller inputs (both in main menu and during gameplay) Added Controller presets for Xbox, Logitech and generic controllers Graphics You can now choose the graphics quality High also includes AntiAliasing If you ever have trouble and want to [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/muffin-knight/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Runestone Keeper</title>
-		<link>http://cheap-and-cheerful.store/runestone-keeper/</link>
-		<comments>http://cheap-and-cheerful.store/runestone-keeper/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
@@ -291,99 +287,104 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/runestone-keeper</guid>
-		<description><![CDATA[Runestone Keeper is a challenging roguelike to roguelite dungeon crawler that blends classic role playing elements and turn-based combat strategy. Dive into the dungeon roguelite-ness and begin your very own epic adventure! Grab your rucksack, sharpen those dusty swords, step into the dark chamber and fight for glory! [Features] Randomly Generated Dungeon Elements – Almost [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/runestone-keeper/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¡Ábrete paso golpeando, acuchillando y machacando hasta la victoria en esta aventura arcade en 2D de The Behemoth! Castle Crashers Incluye personajes dibujados a mano e ilustraciones visuales de alta resolución jamás vistas hasta ahora. ¡Pueden jugar cuatro amigos en casa u online para salvar a la princesa, defiende el reino y destruir varios castillos! [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/castle-crashers/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Skullgirls</title>
-		<link>http://cheap-and-cheerful.store/skullgirls/</link>
-		<comments>http://cheap-and-cheerful.store/skullgirls/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>The Long Dark</title>
+		<link>http://cheap-and-cheerful.store/the-long-dark/</link>
+		<comments>http://cheap-and-cheerful.store/the-long-dark/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/skullgirls</guid>
-		<description><![CDATA[Skullgirls es un juego de lucha en 2D con un ritmo frenético en el que el jugador controla a feroces guerreras en un mundo extraordinario de ambiente “deco oscuro”. Los novedosos sistemas del juego pondrán a prueba la destreza de los expertos en juegos de lucha y también harán las delicias de los novatos. Skullgirls [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/skullgirls/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Halo: Spartan Assault</title>
-		<link>http://cheap-and-cheerful.store/halo-spartan-assault/</link>
-		<comments>http://cheap-and-cheerful.store/halo-spartan-assault/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/halo-spartan-assault</guid>
-		<description><![CDATA[Halo: Spartan Assault lleva la emoción de Halo a Steam por primera vez. Enfréntate al Covenant en 30 misiones llenas de acción mientras exploras los orígenes del programa Spartan Ops presentado en Halo 4. Consigue logros de Steam, completa misiones y enfréntate a tus amigos para conseguir la mejor puntuación en los marcadores. ¡Spartan, es [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/halo-spartan-assault/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[*** THE LONG DARK ES UN JUEGO CON ACCESO ANTICIPADO. ESTAMOS MEJORANDO CONSTANTEMENTE EL MUNDO ABIERTO, QUE AÚN NO ESTÁ TERMINADO. AL COMPRAR ESTA VERSIÓN AYUDARÁS AL DESARROLLO DEL JUEGO. PARA MÁS INFORMACIÓN, CONSULTA LOS DETALLES DEL ACCESO ANTICIPADO QUE ENCONTRARÁS MÁS ARRIBA. *** ¿En qué consiste The Long Dark? The Long Dark ofrece una experiencia de [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-long-dark/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>HOARD</title>
-		<link>http://cheap-and-cheerful.store/hoard/</link>
-		<comments>http://cheap-and-cheerful.store/hoard/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Kiai Resonance</title>
+		<link>http://cheap-and-cheerful.store/kiai-resonance/</link>
+		<comments>http://cheap-and-cheerful.store/kiai-resonance/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Kiai Resonance is a 2D versus fighting game for Windows. You take part in multiplayer samurai combats where one hit off-guard is fatal, and several challenges to perfect your skills. The player can change his katana position at any time to adjust to his opponent&#8217;s, creating a mind game where you have to anticipate his [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/kiai-resonance/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sky Mercenaries</title>
+		<link>http://cheap-and-cheerful.store/sky-mercenaries/</link>
+		<comments>http://cheap-and-cheerful.store/sky-mercenaries/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[English]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Turn Notifications]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/hoard</guid>
-		<description><![CDATA[TÚ ERES EL DRAGÓN: ¡Aterroriza pueblos! ¡Quema castillos! ¡Recoge oro y gemas! ¡Secuestra a las princesas! ¡Asa a los caballeros molestos! ¡Defiéndete de los ladrones! ¡Derriba gigantes! ¡Acumula tesoros! ¡Compite o coopera con otros dragones en épicas batallas multijugador! El objetivo es simple, pero desafiante: ¡acumula el mayor montón de oro posible!Cada acción que realices [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/hoard/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[An epic sky battle awaits you! Choose your pilot and fighter to join the ultimate 2D S.H.M.U.P action ! Fight over 50 enemy types on 8 worlds in over 32 story missions and unlimited random content. Be prepared for the overpowering enemy fleet and challenging bossfights. Upgrade your fighters, drones and pilots the way you [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/sky-mercenaries/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

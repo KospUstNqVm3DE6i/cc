@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/features/co-op/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,107 +26,93 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Arma 3 DLC Bundle</title>
-		<link>http://cheap-and-cheerful.store/arma-3-dlc-bundle/</link>
-		<comments>http://cheap-and-cheerful.store/arma-3-dlc-bundle/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Aliens: Colonial Marines</title>
+		<link>http://cheap-and-cheerful.store/aliens-colonial-marines/</link>
+		<comments>http://cheap-and-cheerful.store/aliens-colonial-marines/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
 		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/arma-3-dlc-bundle</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/arma-3-dlc-bundle/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Tú y tus amigos contra los asesinos más letales de la galaxia. Otro glorioso día en el Cuerpo. ¡En pie, soldado! Bienvenido a Aliens™: Colonial Marines. Creado por Gearbox, los desarolladores aclamados por la crítica y preferidos por los fans, y creadores de Borderlands y Brothers In Arms. Tú y tus amigos seréis el equipo [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/aliens-colonial-marines/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>BRINK</title>
-		<link>http://cheap-and-cheerful.store/brink/</link>
-		<comments>http://cheap-and-cheerful.store/brink/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Evolve</title>
+		<link>http://cheap-and-cheerful.store/evolve/</link>
+		<comments>http://cheap-and-cheerful.store/evolve/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/brink</guid>
-		<description><![CDATA[Brink es un adictivo shooter en primera persona que fusiona el modo un jugador, cooperativo y multijugador en una misma experiencia, lo que te permite desarrollar a tu personaje ya sea jugando solo, con tus amigos o contra otros online. Tú decides el rol que quieres asumir en combate en el mundo de Brink mientras [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/brink/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Farming Simulator 15</title>
-		<link>http://cheap-and-cheerful.store/farming-simulator-15/</link>
-		<comments>http://cheap-and-cheerful.store/farming-simulator-15/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/farming-simulator-15</guid>
-		<description><![CDATA[Farming Simulator 17 &#8211; Now Available Acerca del juego ¡Bienvenido a la nueva generación de Farming Simulator! Gracias a un motor de gráficos y físicas completamente nuevo, Farming Simulator 15 ofrece un mundo abierto inmenso, lleno de detalles y efectos visuales que transportan a la saga Farming Simulator a una nueva era. Gestiona tu propia [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/farming-simulator-15/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Evolve ha sido galardonado con más de 60 premios, ¡y ahora puedes jugar gratis con Evolve fase 2! En un mundo sin ley donde el hombre se enfrenta a la naturaleza a diario, ¿serás el cazador o la presa? Turtle Rock presenta Evolve fase 2, un juego de disparos multijugador gratuito de próxima generación que [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/evolve/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Magicka: Nippon</title>
-		<link>http://cheap-and-cheerful.store/magicka-nippon/</link>
-		<comments>http://cheap-and-cheerful.store/magicka-nippon/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Magicka: Wizards of the Square Tablet</title>
+		<link>http://cheap-and-cheerful.store/magicka-wizards-of-the-square-tablet/</link>
+		<comments>http://cheap-and-cheerful.store/magicka-wizards-of-the-square-tablet/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Exclusively for the PC version your wizard will get all in-game robes and staffs unlocked from the start in this enhanced square edition. Remove the grinding time and get right to the action with your choice of gear! All of these goodies will be unlocked on every other platform you choose to play on The [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-wizards-of-the-square-tablet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Magicka: The Watchtower</title>
+		<link>http://cheap-and-cheerful.store/magicka-the-watchtower/</link>
+		<comments>http://cheap-and-cheerful.store/magicka-the-watchtower/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
@@ -138,104 +124,85 @@
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/magicka-nippon</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-nippon/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-the-watchtower/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Magicka: The Other Side of the Coin</title>
-		<link>http://cheap-and-cheerful.store/magicka-the-other-side-of-the-coin/</link>
-		<comments>http://cheap-and-cheerful.store/magicka-the-other-side-of-the-coin/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Portal 2</title>
+		<link>http://cheap-and-cheerful.store/portal-2/</link>
+		<comments>http://cheap-and-cheerful.store/portal-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
 		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/magicka-the-other-side-of-the-coin</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-the-other-side-of-the-coin/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Rocket League</title>
-		<link>http://cheap-and-cheerful.store/rocket-league/</link>
-		<comments>http://cheap-and-cheerful.store/rocket-league/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Thai]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/rocket-league</guid>
-		<description><![CDATA[Soccer meets driving once again in the long-awaited, physics-based sequel to the beloved arena classic, Supersonic Acrobatic Rocket-Powered Battle-Cars! A futuristic Sports-Action game, Rocket League®, equips players with booster-rigged vehicles that can be crashed into balls for incredible goals or epic saves across multiple, highly-detailed arenas. Using an advanced physics system to simulate realistic interactions, [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/rocket-league/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Portal 2 continúa con esa fórmula ganadora consistente en una innovadora mecánica de juego, historia y música que condujeron al Portal original a ganar más de 70 galardones y lo convirtieron en un nuevo mito de la industria. En el modo de un jugador de Portal 2 conoceremos a un nuevo elenco de personajes, gran [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/portal-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Tropico 5</title>
-		<link>http://cheap-and-cheerful.store/tropico-5/</link>
-		<comments>http://cheap-and-cheerful.store/tropico-5/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>The Forest</title>
+		<link>http://cheap-and-cheerful.store/the-forest/</link>
+		<comments>http://cheap-and-cheerful.store/the-forest/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/tropico-5</guid>
-		<description><![CDATA[Vuelve a la remota isla nación de Trópico en la nueva entrega de la famosa y aclamada saga de &#34;simulación de una dictadura&#34;. Expande el reinado de tu dinastía desde el periodo colonial hasta más allá del siglo XXI y enfréntate a nuevos retos, incluidos mecanismos comerciales avanzados, investigación científica y tecnológica y exploración. Las [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/tropico-5/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first person survival horror simulator. Key alpha features Enter a living, breathing world, where every tree and plant can be chopped down. Below [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-forest/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>RUNNING WITH RIFLES</title>
 		<link>http://cheap-and-cheerful.store/running-with-rifles/</link>
 		<comments>http://cheap-and-cheerful.store/running-with-rifles/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
@@ -248,121 +215,127 @@
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/running-with-rifles</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[RUNNING WITH RIFLES es un top-down tactical shooter con elementos de juego de rol de mundo abierto. En RWR, te unes a las filas de un ejército como soldado raso, al igual que otros miles a tu alrededor. Para tus superiores no eres más que carne de cañón&#8230; La mecánica de juego de mundo abierto [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/running-with-rifles/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>FORCED</title>
-		<link>http://cheap-and-cheerful.store/forced/</link>
-		<comments>http://cheap-and-cheerful.store/forced/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>QUAKE II</title>
+		<link>http://cheap-and-cheerful.store/quake-ii/</link>
+		<comments>http://cheap-and-cheerful.store/quake-ii/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Poco después de aterrizar en superficie alienígena, te das cuenta de que cientos de tus hombres han sido reducido a cenizas. Ahora debes abrirte paso a través de instalaciones militares fortificadas, derrotar las defensas de la ciudad y apagar la máquina de guerra del enemigo. Tan sólo después el destino de la humanidad será conocido.]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/quake-ii/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>NBA 2K14</title>
+		<link>http://cheap-and-cheerful.store/nba-2k14/</link>
+		<comments>http://cheap-and-cheerful.store/nba-2k14/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[NBA 2K13, la saga de videojuegos de la NBA más importante del mundo, cosechó grandes éxitos y obtuvo 38 menciones a Juego de deportes del año y &#34;Mejor de&#34;. NBA 2K14 pondrá el listón aún más alto y ofrecerá la mejor experiencia de baloncesto a todos los aficionados al deporte y a los videojuegos del [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/nba-2k14/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sanctum: Collection</title>
+		<link>http://cheap-and-cheerful.store/sanctum-collection/</link>
+		<comments>http://cheap-and-cheerful.store/sanctum-collection/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Swedish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/forced</guid>
-		<description><![CDATA[Forced es un juego de acción arcade co-operativo co-operativo de uno a cuatro jugadores con elementos de RPG, puzle y estrategia. Habéis sido forzados como esclavos a luchar en el entrenamiento de gladiadores de fantasía más difícil de todos ellos, condenados a luchar como gladiadores y finalmente reclamar vuestra libertad. Os enfrentaréis a pruebas mortales [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/forced/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Brink Complete Pack</title>
-		<link>http://cheap-and-cheerful.store/brink-complete-pack/</link>
-		<comments>http://cheap-and-cheerful.store/brink-complete-pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/brink-complete-pack</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/brink-complete-pack/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Binary Domain</title>
-		<link>http://cheap-and-cheerful.store/binary-domain/</link>
-		<comments>http://cheap-and-cheerful.store/binary-domain/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/binary-domain</guid>
-		<description><![CDATA[LA ERA DE LAS MÁQUINAS HA COMENZADO en este shooter basado en escuadras, inmersivo y atmosférico, en el que deberás recuperar el control de un Tokio futurista de una emergente amenaza robótica. Situada en el año 2080, la historia comienza cuando Dan Marshall y su equipo son enviados para controlar a la comunidad robótica a [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/binary-domain/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>APOX</title>
-		<link>http://cheap-and-cheerful.store/apox/</link>
-		<comments>http://cheap-and-cheerful.store/apox/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/apox</guid>
-		<description><![CDATA[APOX es un juego de estrategia en tiempo real que incluye de forma única conceptos de los shooters en primera persona. Como en un FPS, puedes tumbarte, agacharte, cambiar de arma, lanzar granadas y registrar cadáveres. Los soldados en APOX tienen munición limitada, pero el intercambio de provisiones se realiza sin problemas. Los soldados se [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/apox/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/sanctum-collection/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Explosionade</title>
+		<link>http://cheap-and-cheerful.store/explosionade/</link>
+		<comments>http://cheap-and-cheerful.store/explosionade/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[All your friends are storming the Horronym Fortress but Colonel Bouche left you to guard the supply depot. Disregarding orders you open the depot to find a gigantic, prototype mech! FEATURES: INFILTRATE subterranean strongholds manned by cunning bipedal aliens and their mind-blasting hellions! Recharging MegaNades, and an earth-shaking machine gun rip DESTRUCTIBLE environments to hand-drawn [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/explosionade/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pixel Galaxy</title>
+		<link>http://cheap-and-cheerful.store/pixel-galaxy/</link>
+		<comments>http://cheap-and-cheerful.store/pixel-galaxy/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[ALL Serenity Forge games on Sale! We hope you take the opportunity this weekend to check out our other games in addition to Pixel Galaxy! http://store.steampowered.com/app/330660/ http://store.steampowered.com/app/337490/ Acerca del juego GROW. MAKE FRIENDS. SURVIVE TOGETHER. In this non-shooting shoot &#8217;em up, you are a single white pixel who can absorb the bodies, abilities, and weapons [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/pixel-galaxy/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/features/full-controller-support/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,230 +26,321 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Doorways: Holy Mountains of Flesh</title>
-		<link>http://cheap-and-cheerful.store/doorways-holy-mountains-of-flesh/</link>
-		<comments>http://cheap-and-cheerful.store/doorways-holy-mountains-of-flesh/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Borderlands 2</title>
+		<link>http://cheap-and-cheerful.store/borderlands-2/</link>
+		<comments>http://cheap-and-cheerful.store/borderlands-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/doorways-holy-mountains-of-flesh</guid>
-		<description><![CDATA[Información general Juan Torres y su familia son el centro de un número incontable de rumores y desapariciones que ocurrieron en El Chacal, un pequeño pueblo de 4,800 habitantes posado sobre la zona montañosa y árida de Salta, Argentina. Entre las historias que circulan en los pueblos de los alrededores, se han oído mencionar actos [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/doorways-holy-mountains-of-flesh/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dead Space</title>
-		<link>http://cheap-and-cheerful.store/dead-space/</link>
-		<comments>http://cheap-and-cheerful.store/dead-space/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/dead-space</guid>
-		<description><![CDATA[Solamente los Muertos Sobreviven. Una gigantesca astronave minera deja de comunicar con la Tierra tras entrar en contacto con un extraño artefacto en un planeta distante. El ingeniero Isaac Clarke se embarca para repararla y descubre un horrible baño de sangre  la tripulación de la astronave cruelmente masacrada e infectada por una malvada presencia [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/dead-space/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Guacamelee! Gold Edition</title>
-		<link>http://cheap-and-cheerful.store/guacamelee-gold-edition/</link>
-		<comments>http://cheap-and-cheerful.store/guacamelee-gold-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/guacamelee-gold-edition</guid>
-		<description><![CDATA[Steam Workshop Acerca del juego Guacamelee! Gold Edition Es un juego de plataformas de acción de estilo Metroid-vania establecido en un mundo mágico de inspiración mexicana. Guacamelee!, desarrollado sobre el estilo clásico de juegos de mundo abierto de Metroid-vania, cuenta con adiciones tales como un fuerte componente de combate cuerpo a cuerpo, una nueva mecánica [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/guacamelee-gold-edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>METAL GEAR SOLID V: GROUND ZEROES</title>
-		<link>http://cheap-and-cheerful.store/metal-gear-solid-v-ground-zeroes/</link>
-		<comments>http://cheap-and-cheerful.store/metal-gear-solid-v-ground-zeroes/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Una nueva era de disparos y saqueos está a punto de comenzar. Juega como uno de los cuatro nuevos buscadores de la Cámara y enfréntate a legiones de nuevas criaturas, psicópatas y al villano que las controla, Jack el Guapo. Haz nuevos amigos, equípalos con un cillón de armas y pelea a su lado en [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/borderlands-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GRID 2 &#8211; Drift Pack</title>
+		<link>http://cheap-and-cheerful.store/grid-2-drift-pack/</link>
+		<comments>http://cheap-and-cheerful.store/grid-2-drift-pack/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/grid-2-drift-pack/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Magicka 2</title>
+		<link>http://cheap-and-cheerful.store/magicka-2/</link>
+		<comments>http://cheap-and-cheerful.store/magicka-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[The world’s most irreverent co-op action adventure returns! In the next chapter of Magicka, players ascend from the ruins of Aldrheim to experience a Midgård almost wiped free of Wizards after the Wizard Wars, with the few that do remain having either gone mad or extremely hostile toward all others. To rid the world of [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Resident Evil 6 Complete</title>
+		<link>http://cheap-and-cheerful.store/resident-evil-6-complete/</link>
+		<comments>http://cheap-and-cheerful.store/resident-evil-6-complete/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/resident-evil-6-complete/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tropico 5</title>
+		<link>http://cheap-and-cheerful.store/tropico-5/</link>
+		<comments>http://cheap-and-cheerful.store/tropico-5/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Vuelve a la remota isla nación de Trópico en la nueva entrega de la famosa y aclamada saga de &#34;simulación de una dictadura&#34;. Expande el reinado de tu dinastía desde el periodo colonial hasta más allá del siglo XXI y enfréntate a nuevos retos, incluidos mecanismos comerciales avanzados, investigación científica y tecnológica y exploración. Las [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/tropico-5/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Legend of Kay Anniversary</title>
+		<link>http://cheap-and-cheerful.store/legend-of-kay-anniversary/</link>
+		<comments>http://cheap-and-cheerful.store/legend-of-kay-anniversary/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Diez años después de su lanzamiento inicial, Legend of Kay &#8211; Anniversary es una versión completamente remasterizada del juego original: las texturas de alta resolución, los nuevos modelos de personaje más detallados, las técnicas de renderizado modernas y el nítido sonido envolvente actualizan este gran clásico. Legend of Kay &#8211; Anniversary está repleto de entrañables [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/legend-of-kay-anniversary/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Action Henk</title>
+		<link>http://cheap-and-cheerful.store/action-henk/</link>
+		<comments>http://cheap-and-cheerful.store/action-henk/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Turn Notifications]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Run, jump and butt-slide into the glorious toy-filled world of Action Henk! Become a master of momentum and defy physics as you race against a band of ragged 90s action figures to once and for all prove that Action Henk is the fastest of them all! With over 70 tracks all set in different environments, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/action-henk/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kholat</title>
+		<link>http://cheap-and-cheerful.store/kholat/</link>
+		<comments>http://cheap-and-cheerful.store/kholat/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/metal-gear-solid-v-ground-zeroes</guid>
-		<description><![CDATA[Con Metal Gear Solid V: Ground Zeroes, Kojima Productions presenta una nueva obra maestra de la saga Metal Gear Solid. Metal Gear Solid V: Ground Zeroes es la primera parte de Metal Gear Solid V Experience y el prólogo de la segunda parte, más grande, que saldrá a la venta más tarde: Metal Gear Solid [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/metal-gear-solid-v-ground-zeroes/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Narrado por uno de los actores británicos más populares, Sean Bean, Kholat es un juego de aventuras y exploración con elementos de terror, inspirado por los hechos reales conocidos como el Incidente del paso Dyatlov – la misteriosa muerte de nueve excursionistas rusos, que ha dado lugar a incontables hipótesis sin confirmar. El jugador se [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/kholat/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Serious Sam Complete Pack</title>
-		<link>http://cheap-and-cheerful.store/serious-sam-complete-pack/</link>
-		<comments>http://cheap-and-cheerful.store/serious-sam-complete-pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Battlepaths</title>
+		<link>http://cheap-and-cheerful.store/battlepaths/</link>
+		<comments>http://cheap-and-cheerful.store/battlepaths/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Battlepaths is a loot-centric and addictive 2D-RPG featuring neat monster hacking, an excellent loot system and a huge variety of character development. Learn skills, use powerfull potions, and hunt down the Chaos Overlord. The battle begins in Babatula, the first of three big realms to explore. Battlepaths offers a sophisticated drop system that generates countless [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/battlepaths/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Brawlhalla</title>
+		<link>http://cheap-and-cheerful.store/brawlhalla/</link>
+		<comments>http://cheap-and-cheerful.store/brawlhalla/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Bulgarian]]></category>
 		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Brawlhalla: An eternal battle arena where the greatest warriors in history brawl to prove who&#8217;s the best that ever was, is, or will be. Every match is an epic test of skill, speed, and strength, and every victory brings additional glory and bragging rights to the winners. These slugfests are salted with powerful weapons and [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/brawlhalla/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bad Bots</title>
+		<link>http://cheap-and-cheerful.store/bad-bots/</link>
+		<comments>http://cheap-and-cheerful.store/bad-bots/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[As Sam McRae, last surviving member of the “Titan Hauler” crew, you must hack and blast your way through an onslaught of truly bad &#8216;bots to find a way to prevent a potential planet-destroying catastrophe. The mystery of what happened to everyone while you were in cryostasis unfolds around you as you wade through the [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/bad-bots/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Skullgirls</title>
+		<link>http://cheap-and-cheerful.store/skullgirls/</link>
+		<comments>http://cheap-and-cheerful.store/skullgirls/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/serious-sam-complete-pack</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/serious-sam-complete-pack/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>X Rebirth</title>
-		<link>http://cheap-and-cheerful.store/x-rebirth/</link>
-		<comments>http://cheap-and-cheerful.store/x-rebirth/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/x-rebirth</guid>
-		<description><![CDATA[Edición de coleccionista This Collector&#8217;s Edition of X Rebirth includes the following items: DLC: The Teladi Outpost DLC: Home of Light (new!) Soundtrack Volume 1 (MP3) Exclusive: Soundtrack Volume 2 (MP3) Optional download: X &#8211; The Space Opera &#8211; Per Musica ad Albion (Video) Bonus download with artworks and X encyclopedia The bonus content will [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/x-rebirth/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Grand Ages: Medieval</title>
-		<link>http://cheap-and-cheerful.store/grand-ages-medieval/</link>
-		<comments>http://cheap-and-cheerful.store/grand-ages-medieval/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/grand-ages-medieval</guid>
-		<description><![CDATA[Funciones: Explorad un mundo de juego gigantesco con más de 20 millones de kilómetros cuadrados, planificad estratégicamente dónde fundar los pueblos importantes y defended vuestro reino de las potencias extranjeras. Producid y comerciad con 20 mercancías distintas para satisfacer las demandas de vuestros ciudadanos y soldados: por ejemplo, carbón, fruta y cerámica. Investigad y utilizad [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/grand-ages-medieval/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Jet Set Radio</title>
-		<link>http://cheap-and-cheerful.store/jet-set-radio/</link>
-		<comments>http://cheap-and-cheerful.store/jet-set-radio/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/jet-set-radio</guid>
-		<description><![CDATA[Marca, grinda y haz trucos con ritmo en el éxito de SEGA, Jet Set Radio. Lucha por el control de Tokyo-to, grafitea para marcar tu territorio, firma paredes, carteleras ¡y hasta a los miembros de la banda rival! Realiza trucos y giros con tablas magnéticas, ¡pero ten cuidado con la policía! Características principales: Tratamiento Heritage [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/jet-set-radio/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>DuckTales: Remastered</title>
-		<link>http://cheap-and-cheerful.store/ducktales-remastered/</link>
-		<comments>http://cheap-and-cheerful.store/ducktales-remastered/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
@@ -258,88 +349,9 @@
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/ducktales-remastered</guid>
-		<description><![CDATA[Steam Big Picture Acerca del juego DuckTales: Remastered &#8211; Llega una hermosa versión dibujada a mano de uno de los títulos de 8 bits más queridos de todos los tiempos. Viaja en el tiempo hacia una de las eras doradas de los videojuegos, pero ahora con un nivel de detalle que impactará tanto a los [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/ducktales-remastered/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Shank 2</title>
-		<link>http://cheap-and-cheerful.store/shank-2/</link>
-		<comments>http://cheap-and-cheerful.store/shank-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/shank-2</guid>
-		<description><![CDATA[El juego de peleas en 2D favorito de los fans vuelve, de la mano del antiguo sicario de la mafia Shank, en su retorno en Shank 2. Debido a los ataques perpetrados contra sus seres queridos, Shank se ve obligado, una vez más, a pasar al ataque. Ahora debe utilizar su leal arsenal de pistolas, [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/shank-2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Takedown: Red Sabre</title>
-		<link>http://cheap-and-cheerful.store/takedown-red-sabre/</link>
-		<comments>http://cheap-and-cheerful.store/takedown-red-sabre/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/takedown-red-sabre</guid>
-		<description><![CDATA[TAKEDOWN es un shooter en primera persona en el que lo más importante es pensar bien las cosas. Los jugadores que avancen despacio, apunten con cuidado y planifiquen adecuadamente sus movimientos tendrán más probabilidades de éxito que aquellos jugadores que disparen sin pensar. El combate cercano en entornos cerrados ofrece enfrentamientos realistas, como los que [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/takedown-red-sabre/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>How to Survive</title>
-		<link>http://cheap-and-cheerful.store/how-to-survive/</link>
-		<comments>http://cheap-and-cheerful.store/how-to-survive/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/how-to-survive</guid>
-		<description><![CDATA[Oferta especial How to Survive 2 on Early Access is available now! Also remember that if you own How to Survive 1 there is special gift waiting for you! http://store.steampowered.com/app/360170 Survivor Loyalty Item: “Primal Fear” Armor Set. If you are already a survivor who’s got How to Survive or How to Survive: Third Person Standalone [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/how-to-survive/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Skullgirls es un juego de lucha en 2D con un ritmo frenético en el que el jugador controla a feroces guerreras en un mundo extraordinario de ambiente “deco oscuro”. Los novedosos sistemas del juego pondrán a prueba la destreza de los expertos en juegos de lucha y también harán las delicias de los novatos. Skullgirls [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/skullgirls/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

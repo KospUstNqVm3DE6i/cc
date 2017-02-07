@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/features/partial-controller-support/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,306 +26,301 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Arma 2</title>
-		<link>http://cheap-and-cheerful.store/arma-2/</link>
-		<comments>http://cheap-and-cheerful.store/arma-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Arma 3 DLC Bundle</title>
+		<link>http://cheap-and-cheerful.store/arma-3-dlc-bundle/</link>
+		<comments>http://cheap-and-cheerful.store/arma-3-dlc-bundle/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Captions available]]></category>
 		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/arma-2</guid>
-		<description><![CDATA[Cimentado sobre 10 años de constante desarrollo del motor, ARMA II ofrece el entorno de combate más realista del mundo. Imita fielmente la balística y desviación del disparo del mundo real, la penetración en función del material, tiene un ciclo real de día y noche, viento dinámico, meteorología y efectos ambientales. La simulación de un [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/arma-2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Need for Speed Undercover</title>
-		<link>http://cheap-and-cheerful.store/need-for-speed-undercover/</link>
-		<comments>http://cheap-and-cheerful.store/need-for-speed-undercover/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/need-for-speed-undercover</guid>
-		<description><![CDATA[Cazador o Presa. Nunca pensaste que la cosa se complicaría de esta manerauna caza formidable donde tú eres la presa. Y el cazador. Ahora debes ir sobre ruedas y arriesgarlo todo para infiltrarte en una implacable organización mafiosa y derrotarla. El hombre al que persigues es un loco sobre ruedas, y conduce como si su [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/need-for-speed-undercover/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Euro Truck Simulator 2</title>
-		<link>http://cheap-and-cheerful.store/euro-truck-simulator-2/</link>
-		<comments>http://cheap-and-cheerful.store/euro-truck-simulator-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Bulgarian]]></category>
 		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[VR Support]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/euro-truck-simulator-2</guid>
-		<description><![CDATA[Give American Truck Simulator a test drive Start your new truck empire in the United States! Try the demo of American Truck Simulator and visit the Steam store page. http://store.steampowered.com/app/441960/ Acerca del juego Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/euro-truck-simulator-2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>HIT</title>
-		<link>http://cheap-and-cheerful.store/hit/</link>
-		<comments>http://cheap-and-cheerful.store/hit/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Free to Play]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/hit</guid>
-		<description><![CDATA[WHAT IS HIT? HIT is a free game offered at no cost to players. We do not have in-game purchases or DLC for sale. As a small group of developers with limited resources, we want to give this game to you for free to enjoy. We spent a lot of time balancing and enhancing the [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/hit/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>PAYDAY 2: The Big Bank Heist</title>
-		<link>http://cheap-and-cheerful.store/payday-2-the-big-bank-heist/</link>
-		<comments>http://cheap-and-cheerful.store/payday-2-the-big-bank-heist/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/payday-2-the-big-bank-heist</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/payday-2-the-big-bank-heist/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Sniper Elite V2</title>
-		<link>http://cheap-and-cheerful.store/sniper-elite-v2/</link>
-		<comments>http://cheap-and-cheerful.store/sniper-elite-v2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/sniper-elite-v2</guid>
-		<description><![CDATA[En los oscuros días del final de la Segunda Guerra Mundial entre las ruinas de Berlín, una bala puede cambiar el curso de la historia&#8230; Sniper Elite V2 es la esperada secuela del aclamadísimo Sniper Elite, ofreciendo a los jugadores la experiencia de francotirador más auténtica ambientada en la Segunda Guerra Mundial. Eres el francotirador [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/sniper-elite-v2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Red Faction Collection</title>
-		<link>http://cheap-and-cheerful.store/red-faction-collection/</link>
-		<comments>http://cheap-and-cheerful.store/red-faction-collection/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/red-faction-collection</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/red-faction-collection/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/arma-3-dlc-bundle/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Defiance: Apex Arkhunter Bundle</title>
-		<link>http://cheap-and-cheerful.store/defiance-apex-arkhunter-bundle/</link>
-		<comments>http://cheap-and-cheerful.store/defiance-apex-arkhunter-bundle/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Free to Play]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Massively Multiplayer]]></category>
-		<category><![CDATA[MMO]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/defiance-apex-arkhunter-bundle</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/defiance-apex-arkhunter-bundle/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>War of the Roses</title>
-		<link>http://cheap-and-cheerful.store/war-of-the-roses/</link>
-		<comments>http://cheap-and-cheerful.store/war-of-the-roses/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Free to Play]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/war-of-the-roses</guid>
-		<description><![CDATA[War of the Roses es un juego de acción en tercera persona basado en equipos y ambientado en la Inglaterra del siglo XV. Dos ramas rivales de la Casa Real de Plantagenet –la casa de Lancaster (los rojos) y la casa de York (los blancos)– luchan por el trono, y el jugador es arrojado en [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/war-of-the-roses/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Street Racing Syndicate</title>
-		<link>http://cheap-and-cheerful.store/street-racing-syndicate/</link>
-		<comments>http://cheap-and-cheerful.store/street-racing-syndicate/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/street-racing-syndicate</guid>
-		<description><![CDATA[The raw, high-stakes world of illegal street racing comes to life in Street Racing Syndicate. Trick out over 40 authentic licensed cars with parts from over 15 real-world manufacturers, then turn your customized ride loose on the streets of 3 cities across the USA. Lay it all on the line &#8211; your wallet, your woman, [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/street-racing-syndicate/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Depth Hunter 2: Deep Dive</title>
-		<link>http://cheap-and-cheerful.store/depth-hunter-2-deep-dive/</link>
-		<comments>http://cheap-and-cheerful.store/depth-hunter-2-deep-dive/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Darksiders II</title>
+		<link>http://cheap-and-cheerful.store/darksiders-ii/</link>
+		<comments>http://cheap-and-cheerful.store/darksiders-ii/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Crucible Mode Darksiders II presenta un modo de supervivencia en la arena llamado El Crisol, que permite a los jugadores seguir mejorando su personaje incluso después de haber terminado el juego principal y que ofrece el desafío definitivo. Características principales: Tras completar cinco de las 100 oleadas exclusivas del modo, los jugadores tendrán la opción [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/darksiders-ii/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fallout: New Vegas Ultimate Edition</title>
+		<link>http://cheap-and-cheerful.store/fallout-new-vegas-ultimate-edition/</link>
+		<comments>http://cheap-and-cheerful.store/fallout-new-vegas-ultimate-edition/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¡Bienvenido de vuelta a New Vegas! Con la introducción de la Ultimate Edition, Bethesda Softworks te ofrece una oportunidad de doble o nada para conseguir el lote completo de diversión en New Vegas. Por primera vez en un solo pack, puedes tener todo el contenido de Fallout: New Vegas incluyendo el lote completo del aclamado [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/fallout-new-vegas-ultimate-edition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Magicka: Heirlooms Item Pack</title>
+		<link>http://cheap-and-cheerful.store/magicka-heirlooms-item-pack/</link>
+		<comments>http://cheap-and-cheerful.store/magicka-heirlooms-item-pack/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-heirlooms-item-pack/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Street Fighter X Tekken</title>
+		<link>http://cheap-and-cheerful.store/street-fighter-x-tekken/</link>
+		<comments>http://cheap-and-cheerful.store/street-fighter-x-tekken/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Will You Cross the Line? The long awaited dream match-up between the two titans of fighting is here! Street Fighter® X Tekken® is the ultimate tag team fighting game, featuring one of the most expansive rosters of iconic fighters in fighting game history. The critically acclaimed Street Fighter® IV game engine has been refined with [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/street-fighter-x-tekken/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tomb Raider: Legend</title>
+		<link>http://cheap-and-cheerful.store/tomb-raider-legend/</link>
+		<comments>http://cheap-and-cheerful.store/tomb-raider-legend/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¡La aventurera más atractiva e intrépida del mundo hace su regreso triunfal en Lara Croft Tomb Raider: Legend! Acompaña a Lara en esta aventura de descubrimiento mientras viaja a lugares remotos y exóticos por todo el mundo en la búsqueda de uno de los más increíbles artefactos de la historia que convocará a ciertos personajes [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/tomb-raider-legend/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Home is Where One Starts&#8230;</title>
+		<link>http://cheap-and-cheerful.store/home-is-where-one-starts/</link>
+		<comments>http://cheap-and-cheerful.store/home-is-where-one-starts/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[“I remember when I was a little girl, waiting at the end of my driveway. I had already missed the school bus, but I stood there anyway… envying the birds.” Home is Where One Starts&#8230; is a short, first-person exploration game in the same vein as Dear Esther or Gone Home. It’s an experience where [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/home-is-where-one-starts/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Duke Nukem Forever</title>
+		<link>http://cheap-and-cheerful.store/duke-nukem-forever/</link>
+		<comments>http://cheap-and-cheerful.store/duke-nukem-forever/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¡El Rey ha vuelto! ¡Cargado y listo para la acción, Duke da épicas patadas en el culo, armas enormes, explosiones gigantescas y diversión pura! Ponte las gafas de sol y prepárate para meterte en la piel de Duke Nukem. Los alienígenas nos invaden y solo Duke puede salvar el mundo. Ni los cerdos mutantes, ni [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/duke-nukem-forever/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ravaged Zombie Apocalypse</title>
+		<link>http://cheap-and-cheerful.store/ravaged-zombie-apocalypse/</link>
+		<comments>http://cheap-and-cheerful.store/ravaged-zombie-apocalypse/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/depth-hunter-2-deep-dive</guid>
-		<description><![CDATA[Depth Hunter 2 ofrece 25 misiones emocionantes en 3 lugares enormes alrededor del mundo. Los jugadores cazarán distintos tipos de peces y se enfrentarán con dificultades a la hora de pescar con lanza que te dejarán sin aliento, es un método de pesca antiguo. Los jugadores tendrán también que encontrar tesoros y tendrán la posibilidad [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/depth-hunter-2-deep-dive/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Ravaged is an intense online multiplayer first-person shooter. Ravaged is designed with a heavy focus on vehicular combat taking place on vast maps that will have you strategically duking it out on land and in air with over 40 vehicles and weapons. Placed within a competitive team-based environment created specifically for the PC, Ravaged is [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/ravaged-zombie-apocalypse/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>NiGHTS Into Dreams</title>
-		<link>http://cheap-and-cheerful.store/nights-into-dreams/</link>
-		<comments>http://cheap-and-cheerful.store/nights-into-dreams/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Wickland</title>
+		<link>http://cheap-and-cheerful.store/wickland/</link>
+		<comments>http://cheap-and-cheerful.store/wickland/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Wickland is an indie arena shooter heavily inspired by classic FPS games of the 90&#8217;s. Morph into eight deadly beasts and use their own unique abilities, blaze through maps at insane speed to pick up power-ups, and fight your friends or foes in classic maze-like arena maps, just like the good old days. Wickland is [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/wickland/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Qbeh-1: The Atlas Cube</title>
+		<link>http://cheap-and-cheerful.store/qbeh-1-the-atlas-cube/</link>
+		<comments>http://cheap-and-cheerful.store/qbeh-1-the-atlas-cube/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/nights-into-dreams</guid>
-		<description><![CDATA[Slip off into the dream world and go on an aerial adventure as NiGHTS in this classic Saturn remake. Collect Ideya (colored orbs), rack up points, and battle bosses to help Elliot and Claris save Nightopia from Wizeman the Wicked. With enhanced graphics, achievements, leaderboards, and playable content from Christmas NiGHTS, this beloved title is [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/nights-into-dreams/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Level Editor &#38; Steam Workshop Get Virtual! Oculus Rift DK1 &#38; DK2 Support now Included Try Before You Buy! Still not sure after all the rave reviews, videos and pictures if you want to pick up the game? Check out the DEMO and get some hands on experience! Acerca del juego QBEH-1: The Atlas Cube [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/qbeh-1-the-atlas-cube/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ascent &#8211; The Space Game</title>
+		<link>http://cheap-and-cheerful.store/ascent-the-space-game/</link>
+		<comments>http://cheap-and-cheerful.store/ascent-the-space-game/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[MMO]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Humanity&#8217;s vast empire is lost. With the last communication outside the Apollo Sector far beyond human memory, we&#8217;ve been forced to build anew, using only the dregs of the civilization left behind. Now it&#8217;s your turn to make your mark and help to rebuild our understanding of where we are and where we came from. [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/ascent-the-space-game/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

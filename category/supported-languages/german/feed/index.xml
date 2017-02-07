@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/supported-languages/german/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,10 +26,35 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Grand Theft Auto V</title>
-		<link>http://cheap-and-cheerful.store/grand-theft-auto-v/</link>
-		<comments>http://cheap-and-cheerful.store/grand-theft-auto-v/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>The Whispered World Special Edition</title>
+		<link>http://cheap-and-cheerful.store/the-whispered-world-special-edition/</link>
+		<comments>http://cheap-and-cheerful.store/the-whispered-world-special-edition/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Cuando el destino de un mundo pende de un hilo, ¡surge un héroe inesperado! The Whispered World, la épica aventura visualmente impresionante, ya está disponible por primera vez en una Edición especial. Deja que el mundo de The Whispered World te embelese con sus muchísimos detalles animados y fantásticos personajes. La aventura de Sadwick comienza [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-whispered-world-special-edition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Brutal Legend</title>
+		<link>http://cheap-and-cheerful.store/brutal-legend/</link>
+		<comments>http://cheap-and-cheerful.store/brutal-legend/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
@@ -38,326 +63,262 @@
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/grand-theft-auto-v</guid>
-		<description><![CDATA[Cuando un joven estafador callejero, un ladrón de bancos retirado y un psicópata aterrador se ven involucrados con lo peor y más desquiciado del mundo criminal, del gobierno de los EE. UU. y de la industria del espectáculo, tendrán que llevar a cabo una serie de peligrosos golpes para sobrevivir en una ciudad implacable en [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/grand-theft-auto-v/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Brütal Legend is an action-adventure that marries visceral action combat with open-world freedom. Set in a universe somewhere between Lord of the Rings and Spinal Tap, it’s a fresh take on the action/driving genre, which in this case is full of imitation cover bands, demons intent on enslaving humanity and Heavy metal tunes. Featuring the [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/brutal-legend/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Aliens: Colonial Marines</title>
-		<link>http://cheap-and-cheerful.store/aliens-colonial-marines/</link>
-		<comments>http://cheap-and-cheerful.store/aliens-colonial-marines/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Port Royale 3</title>
+		<link>http://cheap-and-cheerful.store/port-royale-3/</link>
+		<comments>http://cheap-and-cheerful.store/port-royale-3/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/aliens-colonial-marines</guid>
-		<description><![CDATA[Tú y tus amigos contra los asesinos más letales de la galaxia. Otro glorioso día en el Cuerpo. ¡En pie, soldado! Bienvenido a Aliens™: Colonial Marines. Creado por Gearbox, los desarolladores aclamados por la crítica y preferidos por los fans, y creadores de Borderlands y Brothers In Arms. Tú y tus amigos seréis el equipo [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/aliens-colonial-marines/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[El Caribe. Corre el turbulento siglo XVII. Los poderosos reinos de España, Inglaterra, Francia y Holanda luchan por las colonias. Y ahí entras tú, un joven capitán marino con un único objetivo: convertirte en el hombre más poderoso del Nuevo Mundo. Para lograr ese objetivo, puedes escoger una de las dos campañas disponibles: ¿serás un [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/port-royale-3/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Call of Duty: World at War</title>
-		<link>http://cheap-and-cheerful.store/call-of-duty-world-at-war/</link>
-		<comments>http://cheap-and-cheerful.store/call-of-duty-world-at-war/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Bus Driver</title>
+		<link>http://cheap-and-cheerful.store/bus-driver/</link>
+		<comments>http://cheap-and-cheerful.store/bus-driver/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
+				<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/call-of-duty-world-at-war</guid>
-		<description><![CDATA[Call of Duty ha vuelto, redefiniendo la guerra como nunca la habías experimentado. Tomando como base el motor de Call of Duty 4®: Modern Warfare, Call of Duty: World at War sumerge a los jugadores en la experiencia de combate más descarnada y caótica de la Segunda Guerra Mundial hasta la fecha. Los jugadores tendrán [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/call-of-duty-world-at-war/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[In Bus Driver, your job is to transport passengers around an attractive and realistic city. You must drive to a timetable on a planned route, whilst obeying traffic rules, and taking care not to upset or injure your passengers. This makes Bus Driver unlike any other driving game &#8211; the experience of driving a bus [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/bus-driver/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Escape Dead Island</title>
-		<link>http://cheap-and-cheerful.store/escape-dead-island/</link>
-		<comments>http://cheap-and-cheerful.store/escape-dead-island/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>The Book of Unwritten Tales 2</title>
+		<link>http://cheap-and-cheerful.store/the-book-of-unwritten-tales-2/</link>
+		<comments>http://cheap-and-cheerful.store/the-book-of-unwritten-tales-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/escape-dead-island</guid>
-		<description><![CDATA[Escape Dead Island es un juego de supervivencia y misterio que se desarrolla en la enigmática isla de Narapela después del brote zombi del juego original de Dead Island. En este título, descubrirás los orígenes del virus zombi a través de los ojos del aspirante a periodista Cliff Calo. Cliff Calo, hijo del magnate de [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/escape-dead-island/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dragon Age: Origins</title>
-		<link>http://cheap-and-cheerful.store/dragon-age-origins/</link>
-		<comments>http://cheap-and-cheerful.store/dragon-age-origins/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/dragon-age-origins</guid>
-		<description><![CDATA[Pre-Compra Dragon Age: Origins y recibe lo siguiente: Item Exclusivo para Steam   El Juramento Vil La condesa Luciana de Antiva vivió prácticamente como una prisionera en el castillo de su marido hasta que una esclava elfa le ofreció la posibilidad de escapar. La esclava vinculó mágicamente una pequeña cantidad de sangre de la condesa a [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/dragon-age-origins/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Fallout: New Vegas Ultimate Edition</title>
-		<link>http://cheap-and-cheerful.store/fallout-new-vegas-ultimate-edition/</link>
-		<comments>http://cheap-and-cheerful.store/fallout-new-vegas-ultimate-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/fallout-new-vegas-ultimate-edition</guid>
-		<description><![CDATA[¡Bienvenido de vuelta a New Vegas! Con la introducción de la Ultimate Edition, Bethesda Softworks te ofrece una oportunidad de doble o nada para conseguir el lote completo de diversión en New Vegas. Por primera vez en un solo pack, puedes tener todo el contenido de Fallout: New Vegas incluyendo el lote completo del aclamado [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/fallout-new-vegas-ultimate-edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Guacamelee! Gold Edition</title>
-		<link>http://cheap-and-cheerful.store/guacamelee-gold-edition/</link>
-		<comments>http://cheap-and-cheerful.store/guacamelee-gold-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/guacamelee-gold-edition</guid>
-		<description><![CDATA[Steam Workshop Acerca del juego Guacamelee! Gold Edition Es un juego de plataformas de acción de estilo Metroid-vania establecido en un mundo mágico de inspiración mexicana. Guacamelee!, desarrollado sobre el estilo clásico de juegos de mundo abierto de Metroid-vania, cuenta con adiciones tales como un fuerte componente de combate cuerpo a cuerpo, una nueva mecánica [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/guacamelee-gold-edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Left 4 Dead</title>
-		<link>http://cheap-and-cheerful.store/left-4-dead/</link>
-		<comments>http://cheap-and-cheerful.store/left-4-dead/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes Source SDK]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/left-4-dead</guid>
-		<description><![CDATA[Steam Big Picture Acerca del juego De la mano de Valve®, creadores de Counter-Strike®, Half-Life® y otros muchos juegos, llega Left 4 Dead™, una nueva aventura para PC y Xbox 360 que te meterá en la piel de uno de los cuatro &#34;supervivientes&#34; que libran una pugna de proporciones épicas contra hordas de zombis y [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/left-4-dead/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Magicka: Peculiar Gadgets Item Pack</title>
-		<link>http://cheap-and-cheerful.store/magicka-peculiar-gadgets-item-pack/</link>
-		<comments>http://cheap-and-cheerful.store/magicka-peculiar-gadgets-item-pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/magicka-peculiar-gadgets-item-pack</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-peculiar-gadgets-item-pack/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>PAYDAY 2: Dragan Character Pack</title>
-		<link>http://cheap-and-cheerful.store/payday-2-dragan-character-pack/</link>
-		<comments>http://cheap-and-cheerful.store/payday-2-dragan-character-pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/payday-2-dragan-character-pack</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/payday-2-dragan-character-pack/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Every world needs its heroes. However unlikely they may seem. Join Wilbur, Ivo, Nate and Critter in another classic point-and-click adventure in the wicked world of Aventásia. Help them fulfill their destiny. A destiny as yet unwritten. The Tale A few years have passed since our heroes heroically defeated the arch-witch Mortroga. And their lives, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-book-of-unwritten-tales-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Risen 2: Dark Waters</title>
-		<link>http://cheap-and-cheerful.store/risen-2-dark-waters/</link>
-		<comments>http://cheap-and-cheerful.store/risen-2-dark-waters/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Fortix 2</title>
+		<link>http://cheap-and-cheerful.store/fortix-2/</link>
+		<comments>http://cheap-and-cheerful.store/fortix-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
+				<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/risen-2-dark-waters</guid>
-		<description><![CDATA[Varios años después del final de Risen, los furiosos titanes han devastado el mundo y empujado a la humanidad al borde de la desaparición. Más tarde, criaturas monstruosas han surgido de las profundidades marinas y sus ataques han paralizado totalmente la navegación. El héroe, ahora miembro de la Inquisición, es enviado para encontrar el modo [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/risen-2-dark-waters/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Space Engineers</title>
-		<link>http://cheap-and-cheerful.store/space-engineers/</link>
-		<comments>http://cheap-and-cheerful.store/space-engineers/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Fortix 2 se describe mejor como un juego de defensa de la torre invertido. En el papel de Sir Fortix, el caballero, deberás conquistar castillos mientras esquivas torres y monstruos malvados.Ábrete paso luchando a través de los condados de la isla Artalom, asediando castillo tras castillo. Utiliza la astucia para superar los laberínticos niveles y [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/fortix-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Stanley Parable</title>
+		<link>http://cheap-and-cheerful.store/the-stanley-parable/</link>
+		<comments>http://cheap-and-cheerful.store/the-stanley-parable/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Ukrainian]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[The Stanley Parable is a first person exploration game. You will play as Stanley, and you will not play as Stanley. You will follow a story, you will not follow a story. You will have a choice, you will have no choice. The game will end, the game will never end. Contradiction follows contradiction, the [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-stanley-parable/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Z</title>
+		<link>http://cheap-and-cheerful.store/z/</link>
+		<comments>http://cheap-and-cheerful.store/z/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[“Z”, el clásico juego de estrategia en tiempo real, de Bitmap Brothers. Los aficionados a este juego de estrategia clásica se llevarán una agradable sorpresa. Todo está aquí, desde las geniales escenas de comedia hasta el frenético juego de acción, haciendo de ésta la definitiva versión de Z. • Z es un juego de guerra [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/z/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Memoria</title>
+		<link>http://cheap-and-cheerful.store/memoria/</link>
+		<comments>http://cheap-and-cheerful.store/memoria/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Buy the prequel: http://store.steampowered.com/app/203830/ Acerca del juego Dos tramas, dos héroes, una gran aventura: En Memoria, el jugador acompañará a la princesa Sadja y a Geron el pajarero en un viaje por el tiempo a través de los impresionantes gráficos de Aventuria, el mundo de El Ojo Negro. El juego combina el juego con ratón [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/memoria/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DIG IT! &#8211; A Digger Simulator</title>
+		<link>http://cheap-and-cheerful.store/dig-it-a-digger-simulator/</link>
+		<comments>http://cheap-and-cheerful.store/dig-it-a-digger-simulator/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/space-engineers</guid>
-		<description><![CDATA[Space Engineers is a sandbox game about engineering, construction, exploration and survival in space and on planets. Players build space ships, space stations, planetary outposts of various sizes and uses (civil and military), pilot ships and travel through space to explore planets and gather resources to survive. Featuring both creative and survival modes, there is [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/space-engineers/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¿No te encanta cuando el ruido sordo del motor invade el ambiente? ¿Te apasiona remover la tierra con excavadoras, niveladoras y camiones volquete de gran potencia? ¿Llevas tiempo deseando sentir esa sensación de poder que recorre tus venas cuando el duro acero de la pala penetra la tierra mientras permaneces al mando de todo? Entonces, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/dig-it-a-digger-simulator/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Quell Reflect</title>
+		<link>http://cheap-and-cheerful.store/quell-reflect/</link>
+		<comments>http://cheap-and-cheerful.store/quell-reflect/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¡Un encantador rompecabezas zen que pondrá a prueba tu cerebro y te cautivará! Quell Reflect es un ingenioso juego con + de 80 niv, 1 diseño precioso y 1 banda sonora inolvidable. ﻿El objetivo es simple: deslizar 1 gota en una escena llena de obstáculos, trampas y caminos, para reunir todas las perlas. Este simple [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/quell-reflect/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pride of Nations</title>
+		<link>http://cheap-and-cheerful.store/pride-of-nations/</link>
+		<comments>http://cheap-and-cheerful.store/pride-of-nations/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Pride of Nations es un juego de estrategia histórico por turnos que transcurre en la era colonial del siglo XIX, donde el jugador toma el control de un país y lo guía a través de la industrialización, la conquista militar y la colonización. Pride of Nations sigue la pauta de exitosos juegos de estrategia históricos [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/pride-of-nations/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

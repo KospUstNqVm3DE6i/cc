@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/features/free-to-play/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,10 +26,33 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Magicka: Wizard Wars</title>
+		<link>http://cheap-and-cheerful.store/magicka-wizard-wars/</link>
+		<comments>http://cheap-and-cheerful.store/magicka-wizard-wars/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Free to Play]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Magicka: Wizard Wars &#8211; это командная мочиловка с изрядной дозой юмора и динамической системой Магики. Игроки образуют четверки и носятся по полю боя, сочетая &#34;на лету&#34; стихии магики, чтобы создавать сотни комбинаций заклинаний с самыми разнообразными эффектами. Каждый игрок может персонализировать своего волшебника с помощью уникального снаряжения и магик, завершив образ насмешливой отсылкой на популярные [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-wizard-wars/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Max Gentlemen</title>
 		<link>http://cheap-and-cheerful.store/max-gentlemen/</link>
 		<comments>http://cheap-and-cheerful.store/max-gentlemen/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Casual]]></category>
 		<category><![CDATA[Cross-Platform Multiplayer]]></category>
@@ -39,41 +62,44 @@
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Single-player]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/max-gentlemen</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[Max Gentlemen is an arcade-style extreme manners simulator about stacking hats, inspired by a spam email for male enhancement. Hat stacking old timey arcade action Over 39 hats to collect Cross-platform local multiplayer Extra characters, levels and modes Online leaderboards Challenge your friends. Prove once and for all who is the most gentlemanly. Seriously though, [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/max-gentlemen/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Nosgoth</title>
-		<link>http://cheap-and-cheerful.store/nosgoth/</link>
-		<comments>http://cheap-and-cheerful.store/nosgoth/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Stronghold Kingdoms</title>
+		<link>http://cheap-and-cheerful.store/stronghold-kingdoms/</link>
+		<comments>http://cheap-and-cheerful.store/stronghold-kingdoms/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Early Access]]></category>
+				<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Free to Play]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[MMO]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/nosgoth</guid>
-		<description><![CDATA[Hundreds of years of conflict and hatred, each race pitted against the other. This is the war for Nosgoth, a war for supremacy and for survival. Join the war between Vampires and Humans using each race’s unique fighting style to conquer and crush the opposition. Arm yourself for the hunt with an arsenal of devastating [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/nosgoth/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Recién actualizado Ya disponible &#8211; Stronghold Kingdoms: Heretic Diseñada para ofrecer experiencias PvE y PvP en un mismo mundo dejuego, Heretic te pone en bandeja dos opciones. ¡Puedes iniciar una cruzada con otros señores contra La Rata, La Serpiente y otros viles personajes de Stronghold o unir fuerzas con El Lobo y convertirte en un [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/stronghold-kingdoms/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Dungeonland</title>
 		<link>http://cheap-and-cheerful.store/dungeonland/</link>
 		<comments>http://cheap-and-cheerful.store/dungeonland/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Casual]]></category>
@@ -89,141 +115,19 @@
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/dungeonland</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[Dungeonland es un hack and slash que transporta a los jugadores a un mortal parque de atracciones medieval. Jugando como el El Pícaro, El Guerrero o El Mago, los héroes tendrán que trabajar juntos como un equipo para derrotar al diabólico supervisor de este “Reino Trágico”: El Dungeon Maestro. Los más diabólicos incluso pueden meterse [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/dungeonland/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Block N Load &#8211; Platinum Bar Pack</title>
-		<link>http://cheap-and-cheerful.store/block-n-load-platinum-bar-pack/</link>
-		<comments>http://cheap-and-cheerful.store/block-n-load-platinum-bar-pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Team Fortress 2</title>
+		<link>http://cheap-and-cheerful.store/team-fortress-2/</link>
+		<comments>http://cheap-and-cheerful.store/team-fortress-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Free to Play]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Massively Multiplayer]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/block-n-load-platinum-bar-pack</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/block-n-load-platinum-bar-pack/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Rise of Flight United</title>
-		<link>http://cheap-and-cheerful.store/rise-of-flight-united/</link>
-		<comments>http://cheap-and-cheerful.store/rise-of-flight-united/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Free to Play]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/rise-of-flight-united</guid>
-		<description><![CDATA[Rise of Flight is the most realistic WWI PC flight simulation ever created. Take to the skies of war torn Europe and experience daring air combat at the dawn of aviation. Re-enact famous air battles fought by legendary aces such as Manfred von Richtofen, James McCudden, Georges Guynemer and Eddie Rickenbacker. Rise of Flight transports [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/rise-of-flight-united/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>One Way To Die: Deluxe Upgrade</title>
-		<link>http://cheap-and-cheerful.store/one-way-to-die-deluxe-upgrade/</link>
-		<comments>http://cheap-and-cheerful.store/one-way-to-die-deluxe-upgrade/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Free to Play]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/one-way-to-die-deluxe-upgrade</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/one-way-to-die-deluxe-upgrade/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>RIFT</title>
-		<link>http://cheap-and-cheerful.store/rift/</link>
-		<comments>http://cheap-and-cheerful.store/rift/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Free to Play]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Massively Multiplayer]]></category>
-		<category><![CDATA[MMO]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/rift</guid>
-		<description><![CDATA[Change Fate: Starfall Prophecy is here Purchase a Starfall Prophecy Edition to explore the Comet of Ahnket Reach level 70, unlock legendary abilities, explore 5 massive new zones, defeat 2 deadly dungeons, conquer a dangerous new raid, challenge the brand new Fortress Sieges, and more in RIFT’s newest expansion: Starfall Prophecy! Acerca del juego It&#8217;s [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/rift/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Block N Load</title>
-		<link>http://cheap-and-cheerful.store/block-n-load/</link>
-		<comments>http://cheap-and-cheerful.store/block-n-load/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Free to Play]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Massively Multiplayer]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/block-n-load</guid>
-		<description><![CDATA[Dos equipos. Cinco integrantes. Una batalla en la que todo lo que construyes y destruyes impacta directamente en el desarrollo del juego. Construye tus defensas y avanza sin piedad hasta destruir las defensas enemigas. Cava un túnel o construye una catapulta para sorprender a tus rivales. Demuestra tu astucia y pon a prueba tu malicia. [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/block-n-load/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Valve Complete Pack</title>
-		<link>http://cheap-and-cheerful.store/valve-complete-pack/</link>
-		<comments>http://cheap-and-cheerful.store/valve-complete-pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Bulgarian]]></category>
 		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Commentary available]]></category>
 		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[Czech]]></category>
@@ -233,12 +137,10 @@
 		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[Free to Play]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Greek]]></category>
 		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
@@ -248,97 +150,205 @@
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[The Tough Break Update is Now Available! Acerca del juego &#8220;No podrás pasártelo mejor online&#8221; &#8211; PC Gamer ¡Es ahora GRATIS! ¡No hay truco! ¡Juega todo lo que quieras, el tiempo que quieras! ¡El juego gratuito más valorado de todos los tiempos! Uno de los juegos de acción online más popular, Team Fortress 2, publica [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/team-fortress-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>War Thunder</title>
+		<link>http://cheap-and-cheerful.store/war-thunder/</link>
+		<comments>http://cheap-and-cheerful.store/war-thunder/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Free to Play]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[MMO]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[War Thunder es un juego de combate MMO gratuito en plataforma cruzada para Windows, Linux, Mac y PlayStation®4 dedicado a los vehículos militares utilizados en la segunda guerra mundial y la guerra de Corea. En War Thunder, puedes tomar parte en grandes batallas en tierra, mar y aire, luchando con jugadores reales de todo el [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/war-thunder/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Defiance: Apex Arkhunter Bundle</title>
+		<link>http://cheap-and-cheerful.store/defiance-apex-arkhunter-bundle/</link>
+		<comments>http://cheap-and-cheerful.store/defiance-apex-arkhunter-bundle/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Free to Play]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[MMO]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/defiance-apex-arkhunter-bundle/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ACE Founder Pack DLC</title>
+		<link>http://cheap-and-cheerful.store/ace-founder-pack-dlc/</link>
+		<comments>http://cheap-and-cheerful.store/ace-founder-pack-dlc/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Free to Play]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/ace-founder-pack-dlc/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>War of the Roses</title>
+		<link>http://cheap-and-cheerful.store/war-of-the-roses/</link>
+		<comments>http://cheap-and-cheerful.store/war-of-the-roses/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Free to Play]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[War of the Roses es un juego de acción en tercera persona basado en equipos y ambientado en la Inglaterra del siglo XV. Dos ramas rivales de la Casa Real de Plantagenet –la casa de Lancaster (los rojos) y la casa de York (los blancos)– luchan por el trono, y el jugador es arrojado en [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/war-of-the-roses/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Warframe</title>
+		<link>http://cheap-and-cheerful.store/warframe/</link>
+		<comments>http://cheap-and-cheerful.store/warframe/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Free to Play]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/valve-complete-pack</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/valve-complete-pack/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Recién actualizado NUEVA AVENTURA CINEMÁTICA &#38; NUEVA JUGABILIDAD El Imperio Grineer se hace más fuerte a medida que un amigo se convierte en enemigo. ¿Qué secretos mantiene el Imperio Grineer? Sin poder, sin preparación y forzado fuera de tu comodidad, debes encontrar en ti mismo la manera de derrotar a nuevos enemigos para salvarte. Ten [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/warframe/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>SolForge</title>
-		<link>http://cheap-and-cheerful.store/solforge/</link>
-		<comments>http://cheap-and-cheerful.store/solforge/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Free to Play]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/solforge</guid>
-		<description><![CDATA[Designed by the creators of Magic: The Gathering and the Ascension Deckbuilding Game, SolForge is a free-to-play digital collectible game in which players construct their own decks to challenge their friends or battle against the computer. There are multiple modes of play, including tournaments, drafts, ranked play, campaign mode, and a variety of new events [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/solforge/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dead Island: Epidemic</title>
-		<link>http://cheap-and-cheerful.store/dead-island-epidemic/</link>
-		<comments>http://cheap-and-cheerful.store/dead-island-epidemic/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Loadout</title>
+		<link>http://cheap-and-cheerful.store/loadout/</link>
+		<comments>http://cheap-and-cheerful.store/loadout/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Free to Play]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/dead-island-epidemic</guid>
-		<description><![CDATA[PLAY FREE NOW! Time to DI:E Dead Island: Epidemic is a multiplayer action hack &#38; slash arena. Players duke it out over supply points using an arsenal of crafted weaponry, a bevy of devastating powers, and good old-fashioned teamwork. And yeah, we&#8217;ve got zombies too &#8211; so there&#8217;s that. Co-Operate or Compete It&#8217;s you versus [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/dead-island-epidemic/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Super Monday Night Combat &#8211; Turbocross Bundle</title>
-		<link>http://cheap-and-cheerful.store/super-monday-night-combat-turbocross-bundle/</link>
-		<comments>http://cheap-and-cheerful.store/super-monday-night-combat-turbocross-bundle/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Free to Play]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/super-monday-night-combat-turbocross-bundle</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/super-monday-night-combat-turbocross-bundle/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¡Oh, sí, Loadout es un shooter multijugador nuevo y extravagante en donde lo primero y lo último son las armas! Crea un increíble arsenal de una enorme variedad (miles de millones de combinaciones) totalmente personalizado, totalmente único y totalmente letal. Nuestro robusto sistema modular de fabricación de armas permite que los jugadores creen sus propias [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/loadout/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>AirBuccaneers</title>
+		<link>http://cheap-and-cheerful.store/airbuccaneers/</link>
+		<comments>http://cheap-and-cheerful.store/airbuccaneers/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Free to Play]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Welcome to the ancient North, once the cradle of culture and peace, but is now corrupted by magic and inhabited by nasty bandits sowing destruction in airships. Choose to be a vicious Buccaneer or an infamous Viking and take a glider to the skies. Your goal is to drop enemy vessels and secure dominance of [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/airbuccaneers/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

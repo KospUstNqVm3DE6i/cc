@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/features/cross-platform-multiplayer/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,313 +26,315 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>XCOM: Enemy Within</title>
-		<link>http://cheap-and-cheerful.store/xcom-enemy-within/</link>
-		<comments>http://cheap-and-cheerful.store/xcom-enemy-within/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/xcom-enemy-within</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/xcom-enemy-within/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Team Fortress 2</title>
-		<link>http://cheap-and-cheerful.store/team-fortress-2/</link>
-		<comments>http://cheap-and-cheerful.store/team-fortress-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[Free to Play]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/team-fortress-2</guid>
-		<description><![CDATA[The Tough Break Update is Now Available! Acerca del juego &#8220;No podrás pasártelo mejor online&#8221; &#8211; PC Gamer ¡Es ahora GRATIS! ¡No hay truco! ¡Juega todo lo que quieras, el tiempo que quieras! ¡El juego gratuito más valorado de todos los tiempos! Uno de los juegos de acción online más popular, Team Fortress 2, publica [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/team-fortress-2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Cities in Motion 2</title>
-		<link>http://cheap-and-cheerful.store/cities-in-motion-2/</link>
-		<comments>http://cheap-and-cheerful.store/cities-in-motion-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Age of Wonders III</title>
+		<link>http://cheap-and-cheerful.store/age-of-wonders-iii/</link>
+		<comments>http://cheap-and-cheerful.store/age-of-wonders-iii/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/cities-in-motion-2</guid>
-		<description><![CDATA[Steam Workshop Now you can create and share new rules, scenarios, and maps for your cities and vehicles. Tweak game values to increase bus capacity, create new objectives, or create entirely new custom city maps. Subscribe to other modifications made and shared by the community to expand your game. Acerca del juego Cities in Motion [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/cities-in-motion-2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Lunar Flight</title>
-		<link>http://cheap-and-cheerful.store/lunar-flight/</link>
-		<comments>http://cheap-and-cheerful.store/lunar-flight/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[VR Support]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/lunar-flight</guid>
-		<description><![CDATA[Una versión moderna del clásico juego arcade Lunar Lander, Lunar Flight amplía la experiencia a un ficticio simulador de módulo lunar completamente accesible que proporciona una variedad de misiones relativas a transportar cargamento, adquirir datos en lugares de prospección y localizar mercancía perdida. Completar misiones te proporciona puntos de experiencia y dinero para repostar, reparar [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/lunar-flight/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Legends of Aethereus</title>
-		<link>http://cheap-and-cheerful.store/legends-of-aethereus/</link>
-		<comments>http://cheap-and-cheerful.store/legends-of-aethereus/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/legends-of-aethereus</guid>
-		<description><![CDATA[The planet of Aethereus is an ancient and mysterious world filled with majestic forests, misty swamps, deep caves and ancient ruins. Devastated by three large astronomical events, the Three Great Skyfalls, it is a world just coming out of chaos and ruin. The recent unearthing of The Gauldron Tablets has revealed the existence of The [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/legends-of-aethereus/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Age of Wonders III is the long anticipated sequel to the award-winning strategy series. Delivering a unique mix of Empire Building, Role Playing and Warfare, Age of Wonders III offers the ultimate in turn-based fantasy strategy for veterans of the series and new players alike! Create an Empire in your own Image Rule as one [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/age-of-wonders-iii/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Noct</title>
-		<link>http://cheap-and-cheerful.store/noct/</link>
-		<comments>http://cheap-and-cheerful.store/noct/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Tropico 5</title>
+		<link>http://cheap-and-cheerful.store/tropico-5/</link>
+		<comments>http://cheap-and-cheerful.store/tropico-5/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
+				<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/noct</guid>
-		<description><![CDATA[Once our home and record of modern civilization, the Earth is a ruined wasteland engulfed in perpetual darkness. Older than any recorded texts, an ancient evil descended upon our world without warning, consuming the population and leaving only despair behind in its wake. The unfortunate survivors of this purge now struggle to overcome the horrific [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/noct/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Vuelve a la remota isla nación de Trópico en la nueva entrega de la famosa y aclamada saga de &#34;simulación de una dictadura&#34;. Expande el reinado de tu dinastía desde el periodo colonial hasta más allá del siglo XXI y enfréntate a nuevos retos, incluidos mecanismos comerciales avanzados, investigación científica y tecnológica y exploración. Las [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/tropico-5/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Protocol</title>
-		<link>http://cheap-and-cheerful.store/protocol/</link>
-		<comments>http://cheap-and-cheerful.store/protocol/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>FORCED</title>
+		<link>http://cheap-and-cheerful.store/forced/</link>
+		<comments>http://cheap-and-cheerful.store/forced/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Swedish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Forced es un juego de acción arcade co-operativo co-operativo de uno a cuatro jugadores con elementos de RPG, puzle y estrategia. Habéis sido forzados como esclavos a luchar en el entrenamiento de gladiadores de fantasía más difícil de todos ellos, condenados a luchar como gladiadores y finalmente reclamar vuestra libertad. Os enfrentaréis a pruebas mortales [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/forced/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Spectre</title>
+		<link>http://cheap-and-cheerful.store/spectre/</link>
+		<comments>http://cheap-and-cheerful.store/spectre/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Spectre is a breakthrough that brings new experiences in virtual reality to horror fans creating film-like suspense and surprises. Designed for immersive virtual reality and 3D, truly original gameplay has players pursued by the chilling Spectre in stunning and terrifying environments. In Spectre&#8217;s single player mode, you play as a lone Seeker, a wanderer lost [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/spectre/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CO-OP : Decrypted</title>
+		<link>http://cheap-and-cheerful.store/co-op-decrypted/</link>
+		<comments>http://cheap-and-cheerful.store/co-op-decrypted/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Registro de actualizaciones Patch note beta v.02 Added an outline around the sprite in Unlockable Content in the menu Added sound effects in the first cutscene Added Antialisasing in the option menu Added SSAO in the option menu Added subtitles option in the option menu for UPCOMMING NARRATIONS in next update this week Fixed gamebreaking [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/co-op-decrypted/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Voice of Pripyat</title>
+		<link>http://cheap-and-cheerful.store/voice-of-pripyat/</link>
+		<comments>http://cheap-and-cheerful.store/voice-of-pripyat/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[MMO]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/protocol</guid>
-		<description><![CDATA[Use your lightning skill and pace to outwit your enemies. Challenge other players in a deathmatch, team deathmatch or even capture the flag. The game is a cyberpunk themed first person shooter, it uses smooth and easy to grasp parkour to enable players to flank other players and much more. While playing, it&#8217;s probable that [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/protocol/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[3D Action first-person shooter in a post-apocalyptic world. Zombies, anomalies, huge maps, intense realtime battles! Right now there are 5 play modes available &#8211; team deathmatch(TDM), deathmatch(DM), capture the flag (CTF), zombie mode (ZM) and peace mode. A lot of maps available for players &#8211; starting with small ones for quick fights to the big [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/voice-of-pripyat/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Lethal League</title>
-		<link>http://cheap-and-cheerful.store/lethal-league/</link>
-		<comments>http://cheap-and-cheerful.store/lethal-league/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Tidalis</title>
+		<link>http://cheap-and-cheerful.store/tidalis/</link>
+		<comments>http://cheap-and-cheerful.store/tidalis/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Sports]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/lethal-league</guid>
-		<description><![CDATA[Lethal League es un juego de lucha de proyectiles competitivo en el que tienes que estamparle una pelota de anti-gravedad a tu oponente para ganar. La pelota acelera con cada golpe hasta velocidades extremas. Juega de forma local o por Internet. Características: – Hasta 4 jugadores: Partidas locales Y por Internet con hasta cuatro jugadores [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/lethal-league/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Tidalis es un juego de puzle con bloques con aspecto casual, alma hardcore y una nueva y adictiva mecánica de &#34;corrientes&#34;. El juego está repleto de cambios de ritmo y variantes en su mecánica principal con 20 modos de juego, docenas de bloques y objetos especiales y 115 niveles sólo en el modo aventura. Las [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/tidalis/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>SPACECOM</title>
-		<link>http://cheap-and-cheerful.store/spacecom/</link>
-		<comments>http://cheap-and-cheerful.store/spacecom/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Wild Frontera</title>
+		<link>http://cheap-and-cheerful.store/wild-frontera/</link>
+		<comments>http://cheap-and-cheerful.store/wild-frontera/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Wild Frontera is a top-down action shooter set in a western-fantasy world You are a lonesome gunslinger, that will have to get rid of hordes of enemies and defeat spectacular bosses in order to escape to the frontier. Armed with a rusty six-shooter that you can swap very quickly for new weapons, for a fistfull [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/wild-frontera/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Killing Floor &#8211; Community Weapon Pack</title>
+		<link>http://cheap-and-cheerful.store/killing-floor-community-weapon-pack/</link>
+		<comments>http://cheap-and-cheerful.store/killing-floor-community-weapon-pack/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/killing-floor-community-weapon-pack/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Battle Academy</title>
+		<link>http://cheap-and-cheerful.store/battle-academy/</link>
+		<comments>http://cheap-and-cheerful.store/battle-academy/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¡Un exitoso juego de estrategia por turnos ha llegado a Steam! Se trata del juego de estrategia que se ha convertido en el nº 1 en la App Store de 46 países. Accesible, envolvente, detallado y visualmente impresionante. Battle Academy quiere revolucionar el mercado de los juegos de estrategia gracias a su fusión del diseño [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/battle-academy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DiRT 3 Complete Edition</title>
+		<link>http://cheap-and-cheerful.store/dirt-3-complete-edition/</link>
+		<comments>http://cheap-and-cheerful.store/dirt-3-complete-edition/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Consigue la Edición Completa de DiRT 3, la edición de competición off-road de DiRT 3 definitiva ampliada ahora con contenido adicional y mejorada mediante la integración de Steamworks, que dispone de logros, marcadores y partidas guardadas en Steam Cloud. En DiRT 3 Edición Completa, pilotarás coches míticos que abarcan 50 años de carreras en tres [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/dirt-3-complete-edition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wargame: Airland Battle</title>
+		<link>http://cheap-and-cheerful.store/wargame-airland-battle/</link>
+		<comments>http://cheap-and-cheerful.store/wargame-airland-battle/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/spacecom</guid>
-		<description><![CDATA[Game Demo Not sure if you&#8217;ll like the game? Download our DEMO and try our Single Player campaign and our challenging Multiplayer mode! Get the Steam DEMO now! Acerca del juego SPACECOM – a strategic-to-the-bone, starfleet command game in which deception, smart movement, and choices to battle decide victory or defeat. No coincidence, no luck. [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/spacecom/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>7 Days to Die</title>
-		<link>http://cheap-and-cheerful.store/7-days-to-die/</link>
-		<comments>http://cheap-and-cheerful.store/7-days-to-die/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Early Access]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/7-days-to-die</guid>
-		<description><![CDATA[HOW LONG WILL YOU SURVIVE? 7 Days to Die has redefined the survival genre, with unrivaled crafting and world-building content. Set in a brutally unforgiving post-apocalyptic world overrun by the undead, 7 Days to Die is an open-world game that is a unique combination of first person shooter, survival horror, tower defense, and role-playing games. [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/7-days-to-die/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Torchlight II</title>
-		<link>http://cheap-and-cheerful.store/torchlight-ii/</link>
-		<comments>http://cheap-and-cheerful.store/torchlight-ii/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/torchlight-ii</guid>
-		<description><![CDATA[Vuelve el galardonado RPG de acción, ¡ahora más grande y mejor que nunca! Torchlight II te lleva de vuelta al peculiar y acelerado mundo de monstruos sedientos de sangre, abundantes tesoros y siniestros secretos, y una vez más, ¡el destino del mundo está en tus manos! Torchlight II captura todo el sabor y la emoción [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/torchlight-ii/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Europa Universalis IV: El Dorado</title>
-		<link>http://cheap-and-cheerful.store/europa-universalis-iv-el-dorado/</link>
-		<comments>http://cheap-and-cheerful.store/europa-universalis-iv-el-dorado/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/europa-universalis-iv-el-dorado</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/europa-universalis-iv-el-dorado/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[2 SIDES, 12 NATIONS, 750 UNITS: THE STRATEGY GAME REFERENCE IS BACK! Richer, more beautiful and more accessible, Wargame AirLand Battle is the sequel to the explosive real-time strategy game Wargame European Escalation! 1985. After several months of tension between NATO and the Warsaw Pact, an incident in the North Sea suddenly sets the world [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/wargame-airland-battle/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

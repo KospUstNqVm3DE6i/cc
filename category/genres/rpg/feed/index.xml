@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/genres/rpg/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,51 +26,51 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>7 Days to Die</title>
-		<link>http://cheap-and-cheerful.store/7-days-to-die/</link>
-		<comments>http://cheap-and-cheerful.store/7-days-to-die/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>DARK</title>
+		<link>http://cheap-and-cheerful.store/dark/</link>
+		<comments>http://cheap-and-cheerful.store/dark/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/7-days-to-die</guid>
-		<description><![CDATA[HOW LONG WILL YOU SURVIVE? 7 Days to Die has redefined the survival genre, with unrivaled crafting and world-building content. Set in a brutally unforgiving post-apocalyptic world overrun by the undead, 7 Days to Die is an open-world game that is a unique combination of first person shooter, survival horror, tower defense, and role-playing games. [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/7-days-to-die/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Divine Divinity</title>
-		<link>http://cheap-and-cheerful.store/divine-divinity/</link>
-		<comments>http://cheap-and-cheerful.store/divine-divinity/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/divine-divinity</guid>
-		<description><![CDATA[Listado entre los &#8220;100 Mejores juegos para PC de Todos los Tiempos&#8221; por PC GAMER (2012), Divine Divinity es un épico juego de rol con acción hack-and-slash que ofrece un amplio mundo para explorar y miles de objetos para investigar, comercial y utilizar. El juego narra la inacabable batalla entre valerosos héroes y los destructivos [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/divine-divinity/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[DARK is a unique stealth-action game with RPG elements in which you take on the role of the ultimate hunter: a vampire. Ambush your enemies from the shadows, roam the darkness and use powerful vampire skills to dispatch your opponents. The intricate story of DARK will take you into the midst of a world of [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/dark/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Demigod</title>
+		<link>http://cheap-and-cheerful.store/demigod/</link>
+		<comments>http://cheap-and-cheerful.store/demigod/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[The all father has vanished, creating an opening in the pantheon. To fill the void, Demigods from across from the mortal world must wage war against one another in a bid to ascend to true godhood. Set in a magical world where gods walk among mortals, Demigod blends action, strategy and role-playing elements into a [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/demigod/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Fallout: A Post Nuclear Role Playing Game</title>
 		<link>http://cheap-and-cheerful.store/fallout-a-post-nuclear-role-playing-game/</link>
 		<comments>http://cheap-and-cheerful.store/fallout-a-post-nuclear-role-playing-game/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
@@ -80,40 +80,45 @@
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/fallout-a-post-nuclear-role-playing-game</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[Te acabas de topar con el clásico juego de rol postapocalíptico que revitalizó todo el género. El sistema SPECIAL de Fallout® te permite desarrollar diferentes tipos de personaje y tomar decisiones significativas, todo bajo tu completo control. Explora las ruinas devastadas de una civilización de la Edad de Oro. Habla, infíltrate o combate contra mutantes, [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/fallout-a-post-nuclear-role-playing-game/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Magicka: Holiday Spirit Item Pack</title>
-		<link>http://cheap-and-cheerful.store/magicka-holiday-spirit-item-pack/</link>
-		<comments>http://cheap-and-cheerful.store/magicka-holiday-spirit-item-pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Magicka: Heirlooms Item Pack</title>
+		<link>http://cheap-and-cheerful.store/magicka-heirlooms-item-pack/</link>
+		<comments>http://cheap-and-cheerful.store/magicka-heirlooms-item-pack/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/magicka-holiday-spirit-item-pack</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-holiday-spirit-item-pack/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-heirlooms-item-pack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>PAYDAY 2: Dragan Character Pack</title>
-		<link>http://cheap-and-cheerful.store/payday-2-dragan-character-pack/</link>
-		<comments>http://cheap-and-cheerful.store/payday-2-dragan-character-pack/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>PAYDAY 2: The Big Bank Heist</title>
+		<link>http://cheap-and-cheerful.store/payday-2-the-big-bank-heist/</link>
+		<comments>http://cheap-and-cheerful.store/payday-2-the-big-bank-heist/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
@@ -121,9 +126,9 @@
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
@@ -131,37 +136,41 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/payday-2-dragan-character-pack</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/payday-2-dragan-character-pack/feed/</wfw:commentRss>
+		<wfw:commentRss>http://cheap-and-cheerful.store/payday-2-the-big-bank-heist/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Binding of Isaac Collection</title>
-		<link>http://cheap-and-cheerful.store/the-binding-of-isaac-collection/</link>
-		<comments>http://cheap-and-cheerful.store/the-binding-of-isaac-collection/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>State of Decay</title>
+		<link>http://cheap-and-cheerful.store/state-of-decay/</link>
+		<comments>http://cheap-and-cheerful.store/state-of-decay/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/the-binding-of-isaac-collection</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/the-binding-of-isaac-collection/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Ha llegado el fin. La vida tal como la conocías se ha extinguido tras la mayor invasión zombi de la historia. Ahora tú y los pocos supervivientes que quedan debéis agruparos para sobrevivir y reconstruir en este juego de acción en tercera persona ambientado en un dinámico mundo abierto. Elige un lugar para defenderte, diseña [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/state-of-decay/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Hammerwatch</title>
 		<link>http://cheap-and-cheerful.store/hammerwatch/</link>
 		<comments>http://cheap-and-cheerful.store/hammerwatch/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
@@ -179,118 +188,100 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/hammerwatch</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[Steam Greenlight Acerca del juego A hack and slash action adventure, set in a fantasy pixel art environment. Play solo or co-op in this adventure from bottom to top of Castle Hammerwatch. Kill hordes of enemies with varied looks and features through four unique environments with traps, hidden secrets and puzzles. Key Features 6 different [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/hammerwatch/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Pillars of Eternity</title>
-		<link>http://cheap-and-cheerful.store/pillars-of-eternity/</link>
-		<comments>http://cheap-and-cheerful.store/pillars-of-eternity/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Titan Quest</title>
+		<link>http://cheap-and-cheerful.store/titan-quest/</link>
+		<comments>http://cheap-and-cheerful.store/titan-quest/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Commentary available]]></category>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/pillars-of-eternity</guid>
-		<description><![CDATA[Champion Edition Pillars of Eternity Champion Edition: Digital Original Soundtrack: This soundtrack contains many of the game&#8217;s music tracks performed by a live orchestra. Contains at least 17 tracks in MP3 and FLAC formats. Digital Campaign Almanac: The Campaign Almanac contains everything related to the lore, history, and world of Eora as originally told by [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/pillars-of-eternity/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Узнайте храбрость, которая превращает Героев в Легенды. От со-создателя Age of Empires Брайана Салливана и писателя Храброго сердца Рэндола Уолласа приходит новаторская, всем новая боевая ролевая игра, разворачивающаяся в древней Греции, Египте и Азии. Титаны сбежали из их вечной тюрьмы, неся разрушение на землю. Боги ищут героя, который может изменить ход событий в эпической борьбе, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/titan-quest/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>System Shock 2</title>
-		<link>http://cheap-and-cheerful.store/system-shock-2/</link>
-		<comments>http://cheap-and-cheerful.store/system-shock-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/system-shock-2</guid>
-		<description><![CDATA[&#34;Remember, it is my will that guided you here. It is my will that gave you your cybernetic implants, the only beauty in that meat you call a body. If you value that meat&#8230; you will do as I tell you.&#34; The cult classic sci-fi horror FPS-RPG has returned. You awake from the cold chill [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/system-shock-2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Transistor</title>
-		<link>http://cheap-and-cheerful.store/transistor/</link>
-		<comments>http://cheap-and-cheerful.store/transistor/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Zombie Shooter 2</title>
+		<link>http://cheap-and-cheerful.store/zombie-shooter-2/</link>
+		<comments>http://cheap-and-cheerful.store/zombie-shooter-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/transistor</guid>
-		<description><![CDATA[Transistor, de los creadores de Bastion, es un juego de rol con temática de ciencia ficción que te invita a blandir un arma extraordinaria de origen desconocido para luchar a lo largo y ancho de una espectacular ciudad futurista. El juego fusiona a la perfección elementos de planificación estratégica y analítica en una experiencia de [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/transistor/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Zombie Shooter 2 es una mezcla única de dos géneros: acción y RPG. Cada jugador puede elegir un personaje a su gusto, conseguir experiencia para desarrollar habilidades y dinero para gastarlo en armas, medicamentos y útiles artilugios. Todo esto se usará contra miles de enemigos. Los zombis llenan la pantalla sin dejarte descansar ni un [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/zombie-shooter-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Banner Saga 2</title>
-		<link>http://cheap-and-cheerful.store/the-banner-saga-2/</link>
-		<comments>http://cheap-and-cheerful.store/the-banner-saga-2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Bionic Dues</title>
+		<link>http://cheap-and-cheerful.store/bionic-dues/</link>
+		<comments>http://cheap-and-cheerful.store/bionic-dues/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/the-banner-saga-2</guid>
-		<description><![CDATA[Recién actualizado Survival Mode is a new gameplay mode that is all about staying alive through as many battles as possible! To play, simply click on the Survival Mode banner on the start screen of Banner Saga 2. Note: This is a gameplay mode available to all Banner Saga 2 owners and not a separate [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/the-banner-saga-2/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Robot rebellions should be quelled by the best of the best. When the best of the best are killed&#8230; it&#8217;s up to you. Subdue the uprising in time, or your corporate overlords nuke the city. Bionic Dues is a tactical, turn-based roguelite with mech customization. Guide multiple classes of Exos through a variety of missions [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/bionic-dues/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Holy Avatar vs. Maidens of the Dead</title>
-		<link>http://cheap-and-cheerful.store/holy-avatar-vs-maidens-of-the-dead/</link>
-		<comments>http://cheap-and-cheerful.store/holy-avatar-vs-maidens-of-the-dead/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Advent</title>
+		<link>http://cheap-and-cheerful.store/advent/</link>
+		<comments>http://cheap-and-cheerful.store/advent/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
+				<category><![CDATA[English]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/holy-avatar-vs-maidens-of-the-dead</guid>
-		<description><![CDATA[Following the success of the RPG-Parody Grotesque Tactics franchise, comes a spin-off nestled in the heart of a tropical zombie bevvy of beauties against the greatest hero of them all, conveniently titled: Holy Avatar vs. Maidens of the Dead As the story goes&#8230; &#8230;after the last great battle, our hero Holy Avatar decides to grab [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/holy-avatar-vs-maidens-of-the-dead/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Havilah and Asharia are at war. It&#8217;s not the first time and it probably won&#8217;t be the last. But, what the people of these countries don&#8217;t know is that these wars have already been foretold. The 4 ancient tablets left behind by the &#34;Creator&#34; prophesy of other things as well but, no one knows what [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/advent/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Moorhuhn: Tiger and Chicken</title>
+		<link>http://cheap-and-cheerful.store/moorhuhn-tiger-and-chicken/</link>
+		<comments>http://cheap-and-cheerful.store/moorhuhn-tiger-and-chicken/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[The Crazy Chicken first saw the light of day 17 years ago, and has been on lots of adventures since then. Now it&#8217;s back to face its biggest challenge yet: In Crazy Chicken: Tiger &#38; Chicken, you play the hero in a fast-paced story filled with terrifying enemies and dramatic combat. As a Shaolin fighter, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/moorhuhn-tiger-and-chicken/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

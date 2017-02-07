@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/features/steam-turn-notifications/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -29,7 +29,7 @@
 		<title>Action Henk</title>
 		<link>http://cheap-and-cheerful.store/action-henk/</link>
 		<comments>http://cheap-and-cheerful.store/action-henk/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Cross-Platform Multiplayer]]></category>
@@ -54,42 +54,16 @@
 		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Swedish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/action-henk</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[Run, jump and butt-slide into the glorious toy-filled world of Action Henk! Become a master of momentum and defy physics as you race against a band of ragged 90s action figures to once and for all prove that Action Henk is the fastest of them all! With over 70 tracks all set in different environments, [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/action-henk/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Khet 2.0</title>
-		<link>http://cheap-and-cheerful.store/khet-2-0/</link>
-		<comments>http://cheap-and-cheerful.store/khet-2-0/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Turn Notifications]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/khet-2-0</guid>
-		<description><![CDATA[Officially licensed version of the “Mensa Select” award-winning board game! The Laser Game Khet 2.0: Mind blowing laser fun for players ages 9-99. Using simple rules that can be learned in minutes players alternate turns moving Egyptian themed mirrored pieces, after which they fire their laser with the goal of blasting their opponents Pharaoh to [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/khet-2-0/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Sky Mercenaries</title>
 		<link>http://cheap-and-cheerful.store/sky-mercenaries/</link>
 		<comments>http://cheap-and-cheerful.store/sky-mercenaries/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Commentary available]]></category>
@@ -108,16 +82,65 @@
 		<category><![CDATA[Steam Turn Notifications]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/sky-mercenaries</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[An epic sky battle awaits you! Choose your pilot and fighter to join the ultimate 2D S.H.M.U.P action ! Fight over 50 enemy types on 8 worlds in over 32 story missions and unlimited random content. Be prepared for the overpowering enemy fleet and challenging bossfights. Upgrade your fighters, drones and pilots the way you [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/sky-mercenaries/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Khet 2.0</title>
+		<link>http://cheap-and-cheerful.store/khet-20/</link>
+		<comments>http://cheap-and-cheerful.store/khet-20/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Turn Notifications]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Officially licensed version of the “Mensa Select” award-winning board game! The Laser Game Khet 2.0: Mind blowing laser fun for players ages 9-99. Using simple rules that can be learned in minutes players alternate turns moving Egyptian themed mirrored pieces, after which they fire their laser with the goal of blasting their opponents Pharaoh to [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/khet-20/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Last Warlock</title>
+		<link>http://cheap-and-cheerful.store/the-last-warlock/</link>
+		<comments>http://cheap-and-cheerful.store/the-last-warlock/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Turn Notifications]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[The Last Warlock is a turn based strategy and role-playing game. Command your Warlock across a series of hand-crafted quests, encountering monsters, traps, puzzles and enemy Warlocks! &#8211; Journey through varied magical lands on your quest to discover the secret of the last warlock. &#8211; Featuring over 60 spells. &#8211; Summon mythical creatures to do [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-last-warlock/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Frozen Synapse</title>
 		<link>http://cheap-and-cheerful.store/frozen-synapse/</link>
 		<comments>http://cheap-and-cheerful.store/frozen-synapse/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
 		<category><![CDATA[Indie]]></category>
@@ -128,7 +151,7 @@
 		<category><![CDATA[Steam Turn Notifications]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/frozen-synapse</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[Frozen Synapse es el juego táctico para PC y Mac definitivo. Pone al día el género de estrategia por turnos simultáneos y te permite dar órdenes detalladas y precisas a tu equipo, todo mediante un sistema de juego clásico con una moderna interfaz.Planea tus movimientos, ponlos a prueba y entonces pulsa el botón &#34;Prime&#34;: tus [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/frozen-synapse/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>

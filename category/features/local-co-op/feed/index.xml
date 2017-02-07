@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/features/local-co-op/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,236 +26,197 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>LEGO The Lord of the Rings</title>
-		<link>http://cheap-and-cheerful.store/lego-the-lord-of-the-rings/</link>
-		<comments>http://cheap-and-cheerful.store/lego-the-lord-of-the-rings/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Age of Wonders III</title>
+		<link>http://cheap-and-cheerful.store/age-of-wonders-iii/</link>
+		<comments>http://cheap-and-cheerful.store/age-of-wonders-iii/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Age of Wonders III is the long anticipated sequel to the award-winning strategy series. Delivering a unique mix of Empire Building, Role Playing and Warfare, Age of Wonders III offers the ultimate in turn-based fantasy strategy for veterans of the series and new players alike! Create an Empire in your own Image Rule as one [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/age-of-wonders-iii/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Magicka: The Stars Are Left</title>
+		<link>http://cheap-and-cheerful.store/magicka-the-stars-are-left/</link>
+		<comments>http://cheap-and-cheerful.store/magicka-the-stars-are-left/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-the-stars-are-left/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Street Fighter X Tekken</title>
+		<link>http://cheap-and-cheerful.store/street-fighter-x-tekken/</link>
+		<comments>http://cheap-and-cheerful.store/street-fighter-x-tekken/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Will You Cross the Line? The long awaited dream match-up between the two titans of fighting is here! Street Fighter® X Tekken® is the ultimate tag team fighting game, featuring one of the most expansive rosters of iconic fighters in fighting game history. The critically acclaimed Street Fighter® IV game engine has been refined with [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/street-fighter-x-tekken/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Awesomenauts</title>
+		<link>http://cheap-and-cheerful.store/awesomenauts/</link>
+		<comments>http://cheap-and-cheerful.store/awesomenauts/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/lego-the-lord-of-the-rings</guid>
-		<description><![CDATA[Based on The Lord of the Rings motion picture trilogy, LEGO® The Lord of the Rings follows the original story-lines of The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, and The Lord of the Rings: The Return of the King, taking players through the epic [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/lego-the-lord-of-the-rings/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Magicka: The Watchtower</title>
-		<link>http://cheap-and-cheerful.store/magicka-the-watchtower/</link>
-		<comments>http://cheap-and-cheerful.store/magicka-the-watchtower/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/magicka-the-watchtower</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/magicka-the-watchtower/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>WWE 2K15</title>
-		<link>http://cheap-and-cheerful.store/wwe-2k15/</link>
-		<comments>http://cheap-and-cheerful.store/wwe-2k15/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/wwe-2k15</guid>
-		<description><![CDATA[¡WWE 2K15 da comienzo a una nueva era de videojuegos de la WWE! WWE 2K15 ofrece los golpes más fuertes y la jugabilidad de la WWE más fluida hasta la fecha, más parecida que nunca a lo que los fans ven en los programas de la WWE. Con importantes mejoras en la jugabilidad, una presentación [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/wwe-2k15/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Shadow Puppeteer</title>
-		<link>http://cheap-and-cheerful.store/shadow-puppeteer/</link>
-		<comments>http://cheap-and-cheerful.store/shadow-puppeteer/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Swedish]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/shadow-puppeteer</guid>
-		<description><![CDATA[Invite a friend to explore the strange, yet beautiful world of darkness and light in Shadow Puppeteer, an award-winning, local co-op adventure. Assume the roles of a boy and his shadow, separated from one another by the evil shadow puppeteer. Work together to manipulate light, solving puzzles that bring you closer to finding this villain [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/shadow-puppeteer/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[New matchmaking! A new update for Awesomenauts is now available, featuring a completely overhauled matchmaking system, a new party system, and reworked menus. There has never been a better time to be playing Awesomenauts! Acerca del juego Es el año 3587. El conflicto se extiende por las estrellas con guerras eternas entre ejércitos de robots. [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/awesomenauts/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>How to Survive</title>
-		<link>http://cheap-and-cheerful.store/how-to-survive/</link>
-		<comments>http://cheap-and-cheerful.store/how-to-survive/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Contagion</title>
+		<link>http://cheap-and-cheerful.store/contagion/</link>
+		<comments>http://cheap-and-cheerful.store/contagion/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/how-to-survive</guid>
-		<description><![CDATA[Oferta especial How to Survive 2 on Early Access is available now! Also remember that if you own How to Survive 1 there is special gift waiting for you! http://store.steampowered.com/app/360170 Survivor Loyalty Item: “Primal Fear” Armor Set. If you are already a survivor who’s got How to Survive or How to Survive: Third Person Standalone [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/how-to-survive/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dead Pixels</title>
-		<link>http://cheap-and-cheerful.store/dead-pixels/</link>
-		<comments>http://cheap-and-cheerful.store/dead-pixels/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/dead-pixels</guid>
-		<description><![CDATA[Un derrame tóxico ha llegado al suministro de agua, provocando que los nuevos difuntos se levanten de sus tumbas. Ahora depende de ti abrirte camino entre las hordas de no muertos para escapar de la ciudad. De camino, registrarás las tiendas y casas para conseguir suministros e intercambiarlos con otros supervivientes. Con tres modos de [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/dead-pixels/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Drive to Hell</title>
-		<link>http://cheap-and-cheerful.store/drive-to-hell/</link>
-		<comments>http://cheap-and-cheerful.store/drive-to-hell/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/drive-to-hell</guid>
-		<description><![CDATA[Drive to Hell is an action-packed shooter where you&#8217;ll take a ride through an army of monsters to exact revenge on the Demon King for destroying your favorite dive bar. Enemies assault from all sides, each with its own special personality and attack style. To take them down, you&#8217;ll have access to many weapons and [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/drive-to-hell/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Vanguard Princess Lilith</title>
-		<link>http://cheap-and-cheerful.store/vanguard-princess-lilith/</link>
-		<comments>http://cheap-and-cheerful.store/vanguard-princess-lilith/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Steam Workshop]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/vanguard-princess-lilith</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/vanguard-princess-lilith/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[What they&#8217;re saying about Contagion &#34;Contagion aims to save the zombie game genre from itself&#34; -GamesBeat &#34;Contagion does have a small role to play in the great gaming zombie apocalypse. I quite like it.&#34; -RockPaperShotgun &#34;Contagion is a gory, addictive horror game that’s well worth its $20 price tag&#34; -Bloody-Disgusting &#34;Contagion presents a tense survival [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/contagion/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Abyss Odyssey</title>
-		<link>http://cheap-and-cheerful.store/abyss-odyssey/</link>
-		<comments>http://cheap-and-cheerful.store/abyss-odyssey/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Capsule Force</title>
+		<link>http://cheap-and-cheerful.store/capsule-force/</link>
+		<comments>http://cheap-and-cheerful.store/capsule-force/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Steam Big Picture Acerca del juego Sumérgete en la lucha por el control de las galaxias con este juego multijugador inspirado en un anime espacial de los años 80. Dispara, esquiva rayos de energía y desvía proyectiles mientras conduces tu vagoneta a toda velocidad hacia la base enemiga. ¡Hazte con la cápsula para capturar la [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/capsule-force/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Anode</title>
+		<link>http://cheap-and-cheerful.store/anode/</link>
+		<comments>http://cheap-and-cheerful.store/anode/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/abyss-odyssey</guid>
-		<description><![CDATA[El desarrollador indie chileno ACE Team nos trae un juego de acción y aventura de desplazamiento lateral, modernista con un complejo motor de lucha de niveles generados procesalmente que destina a sus tres guerreros a luchar toda la eternidad. Conoce a la osada Katrien, el torturado espectro Monje Fantasma y la etérea Pincoya. Haz combos, [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/abyss-odyssey/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Caen sin parar bloques de colores. Los giras y los bajas. Alineas piezas cada vez más rápido, creando enlaces que encadenan colores, rellenando huecos. Tocas un bloque con un detonador y la cadena entera explota. Los bloques de encima bajan, otro detonador toca, y otra cadena se va. Luego otra&#8230; Anode reintroduce el clásico género [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/anode/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Teddy Floppy Ear &#8211; The Race</title>
 		<link>http://cheap-and-cheerful.store/teddy-floppy-ear-the-race/</link>
 		<comments>http://cheap-and-cheerful.store/teddy-floppy-ear-the-race/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
 		<category><![CDATA[Full controller support]]></category>
@@ -271,53 +232,105 @@
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/teddy-floppy-ear-the-race</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[People of Animalville got a carting fever and you must help one of them reach for the championship. Take the wheel, choose a kart, decide which character from &#8216;Teddy Floppy Ear’ universe you want, and start the wild ride! Compete all day long on nightly and daily tracks that span around the beautiful and colorful [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/teddy-floppy-ear-the-race/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Jamsouls</title>
-		<link>http://cheap-and-cheerful.store/jamsouls/</link>
-		<comments>http://cheap-and-cheerful.store/jamsouls/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>NeXus: One Core</title>
+		<link>http://cheap-and-cheerful.store/nexus-one-core/</link>
+		<comments>http://cheap-and-cheerful.store/nexus-one-core/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[NeXus: One Core is fast. It is challenging. It will test your skills like only a few games did before. Ready yourself for a extreme survival run paced by an immersive DnB Music. Set on a straight-line futurist track, your goal is to avoid obstacles while changing your ship color to pass deadly portals. Play [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/nexus-one-core/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Vertical Drop Heroes HD</title>
+		<link>http://cheap-and-cheerful.store/vertical-drop-heroes-hd/</link>
+		<comments>http://cheap-and-cheerful.store/vertical-drop-heroes-hd/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Vertical Drop Heroes is a procedural platformer RPG hybrid with roguelike elements, where your hero adventures through randomly generated stages. Armed with a variety of skills and traits, you must use your cunning and reflexes to survive the dangers of each stage, until you face the final boss and uncover the truth behind the game! [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/vertical-drop-heroes-hd/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Square Heroes</title>
+		<link>http://cheap-and-cheerful.store/square-heroes/</link>
+		<comments>http://cheap-and-cheerful.store/square-heroes/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/jamsouls</guid>
-		<description><![CDATA[Get ready for some crazy battles with your friends in the colorful arenas of Jamsouls! In the hope of bringing back the golden era of multiplayer classics, Jamsouls focuses on fast-paced and manic fun with simple and accessible gameplay. Take control of one of nine naughty evils freed from Pandora&#8217;s Box and fight your friends [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/jamsouls/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Eres una máquina de matar modificada genéticamente y tienes todo el tiempo del mundo. Ya conseguiste tu objetivo original de salvar a la humanidad y ahora te dedicas a acabar con los contrincantes que se te ponen por delante en el torneo de héroes galáctico. Perfecciona tus habilidades y aumenta el nivel de tu héroe [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/square-heroes/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>ASDAD: All-Stars Dungeons and Diamonds</title>
-		<link>http://cheap-and-cheerful.store/asdad-all-stars-dungeons-and-diamonds/</link>
-		<comments>http://cheap-and-cheerful.store/asdad-all-stars-dungeons-and-diamonds/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Watchmen: The End is Nigh</title>
+		<link>http://cheap-and-cheerful.store/watchmen-the-end-is-nigh/</link>
+		<comments>http://cheap-and-cheerful.store/watchmen-the-end-is-nigh/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/asdad-all-stars-dungeons-and-diamonds</guid>
-		<description><![CDATA[ALL-STARS DUNGEONS AND DIAMONDS (ASDAD for short) is a competitive Arcade-style game where two players face each other in a diamond-collecting race. The player with the largest number of gems at the end of the round wins. Things quickly become more complicated, though, as collecting diamonds will reveal items buried underground that will grant players [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/asdad-all-stars-dungeons-and-diamonds/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[La línea que separa el bien y el mal se han difuminado. El crimen y el terror proliferan por las calles. Los callejones, los tejados y hasta las alcantarillas están plagados de criminales y de brutales bandas. Ahora Underboss, tras una temeraria huida, se ha fugado de la cárcel y gobierna entre las tinieblas. La [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/watchmen-the-end-is-nigh/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

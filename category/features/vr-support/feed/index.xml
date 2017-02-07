@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/features/vr-support/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,214 +26,86 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>MotorSport Revolution</title>
-		<link>http://cheap-and-cheerful.store/motorsport-revolution/</link>
-		<comments>http://cheap-and-cheerful.store/motorsport-revolution/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Pneuma: Breath of Life</title>
+		<link>http://cheap-and-cheerful.store/pneuma-breath-of-life/</link>
+		<comments>http://cheap-and-cheerful.store/pneuma-breath-of-life/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[VR Support]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/motorsport-revolution</guid>
-		<description><![CDATA[The Game Motorsport Revolution is a single-player, physics-based racing game inspired by classic console racing games, as well as the popular Le Mans Series, which is considered the most challenging sport racing class in the world. With these influences in mind, we’re creating an epic immersive VR motorsport racing experience where players race the world’s [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/motorsport-revolution/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Lemma</title>
-		<link>http://cheap-and-cheerful.store/lemma/</link>
-		<comments>http://cheap-and-cheerful.store/lemma/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[VR Support]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/lemma</guid>
-		<description><![CDATA[Immersive first-person parkour in a surreal, physics-driven voxel world. Lemma enables creative building through movement. Spawn structures just by moving through space. Extend platforms, smash through walls, and build new ones, all through parkour moves. Non-linear story &#8211; four possible endings Oculus Rift support (currently limited to SDK v0.6.0.1-beta) Time trial mode Built-in level editor [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/lemma/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Home is Where One Starts&#8230;</title>
-		<link>http://cheap-and-cheerful.store/home-is-where-one-starts/</link>
-		<comments>http://cheap-and-cheerful.store/home-is-where-one-starts/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/home-is-where-one-starts</guid>
-		<description><![CDATA[“I remember when I was a little girl, waiting at the end of my driveway. I had already missed the school bus, but I stood there anyway… envying the birds.” Home is Where One Starts&#8230; is a short, first-person exploration game in the same vein as Dear Esther or Gone Home. It’s an experience where [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/home-is-where-one-starts/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Pneuma: Breath of Life is an enthralling first person puzzler putting gamers’ minds to the test in a visually stunning world using the power of Unreal Engine 4. Pneuma provides players with a sense of awe and a relentless determination to solve every puzzle and progress through a narrated story of self-discovery, exploring the fundamental [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/pneuma-breath-of-life/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Reflections</title>
-		<link>http://cheap-and-cheerful.store/reflections/</link>
-		<comments>http://cheap-and-cheerful.store/reflections/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>FortressCraft Evolved!</title>
+		<link>http://cheap-and-cheerful.store/fortresscraft-evolved/</link>
+		<comments>http://cheap-and-cheerful.store/fortresscraft-evolved/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[VR Support]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/reflections</guid>
-		<description><![CDATA[What is Reflections? Reflections is a real-world adventure game where every action you take has meaningful consequences that radically shape the experience. The game takes a new approach to story, where everything you do can be woven into a narrative that drastically changes, thanks to our Storyteller engine. Each action you take is punctuated by [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/reflections/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Slender: The Arrival</title>
-		<link>http://cheap-and-cheerful.store/slender-the-arrival/</link>
-		<comments>http://cheap-and-cheerful.store/slender-the-arrival/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[VR Support]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/slender-the-arrival</guid>
-		<description><![CDATA[You&#8217;re on your own. No one to come for you. No one to help you. No one to hear you scream. Slender: The Arrival is the official videogame adaption of Slender Man, developed in collaboration with Eric &#34;Victor Surge&#34; Knudson, creator of the paranormal phenomenon that has been terrifying the curious-minded around the world since [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/slender-the-arrival/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>AdvertCity</title>
-		<link>http://cheap-and-cheerful.store/advertcity/</link>
-		<comments>http://cheap-and-cheerful.store/advertcity/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/advertcity</guid>
-		<description><![CDATA[Broke? Looking to work from THE SKY? Join us in AdvertCity! A huge, procedurally generated place, just waiting to be sold all kinds of junk by YOU! AdvertCity is a cyberpunk advertising tycoon game. Explore a massive procedural city, and plaster your adverts all over it. Float around cyberspace and post links online. Watch the [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/advertcity/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[&#34;In a world where early access and indie usually means abandoned, unfinished garbage, this game&#8217;s post launch development is outpacing many AAA titles and companies.&#34; &#34;This really isn&#8217;t the same game that I originally purchased anymore. With all the changes that have been made over that duration the game is so much more fun now [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/fortresscraft-evolved/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>BlazeRush</title>
-		<link>http://cheap-and-cheerful.store/blazerush/</link>
-		<comments>http://cheap-and-cheerful.store/blazerush/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Spectre</title>
+		<link>http://cheap-and-cheerful.store/spectre/</link>
+		<comments>http://cheap-and-cheerful.store/spectre/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
+				<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/blazerush</guid>
-		<description><![CDATA[BlazeRush is a dynamic arcade racing survival game with no health, no levelling and no brakes! You can assemble a team of friends to play in local or online multiplayer, choose a car to your taste and chase, blow up and cut off! Adapt your style and tactics to new enemies, obstacles and tracks. Welcome [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/blazerush/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>JUMP</title>
-		<link>http://cheap-and-cheerful.store/jump/</link>
-		<comments>http://cheap-and-cheerful.store/jump/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[VR Support]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/jump</guid>
-		<description><![CDATA[JUMP, developed by Endeavor One Inc.©, enjoy the world&#8217;s first large scale virtual reality jumping puzzle to utilize the awesome power of SteamVR! JUMP is a world where you the player get to enjoy the power fantasy of being a superhero in large major metropolitan cities from around the globe. The goal of the game [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/jump/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Qbeh-1: The Atlas Cube</title>
-		<link>http://cheap-and-cheerful.store/qbeh-1-the-atlas-cube/</link>
-		<comments>http://cheap-and-cheerful.store/qbeh-1-the-atlas-cube/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[VR Support]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/qbeh-1-the-atlas-cube</guid>
-		<description><![CDATA[Level Editor &#38; Steam Workshop Get Virtual! Oculus Rift DK1 &#38; DK2 Support now Included Try Before You Buy! Still not sure after all the rave reviews, videos and pictures if you want to pick up the game? Check out the DEMO and get some hands on experience! Acerca del juego QBEH-1: The Atlas Cube [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/qbeh-1-the-atlas-cube/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Spectre is a breakthrough that brings new experiences in virtual reality to horror fans creating film-like suspense and surprises. Designed for immersive virtual reality and 3D, truly original gameplay has players pursued by the chilling Spectre in stunning and terrifying environments. In Spectre&#8217;s single player mode, you play as a lone Seeker, a wanderer lost [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/spectre/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Meltdown</title>
 		<link>http://cheap-and-cheerful.store/meltdown/</link>
 		<comments>http://cheap-and-cheerful.store/meltdown/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Co-op]]></category>
@@ -250,16 +122,152 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/meltdown</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[Meltdown is a tactical arcade shooter featuring both singleplayer and intense online multiplayer. Set against a captivating sci-fi backdrop, the action game invites players to follow its main character, Zed, as he tries to shoot his way out of the remote space station that he has been trapped on as a result of a system [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/meltdown/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CAT Interstellar</title>
+		<link>http://cheap-and-cheerful.store/cat-interstellar/</link>
+		<comments>http://cheap-and-cheerful.store/cat-interstellar/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Warning: This is a short story meant to be played in a single sitting. Play as a DOG V4 drone, a newly activated maintenance bot who is assisting in the terraforming effort on Mars. After a predictable yet unfortunate accident DOG finds himself uncovering the past of a seemingly barren planet. Gameplay The games current [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/cat-interstellar/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Probably Archery</title>
+		<link>http://cheap-and-cheerful.store/probably-archery/</link>
+		<comments>http://cheap-and-cheerful.store/probably-archery/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Manipulate your wrists, elbows and shoulders to get the arrow to the bow, draw it, aim and fire! Probably Archery gives the player more control over the minutia of their joint movements with tons of crazy scenarios to conquer, multiplayer battles to fight and brutal target challenges to dominate. With controls inspired by games like [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/probably-archery/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>AdvertCity</title>
+		<link>http://cheap-and-cheerful.store/advertcity/</link>
+		<comments>http://cheap-and-cheerful.store/advertcity/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Broke? Looking to work from THE SKY? Join us in AdvertCity! A huge, procedurally generated place, just waiting to be sold all kinds of junk by YOU! AdvertCity is a cyberpunk advertising tycoon game. Explore a massive procedural city, and plaster your adverts all over it. Float around cyberspace and post links online. Watch the [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/advertcity/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome</title>
+		<link>http://cheap-and-cheerful.store/aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome/</link>
+		<comments>http://cheap-and-cheerful.store/aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome es una semisecuela del galardonado título de 2009 de Dejobaan, AaaaaAAaaaAAAaaAAAAaAAAAA!!! &#8211; A Reckless Disregard for Gravity. ¡El nuevo juego te trae 82 niveles remasterizados del original y 43 nuevos que son el doble de rápidos! Premios del juego original: Finalista de IGF 2010 (Excelencia en Diseño) Elegido por Penny Arcade [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ARK: Survival Evolved</title>
+		<link>http://cheap-and-cheerful.store/ark-survival-evolved/</link>
+		<comments>http://cheap-and-cheerful.store/ark-survival-evolved/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Como hombre o mujer desnudo, congelado y muriendo de hambre en las costas de una isla misteriosa llamada ARK, debes cazar, recolectar, construir objetos, plantar cultivos, investigar tecnologías y construir refugios para soportar los elementos. Usa tu astucia y recursos para matar o domesticar dinosaurios y otros seres primitivos, y asóciate con otros jugadores o [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/ark-survival-evolved/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Reflections</title>
+		<link>http://cheap-and-cheerful.store/reflections/</link>
+		<comments>http://cheap-and-cheerful.store/reflections/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[VR Support]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[What is Reflections? Reflections is a real-world adventure game where every action you take has meaningful consequences that radically shape the experience. The game takes a new approach to story, where everything you do can be woven into a narrative that drastically changes, thanks to our Storyteller engine. Each action you take is punctuated by [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/reflections/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Lunar Flight</title>
 		<link>http://cheap-and-cheerful.store/lunar-flight/</link>
 		<comments>http://cheap-and-cheerful.store/lunar-flight/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
@@ -274,40 +282,52 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/lunar-flight</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[Una versión moderna del clásico juego arcade Lunar Lander, Lunar Flight amplía la experiencia a un ficticio simulador de módulo lunar completamente accesible que proporciona una variedad de misiones relativas a transportar cargamento, adquirir datos en lugares de prospección y localizar mercancía perdida. Completar misiones te proporciona puntos de experiencia y dinero para repostar, reparar [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/lunar-flight/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Among the Sleep</title>
-		<link>http://cheap-and-cheerful.store/among-the-sleep/</link>
-		<comments>http://cheap-and-cheerful.store/among-the-sleep/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Euro Truck Simulator 2</title>
+		<link>http://cheap-and-cheerful.store/euro-truck-simulator-2/</link>
+		<comments>http://cheap-and-cheerful.store/euro-truck-simulator-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
+				<category><![CDATA[Bulgarian]]></category>
 		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Danish]]></category>
+		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
+		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Greek]]></category>
 		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
 		<category><![CDATA[VR Support]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/among-the-sleep</guid>
-		<description><![CDATA[Juego de terror en primera persona en el que te meterás en la piel de un niño de dos años. El juego aborda el horror a través de la atmósfera y la exploracioń, y no a través de sistemas de combate y puntuación. En Among the Sleep, tú eres un niño vulnerable y asustado, que [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/among-the-sleep/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Give American Truck Simulator a test drive Start your new truck empire in the United States! Try the demo of American Truck Simulator and visit the Steam store page. http://store.steampowered.com/app/441960/ Acerca del juego Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/euro-truck-simulator-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

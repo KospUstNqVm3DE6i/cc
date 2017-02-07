@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/features/steam-cloud/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,52 +26,21 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Counter-Strike: Source</title>
-		<link>http://cheap-and-cheerful.store/counter-strike-source/</link>
-		<comments>http://cheap-and-cheerful.store/counter-strike-source/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>BioShock Infinite</title>
+		<link>http://cheap-and-cheerful.store/bioshock-infinite/</link>
+		<comments>http://cheap-and-cheerful.store/bioshock-infinite/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes Source SDK]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/counter-strike-source</guid>
-		<description><![CDATA[LA NUEVA ENTREGA DEL JUEGO DE ACCIÓN EN LÍNEA NÚMERO 1 EN TODO EL MUNDO Counter-Strike: Source combina la intensidad de las partidas por equipos, que le valió varios premios al título original, con la avanzada tecnología de Source&#8482;. Con sus vanguardistas gráficos, nuevos sonidos y un mayor dinamismo, Counter-Strike: Source no puede faltar en [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/counter-strike-source/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Borderlands: The Pre-Sequel</title>
-		<link>http://cheap-and-cheerful.store/borderlands-the-pre-sequel/</link>
-		<comments>http://cheap-and-cheerful.store/borderlands-the-pre-sequel/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
@@ -79,16 +48,16 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/borderlands-the-pre-sequel</guid>
-		<description><![CDATA[¡SUMÉRGETE EN EL UNIVERSO DE BORDERLANDS Y PREPÁRATE PARA DISPARAR Y SAQUEAR EN UNA NUEVA AVENTURA QUE TE TRANSPORTARÁ A LA LUNA DE PANDORA EN BORDERLANDS: THE PRE-SEQUEL! Descubre la historia que hay tras Jack el Guapo, el villano de Borderlands 2, y su ascenso al poder. Situada entre el Borderlands original y Borderlands 2, [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/borderlands-the-pre-sequel/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Indebted to the wrong people, with his life on the line, veteran of the U.S. Cavalry and now hired gun, Booker DeWitt has only one opportunity to wipe his slate clean. He must rescue Elizabeth, a mysterious girl imprisoned since childhood and locked up in the flying city of Columbia. Forced to trust one another, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/bioshock-infinite/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Darksiders II</title>
 		<link>http://cheap-and-cheerful.store/darksiders-ii/</link>
 		<comments>http://cheap-and-cheerful.store/darksiders-ii/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
@@ -109,34 +78,35 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/darksiders-ii</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[Crucible Mode Darksiders II presenta un modo de supervivencia en la arena llamado El Crisol, que permite a los jugadores seguir mejorando su personaje incluso después de haber terminado el juego principal y que ofrece el desafío definitivo. Características principales: Tras completar cinco de las 100 oleadas exclusivas del modo, los jugadores tendrán la opción [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/darksiders-ii/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>QUAKE</title>
-		<link>http://cheap-and-cheerful.store/quake/</link>
-		<comments>http://cheap-and-cheerful.store/quake/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Fallout Tactics: Brotherhood of Steel</title>
+		<link>http://cheap-and-cheerful.store/fallout-tactics-brotherhood-of-steel/</link>
+		<comments>http://cheap-and-cheerful.store/fallout-tactics-brotherhood-of-steel/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/quake</guid>
-		<description><![CDATA[Arrasa a través de 32 niveles para un jugador y 6 niveles de partida a muerte llenos de terror, sonidos e iluminación sumergente. Ármate contra el caníbal Ogre, el malvado Vore y el indestructible Shambler usando clavos letales, feroces rayos y abominables lanzacohetes y lanzagranadas.]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/quake/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¡El combate táctico entre pelotones le da un nuevo soplo de aire fresco al universo de Fallout®! Eres basura desdichada. Has nacido del polvo, pero nosotros te forjaremos en acero. Aprenderás a doblarte, o si no, te romperás. En estos tiempos oscuros que corren, la Hermandad &#8211; tu Hermandad &#8211; es todo lo que hay [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/fallout-tactics-brotherhood-of-steel/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Grid 2 Reloaded Edition</title>
 		<link>http://cheap-and-cheerful.store/grid-2-reloaded-edition/</link>
 		<comments>http://cheap-and-cheerful.store/grid-2-reloaded-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
@@ -158,80 +128,54 @@
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/grid-2-reloaded-edition</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/grid-2-reloaded-edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>METAL GEAR RISING: REVENGEANCE</title>
-		<link>http://cheap-and-cheerful.store/metal-gear-rising-revengeance/</link>
-		<comments>http://cheap-and-cheerful.store/metal-gear-rising-revengeance/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>METAL GEAR SOLID V: GROUND ZEROES</title>
+		<link>http://cheap-and-cheerful.store/metal-gear-solid-v-ground-zeroes/</link>
+		<comments>http://cheap-and-cheerful.store/metal-gear-solid-v-ground-zeroes/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/metal-gear-rising-revengeance</guid>
-		<description><![CDATA[Developed by Kojima Productions and PlatinumGames, METAL GEAR RISING: REVENGEANCE takes the renowned METAL GEAR franchise into exciting new territory with an all-new action experience. The game seamlessly melds pure action and epic story-telling that surrounds Raiden – a child soldier transformed into a half-human, half-cyborg ninja who uses his High Frequency katana blade to [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/metal-gear-rising-revengeance/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Sniper Elite V2</title>
-		<link>http://cheap-and-cheerful.store/sniper-elite-v2/</link>
-		<comments>http://cheap-and-cheerful.store/sniper-elite-v2/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/sniper-elite-v2</guid>
-		<description><![CDATA[En los oscuros días del final de la Segunda Guerra Mundial entre las ruinas de Berlín, una bala puede cambiar el curso de la historia&#8230; Sniper Elite V2 es la esperada secuela del aclamadísimo Sniper Elite, ofreciendo a los jugadores la experiencia de francotirador más auténtica ambientada en la Segunda Guerra Mundial. Eres el francotirador [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/sniper-elite-v2/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Con Metal Gear Solid V: Ground Zeroes, Kojima Productions presenta una nueva obra maestra de la saga Metal Gear Solid. Metal Gear Solid V: Ground Zeroes es la primera parte de Metal Gear Solid V Experience y el prólogo de la segunda parte, más grande, que saldrá a la venta más tarde: Metal Gear Solid [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/metal-gear-solid-v-ground-zeroes/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Tropico 5</title>
-		<link>http://cheap-and-cheerful.store/tropico-5/</link>
-		<comments>http://cheap-and-cheerful.store/tropico-5/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Stronghold Crusader 2</title>
+		<link>http://cheap-and-cheerful.store/stronghold-crusader-2/</link>
+		<comments>http://cheap-and-cheerful.store/stronghold-crusader-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
@@ -242,118 +186,158 @@
 		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/tropico-5</guid>
-		<description><![CDATA[Vuelve a la remota isla nación de Trópico en la nueva entrega de la famosa y aclamada saga de &#34;simulación de una dictadura&#34;. Expande el reinado de tu dinastía desde el periodo colonial hasta más allá del siglo XXI y enfréntate a nuevos retos, incluidos mecanismos comerciales avanzados, investigación científica y tecnológica y exploración. Las [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/tropico-5/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Edición especial Banda Sonora Digital compuesta por Robert Euvino Libro de Arte Digital &#8216;El Arte de Stronghold Crusader 2&#8217; Stronghold Crusader HD: Juego completo en Steam &#8211; ¿Ya tienes el juego en Steam? ¡Regálaselo a un amigo! Clientes Special Edition Para acceder a tu libro de arte y banda sonora digital, instala el juego, navega [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/stronghold-crusader-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Grey Goo</title>
-		<link>http://cheap-and-cheerful.store/grey-goo/</link>
-		<comments>http://cheap-and-cheerful.store/grey-goo/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Wargame: Airland Battle</title>
+		<link>http://cheap-and-cheerful.store/wargame-airland-battle/</link>
+		<comments>http://cheap-and-cheerful.store/wargame-airland-battle/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Cross-Platform Multiplayer]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[2 SIDES, 12 NATIONS, 750 UNITS: THE STRATEGY GAME REFERENCE IS BACK! Richer, more beautiful and more accessible, Wargame AirLand Battle is the sequel to the explosive real-time strategy game Wargame European Escalation! 1985. After several months of tension between NATO and the Warsaw Pact, an incident in the North Sea suddenly sets the world [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/wargame-airland-battle/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Etherium</title>
+		<link>http://cheap-and-cheerful.store/etherium/</link>
+		<comments>http://cheap-and-cheerful.store/etherium/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Recién actualizado http://www.twitch.tv/focushomeinteractive/v/3946619 Acerca del juego Etherium es un juego de estrategia en tiempo real, ambientado en un universo de ciencia ficción, en el que tres facciones se disputan un preciado y misterioso recurso conocido como «eterio». Gestiona tus recursos, construye y mejora tu base y toma el control de la infantería, la artillería, las [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/etherium/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Blackguards</title>
+		<link>http://cheap-and-cheerful.store/blackguards/</link>
+		<comments>http://cheap-and-cheerful.store/blackguards/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
+		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/grey-goo</guid>
-		<description><![CDATA[COMBATE EL CAOS. O APROVECHA SU PODER. Siglos después de que la Humanidad abandonara la Tierra por primera vez, todas las formas de vida en la Vía Láctea han evolucionado hacia una tranquilidad interior. Pero se ha producido una mutación. Un organismo misterioso se dirige hacia la superficie de un planeta solitario, con abundantes recursos, [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/grey-goo/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Buy Blackguards 2 http://store.steampowered.com/app/314830 Blackguards Deluxe Edition: Acerca del juego ¿Qué sucede cuando la única esperanza para un mundo amenazado no radica en caballeros de brillante armadura sino en las manos de una banda de inadaptados y criminales? Blackguards, un nuevo juego de rol de estrategia por turnos, investiga esta misma cuestión. Descubrirás más de [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/blackguards/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Worms Revolution</title>
-		<link>http://cheap-and-cheerful.store/worms-revolution/</link>
-		<comments>http://cheap-and-cheerful.store/worms-revolution/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Quake IV</title>
+		<link>http://cheap-and-cheerful.store/quake-iv/</link>
+		<comments>http://cheap-and-cheerful.store/quake-iv/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[En una desesperada guerra por la supervivencia de la Tierra contra unos enemigos imparables, la única forma de detenerlos es convertirse en un uno de ellos. Equipado con armamento y vehículos avanzados y con la ayuda de un pelotón de marines de élite, llevas la batalla al corazón del planeta natal Strogg y te conviertes [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/quake-iv/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Chronology</title>
+		<link>http://cheap-and-cheerful.store/chronology/</link>
+		<comments>http://cheap-and-cheerful.store/chronology/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[`Chronology’ es un alucinante juego de plataforma que combina puzzle y aventura, en el que desafiarás al tiempo manipulando el pasado y el futuro para enmendar el presente. Juega como el Viejo Inventor o su compañero El Caracol, y aprovéchate de sus habilidades especiales (viajar hacia atrás y adelante en el tiempo, detener el tiempo, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/chronology/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Whispered World Special Edition</title>
+		<link>http://cheap-and-cheerful.store/the-whispered-world-special-edition/</link>
+		<comments>http://cheap-and-cheerful.store/the-whispered-world-special-edition/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/worms-revolution</guid>
-		<description><![CDATA[Worms™ Revolution, el último grito en juegos de estrategia por turnos que llega para tu PC, con nuevas y excitantes características y unos maravillosos gráficos 3D manteniendo la misma jugabilidad en 2D tan aclamada por los fans. Elige jugar al extenso modo para un solo jugador que incluye campañas y misiones rompecabezas, o lánzate al [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/worms-revolution/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Mayhem Triple</title>
-		<link>http://cheap-and-cheerful.store/mayhem-triple/</link>
-		<comments>http://cheap-and-cheerful.store/mayhem-triple/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/mayhem-triple</guid>
-		<description><![CDATA[Mayhem Triple is a hyper-violent, tasteless tale of evolution gone wrong and the dangers of time travel. You are Mig Carter, a man with style to spare and the perfect opportunity to show everyone how great you are: the bunny apocalypse. Use smooth acrobatics and a vast armory of creative guns to help traverse countless [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/mayhem-triple/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Europa Universalis IV: El Dorado</title>
-		<link>http://cheap-and-cheerful.store/europa-universalis-iv-el-dorado/</link>
-		<comments>http://cheap-and-cheerful.store/europa-universalis-iv-el-dorado/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/europa-universalis-iv-el-dorado</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/europa-universalis-iv-el-dorado/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Cuando el destino de un mundo pende de un hilo, ¡surge un héroe inesperado! The Whispered World, la épica aventura visualmente impresionante, ya está disponible por primera vez en una Edición especial. Deja que el mundo de The Whispered World te embelese con sus muchísimos detalles animados y fantásticos personajes. La aventura de Sadwick comienza [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-whispered-world-special-edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

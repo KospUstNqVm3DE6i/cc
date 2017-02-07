@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/genres/casual/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,295 +26,266 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Wildlife Park 3</title>
-		<link>http://cheap-and-cheerful.store/wildlife-park-3/</link>
-		<comments>http://cheap-and-cheerful.store/wildlife-park-3/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Broken Age</title>
+		<link>http://cheap-and-cheerful.store/broken-age/</link>
+		<comments>http://cheap-and-cheerful.store/broken-age/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/wildlife-park-3</guid>
-		<description><![CDATA[Wildlife Park 3 – do you have what it takes to be a zoo manager? Wildlife Park 3 is the latest part of the successful series. As zoo manager, you are responsible for your very own and unique zoo. Choose from numerous types of enclosures, park buildings and plants to design an environment appropriate to [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/wildlife-park-3/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Flock!</title>
-		<link>http://cheap-and-cheerful.store/flock/</link>
-		<comments>http://cheap-and-cheerful.store/flock/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Local Co-op]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/flock</guid>
-		<description><![CDATA[¡Únete al Rebaño!¡Protege tus campos de trigo y encierra tu ganado, porque FLOCK está aquí! Pilota un OVNI por paisajes de vibrantes colores en este encantador juego de puzles y sandbox donde debes llevar al rebaño de vuelta con ese Hijo de Pastor. Empleando un potente motor de física que controla muchos de los elementos [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/flock/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Depth Hunter 2: Deep Dive</title>
-		<link>http://cheap-and-cheerful.store/depth-hunter-2-deep-dive/</link>
-		<comments>http://cheap-and-cheerful.store/depth-hunter-2-deep-dive/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
+				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/depth-hunter-2-deep-dive</guid>
-		<description><![CDATA[Depth Hunter 2 ofrece 25 misiones emocionantes en 3 lugares enormes alrededor del mundo. Los jugadores cazarán distintos tipos de peces y se enfrentarán con dificultades a la hora de pescar con lanza que te dejarán sin aliento, es un método de pesca antiguo. Los jugadores tendrán también que encontrar tesoros y tendrán la posibilidad [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/depth-hunter-2-deep-dive/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Bridge</title>
-		<link>http://cheap-and-cheerful.store/the-bridge/</link>
-		<comments>http://cheap-and-cheerful.store/the-bridge/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Broken Age is a family friendly, hand-animated, puzzle-filled adventure game with an all-star cast, including Elijah Wood, Jack Black and Masasa Moyo. Funded by a record breaking crowdfunding campaign and designed by industry legend Tim Schafer, Broken Age is a timeless coming-of-age story of barfing trees and talking spoons. Vella Tartine and Shay Volta are [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/broken-age/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>I Am Vegend &#8211; Zombiegeddon</title>
+		<link>http://cheap-and-cheerful.store/i-am-vegend-zombiegeddon/</link>
+		<comments>http://cheap-and-cheerful.store/i-am-vegend-zombiegeddon/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[&#34;Las plantas buscan la venganza contra los pájaros, los cerdos y los zombis. ¡No pierdas la oportunidad de dirigir la rebelión! Diviértete al máximo con esta parodia de los juegos para móviles más populares. En esta ocasión, los enemigos se han aliado y quieren destruir a todas las plantas, aplastando todos los semilleros sin piedad, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/i-am-vegend-zombiegeddon/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sanctum 2 Complete Pack</title>
+		<link>http://cheap-and-cheerful.store/sanctum-2-complete-pack/</link>
+		<comments>http://cheap-and-cheerful.store/sanctum-2-complete-pack/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
 		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/the-bridge</guid>
-		<description><![CDATA[The Bridge es un juego de lógica y puzles en dos dimensiones que obliga al jugador a reevaluar sus ideas preconcebidas sobre la física y la perspectiva. Es una mezcla entre Isaac Newton y M. C. Escher. Manipula la gravedad para convertir el techo en el suelo mientras te aventuras en arquitecturas imposibles. Explora mundos [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/the-bridge/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/sanctum-2-complete-pack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>iBomber Defense Pacific</title>
-		<link>http://cheap-and-cheerful.store/ibomber-defense-pacific/</link>
-		<comments>http://cheap-and-cheerful.store/ibomber-defense-pacific/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Car Mechanic Manager</title>
+		<link>http://cheap-and-cheerful.store/car-mechanic-manager/</link>
+		<comments>http://cheap-and-cheerful.store/car-mechanic-manager/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¿Eres un apasionado de los coches? ¿Te gusta tunearlos? Lávalos, dales cera, cámbiales la pintura, y repáralos. ¡Cumple los deseos de tus clientes! Compra coches viejos, repáralos y véndelos. ¿Quieres ganar más dinero? Entérate de las tendencias más actuales y tunea los coches antes de venderlos. ¿Alerones nuevos? ¿Pntura especial? ¿Le cambiamos el motor? ¡En [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/car-mechanic-manager/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Run Run And Die</title>
+		<link>http://cheap-and-cheerful.store/run-run-and-die/</link>
+		<comments>http://cheap-and-cheerful.store/run-run-and-die/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/ibomber-defense-pacific</guid>
-		<description><![CDATA[iBomber moves to the Pacific as you fight a whole new enemy across the Pacific rim to regain freedom. iBomber Defense Pacific takes tower defense to a whole new level and makes you feel like you&#8217;re right there and part of the incredible action. iBomber Defense Pacific has all-new tactics, all-new strategies, all-new maps, all-new [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/ibomber-defense-pacific/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Run Run and Die is a crazy and atypical challenging runner! Our funny little penguin wakes up in a test room, but suddenly something goes wrong and everything blows up! And so begins one of the wildest, silliest, and challenging flights in video game history! But who is behind all this? How did our hero [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/run-run-and-die/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Shadows: Price For Our Sins Bonus Edition</title>
-		<link>http://cheap-and-cheerful.store/shadows-price-for-our-sins-bonus-edition/</link>
-		<comments>http://cheap-and-cheerful.store/shadows-price-for-our-sins-bonus-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>StoryMode &#8211; A Game About Crafting</title>
+		<link>http://cheap-and-cheerful.store/storymode-a-game-about-crafting/</link>
+		<comments>http://cheap-and-cheerful.store/storymode-a-game-about-crafting/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Early Access]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Join our human adventurer on an adventure! Is this adventurer even a hero? Is he even actually an adventurer? Who cares? Not the Crafting Goddess Joann, apparently! All she wants is a slave to make crap for her, and that slave appears to be this poor soul. I guess now that he&#8217;s been chosen by [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/storymode-a-game-about-crafting/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>House of Caravan</title>
+		<link>http://cheap-and-cheerful.store/house-of-caravan/</link>
+		<comments>http://cheap-and-cheerful.store/house-of-caravan/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Captions available]]></category>
 		<category><![CDATA[Casual]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/shadows-price-for-our-sins-bonus-edition</guid>
-		<description><![CDATA[Are you ready to party? A chilling night of reckoning is unleashed upon guests bold enough to party on Halloween at an abandoned farm house. As children, you and your friend, Samantha, would play at an old farm during your summer vacations. Years have passed, and Samantha has invited you to join her and a [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/shadows-price-for-our-sins-bonus-edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Neighbours from Hell Compilation</title>
-		<link>http://cheap-and-cheerful.store/neighbours-from-hell-compilation/</link>
-		<comments>http://cheap-and-cheerful.store/neighbours-from-hell-compilation/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/neighbours-from-hell-compilation</guid>
-		<description><![CDATA[INTRODUCING THE GAME OF NEIGHBOURHOOD NASTINESS AND COMMUNITY COMMOTION! Living next door to you is a real Neighbour From Hell and it&#8217;s now time to have your revenge! This compilation includes the original Neighbours From Hell and it&#8217;s sequel Neighbours from Hell 2: On Vacation. Story Neighbours from Hell 1 Creep around your neighbour ’s [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/neighbours-from-hell-compilation/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Taking place in a single mansion in Candlewood, northeast USA, in the early 20th Century, House of Caravan is a sinister adventure filled with dark secrets and vexing puzzles. Stepping into the role of a young boy captured by strangers on his way back from school, you&#8217;ll be tasked with exploring the house, uncovering clues [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/house-of-caravan/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Major Mayhem</title>
-		<link>http://cheap-and-cheerful.store/major-mayhem/</link>
-		<comments>http://cheap-and-cheerful.store/major-mayhem/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Teddy Floppy Ear &#8211; Kayaking</title>
+		<link>http://cheap-and-cheerful.store/teddy-floppy-ear-kayaking/</link>
+		<comments>http://cheap-and-cheerful.store/teddy-floppy-ear-kayaking/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Send your kid onto an unforgettable journey with the world’s most charming bear. Based on a famous Polish cartoon, Teddy Floppy Ear stands out as a great entertainment for children. Prepared by an experienced team, Teddy Floppy Ear – Kayaking mixes fun adventure game with a healthy dose of learning, perfect for young minds. In [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/teddy-floppy-ear-kayaking/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GabeN: The Final Decision</title>
+		<link>http://cheap-and-cheerful.store/gaben-the-final-decision/</link>
+		<comments>http://cheap-and-cheerful.store/gaben-the-final-decision/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[It&#8217;s finally time&#8230; In the Year 2096, Gabe Newell has finally decided to release his Triple Steam Summer Sale! This sale includes 3 new Valve-made games people have been waiting for for years! Half-Life 3, Portal 3, and Team Fortress 3! When Gabe Newell, also known as Gaben goes to eat lunch, he mysteriously finds [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/gaben-the-final-decision/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Organ Biker</title>
+		<link>http://cheap-and-cheerful.store/organ-biker/</link>
+		<comments>http://cheap-and-cheerful.store/organ-biker/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Authentic Arcade Action Easy to pick up and play, tough to become the best. Organ Biker is a modern retro arcade style motorcycle action and internal organ delivery game for PC! Dr. Perrywinkle Hayfeather II (assumed name) has put out the call for the quickest and most courageous ORGAN BIKER around and the job pays [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/organ-biker/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fort Defense</title>
+		<link>http://cheap-and-cheerful.store/fort-defense/</link>
+		<comments>http://cheap-and-cheerful.store/fort-defense/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[All hands on deck! Pirate armada dead ahead! Take part in an uncompromising struggle repelling freebooters&#8217; assaults. Watch out, the enemy may catch the tide for ruining your fortress. Build towers, collect crystals, upgrade spells and believe in your victory! Welcome to the unique pirate style Tower Defence. Now the battle rages on by land [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/fort-defense/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Skyflower</title>
+		<link>http://cheap-and-cheerful.store/skyflower/</link>
+		<comments>http://cheap-and-cheerful.store/skyflower/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/major-mayhem</guid>
-		<description><![CDATA[Arcade cover shooter inspired by Time Crisis, Metal Slug and 80&#8217;s action heros! He&#8217;s got an itchy trigger finger, some scratchy stubble, and a fondness for shooting dudes in the face. Run and gun your way through gorgeous 3D environments as you embark on a mission to rescue your kidnapped girlfriend from the Forces of [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/major-mayhem/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Little Racers STREET</title>
-		<link>http://cheap-and-cheerful.store/little-racers-street/</link>
-		<comments>http://cheap-and-cheerful.store/little-racers-street/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/little-racers-street</guid>
-		<description><![CDATA[¡La evolución de los videojuegos de carreras en perspectiva cenital ha llegado! Little Racers STREET fusiona la sencilla diversión de los juegos de carreras cenitales con la espectacularidad de las carreras callejeras, ¡y el resultado no podía ser mejor! Experimenta trepidantes carreras a gran velocidad, y derrapa como nunca antes a lo largo de más [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/little-racers-street/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Starlaxis Supernova Edition</title>
-		<link>http://cheap-and-cheerful.store/starlaxis-supernova-edition/</link>
-		<comments>http://cheap-and-cheerful.store/starlaxis-supernova-edition/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/starlaxis-supernova-edition</guid>
-		<description><![CDATA[Supernova-Edition! Some of you may noticed that Starlaxis has been released on some other platforms too. However, on Steam you&#8217;ll get the &#34;Supernova-Edition&#34; which includes improved graphics, more missions, better gameplay mechanic, a new commander and, of course, Steam Achievements, Trading Cards and Leaderboard! Acerca del juego Prepare yourself for mind-blowing puzzle action in new [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/starlaxis-supernova-edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>R.O.O.T.S</title>
-		<link>http://cheap-and-cheerful.store/r-o-o-t-s/</link>
-		<comments>http://cheap-and-cheerful.store/r-o-o-t-s/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/r-o-o-t-s</guid>
-		<description><![CDATA[R.O.O.T.S is a real-time strategy game that pits the player against colorful yet invasive enemies that must be overtaken before the player themselves is uprooted! Warfare has never been so beautifully unorthodox. Minimalistic graphics, pleasant sounds and smooth controls makes R.O.O.T.S a distinct piece of art that is a pure pleasure to play. ~~~~~ R.O.O.T.S [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/r-o-o-t-s/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Evil Pumpkin: The Lost Halloween</title>
-		<link>http://cheap-and-cheerful.store/evil-pumpkin-the-lost-halloween/</link>
-		<comments>http://cheap-and-cheerful.store/evil-pumpkin-the-lost-halloween/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/evil-pumpkin-the-lost-halloween</guid>
-		<description><![CDATA[Meet Lemuel Barnabas. He is not a protagonist in our story, but just look at him &#8211; he’s scrappy and funny, talks to himself, likes music and long walks behind the bar. In a word &#8211; he is quite mad, but as mad as he is, he’s the one you come to for help. Help? [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/evil-pumpkin-the-lost-halloween/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Fight your way to the top in this action-packed permanent death dungeon crawler! In a world of desolation and despair, a wanderer looked up and saw the endless sky staring back down at him. He would make it there, no matter what it took. Endless variations of randomly generated worlds and enemies await! Challenge minibosses, [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/skyflower/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

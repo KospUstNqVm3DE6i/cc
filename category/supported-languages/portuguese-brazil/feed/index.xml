@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/supported-languages/portuguese-brazil/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,79 +26,22 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>BioShock Infinite: Clash in the Clouds</title>
-		<link>http://cheap-and-cheerful.store/bioshock-infinite-clash-in-the-clouds/</link>
-		<comments>http://cheap-and-cheerful.store/bioshock-infinite-clash-in-the-clouds/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Dead Rising 3 Apocalypse Edition</title>
+		<link>http://cheap-and-cheerful.store/dead-rising-3-apocalypse-edition/</link>
+		<comments>http://cheap-and-cheerful.store/dead-rising-3-apocalypse-edition/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/bioshock-infinite-clash-in-the-clouds</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/bioshock-infinite-clash-in-the-clouds/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>GRID Autosport</title>
-		<link>http://cheap-and-cheerful.store/grid-autosport/</link>
-		<comments>http://cheap-and-cheerful.store/grid-autosport/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Racing]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/grid-autosport</guid>
-		<description><![CDATA[Ficha por un equipo y plántales cara a tus rivales en un nuevo y fascinante reto automovilístico. Junto a tu compañero de filas, debes superar a rivales directos y cumplir los objetivos de los patrocinadores en vertiginosas carreras donde cada adelantamiento vale su peso en oro. Especialízate en la disciplina que más te apasione o [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/grid-autosport/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>METAL GEAR SOLID V: THE PHANTOM PAIN</title>
-		<link>http://cheap-and-cheerful.store/metal-gear-solid-v-the-phantom-pain/</link>
-		<comments>http://cheap-and-cheerful.store/metal-gear-solid-v-the-phantom-pain/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[Russian]]></category>
@@ -108,25 +51,78 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/metal-gear-solid-v-the-phantom-pain</guid>
-		<description><![CDATA[Konami Digital Entertainment presenta el último capítulo de METAL GEAR SOLID V Experience: METAL GEAR SOLID V: The Phantom Pain. La franquicia entra en una nueva era gracias a la innovadora tecnología de Fox Engine y MGSV: The Phantom Pain ofrece a los jugadores una experiencia de juego de máximo nivel y libertad táctica para [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/metal-gear-solid-v-the-phantom-pain/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Steam Big Picture Free Upgrade to Apocalypse Edition! Dead Rising 3 Apocalypse Edition now includes the ultimate open-world zombie game along with all four of the “Untold Stories of Los Perdidos” episodic downloadable add-on packs. Welcome to the Apocalypse, where your zombie slaying thrills await. Acerca del juego La edición Apocalipsis de Dead Rising 3 [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/dead-rising-3-apocalypse-edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Tales of Zestiria</title>
-		<link>http://cheap-and-cheerful.store/tales-of-zestiria/</link>
-		<comments>http://cheap-and-cheerful.store/tales-of-zestiria/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>GRID Autosport &#8211; Drag Pack</title>
+		<link>http://cheap-and-cheerful.store/grid-autosport-drag-pack/</link>
+		<comments>http://cheap-and-cheerful.store/grid-autosport-drag-pack/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[English]]></category>
+				<category><![CDATA[Downloadable Content]]></category>
+		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/grid-autosport-drag-pack/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mortal Kombat Komplete Edition</title>
+		<link>http://cheap-and-cheerful.store/mortal-kombat-komplete-edition/</link>
+		<comments>http://cheap-and-cheerful.store/mortal-kombat-komplete-edition/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[The newest chapter of the iconic fighting franchise is now available! Experience the deadliest tournament with all the kombatants and their unique fatalities. Players enter the realm to face the Kombatants in Mortal Kombat Komplete Edition, delivering all of the downloadable content (DLC), including intrepid warriors Skarlet, Kenshi and Rain, as well as the notorious [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/mortal-kombat-komplete-edition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Blackguards</title>
+		<link>http://cheap-and-cheerful.store/blackguards/</link>
+		<comments>http://cheap-and-cheerful.store/blackguards/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
 		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
@@ -134,105 +130,62 @@
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/tales-of-zestiria</guid>
-		<description><![CDATA[¡Lucha por lo que quieres! En un mundo dividido por la guerra entre dos poderosas naciones que luchan por el poder y la supremacía, deberás aceptar la carga del Pastor y luchar contra la oscuridad humana para proteger a tu mundo de la malicia y reconciliar a los humanos con los serafines. Junto con Lailah, [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/tales-of-zestiria/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>DuckTales: Remastered</title>
-		<link>http://cheap-and-cheerful.store/ducktales-remastered/</link>
-		<comments>http://cheap-and-cheerful.store/ducktales-remastered/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/ducktales-remastered</guid>
-		<description><![CDATA[Steam Big Picture Acerca del juego DuckTales: Remastered &#8211; Llega una hermosa versión dibujada a mano de uno de los títulos de 8 bits más queridos de todos los tiempos. Viaja en el tiempo hacia una de las eras doradas de los videojuegos, pero ahora con un nivel de detalle que impactará tanto a los [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/ducktales-remastered/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Buy Blackguards 2 http://store.steampowered.com/app/314830 Blackguards Deluxe Edition: Acerca del juego ¿Qué sucede cuando la única esperanza para un mundo amenazado no radica en caballeros de brillante armadura sino en las manos de una banda de inadaptados y criminales? Blackguards, un nuevo juego de rol de estrategia por turnos, investiga esta misma cuestión. Descubrirás más de [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/blackguards/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Trine 2: Complete Story</title>
-		<link>http://cheap-and-cheerful.store/trine-2-complete-story/</link>
-		<comments>http://cheap-and-cheerful.store/trine-2-complete-story/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Master of Orion</title>
+		<link>http://cheap-and-cheerful.store/master-of-orion/</link>
+		<comments>http://cheap-and-cheerful.store/master-of-orion/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Czech]]></category>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Local Co-op]]></category>
 		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Steam Workshop]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[Turkish]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/trine-2-complete-story</guid>
-		<description><![CDATA[Trine 2 es un juego de acción de scroll lateral, puzles y plataformas donde juegas como uno de los Tres Héroes que se abren paso a través de incontables peligros en un fantástico mundo de cuento de hadas. Características Principales: Puzles basados en la física con fuego, agua, gravedad y magia Accesible tanto para jugadores [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/trine-2-complete-story/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Master Of Orion – Conquer the Stars  ¡Vuelve el apasionante juego de estrategia y viajes espaciales 4X! El nuevo capítulo de la épica saga Master of Orion está listo para volver a conquistar la imaginación de millones de jugadores.  ¡A los amantes de la serie original les agradará saber que la nueva versión se construyó [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/master-of-orion/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Bridge</title>
-		<link>http://cheap-and-cheerful.store/the-bridge/</link>
-		<comments>http://cheap-and-cheerful.store/the-bridge/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>To the Moon</title>
+		<link>http://cheap-and-cheerful.store/to-the-moon/</link>
+		<comments>http://cheap-and-cheerful.store/to-the-moon/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
+		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
@@ -240,23 +193,141 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Thai]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Dr. Rosalene and Dr. Watts have peculiar jobs: They give people another chance to live, all the way from the very beginning&#8230; but only in their patients&#8217; heads. Due to the severity of the operation, the new life becomes the last thing the patients remember before drawing their last breath. Thus, the operation is only [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/to-the-moon/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Toren</title>
+		<link>http://cheap-and-cheerful.store/toren/</link>
+		<comments>http://cheap-and-cheerful.store/toren/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Vive el mundo misterioso y atemporal de Toren. En esta aventura de fantasía oscura guiarás a Moonchild en su paso de bebé a joven adulta en un viaje de crecimiento personal. En su camino por la torre donde vive cautiva tendrás que resolver puzzles y aprender a ayudarla a derrotar monstruos mientras lucha por descubrir [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/toren/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gryphon Knight Epic</title>
+		<link>http://cheap-and-cheerful.store/gryphon-knight-epic/</link>
+		<comments>http://cheap-and-cheerful.store/gryphon-knight-epic/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Gryphon Knight Epic es un Shoot&#8217;em Up medieval en 2D que mezcla elementos de los Shoot&#8217;em Ups clásicos, exploración y duelos con jefes. Cuenta la historia de Sir Oliver y Aquila, un caballero consumado y su leal grifo que se ve forzado de vuelta a la aventura una vez más. Sir Oliver ya ha derrotado [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/gryphon-knight-epic/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WAKFU</title>
+		<link>http://cheap-and-cheerful.store/wakfu/</link>
+		<comments>http://cheap-and-cheerful.store/wakfu/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Free to Play]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Massively Multiplayer]]></category>
+		<category><![CDATA[MMO]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[DESCUBRA UN UNIVERSO ILIMITADO Embárcate hacia el Mundo de los Doce y sumérgete en la gran aventura de WAKFU, un juego de rol multijugador masivo en línea con un universo original, donde los combates tácticos riman con el humor (sí, sí, verás como sí rima). Asciende el Monte Zinit tras la pista de Ogrest, el [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/wakfu/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fake Colours</title>
+		<link>http://cheap-and-cheerful.store/fake-colours/</link>
+		<comments>http://cheap-and-cheerful.store/fake-colours/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[Ukrainian]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/the-bridge</guid>
-		<description><![CDATA[The Bridge es un juego de lógica y puzles en dos dimensiones que obliga al jugador a reevaluar sus ideas preconcebidas sobre la física y la perspectiva. Es una mezcla entre Isaac Newton y M. C. Escher. Manipula la gravedad para convertir el techo en el suelo mientras te aventuras en arquitecturas imposibles. Explora mundos [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/the-bridge/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Designed around the RBG colour scheme, Fake Colours is a 3D cube rolling puzzle game in which the player must move three coloured blocks to their corresponding target squares. Don&#8217;t be fooled by the simple, yet beautiful art in the game, Fake Colours is all about the puzzles. Game Blocks are able to roll on [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/fake-colours/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Prehistorik</title>
+		<link>http://cheap-and-cheerful.store/prehistorik/</link>
+		<comments>http://cheap-and-cheerful.store/prehistorik/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[THE STORY: A giant has stolen all the grub from the Grag tribe! You play the role of Grag and set off on this monster’s trail in search of food! Super friendly Grag is helped along the way by his new friend, the fly! Help this prehistoric hero defeat his monstrous enemies and bring back [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/prehistorik/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Thunder Wolves</title>
 		<link>http://cheap-and-cheerful.store/thunder-wolves/</link>
 		<comments>http://cheap-and-cheerful.store/thunder-wolves/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Casual]]></category>
@@ -274,121 +345,9 @@
 		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/thunder-wolves</guid>
+		<guid isPermaLink="false"></guid>
 		<description><![CDATA[When this “wolf pack” strikes, you hear the thunder roll. The Thunder Wolves attack from the air. They are mercenaries, and the best helicopter pilots in the world. Every one of them is ready for action at all times—and ready to fight evil, wherever it lurks. The Thunder Wolves have already made it through countless [&#8230;]]]></description>
 		<wfw:commentRss>http://cheap-and-cheerful.store/thunder-wolves/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Grim Fandango Remastered</title>
-		<link>http://cheap-and-cheerful.store/grim-fandango-remastered/</link>
-		<comments>http://cheap-and-cheerful.store/grim-fandango-remastered/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Commentary available]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/grim-fandango-remastered</guid>
-		<description><![CDATA[The Making of Grim Fandango Remastered The makers of Grim Fandango discuss the development of the beloved adventure game and how Double Fine Productions plans to release the original classic to a contemporary audience. Watch The Making of Grim Fandango Here! Acerca del juego Something&#8217;s rotten in the land of the dead, and you&#8217;re being [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/grim-fandango-remastered/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Munin</title>
-		<link>http://cheap-and-cheerful.store/munin/</link>
-		<comments>http://cheap-and-cheerful.store/munin/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/munin</guid>
-		<description><![CDATA[Imagina que puedes mover montañas&#8230; ¡literalmente! Ayuda a Munin, el mensajero de Odín, usando físicas realistas, runas nórdicas, plataformas giratorias y un montón de tus propias neuronas para reclamar su poder en un viaje a través de Yggdrasil. ADÉNTRATE EN UN MUNDO DE MITOLOGÍA NÓRDICA A Munin el cuervo, fiel mensajero de Odín, el dios [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/munin/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Oceanhorn: Monster of Uncharted Seas</title>
-		<link>http://cheap-and-cheerful.store/oceanhorn-monster-of-uncharted-seas/</link>
-		<comments>http://cheap-and-cheerful.store/oceanhorn-monster-of-uncharted-seas/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Traditional Chinese]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/oceanhorn-monster-of-uncharted-seas</guid>
-		<description><![CDATA[You wake up and find a letter from your father. He is gone… The only lead is his old notebook and a mysterious necklace. What happened? Oceanhorn: Monster of Uncharted Seas combines captivating storytelling, breathtaking 3D visuals and exciting gameplay into one epic action-adventure experience. In the game you explore the islands of Uncharted Seas, [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/oceanhorn-monster-of-uncharted-seas/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Contrast</title>
-		<link>http://cheap-and-cheerful.store/contrast/</link>
-		<comments>http://cheap-and-cheerful.store/contrast/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Cloud]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/contrast</guid>
-		<description><![CDATA[CONTRAST es un juego de puzles y plataformas en el que viajarás instantáneamente de un fantástico mundo en 3D a un misterioso universo de sombras en 2D. Adéntrate en la atmósfera onírica y surrealista de 1920, inspirada en el cabaret y en el cine negro y mecida por una cálida música de jazz. En este [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/contrast/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

@@ -12,11 +12,11 @@
 	<atom:link href="http://cheap-and-cheerful.store/category/supported-languages/czech/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cheap-and-cheerful.store/</link>
 	<description>Tienda de juegos</description>
-	<lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2017 18:11:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
 	<url>http://cheap-and-cheerful.store/wp-content/uploads/2016/12/icon.png</url>
@@ -26,280 +26,155 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Arma 2: Combined Operations</title>
-		<link>http://cheap-and-cheerful.store/arma-2-combined-operations/</link>
-		<comments>http://cheap-and-cheerful.store/arma-2-combined-operations/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Company of Heroes 2</title>
+		<link>http://cheap-and-cheerful.store/company-of-heroes-2/</link>
+		<comments>http://cheap-and-cheerful.store/company-of-heroes-2/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
+				<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Strategy]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/arma-2-combined-operations</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/arma-2-combined-operations/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dragon Age: Origins</title>
-		<link>http://cheap-and-cheerful.store/dragon-age-origins/</link>
-		<comments>http://cheap-and-cheerful.store/dragon-age-origins/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/dragon-age-origins</guid>
-		<description><![CDATA[Pre-Compra Dragon Age: Origins y recibe lo siguiente: Item Exclusivo para Steam   El Juramento Vil La condesa Luciana de Antiva vivió prácticamente como una prisionera en el castillo de su marido hasta que una esclava elfa le ofreció la posibilidad de escapar. La esclava vinculó mágicamente una pequeña cantidad de sangre de la condesa a [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/dragon-age-origins/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Risen 2: Dark Waters</title>
-		<link>http://cheap-and-cheerful.store/risen-2-dark-waters/</link>
-		<comments>http://cheap-and-cheerful.store/risen-2-dark-waters/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[RPG]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Stats]]></category>
 		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/risen-2-dark-waters</guid>
-		<description><![CDATA[Varios años después del final de Risen, los furiosos titanes han devastado el mundo y empujado a la humanidad al borde de la desaparición. Más tarde, criaturas monstruosas han surgido de las profundidades marinas y sus ataques han paralizado totalmente la navegación. El héroe, ahora miembro de la Inquisición, es enviado para encontrar el modo [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/risen-2-dark-waters/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Metro: Last Light Season Pass</title>
-		<link>http://cheap-and-cheerful.store/metro-last-light-season-pass/</link>
-		<comments>http://cheap-and-cheerful.store/metro-last-light-season-pass/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[Full controller support]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
 		<category><![CDATA[Steam Cloud]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/metro-last-light-season-pass</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/metro-last-light-season-pass/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Take On Helicopters</title>
-		<link>http://cheap-and-cheerful.store/take-on-helicopters/</link>
-		<comments>http://cheap-and-cheerful.store/take-on-helicopters/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/take-on-helicopters</guid>
-		<description><![CDATA[Te presentamos el nuevo juego de helicópteros del desarrollador independiente Bohemia Interactive, creador de la premiada saga de simulación militar ArmA 2. Cimentado sobre más de 10 años de experiencia en el desarrollo de simuladores de máxima calidad, Take On Helicopters sumerge a los jugadores en ricos y bonitos paisajes y ofrece un modelo de [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/take-on-helicopters/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>UFO: Afterlight</title>
-		<link>http://cheap-and-cheerful.store/ufo-afterlight/</link>
-		<comments>http://cheap-and-cheerful.store/ufo-afterlight/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/ufo-afterlight</guid>
-		<description><![CDATA[The story is situated on Mars. It starts where UFO: Aftermath left off and runs simultaneously with UFO: Aftershock. While the Laputans on Earth are fighting Wargots and Starghosts and finding out what caused the destruction of their home planet, a small colony on Mars is trying to survive and flourish. The player will gain [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/ufo-afterlight/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Con tecnología Essence Engine 3.0, la serie de Company of Heroes 2 aporta una mecánica de juego única para los jugadores más avezados. Cuenta con el sistema TrueSight™, para emular la línea de visión de las unidades, un sistema de cobertura, que sugiere una colocación más inteligente de las unidades, y un enfoque centrado en [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/company-of-heroes-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>KAMI</title>
-		<link>http://cheap-and-cheerful.store/kami/</link>
-		<comments>http://cheap-and-cheerful.store/kami/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>The Orange Box</title>
+		<link>http://cheap-and-cheerful.store/the-orange-box/</link>
+		<comments>http://cheap-and-cheerful.store/the-orange-box/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Arabic]]></category>
-		<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Casual]]></category>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Captions available]]></category>
+		<category><![CDATA[Commentary available]]></category>
+		<category><![CDATA[Cross-Platform Multiplayer]]></category>
 		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[Danish]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[Finnish]]></category>
+		<category><![CDATA[Free to Play]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
 		<category><![CDATA[Greek]]></category>
 		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Includes Source SDK]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Multi-player]]></category>
 		<category><![CDATA[Norwegian]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
 		<category><![CDATA[Portuguese]]></category>
 		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
 		<category><![CDATA[Swedish]]></category>
 		<category><![CDATA[Thai]]></category>
 		<category><![CDATA[Traditional Chinese]]></category>
 		<category><![CDATA[Turkish]]></category>
+		<category><![CDATA[Valve Anti-Cheat enabled]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/kami</guid>
-		<description><![CDATA[KAMI is deceptively simple: fold out coloured paper to fill the screen in as few moves as possible. Relaxing and easy to pick up, you&#8217;ll soon find yourself deep in contemplation to perfect each puzzle. Created by State of Play, famous for their handcrafted aesthetic, KAMI has been created with real paper in an elegant [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/kami/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-orange-box/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Sacra Terra: Angelic Night</title>
-		<link>http://cheap-and-cheerful.store/sacra-terra-angelic-night/</link>
-		<comments>http://cheap-and-cheerful.store/sacra-terra-angelic-night/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Casual]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/sacra-terra-angelic-night</guid>
-		<description><![CDATA[¡Los demonios de los siete pecados capitales han escapado de su ardiente prisión y se han instalado en Sacra Terra! Usa tu ingenio para derrotar a cada uno los demonios y salvar a la humanidad de la destrucción. Mientras exploras un decadente hospital, desvelas los secretos de una abadía medieval y buscas espeluznantes catacumbas, recibirás [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/sacra-terra-angelic-night/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Lux Delux</title>
-		<link>http://cheap-and-cheerful.store/lux-delux/</link>
-		<comments>http://cheap-and-cheerful.store/lux-delux/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Cross-Platform Multiplayer]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
-		<category><![CDATA[French]]></category>
-		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
-		<category><![CDATA[Includes level editor]]></category>
-		<category><![CDATA[Indie]]></category>
-		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Japanese]]></category>
-		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
-		<category><![CDATA[Russian]]></category>
-		<category><![CDATA[Single-player]]></category>
-		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Stats]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Steam Leaderboards]]></category>
-		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Turkish]]></category>
-
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/lux-delux</guid>
-		<description><![CDATA[Lux Delux es un frenético juego de estrategia por turnos sobre riesgo, dominación mundial y mucho más. Lux presenta muchas opciones de modificación y dispone de 900 mapas, distintos generadores de mapas aleatorios, un modo de peligro biológico, un SDK de IA y una liga multijugador en línea. ¡Conquista el mundo en 10 minutos! Multijugador [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/lux-delux/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>MouseCraft</title>
-		<link>http://cheap-and-cheerful.store/mousecraft/</link>
-		<comments>http://cheap-and-cheerful.store/mousecraft/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Thief</title>
+		<link>http://cheap-and-cheerful.store/thief/</link>
+		<comments>http://cheap-and-cheerful.store/thief/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
 				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Master Thief Edition Libro de arte digital Accede a la impresionante colección oficial de bocetos en formato digital, que ofrece una visión privilegiada del oscuro mundo de Thief. Podrás acceder a este contenido desde la pantalla de inicio del juego. Cómic digital Profundiza en los misterios que rodean al sombrío mundo de Thief con esta [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/thief/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Worms Revolution</title>
+		<link>http://cheap-and-cheerful.store/worms-revolution/</link>
+		<comments>http://cheap-and-cheerful.store/worms-revolution/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Leaderboards]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Worms™ Revolution, el último grito en juegos de estrategia por turnos que llega para tu PC, con nuevas y excitantes características y unos maravillosos gráficos 3D manteniendo la misma jugabilidad en 2D tan aclamada por los fans. Elige jugar al extenso modo para un solo jugador que incluye campañas y misiones rompecabezas, o lánzate al [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/worms-revolution/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SpeedRunners</title>
+		<link>http://cheap-and-cheerful.store/speedrunners/</link>
+		<comments>http://cheap-and-cheerful.store/speedrunners/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
 		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Co-op]]></category>
 		<category><![CDATA[Czech]]></category>
 		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[Early Access]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[Full controller support]]></category>
@@ -307,11 +182,48 @@
 		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
-		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
+		<category><![CDATA[Local Co-op]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Racing]]></category>
+		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[En una ciudad llena de superhéroe, llegar a los crímenes se convierte en una competición para cada uno. Afortunamente hay suficientes cohetes, bombas, ganchos, pinchos, y otras mejoras tiradas por los alrededores &#8212; para hacer la competición divertida y rápida. Bienvenido a SpeedRunners. Speedrunners es un competitivo plataformas de 4 jugadores con ganchos, poderes, y [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/speedrunners/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Incredible Adventures of Van Helsing II</title>
+		<link>http://cheap-and-cheerful.store/the-incredible-adventures-of-van-helsing-ii/</link>
+		<comments>http://cheap-and-cheerful.store/the-incredible-adventures-of-van-helsing-ii/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Full controller support]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Multi-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Portuguese]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Stats]]></category>
@@ -319,79 +231,155 @@
 		<category><![CDATA[Steam Cloud]]></category>
 		<category><![CDATA[Steam Leaderboards]]></category>
 		<category><![CDATA[Steam Trading Cards]]></category>
-		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/mousecraft</guid>
-		<description><![CDATA[¿Alguna vez te has preguntado cómo sería un cruce entre el Tetris y Lemmings? Pues bien, deja de preguntártelo, porque&#8230; ¡MouseCraft ya está aquí! MouseCraft es un rompecabezas de tipo A a B en el que los jugadores ayudan a Schrödinger, el gato científico loco, a completar su misteriosa invención impulsada por ratones. Apila bloques [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/mousecraft/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Parecía muy sencillo: vencer al científico loco, liberar el mundo y cabalgar hacia el horizonte, pero a veces cuando cae un villano se abre la puerta a adversarios más siniestros. Así que las increíbles aventuras continúan, y Van Helsing, el famoso cazador de monstruos, regresa para enderezar las cosas con la ayuda de su encantadora [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-incredible-adventures-of-van-helsing-ii/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>American Truck Simulator</title>
-		<link>http://cheap-and-cheerful.store/american-truck-simulator/</link>
-		<comments>http://cheap-and-cheerful.store/american-truck-simulator/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Car Mechanic Simulator 2014</title>
+		<link>http://cheap-and-cheerful.store/car-mechanic-simulator-2014/</link>
+		<comments>http://cheap-and-cheerful.store/car-mechanic-simulator-2014/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Bulgarian]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Danish]]></category>
+				<category><![CDATA[Czech]]></category>
 		<category><![CDATA[Dutch]]></category>
 		<category><![CDATA[English]]></category>
-		<category><![CDATA[Finnish]]></category>
 		<category><![CDATA[French]]></category>
 		<category><![CDATA[German]]></category>
-		<category><![CDATA[Greek]]></category>
 		<category><![CDATA[Hungarian]]></category>
-		<category><![CDATA[Includes level editor]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Simulation]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Now you can own and operate your own auto repair service with PlayWay’s Car Mechanic Simulator 2014. Car Mechanic Simulator 2014 gives you the behind the scenes view of the daily dealings at local garages and dealership repair shops. Interact with car owners seeking repairs Order parts and materials necessary to maintain inventory including used [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/car-mechanic-simulator-2014/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Inquisitor</title>
+		<link>http://cheap-and-cheerful.store/inquisitor/</link>
+		<comments>http://cheap-and-cheerful.store/inquisitor/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Estadísticas inquisitoriales: Tres clases jugables &#8211;Paladín, Sacerdote y Ladrón&#8211; cada una tiene una historia única e independiente. ¡Empuña el poder de la Inquisición arrestando herejes; utiliza un amplio abanico de herramientas como la doncella de hierro, la garrucha y el potro para exprimir confesiones y quemar a los herejes! Las animaciones de los personajes reflejan [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/inquisitor/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>3SwitcheD</title>
+		<link>http://cheap-and-cheerful.store/3switched/</link>
+		<comments>http://cheap-and-cheerful.store/3switched/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
 		<category><![CDATA[Indie]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Japanese]]></category>
 		<category><![CDATA[Korean]]></category>
-		<category><![CDATA[Norwegian]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
 		<category><![CDATA[Polish]]></category>
-		<category><![CDATA[Portuguese]]></category>
-		<category><![CDATA[Portuguese-Brazil]]></category>
-		<category><![CDATA[Romanian]]></category>
 		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Simplified Chinese]]></category>
-		<category><![CDATA[Simulation]]></category>
 		<category><![CDATA[Single-player]]></category>
 		<category><![CDATA[Spanish]]></category>
-		<category><![CDATA[Steam Achievements]]></category>
-		<category><![CDATA[Swedish]]></category>
-		<category><![CDATA[Turkish]]></category>
-		<category><![CDATA[VR Support]]></category>
+		<category><![CDATA[Traditional Chinese]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/american-truck-simulator</guid>
-		<description><![CDATA[Recién actualizado We&#8217;ve rescaled the whole map from 1:35 to 1:20. Enjoy! Acerca del juego Experience legendary American trucks and deliver various cargoes across sunny California, sandy Nevada, and the Grand Canyon State of Arizona. American Truck Simulator takes you on a journey through the breathtaking landscapes and widely recognized landmarks around the States. Game [&#8230;]]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/american-truck-simulator/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[3SwitcheD™, gracias a sus brillantes gráficos en 3D y a la nueva tecnología aplicada, este clásico de culto se ha transformado en una verdadera pieza maestra, realmente adictiva. ¡La búsqueda de las joyas de Tania ha comenzado! En medio de la ciudad del ocio del sistema solar Zeta Reticuli, TopWare Interstellar Entertainment inaugura el casino [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/3switched/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Arma 2: Army of the Czech Republic</title>
-		<link>http://cheap-and-cheerful.store/arma-2-army-of-the-czech-republic/</link>
-		<comments>http://cheap-and-cheerful.store/arma-2-army-of-the-czech-republic/#respond</comments>
-		<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+		<title>Stalingrad</title>
+		<link>http://cheap-and-cheerful.store/stalingrad/</link>
+		<comments>http://cheap-and-cheerful.store/stalingrad/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[vadmin]]></dc:creator>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Captions available]]></category>
-		<category><![CDATA[Co-op]]></category>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Stalingrad is a real-time strategy title that places gamers in the middle of the most dramatic periods of World War II, covering major events from June 1942 till January 1943. Built-up upon the enhanced Enigma Engine, the game offers faithful historical recreation of the Stalingrad area, vast tactical options and more than 150 units at [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/stalingrad/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Testament of Sherlock Holmes</title>
+		<link>http://cheap-and-cheerful.store/the-testament-of-sherlock-holmes/</link>
+		<comments>http://cheap-and-cheerful.store/the-testament-of-sherlock-holmes/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Adventure]]></category>
 		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[Downloadable Content]]></category>
 		<category><![CDATA[English]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[Hungarian]]></category>
+		<category><![CDATA[Italian]]></category>
+		<category><![CDATA[Japanese]]></category>
+		<category><![CDATA[Korean]]></category>
+		<category><![CDATA[Partial Controller Support]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
+		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Trading Cards]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[¡ERES SHERLOCK HOLMES Y ESTA ES TU INVESTIGACIÓN! Conviértete en el detective más importante en El testamento de Sherlock Holmes, un gran juego de investigación que tiene lugar en la ciudad de Londres de 1898, la cual está fielmente representada. Sherlock Holmes vivirá un verdadero descenso a los infiernos al resultar sospechoso de un caso [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/the-testament-of-sherlock-holmes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CoH 2 &#8211; The Western Front Armies: Oberkommando West</title>
+		<link>http://cheap-and-cheerful.store/coh-2-the-western-front-armies-oberkommando-west/</link>
+		<comments>http://cheap-and-cheerful.store/coh-2-the-western-front-armies-oberkommando-west/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[vadmin]]></dc:creator>
+				<category><![CDATA[Czech]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
 		<category><![CDATA[Includes level editor]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Multi-player]]></category>
-		<category><![CDATA[Partial Controller Support]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Single-player]]></category>
+		<category><![CDATA[Polish]]></category>
+		<category><![CDATA[Russian]]></category>
 		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Stats]]></category>
+		<category><![CDATA[Steam Achievements]]></category>
+		<category><![CDATA[Steam Cloud]]></category>
+		<category><![CDATA[Steam Workshop]]></category>
+		<category><![CDATA[Strategy]]></category>
 
-		<guid isPermaLink="false">http://cheap-and-cheerful.store/arma-2-army-of-the-czech-republic</guid>
-		<description><![CDATA[]]></description>
-		<wfw:commentRss>http://cheap-and-cheerful.store/arma-2-army-of-the-czech-republic/feed/</wfw:commentRss>
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Comprando el ejército del OKW por separado, aquellos jugadores que todavía no posean ningún producto de CoH2 podrán acceder a todos los mapas de Company of Heroes 2 existentes en emparejamiento automático y jugar contra todas las demás facciones en multijugador o en refriegas contra la IA. El curtido y recién equipado Oberkommando West es [&#8230;]]]></description>
+		<wfw:commentRss>http://cheap-and-cheerful.store/coh-2-the-western-front-armies-oberkommando-west/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
